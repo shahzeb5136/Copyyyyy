@@ -1,0 +1,17 @@
+[project]
+name = "ask-your-data"
+version = "1.0.0"
+description = "Open-source demo: ask questions about structured data in plain English - LLM agents write SQL, explain results and design charts."
+requires-python = ">=3.10"
+
+[tool.ruff]
+line-length = 120
+target-version = "py310"
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "B", "UP"]
+ignore = ["E501", "B008", "B905"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+filterwarnings = ["ignore::DeprecationWarning"]

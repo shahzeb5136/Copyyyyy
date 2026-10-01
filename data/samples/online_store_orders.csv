@@ -1,0 +1,2401 @@
+Order ID,Order Date,Customer Country,Sales Channel,Product Category,Qty,Unit Price (AED),Discount %,Net Sales (AED),Returned?
+SO-100001,08/11/2025,Saudi Arabia,Mobile App,Electronics,1,775.95,20,620.76,No
+SO-100002,08/04/2025,Saudi Arabia,Mobile App,Fashion,2,54.46,15,92.58,No
+SO-100003,08/12/2025,Qatar,Mobile App,Fashion,2,75.88,5,144.17,No
+SO-100004,04/01/2025,UAE,Marketplace,Electronics,4,524.09,0,"2,096.36",Yes
+SO-100005,25/02/2025,UAE,Mobile App,Books,1,18.81,15,15.99,No
+SO-100006,09/04/2025,UAE,Mobile App,Home & Kitchen,2,208.81,15,354.98,No
+SO-100007,18/09/2025,Bahrain,Mobile App,Sports & Outdoors,3,113.52,5,323.53,No
+SO-100008,28/01/2025,Qatar,Marketplace,Electronics,4,382.23,20,"1,223.14",No
+SO-100009,05/10/2025,Oman,Website,Home & Kitchen,2,110.62,0,221.24,No
+SO-100010,03/01/2025,UAE,Marketplace,Electronics,1,291.97,0,291.97,No
+SO-100011,20/08/2025,UAE,Website,Electronics,1,786.78,0,786.78,No
+SO-100012,16/09/2025,Qatar,Mobile App,Electronics,2,658.49,0,"1,316.98",No
+SO-100013,16/09/2025,UAE,Mobile App,Sports & Outdoors,3,55.87,20,134.09,No
+SO-100014,03/03/2025,Kuwait,Mobile App,Electronics,1,637.66,0,637.66,No
+SO-100015,06/11/2025,UAE,Website,Home & Kitchen,2,199.15,30,278.81,No
+SO-100016,25/09/2025,Kuwait,Mobile App,Fashion,4,118.55,0,474.20,No
+SO-100017,18/04/2025,Saudi Arabia,Mobile App,Home & Kitchen,2,180.55,0,361.10,No
+SO-100018,29/07/2025,Qatar,Website,Books,1,19.07,0,19.07,No
+SO-100019,24/03/2025,UAE,Website,Home & Kitchen,1,27.39,10,24.65,No
+SO-100020,16/01/2025,UAE,Website,Home & Kitchen,3,118.66,0,355.98,No
+SO-100021,28/02/2025,UAE,Website,Electronics,1,354.00,5,336.30,No
+SO-100022,03/12/2025,Qatar,Marketplace,Fashion,4,22.80,20,72.96,No
+SO-100023,12/11/2025,Saudi Arabia,Website,Sports & Outdoors,2,141.67,30,198.34,Yes
+SO-100024,28/04/2025,Kuwait,Website,Fashion,2,148.96,0,297.92,No
+SO-100025,10/03/2025,UAE,Website,Home & Kitchen,2,94.22,5,179.02,No
+SO-100026,19/11/2025,Oman,Mobile App,Sports & Outdoors,1,232.83,15,197.91,No
+SO-100027,01/07/2025,UAE,Mobile App,Fashion,3,178.91,0,536.73,No
+SO-100028,07/03/2025,Oman,Website,Fashion,1,79.63,0,79.63,No
+SO-100029,04/01/2025,Oman,Mobile App,Beauty,2,76.24,0,152.48,No
+SO-100030,26/03/2025,Saudi Arabia,Website,Electronics,1,346.93,10,312.24,No
+SO-100031,25/01/2025,Oman,Mobile App,Home & Kitchen,2,136.18,20,217.89,No
+SO-100032,17/04/2025,Saudi Arabia,Marketplace,Books,1,31.93,0,31.93,Yes
+SO-100033,30/01/2025,Oman,Mobile App,Electronics,2,742.16,20,"1,187.46",Yes
+SO-100034,22/08/2025,UAE,Mobile App,Fashion,2,164.11,0,328.22,No
+SO-100035,19/02/2025,Saudi Arabia,Mobile App,Home & Kitchen,1,93.03,0,93.03,No
+SO-100036,01/09/2025,UAE,Mobile App,Home & Kitchen,2,178.80,0,357.60,No
+SO-100037,24/11/2025,Saudi Arabia,Website,Home & Kitchen,4,37.73,20,120.74,No
+SO-100038,17/09/2025,Saudi Arabia,Mobile App,Fashion,3,89.26,0,267.78,No
+SO-100039,15/01/2025,UAE,Marketplace,Fashion,1,40.97,0,40.97,No
+SO-100040,24/05/2025,Qatar,Website,Beauty,3,15.84,0,47.52,No
+SO-100041,14/09/2025,Oman,Marketplace,Sports & Outdoors,1,289.00,0,289.00,No
+SO-100042,22/06/2025,UAE,Mobile App,Electronics,1,634.47,0,634.47,Yes
+SO-100043,28/04/2025,Oman,Website,Fashion,4,171.35,5,651.13,No
+SO-100044,26/04/2025,Oman,Website,Home & Kitchen,1,95.57,0,95.57,No
+SO-100045,05/11/2025,UAE,Mobile App,Sports & Outdoors,1,164.39,20,131.51,Yes
+SO-100046,05/04/2025,Saudi Arabia,Website,Sports & Outdoors,4,108.72,5,413.14,No
+SO-100047,24/10/2025,UAE,Mobile App,Beauty,2,46.99,25,70.48,No
+SO-100048,07/06/2025,UAE,Website,Home & Kitchen,4,48.05,0,192.20,No
+SO-100049,20/08/2025,UAE,Mobile App,Electronics,4,87.70,20,280.64,Yes
+SO-100050,19/04/2025,Oman,Mobile App,Books,1,39.37,5,37.40,No
+SO-100051,30/04/2025,Oman,Website,Books,1,13.03,20,10.42,No
+SO-100052,09/05/2025,Saudi Arabia,Mobile App,Electronics,4,168.10,0,672.40,No
+SO-100053,02/04/2025,Qatar,Marketplace,Beauty,1,55.33,5,52.56,No
+SO-100054,04/10/2025,UAE,Mobile App,Fashion,4,164.99,15,560.97,No
+SO-100055,07/02/2025,UAE,Mobile App,Fashion,1,153.67,0,153.67,No
+SO-100056,11/07/2025,Oman,Mobile App,Home & Kitchen,4,180.54,5,686.05,No
+SO-100057,03/05/2025,Saudi Arabia,Website,Electronics,2,663.00,0,"1,326.00",No
+SO-100058,26/01/2025,UAE,Website,Sports & Outdoors,4,144.60,5,549.48,No
+SO-100059,25/06/2025,UAE,Mobile App,Beauty,4,86.19,0,344.76,No
+SO-100060,06/02/2025,Saudi Arabia,Marketplace,Sports & Outdoors,1,255.38,5,242.61,No
+SO-100061,13/07/2025,Kuwait,Mobile App,Sports & Outdoors,3,60.31,0,180.93,No
+SO-100062,05/12/2025,UAE,Website,Electronics,1,627.55,0,627.55,Yes
+SO-100063,14/09/2025,UAE,Website,Fashion,3,27.90,0,83.70,No
+SO-100064,18/07/2025,UAE,Mobile App,Fashion,1,70.93,10,63.84,No
+SO-100065,06/12/2025,Kuwait,Website,Fashion,3,41.41,0,124.23,No
+SO-100066,08/09/2025,UAE,Mobile App,Beauty,1,17.40,25,13.05,No
+SO-100067,23/11/2025,UAE,Marketplace,Fashion,4,131.21,15,446.11,No
+SO-100068,22/05/2025,Saudi Arabia,Website,Electronics,3,227.70,0,683.10,No
+SO-100069,04/03/2025,UAE,Website,Books,1,36.97,20,29.58,No
+SO-100070,23/09/2025,Oman,Website,Home & Kitchen,1,242.29,20,193.83,No
+SO-100071,31/01/2025,Qatar,Website,Electronics,1,840.88,10,756.79,No
+SO-100072,31/01/2025,Qatar,Website,Fashion,2,139.13,0,278.26,No
+SO-100073,10/10/2025,UAE,Website,Home & Kitchen,1,259.06,5,246.11,No
+SO-100074,22/03/2025,Saudi Arabia,Mobile App,Beauty,1,63.94,10,57.55,No
+SO-100075,19/03/2025,Saudi Arabia,Mobile App,Home & Kitchen,3,241.27,0,723.81,No
+SO-100076,01/03/2025,UAE,Mobile App,Sports & Outdoors,1,121.45,10,109.31,No
+SO-100077,25/02/2025,Saudi Arabia,Mobile App,Fashion,4,175.11,20,560.35,No
+SO-100078,08/11/2025,Saudi Arabia,Website,Electronics,2,111.88,15,190.20,No
+SO-100079,22/07/2025,Saudi Arabia,Website,Electronics,4,646.85,0,"2,587.40",Yes
+SO-100080,02/06/2025,UAE,Mobile App,Beauty,1,46.99,0,46.99,No
+SO-100081,10/11/2025,UAE,Marketplace,Fashion,2,114.47,30,160.26,No
+SO-100082,13/09/2025,Bahrain,Marketplace,Sports & Outdoors,2,204.49,0,408.98,No
+SO-100083,05/01/2025,Saudi Arabia,Website,Fashion,2,142.13,25,213.19,No
+SO-100084,24/11/2025,UAE,Mobile App,Sports & Outdoors,1,195.40,20,156.32,No
+SO-100085,29/09/2025,Saudi Arabia,Mobile App,Electronics,1,231.51,0,231.51,No
+SO-100086,10/11/2025,UAE,Mobile App,Beauty,4,49.70,30,139.16,No
+SO-100087,14/03/2025,Bahrain,Mobile App,Sports & Outdoors,1,233.94,20,187.15,No
+SO-100088,07/06/2025,UAE,Mobile App,Fashion,1,142.17,20,113.74,No
+SO-100089,24/07/2025,UAE,Website,Home & Kitchen,2,220.59,10,397.06,No
+SO-100090,26/11/2025,UAE,Mobile App,Electronics,1,565.00,30,395.50,No
+SO-100091,03/02/2025,Kuwait,Mobile App,Home & Kitchen,1,90.78,5,86.24,No
+SO-100092,12/06/2025,Qatar,Marketplace,Home & Kitchen,1,185.42,10,166.88,No
+SO-100093,22/12/2025,UAE,Website,Books,2,42.41,20,67.86,No
+SO-100094,30/12/2025,Saudi Arabia,Website,Sports & Outdoors,4,40.00,0,160.00,No
+SO-100095,28/04/2025,Saudi Arabia,Website,Beauty,1,36.56,0,36.56,No
+SO-100096,07/08/2025,Qatar,Website,Beauty,3,52.96,0,158.88,No
+SO-100097,17/07/2025,UAE,Website,Fashion,2,20.12,20,32.19,No
+SO-100098,10/04/2025,Saudi Arabia,Mobile App,Sports & Outdoors,2,37.49,0,74.98,No
+SO-100099,20/03/2025,Saudi Arabia,Website,Electronics,1,351.34,0,351.34,No
+SO-100100,21/08/2025,UAE,Website,Sports & Outdoors,1,107.68,15,91.53,No
+SO-100101,06/04/2025,UAE,Website,Electronics,4,149.44,0,597.76,No
+SO-100102,02/11/2025,Saudi Arabia,Website,Sports & Outdoors,2,142.18,30,199.05,No
+SO-100103,30/09/2025,Qatar,Mobile App,Beauty,2,76.58,0,153.16,No
+SO-100104,22/04/2025,Qatar,Marketplace,Beauty,1,64.51,0,64.51,No
+SO-100105,17/11/2025,Saudi Arabia,Marketplace,Electronics,1,352.48,20,281.98,No
+SO-100106,18/02/2025,Saudi Arabia,Mobile App,Sports & Outdoors,4,257.37,0,"1,029.48",No
+SO-100107,24/11/2025,Kuwait,Mobile App,Electronics,1,640.38,20,512.30,No
+SO-100108,29/07/2025,UAE,Marketplace,Beauty,2,67.10,25,100.65,No
+SO-100109,08/04/2025,UAE,Mobile App,Sports & Outdoors,3,61.83,20,148.39,No
+SO-100110,18/01/2025,Bahrain,Mobile App,Fashion,1,160.08,0,160.08,No
+SO-100111,06/09/2025,UAE,Mobile App,Fashion,4,169.68,10,610.85,No
+SO-100112,19/03/2025,UAE,Mobile App,Electronics,2,563.20,0,"1,126.40",No
+SO-100113,28/09/2025,Kuwait,Website,Home & Kitchen,3,168.12,5,479.14,No
+SO-100114,04/10/2025,Bahrain,Mobile App,Books,1,35.61,0,35.61,No
+SO-100115,29/03/2025,Bahrain,Website,Books,3,41.82,15,106.64,No
+SO-100116,21/10/2025,Saudi Arabia,Website,Home & Kitchen,1,161.45,0,161.45,No
+SO-100117,22/04/2025,Qatar,Mobile App,Sports & Outdoors,4,49.51,15,168.33,No
+SO-100118,18/12/2025,UAE,Mobile App,Electronics,4,624.01,10,"2,246.44",No
+SO-100119,28/03/2025,Saudi Arabia,Website,Beauty,2,65.84,20,105.34,Yes
+SO-100120,03/02/2025,UAE,Mobile App,Sports & Outdoors,2,50.88,5,96.67,No
+SO-100121,06/06/2025,Saudi Arabia,Marketplace,Electronics,2,43.78,0,87.56,No
+SO-100122,11/07/2025,UAE,Marketplace,Fashion,2,122.12,10,219.82,No
+SO-100123,30/04/2025,UAE,Website,Home & Kitchen,3,155.98,0,467.94,No
+SO-100124,02/10/2025,UAE,Mobile App,Electronics,1,47.17,20,37.74,No
+SO-100125,09/01/2025,UAE,Website,Fashion,4,90.83,20,290.66,No
+SO-100126,16/06/2025,UAE,Marketplace,Fashion,2,60.44,0,120.88,No
+SO-100127,19/02/2025,UAE,Mobile App,Electronics,3,176.39,0,529.17,No
+SO-100128,18/04/2025,Oman,Marketplace,Sports & Outdoors,4,293.04,5,"1,113.55",No
+SO-100129,11/11/2025,UAE,Mobile App,Electronics,1,182.03,15,154.73,No
+SO-100130,06/09/2025,Saudi Arabia,Website,Fashion,1,86.88,0,86.88,No
+SO-100131,26/08/2025,UAE,Marketplace,Home & Kitchen,1,121.38,5,115.31,Yes
+SO-100132,31/07/2025,Bahrain,Mobile App,Books,1,6.03,0,6.03,No
+SO-100133,18/02/2025,Kuwait,Marketplace,Home & Kitchen,3,206.48,10,557.50,No
+SO-100134,26/02/2025,UAE,Marketplace,Sports & Outdoors,1,214.72,10,193.25,No
+SO-100135,14/04/2025,Kuwait,Website,Beauty,2,12.44,10,22.39,Yes
+SO-100136,24/10/2025,UAE,Website,Sports & Outdoors,1,78.36,25,58.77,No
+SO-100137,14/10/2025,Saudi Arabia,Website,Fashion,3,154.99,15,395.22,Yes
+SO-100138,18/12/2025,Oman,Mobile App,Beauty,2,28.10,25,42.15,No
+SO-100139,30/06/2025,Saudi Arabia,Website,Sports & Outdoors,4,224.35,5,852.53,No
+SO-100140,09/06/2025,Kuwait,Website,Fashion,2,143.76,0,287.52,No
+SO-100141,03/03/2025,UAE,Website,Beauty,1,62.11,15,52.79,No
+SO-100142,16/06/2025,UAE,Mobile App,Electronics,1,438.88,5,416.94,No
+SO-100143,09/01/2025,Oman,Mobile App,Beauty,1,42.86,15,36.43,No
+SO-100144,28/08/2025,UAE,Mobile App,Fashion,3,155.17,20,372.41,No
+SO-100145,21/08/2025,UAE,Mobile App,Electronics,3,414.70,0,"1,244.10",No
+SO-100146,09/07/2025,Kuwait,Mobile App,Home & Kitchen,1,95.54,20,76.43,No
+SO-100147,22/07/2025,Saudi Arabia,Website,Fashion,4,30.96,20,99.07,No
+SO-100148,20/10/2025,UAE,Marketplace,Home & Kitchen,2,237.09,10,426.76,No
+SO-100149,28/07/2025,UAE,Website,Fashion,2,51.11,0,102.22,No
+SO-100150,20/03/2025,UAE,Website,Fashion,2,36.58,10,65.84,No
+SO-100151,24/02/2025,UAE,Mobile App,Beauty,4,12.46,10,44.86,No
+SO-100152,23/09/2025,UAE,Website,Home & Kitchen,4,242.35,15,823.99,No
+SO-100153,07/02/2025,UAE,Marketplace,Electronics,2,128.69,15,218.77,No
+SO-100154,19/12/2025,Saudi Arabia,Website,Home & Kitchen,1,107.16,20,85.73,No
+SO-100155,20/04/2025,Saudi Arabia,Mobile App,Sports & Outdoors,4,169.31,0,677.24,No
+SO-100156,31/03/2025,Oman,Mobile App,Books,2,39.53,0,79.06,No
+SO-100157,19/07/2025,UAE,Website,Books,1,23.56,0,23.56,No
+SO-100158,21/10/2025,UAE,Marketplace,Fashion,1,24.88,20,19.90,No
+SO-100159,12/02/2025,Saudi Arabia,Mobile App,Fashion,1,176.95,0,176.95,No
+SO-100160,06/12/2025,UAE,Website,Electronics,1,601.58,0,601.58,No
+SO-100161,14/10/2025,Bahrain,Website,Home & Kitchen,1,13.82,15,11.75,No
+SO-100162,26/02/2025,Kuwait,Mobile App,Books,2,7.06,5,13.41,No
+SO-100163,09/08/2025,Kuwait,Mobile App,Fashion,2,126.42,5,240.20,No
+SO-100164,08/04/2025,UAE,Website,Books,1,39.36,20,31.49,No
+SO-100165,11/11/2025,UAE,Marketplace,Sports & Outdoors,1,240.52,20,192.42,No
+SO-100166,17/07/2025,UAE,Mobile App,Fashion,2,28.68,20,45.89,No
+SO-100167,28/09/2025,Oman,Mobile App,Electronics,2,240.60,0,481.20,Yes
+SO-100168,14/04/2025,UAE,Mobile App,Beauty,1,8.56,0,8.56,No
+SO-100169,21/06/2025,Bahrain,Mobile App,Electronics,2,862.75,20,"1,380.40",No
+SO-100170,04/04/2025,Saudi Arabia,Website,Beauty,2,17.14,0,34.28,No
+SO-100171,28/09/2025,UAE,Website,Electronics,4,388.45,0,"1,553.80",No
+SO-100172,04/08/2025,UAE,Marketplace,Home & Kitchen,1,90.65,10,81.59,No
+SO-100173,13/06/2025,Saudi Arabia,Website,Home & Kitchen,4,149.61,20,478.75,No
+SO-100174,17/03/2025,Saudi Arabia,Website,Home & Kitchen,2,256.00,0,512.00,No
+SO-100175,30/12/2025,UAE,Website,Books,2,42.10,0,84.20,No
+SO-100176,04/01/2025,Oman,Website,Home & Kitchen,2,92.55,0,185.10,No
+SO-100177,11/04/2025,Kuwait,Website,Sports & Outdoors,2,209.91,15,356.85,Yes
+SO-100178,18/01/2025,Kuwait,Mobile App,Sports & Outdoors,1,300.22,0,300.22,No
+SO-100179,01/05/2025,Kuwait,Mobile App,Fashion,1,42.40,20,33.92,No
+SO-100180,16/03/2025,UAE,Website,Sports & Outdoors,1,97.68,5,92.80,Yes
+SO-100181,12/06/2025,Saudi Arabia,Website,Sports & Outdoors,2,282.33,0,564.66,No
+SO-100182,02/12/2025,Saudi Arabia,Mobile App,Fashion,1,164.91,0,164.91,No
+SO-100183,04/07/2025,Oman,Mobile App,Home & Kitchen,1,40.06,5,38.06,No
+SO-100184,22/06/2025,Qatar,Website,Home & Kitchen,1,244.28,10,219.85,No
+SO-100185,21/04/2025,Qatar,Website,Home & Kitchen,4,235.55,0,942.20,No
+SO-100186,12/06/2025,Oman,Mobile App,Fashion,2,62.24,5,118.26,No
+SO-100187,01/03/2025,Saudi Arabia,Website,Home & Kitchen,1,28.64,5,27.21,No
+SO-100188,15/04/2025,Qatar,Website,Books,2,33.42,0,66.84,No
+SO-100189,03/07/2025,UAE,Mobile App,Electronics,2,102.39,10,184.30,No
+SO-100190,20/07/2025,Kuwait,Website,Home & Kitchen,1,164.02,25,123.02,No
+SO-100191,18/09/2025,UAE,Website,Home & Kitchen,1,13.73,10,12.36,No
+SO-100192,26/08/2025,Saudi Arabia,Mobile App,Books,3,43.51,0,130.53,No
+SO-100193,21/04/2025,Saudi Arabia,Website,Home & Kitchen,4,70.84,10,255.02,Yes
+SO-100194,18/04/2025,Bahrain,Mobile App,Fashion,3,51.13,10,138.05,No
+SO-100195,25/04/2025,UAE,Website,Fashion,4,172.48,0,689.92,No
+SO-100196,01/09/2025,Saudi Arabia,Website,Electronics,1,236.29,0,236.29,No
+SO-100197,21/08/2025,UAE,Marketplace,Sports & Outdoors,4,27.58,15,93.77,No
+SO-100198,06/03/2025,Saudi Arabia,Mobile App,Electronics,2,258.34,0,516.68,No
+SO-100199,13/09/2025,Oman,Website,Fashion,3,156.61,5,446.34,No
+SO-100200,28/05/2025,Saudi Arabia,Mobile App,Electronics,3,188.09,0,564.27,Yes
+SO-100201,27/01/2025,UAE,Website,Electronics,2,300.19,0,600.38,No
+SO-100202,05/06/2025,UAE,Website,Home & Kitchen,2,77.33,5,146.93,No
+SO-100203,30/01/2025,Saudi Arabia,Marketplace,Sports & Outdoors,1,162.70,0,162.70,No
+SO-100204,05/02/2025,Saudi Arabia,Website,Electronics,3,643.10,0,"1,929.30",No
+SO-100205,09/03/2025,UAE,Mobile App,Fashion,4,117.06,15,398.00,No
+SO-100206,22/07/2025,Bahrain,Mobile App,Electronics,2,452.30,15,768.91,No
+SO-100207,22/05/2025,UAE,Mobile App,Sports & Outdoors,2,76.63,0,153.26,No
+SO-100208,08/02/2025,UAE,Mobile App,Electronics,4,91.96,5,349.45,No
+SO-100209,30/10/2025,Saudi Arabia,Marketplace,Electronics,3,362.38,20,869.71,No
+SO-100210,13/10/2025,Saudi Arabia,Mobile App,Beauty,1,70.26,20,56.21,No
+SO-100211,07/12/2025,Saudi Arabia,Marketplace,Home & Kitchen,1,259.14,25,194.35,No
+SO-100212,08/09/2025,Saudi Arabia,Marketplace,Fashion,3,133.32,10,359.96,No
+SO-100213,20/09/2025,Qatar,Mobile App,Beauty,1,23.04,0,23.04,No
+SO-100214,27/11/2025,Bahrain,Marketplace,Electronics,1,476.43,30,333.50,No
+SO-100215,15/11/2025,UAE,Mobile App,Electronics,4,832.21,20,"2,663.07",No
+SO-100216,23/05/2025,Saudi Arabia,Website,Electronics,1,670.48,20,536.38,No
+SO-100217,14/12/2025,Saudi Arabia,Website,Electronics,1,301.03,0,301.03,No
+SO-100218,16/11/2025,Saudi Arabia,Mobile App,Sports & Outdoors,1,105.30,15,89.50,No
+SO-100219,11/05/2025,Saudi Arabia,Website,Sports & Outdoors,2,269.66,0,539.32,No
+SO-100220,03/09/2025,UAE,Mobile App,Home & Kitchen,2,109.96,25,164.94,No
+SO-100221,30/06/2025,UAE,Website,Electronics,2,865.76,5,"1,644.94",No
+SO-100222,03/05/2025,UAE,Marketplace,Beauty,1,26.04,20,20.83,No
+SO-100223,01/12/2025,Saudi Arabia,Website,Electronics,4,790.42,20,"2,529.34",No
+SO-100224,31/10/2025,Bahrain,Marketplace,Fashion,4,106.94,15,363.60,No
+SO-100225,28/01/2025,Saudi Arabia,Website,Electronics,1,659.50,25,494.62,No
+SO-100226,25/12/2025,UAE,Website,Home & Kitchen,1,259.16,15,220.29,No
+SO-100227,25/08/2025,Oman,Mobile App,Sports & Outdoors,2,35.36,0,70.72,No
+SO-100228,03/05/2025,Bahrain,Website,Fashion,2,178.82,15,303.99,No
+SO-100229,26/01/2025,Bahrain,Marketplace,Beauty,1,64.93,0,64.93,No
+SO-100230,06/03/2025,Qatar,Website,Sports & Outdoors,2,219.77,0,439.54,No
+SO-100231,22/10/2025,UAE,Mobile App,Books,3,35.54,5,101.29,No
+SO-100232,02/03/2025,Saudi Arabia,Mobile App,Sports & Outdoors,4,119.52,0,478.08,No
+SO-100233,27/07/2025,Saudi Arabia,Website,Home & Kitchen,2,205.03,20,328.05,No
+SO-100234,26/08/2025,Kuwait,Mobile App,Electronics,1,613.38,0,613.38,No
+SO-100235,29/10/2025,Bahrain,Website,Sports & Outdoors,3,60.66,25,136.48,No
+SO-100236,28/09/2025,Saudi Arabia,Mobile App,Fashion,2,83.51,15,141.97,Yes
+SO-100237,08/06/2025,UAE,Website,Beauty,2,37.75,15,64.17,No
+SO-100238,03/07/2025,Oman,Marketplace,Home & Kitchen,1,189.23,10,170.31,No
+SO-100239,06/05/2025,UAE,Mobile App,Beauty,1,34.99,0,34.99,No
+SO-100240,07/05/2025,UAE,Mobile App,Electronics,1,472.92,20,378.34,No
+SO-100241,01/05/2025,Oman,Website,Home & Kitchen,1,48.10,0,48.10,No
+SO-100242,02/05/2025,Kuwait,Website,Electronics,3,351.35,10,948.65,No
+SO-100243,11/12/2025,UAE,Mobile App,Home & Kitchen,2,171.84,0,343.68,Yes
+SO-100244,27/10/2025,Bahrain,Mobile App,Beauty,1,88.00,15,74.80,No
+SO-100245,19/09/2025,Saudi Arabia,Mobile App,Electronics,1,428.64,15,364.34,No
+SO-100246,16/08/2025,UAE,Website,Electronics,2,234.50,25,351.75,No
+SO-100247,14/12/2025,UAE,Mobile App,Electronics,4,596.27,15,"2,027.32",No
+SO-100248,16/01/2025,Saudi Arabia,Marketplace,Sports & Outdoors,1,87.75,25,65.81,No
+SO-100249,24/05/2025,Saudi Arabia,Website,Home & Kitchen,1,199.26,5,189.30,No
+SO-100250,30/09/2025,UAE,Website,Electronics,3,768.43,0,"2,305.29",No
+SO-100251,06/11/2025,Saudi Arabia,Mobile App,Home & Kitchen,4,243.40,30,681.52,No
+SO-100252,19/08/2025,UAE,Website,Electronics,2,820.69,25,"1,231.04",No
+SO-100253,15/05/2025,UAE,Website,Home & Kitchen,2,104.71,0,209.42,No
+SO-100254,25/06/2025,Bahrain,Website,Books,1,32.70,25,24.53,No
+SO-100255,03/10/2025,Qatar,Mobile App,Electronics,1,126.65,0,126.65,No
+SO-100256,02/10/2025,Saudi Arabia,Mobile App,Electronics,3,45.21,15,115.29,No
+SO-100257,20/01/2025,UAE,Mobile App,Electronics,1,528.49,20,422.79,No
+SO-100258,14/10/2025,UAE,Marketplace,Electronics,2,834.27,0,"1,668.54",No
+SO-100259,24/06/2025,Qatar,Website,Sports & Outdoors,3,268.47,0,805.41,No
+SO-100260,13/05/2025,Saudi Arabia,Mobile App,Electronics,1,396.37,0,396.37,Yes
+SO-100261,04/10/2025,Qatar,Marketplace,Electronics,2,524.70,5,996.93,No
+SO-100262,31/01/2025,Kuwait,Website,Fashion,1,165.62,25,124.22,No
+SO-100263,03/09/2025,Oman,Website,Electronics,2,684.81,25,"1,027.21",No
+SO-100264,04/12/2025,UAE,Mobile App,Fashion,1,127.62,0,127.62,No
+SO-100265,26/06/2025,UAE,Website,Fashion,1,102.19,15,86.86,No
+SO-100266,30/12/2025,Kuwait,Mobile App,Home & Kitchen,3,46.91,0,140.73,No
+SO-100267,29/11/2025,Oman,Mobile App,Books,2,28.20,20,45.12,Yes
+SO-100268,22/08/2025,Bahrain,Mobile App,Books,1,35.39,5,33.62,No
+SO-100269,29/08/2025,Kuwait,Marketplace,Electronics,4,706.00,20,"2,259.20",No
+SO-100270,22/05/2025,UAE,Website,Beauty,1,73.13,0,73.13,No
+SO-100271,02/09/2025,Saudi Arabia,Marketplace,Fashion,2,55.60,20,88.96,No
+SO-100272,13/08/2025,UAE,Mobile App,Fashion,3,148.40,0,445.20,No
+SO-100273,20/09/2025,Saudi Arabia,Mobile App,Electronics,1,502.05,25,376.54,No
+SO-100274,23/01/2025,UAE,Mobile App,Home & Kitchen,2,53.83,0,107.66,No
+SO-100275,14/06/2025,UAE,Mobile App,Books,1,36.71,0,36.71,No
+SO-100276,11/02/2025,UAE,Website,Books,1,8.97,20,7.18,No
+SO-100277,18/07/2025,UAE,Website,Electronics,2,213.67,0,427.34,No
+SO-100278,12/10/2025,Saudi Arabia,Mobile App,Electronics,1,759.50,0,759.50,No
+SO-100279,06/05/2025,Kuwait,Website,Home & Kitchen,2,218.72,20,349.95,No
+SO-100280,19/10/2025,UAE,Website,Fashion,2,77.48,0,154.96,No
+SO-100281,18/11/2025,Qatar,Mobile App,Books,4,11.60,30,32.48,No
+SO-100282,13/06/2025,Oman,Website,Fashion,2,49.57,25,74.36,Yes
+SO-100283,31/03/2025,Oman,Website,Home & Kitchen,2,131.18,5,249.24,No
+SO-100284,17/08/2025,Kuwait,Mobile App,Fashion,2,41.43,20,66.29,No
+SO-100285,09/04/2025,Saudi Arabia,Mobile App,Books,1,37.95,0,37.95,No
+SO-100286,26/11/2025,UAE,Mobile App,Electronics,1,395.21,15,335.93,No
+SO-100287,05/12/2025,Kuwait,Marketplace,Fashion,1,25.23,10,22.71,No
+SO-100288,20/05/2025,Bahrain,Website,Beauty,3,81.12,10,219.02,No
+SO-100289,17/05/2025,UAE,Website,Fashion,3,72.16,25,162.36,No
+SO-100290,21/01/2025,UAE,Website,Books,3,16.97,20,40.73,No
+SO-100291,26/11/2025,UAE,Marketplace,Home & Kitchen,1,216.98,15,184.43,No
+SO-100292,04/09/2025,Saudi Arabia,Website,Electronics,2,229.35,0,458.70,No
+SO-100293,17/06/2025,Saudi Arabia,Mobile App,Beauty,3,53.23,5,151.71,No
+SO-100294,01/06/2025,UAE,Website,Fashion,3,169.33,0,507.99,No
+SO-100295,15/12/2025,Saudi Arabia,Marketplace,Fashion,1,150.69,0,150.69,No
+SO-100296,02/09/2025,UAE,Mobile App,Books,1,10.77,0,10.77,Yes
+SO-100297,15/07/2025,Saudi Arabia,Mobile App,Electronics,1,298.50,25,223.88,No
+SO-100298,18/04/2025,Bahrain,Website,Electronics,1,132.04,15,112.23,No
+SO-100299,17/06/2025,Oman,Mobile App,Beauty,1,82.36,0,82.36,No
+SO-100300,16/04/2025,Kuwait,Marketplace,Electronics,3,738.82,0,"2,216.46",No
+SO-100301,26/08/2025,Saudi Arabia,Marketplace,Electronics,3,296.06,25,666.13,No
+SO-100302,01/02/2025,UAE,Marketplace,Beauty,2,70.49,0,140.98,No
+SO-100303,18/05/2025,UAE,Website,Fashion,3,105.13,0,315.39,No
+SO-100304,27/02/2025,UAE,Website,Home & Kitchen,3,214.05,15,545.83,No
+SO-100305,22/06/2025,Qatar,Marketplace,Sports & Outdoors,1,293.24,20,234.59,No
+SO-100306,20/06/2025,Qatar,Mobile App,Sports & Outdoors,2,143.62,5,272.88,No
+SO-100307,26/01/2025,Bahrain,Website,Books,2,8.05,15,13.69,No
+SO-100308,08/11/2025,Saudi Arabia,Mobile App,Sports & Outdoors,3,306.05,20,734.52,No
+SO-100309,12/09/2025,Bahrain,Marketplace,Electronics,1,365.09,10,328.58,No
+SO-100310,21/10/2025,Saudi Arabia,Website,Fashion,1,110.00,0,110.00,No
+SO-100311,02/11/2025,UAE,Website,Beauty,1,81.54,30,57.08,No
+SO-100312,28/01/2025,Qatar,Website,Electronics,1,881.57,10,793.41,No
+SO-100313,11/10/2025,UAE,Mobile App,Beauty,2,34.97,0,69.94,No
+SO-100314,25/11/2025,Bahrain,Mobile App,Home & Kitchen,4,49.59,30,138.85,No
+SO-100315,10/11/2025,Kuwait,Mobile App,Fashion,1,48.69,20,38.95,Yes
+SO-100316,04/07/2025,UAE,Website,Books,1,28.98,0,28.98,No
+SO-100317,19/04/2025,Saudi Arabia,Website,Fashion,2,98.63,5,187.40,Yes
+SO-100318,14/01/2025,Saudi Arabia,Mobile App,Beauty,1,72.85,10,65.56,No
+SO-100319,10/02/2025,Saudi Arabia,Mobile App,Sports & Outdoors,4,319.17,0,"1,276.68",No
+SO-100320,11/12/2025,Saudi Arabia,Website,Fashion,1,22.32,15,18.97,No
+SO-100321,28/09/2025,Kuwait,Website,Beauty,1,52.24,25,39.18,No
+SO-100322,09/03/2025,UAE,Mobile App,Sports & Outdoors,2,302.11,0,604.22,No
+SO-100323,29/06/2025,Qatar,Website,Home & Kitchen,3,18.72,0,56.16,No
+SO-100324,02/06/2025,Qatar,Website,Fashion,1,38.35,15,32.60,No
+SO-100325,09/02/2025,Saudi Arabia,Website,Fashion,2,22.19,0,44.38,No
+SO-100326,05/05/2025,Saudi Arabia,Mobile App,Home & Kitchen,4,154.86,5,588.47,No
+SO-100327,02/12/2025,Oman,Mobile App,Fashion,4,168.86,0,675.44,No
+SO-100328,19/11/2025,Saudi Arabia,Marketplace,Home & Kitchen,2,28.37,30,39.72,No
+SO-100329,17/02/2025,Oman,Marketplace,Home & Kitchen,1,69.30,0,69.30,No
+SO-100330,01/07/2025,Qatar,Mobile App,Home & Kitchen,1,163.70,10,147.33,Yes
+SO-100331,25/12/2025,UAE,Mobile App,Books,1,35.10,0,35.10,No
+SO-100332,13/12/2025,UAE,Website,Books,3,17.22,15,43.91,No
+SO-100333,24/10/2025,Saudi Arabia,Mobile App,Beauty,2,89.94,0,179.88,No
+SO-100334,16/08/2025,UAE,Website,Beauty,2,70.19,10,126.34,No
+SO-100335,20/08/2025,Qatar,Website,Fashion,4,99.17,0,396.68,Yes
+SO-100336,28/06/2025,Saudi Arabia,Website,Sports & Outdoors,2,117.36,0,234.72,No
+SO-100337,29/11/2025,UAE,Mobile App,Books,3,43.62,15,111.23,Yes
+SO-100338,08/08/2025,Oman,Mobile App,Electronics,4,497.08,5,"1,888.90",No
+SO-100339,02/09/2025,Saudi Arabia,Mobile App,Home & Kitchen,1,158.55,15,134.77,No
+SO-100340,10/11/2025,Saudi Arabia,Marketplace,Books,1,18.61,20,14.89,No
+SO-100341,17/03/2025,UAE,Website,Beauty,1,62.63,0,62.63,No
+SO-100342,18/07/2025,Saudi Arabia,Mobile App,Sports & Outdoors,4,298.59,25,895.77,No
+SO-100343,09/03/2025,Saudi Arabia,Marketplace,Sports & Outdoors,3,52.62,0,157.86,No
+SO-100344,10/12/2025,UAE,Website,Fashion,3,128.66,20,308.78,No
+SO-100345,23/11/2025,UAE,Website,Electronics,4,267.74,20,856.77,No
+SO-100346,23/11/2025,Saudi Arabia,Mobile App,Home & Kitchen,2,103.73,30,145.22,No
+SO-100347,20/06/2025,Qatar,Website,Beauty,3,29.95,0,89.85,No
+SO-100348,28/08/2025,UAE,Website,Home & Kitchen,2,132.10,25,198.15,No
+SO-100349,13/05/2025,Qatar,Mobile App,Electronics,4,203.61,0,814.44,No
+SO-100350,11/09/2025,UAE,Marketplace,Electronics,4,573.91,10,"2,066.08",No
+SO-100351,06/06/2025,UAE,Marketplace,Electronics,1,132.12,5,125.51,No
+SO-100352,24/11/2025,Kuwait,Website,Books,1,38.50,15,32.73,No
+SO-100353,01/02/2025,Oman,Mobile App,Beauty,4,82.42,20,263.74,No
+SO-100354,05/08/2025,Bahrain,Mobile App,Beauty,1,63.74,0,63.74,No
+SO-100355,29/07/2025,Bahrain,Website,Fashion,2,57.98,0,115.96,No
+SO-100356,09/02/2025,UAE,Mobile App,Beauty,2,70.13,0,140.26,No
+SO-100357,30/01/2025,Bahrain,Marketplace,Fashion,1,67.43,0,67.43,No
+SO-100358,24/01/2025,UAE,Website,Books,1,30.60,0,30.60,No
+SO-100359,19/12/2025,Saudi Arabia,Marketplace,Books,3,12.86,0,38.58,No
+SO-100360,15/07/2025,UAE,Mobile App,Sports & Outdoors,4,282.97,5,"1,075.29",No
+SO-100361,05/07/2025,Kuwait,Website,Fashion,3,60.37,20,144.89,No
+SO-100362,13/04/2025,UAE,Mobile App,Electronics,1,183.21,20,146.57,No
+SO-100363,30/06/2025,Saudi Arabia,Website,Fashion,2,162.40,25,243.60,No
+SO-100364,28/01/2025,Saudi Arabia,Website,Home & Kitchen,2,181.88,10,327.38,No
+SO-100365,01/09/2025,Saudi Arabia,Mobile App,Home & Kitchen,2,216.46,15,367.98,No
+SO-100366,27/10/2025,UAE,Mobile App,Electronics,1,160.66,10,144.59,No
+SO-100367,24/01/2025,UAE,Website,Electronics,2,146.87,0,293.74,No
+SO-100368,19/11/2025,UAE,Mobile App,Home & Kitchen,4,64.39,20,206.05,No
+SO-100369,17/09/2025,Saudi Arabia,Website,Books,4,33.81,25,101.43,No
+SO-100370,20/03/2025,Saudi Arabia,Website,Electronics,2,609.74,0,"1,219.48",No
+SO-100371,05/04/2025,Kuwait,Mobile App,Fashion,2,55.27,20,88.43,No
+SO-100372,16/01/2025,UAE,Mobile App,Fashion,4,117.13,15,398.24,No
+SO-100373,05/11/2025,Kuwait,Marketplace,Sports & Outdoors,1,89.23,15,75.85,No
+SO-100374,24/10/2025,Kuwait,Website,Electronics,2,660.19,0,"1,320.38",No
+SO-100375,19/06/2025,UAE,Mobile App,Beauty,2,11.17,0,22.34,Yes
+SO-100376,19/12/2025,Saudi Arabia,Mobile App,Home & Kitchen,2,168.24,0,336.48,No
+SO-100377,28/11/2025,Bahrain,Mobile App,Electronics,1,722.08,25,541.56,No
+SO-100378,24/10/2025,UAE,Mobile App,Electronics,3,880.05,10,"2,376.13",No
+SO-100379,21/05/2025,Saudi Arabia,Mobile App,Beauty,4,79.94,5,303.77,No
+SO-100380,19/07/2025,Bahrain,Website,Electronics,1,885.98,25,664.49,No
+SO-100381,06/08/2025,Oman,Mobile App,Electronics,4,428.23,0,"1,712.92",No
+SO-100382,05/05/2025,Saudi Arabia,Mobile App,Fashion,1,33.55,15,28.52,No
+SO-100383,30/07/2025,Saudi Arabia,Website,Electronics,1,854.45,0,854.45,No
+SO-100384,02/06/2025,Saudi Arabia,Mobile App,Beauty,1,15.85,10,14.27,No
+SO-100385,30/01/2025,Saudi Arabia,Mobile App,Beauty,3,49.22,5,140.28,No
+SO-100386,17/05/2025,Oman,Website,Fashion,2,33.78,0,67.56,No
+SO-100387,25/11/2025,Kuwait,Website,Sports & Outdoors,1,292.92,30,205.04,No
+SO-100388,27/12/2025,UAE,Website,Beauty,3,72.78,15,185.59,No
+SO-100389,28/09/2025,Oman,Marketplace,Fashion,2,139.48,10,251.06,No
+SO-100390,06/07/2025,UAE,Website,Home & Kitchen,4,121.36,0,485.44,No
+SO-100391,07/11/2025,UAE,Mobile App,Books,1,11.11,20,8.89,No
+SO-100392,12/07/2025,Kuwait,Website,Beauty,2,69.00,25,103.50,No
+SO-100393,25/11/2025,UAE,Website,Electronics,2,560.72,30,785.01,No
+SO-100394,16/08/2025,Qatar,Website,Beauty,1,21.85,0,21.85,No
+SO-100395,09/10/2025,UAE,Mobile App,Electronics,1,207.84,10,187.06,No
+SO-100396,26/05/2025,Qatar,Website,Home & Kitchen,1,224.89,20,179.91,No
+SO-100397,12/04/2025,UAE,Mobile App,Fashion,4,96.11,10,346.00,Yes
+SO-100398,22/10/2025,UAE,Marketplace,Electronics,1,586.39,5,557.07,No
+SO-100399,22/11/2025,Qatar,Mobile App,Electronics,2,163.18,20,261.09,No
+SO-100400,11/02/2025,Saudi Arabia,Website,Sports & Outdoors,1,106.45,20,85.16,No
+SO-100401,28/10/2025,Bahrain,Mobile App,Books,1,22.99,15,19.54,No
+SO-100402,24/11/2025,Oman,Mobile App,Fashion,1,30.11,25,22.58,Yes
+SO-100403,16/06/2025,Qatar,Website,Home & Kitchen,4,60.57,0,242.28,No
+SO-100404,24/05/2025,Saudi Arabia,Website,Fashion,2,64.41,15,109.50,No
+SO-100405,01/02/2025,UAE,Website,Fashion,3,50.79,5,144.75,No
+SO-100406,30/03/2025,Bahrain,Mobile App,Home & Kitchen,1,143.71,5,136.52,No
+SO-100407,23/06/2025,Kuwait,Website,Fashion,1,85.77,0,85.77,No
+SO-100408,28/06/2025,Oman,Website,Sports & Outdoors,2,175.96,15,299.13,No
+SO-100409,24/02/2025,UAE,Mobile App,Fashion,1,171.19,25,128.39,Yes
+SO-100410,13/10/2025,Saudi Arabia,Marketplace,Home & Kitchen,1,163.23,0,163.23,No
+SO-100411,04/01/2025,UAE,Marketplace,Electronics,2,494.14,0,988.28,No
+SO-100412,02/04/2025,UAE,Website,Electronics,1,370.12,15,314.60,No
+SO-100413,12/06/2025,Saudi Arabia,Website,Electronics,3,766.64,20,"1,839.94",No
+SO-100414,09/12/2025,UAE,Mobile App,Beauty,1,12.02,15,10.22,Yes
+SO-100415,04/12/2025,Qatar,Website,Beauty,1,55.89,0,55.89,No
+SO-100416,28/04/2025,Qatar,Marketplace,Sports & Outdoors,1,275.67,0,275.67,No
+SO-100417,19/06/2025,Saudi Arabia,Website,Home & Kitchen,1,126.90,0,126.90,No
+SO-100418,11/05/2025,Kuwait,Mobile App,Fashion,2,33.19,0,66.38,No
+SO-100419,01/01/2025,Qatar,Website,Fashion,2,50.42,15,85.71,No
+SO-100420,22/03/2025,Qatar,Website,Home & Kitchen,1,19.79,0,19.79,No
+SO-100421,17/08/2025,UAE,Website,Beauty,2,41.60,0,83.20,No
+SO-100422,22/02/2025,UAE,Website,Electronics,3,481.58,0,"1,444.74",No
+SO-100423,08/04/2025,Saudi Arabia,Mobile App,Electronics,1,320.82,5,304.78,No
+SO-100424,22/02/2025,Saudi Arabia,Website,Home & Kitchen,2,251.18,0,502.36,No
+SO-100425,25/01/2025,Saudi Arabia,Website,Fashion,1,140.37,25,105.28,No
+SO-100426,16/10/2025,Saudi Arabia,Website,Fashion,1,154.71,0,154.71,Yes
+SO-100427,28/05/2025,Saudi Arabia,Website,Books,4,12.98,0,51.92,No
+SO-100428,07/04/2025,UAE,Marketplace,Fashion,1,87.40,25,65.55,No
+SO-100429,19/10/2025,UAE,Website,Home & Kitchen,4,247.43,20,791.78,No
+SO-100430,25/06/2025,Saudi Arabia,Mobile App,Home & Kitchen,1,143.83,0,143.83,No
+SO-100431,30/10/2025,Qatar,Mobile App,Electronics,2,710.86,0,"1,421.72",No
+SO-100432,29/05/2025,UAE,Mobile App,Beauty,2,46.72,0,93.44,No
+SO-100433,03/01/2025,UAE,Website,Home & Kitchen,2,72.21,15,122.76,No
+SO-100434,21/03/2025,Kuwait,Website,Books,2,29.10,15,49.47,No
+SO-100435,18/03/2025,Kuwait,Website,Home & Kitchen,1,237.56,25,178.17,No
+SO-100436,01/07/2025,Bahrain,Mobile App,Home & Kitchen,3,133.54,20,320.50,No
+SO-100437,22/08/2025,Kuwait,Mobile App,Sports & Outdoors,1,74.13,5,70.42,No
+SO-100438,22/10/2025,Bahrain,Marketplace,Home & Kitchen,2,196.15,0,392.30,No
+SO-100439,04/02/2025,Kuwait,Website,Beauty,2,49.91,5,94.83,No
+SO-100440,17/07/2025,Saudi Arabia,Mobile App,Beauty,1,52.37,5,49.75,No
+SO-100441,04/11/2025,Saudi Arabia,Mobile App,Home & Kitchen,1,66.63,30,46.64,Yes
+SO-100442,04/08/2025,UAE,Website,Electronics,1,810.06,15,688.55,No
+SO-100443,19/11/2025,Kuwait,Website,Sports & Outdoors,3,210.87,20,506.09,No
+SO-100444,13/04/2025,Kuwait,Website,Books,1,27.64,0,27.64,No
+SO-100445,19/07/2025,Saudi Arabia,Marketplace,Sports & Outdoors,1,316.38,0,316.38,No
+SO-100446,07/09/2025,UAE,Mobile App,Home & Kitchen,2,58.43,5,111.02,No
+SO-100447,17/05/2025,Qatar,Website,Beauty,4,22.03,0,88.12,No
+SO-100448,09/05/2025,Oman,Website,Electronics,1,107.86,25,80.89,No
+SO-100449,25/04/2025,UAE,Website,Fashion,1,102.59,10,92.33,No
+SO-100450,19/09/2025,Qatar,Mobile App,Home & Kitchen,4,129.14,25,387.42,No
+SO-100451,25/12/2025,Kuwait,Website,Beauty,1,55.66,15,47.31,No
+SO-100452,19/04/2025,UAE,Mobile App,Fashion,4,51.64,0,206.56,Yes
+SO-100453,10/10/2025,Qatar,Marketplace,Beauty,4,86.65,0,346.60,No
+SO-100454,18/07/2025,UAE,Website,Home & Kitchen,1,219.52,0,219.52,No
+SO-100455,30/06/2025,Kuwait,Mobile App,Electronics,4,582.66,0,"2,330.64",No
+SO-100456,16/08/2025,UAE,Website,Fashion,1,143.87,10,129.48,No
+SO-100457,08/07/2025,Qatar,Marketplace,Fashion,2,168.38,20,269.41,No
+SO-100458,10/08/2025,Oman,Website,Electronics,1,741.65,0,741.65,No
+SO-100459,12/05/2025,UAE,Website,Beauty,4,77.49,20,247.97,No
+SO-100460,10/05/2025,Qatar,Website,Electronics,4,556.29,0,"2,225.16",No
+SO-100461,22/02/2025,UAE,Website,Electronics,2,629.39,20,"1,007.02",No
+SO-100462,07/01/2025,Oman,Website,Sports & Outdoors,2,193.25,5,367.17,No
+SO-100463,05/03/2025,UAE,Mobile App,Books,1,41.61,0,41.61,No
+SO-100464,03/10/2025,Qatar,Mobile App,Fashion,3,58.90,10,159.03,No
+SO-100465,31/05/2025,Qatar,Marketplace,Electronics,3,343.82,15,876.74,No
+SO-100466,16/02/2025,Saudi Arabia,Mobile App,Beauty,2,29.49,10,53.08,No
+SO-100467,24/07/2025,Bahrain,Mobile App,Home & Kitchen,1,231.69,25,173.77,No
+SO-100468,22/11/2025,Qatar,Mobile App,Sports & Outdoors,3,148.54,30,311.93,No
+SO-100469,04/11/2025,UAE,Website,Sports & Outdoors,1,114.98,25,86.23,No
+SO-100470,16/04/2025,UAE,Website,Electronics,1,663.43,0,663.43,No
+SO-100471,24/04/2025,UAE,Mobile App,Electronics,2,853.69,10,"1,536.64",No
+SO-100472,27/12/2025,Saudi Arabia,Website,Books,2,11.10,25,16.65,No
+SO-100473,25/02/2025,Kuwait,Website,Sports & Outdoors,2,204.83,0,409.66,No
+SO-100474,18/03/2025,Saudi Arabia,Marketplace,Fashion,3,114.01,25,256.52,No
+SO-100475,08/09/2025,Qatar,Website,Home & Kitchen,2,201.99,0,403.98,No
+SO-100476,07/04/2025,Kuwait,Marketplace,Fashion,3,29.14,25,65.56,No
+SO-100477,12/06/2025,UAE,Marketplace,Electronics,2,354.92,5,674.35,No
+SO-100478,14/05/2025,Saudi Arabia,Website,Home & Kitchen,1,19.02,10,17.12,No
+SO-100479,09/07/2025,UAE,Website,Home & Kitchen,1,153.80,25,115.35,No
+SO-100480,08/04/2025,Oman,Mobile App,Home & Kitchen,1,210.60,0,210.60,No
+SO-100481,05/08/2025,UAE,Mobile App,Electronics,1,209.68,10,188.71,No
+SO-100482,21/09/2025,Qatar,Website,Fashion,1,121.63,15,103.39,Yes
+SO-100483,04/05/2025,UAE,Marketplace,Books,2,41.94,5,79.69,No
+SO-100484,09/07/2025,Saudi Arabia,Website,Electronics,1,152.77,5,145.13,No
+SO-100485,12/10/2025,Saudi Arabia,Mobile App,Electronics,1,677.59,25,508.19,No
+SO-100486,03/05/2025,Kuwait,Website,Home & Kitchen,2,33.75,10,60.75,No
+SO-100487,27/06/2025,UAE,Mobile App,Beauty,4,72.79,5,276.60,No
+SO-100488,14/01/2025,Kuwait,Mobile App,Electronics,1,434.75,0,434.75,No
+SO-100489,18/08/2025,UAE,Mobile App,Fashion,2,114.73,0,229.46,No
+SO-100490,20/09/2025,UAE,Website,Fashion,1,73.77,0,73.77,No
+SO-100491,10/06/2025,UAE,Mobile App,Beauty,3,74.03,0,222.09,No
+SO-100492,04/04/2025,Bahrain,Mobile App,Fashion,3,155.70,10,420.39,No
+SO-100493,09/02/2025,Saudi Arabia,Mobile App,Books,2,24.34,0,48.68,No
+SO-100494,10/04/2025,Saudi Arabia,Website,Sports & Outdoors,2,92.58,0,185.16,No
+SO-100495,26/03/2025,UAE,Website,Beauty,2,51.64,10,92.95,No
+SO-100496,15/09/2025,Kuwait,Mobile App,Electronics,3,738.62,25,"1,661.89",No
+SO-100497,15/10/2025,UAE,Mobile App,Beauty,3,47.36,0,142.08,No
+SO-100498,18/06/2025,UAE,Website,Home & Kitchen,4,82.63,15,280.94,No
+SO-100499,18/12/2025,Saudi Arabia,Mobile App,Books,4,32.60,5,123.88,No
+SO-100500,02/06/2025,UAE,Website,Beauty,1,58.62,20,46.90,No
+SO-100501,12/01/2025,Kuwait,Mobile App,Home & Kitchen,4,189.47,0,757.88,No
+SO-100502,05/07/2025,Bahrain,Mobile App,Beauty,2,59.62,0,119.24,No
+SO-100503,09/07/2025,Oman,Mobile App,Electronics,3,605.38,25,"1,362.11",No
+SO-100504,04/09/2025,UAE,Mobile App,Home & Kitchen,3,244.42,5,696.60,No
+SO-100505,02/04/2025,Saudi Arabia,Marketplace,Home & Kitchen,2,91.59,25,137.38,No
+SO-100506,06/08/2025,UAE,Mobile App,Electronics,1,410.11,25,307.58,No
+SO-100507,23/01/2025,Saudi Arabia,Mobile App,Home & Kitchen,1,140.47,5,133.45,No
+SO-100508,23/11/2025,Bahrain,Mobile App,Electronics,3,433.75,30,910.87,No
+SO-100509,09/10/2025,Kuwait,Mobile App,Books,3,22.61,10,61.05,No
+SO-100510,02/03/2025,Kuwait,Website,Home & Kitchen,3,149.20,15,380.46,No
+SO-100511,03/09/2025,UAE,Mobile App,Electronics,3,468.42,25,"1,053.94",No
+SO-100512,19/07/2025,Oman,Website,Beauty,2,60.97,10,109.75,No
+SO-100513,05/08/2025,UAE,Website,Books,1,7.28,5,6.92,No
+SO-100514,21/07/2025,Qatar,Mobile App,Electronics,1,92.44,0,92.44,No
+SO-100515,14/01/2025,Saudi Arabia,Mobile App,Sports & Outdoors,4,97.81,20,312.99,No
+SO-100516,10/06/2025,Bahrain,Mobile App,Fashion,4,176.49,15,600.07,No
+SO-100517,13/10/2025,UAE,Website,Sports & Outdoors,3,25.38,15,64.72,No
+SO-100518,16/02/2025,UAE,Mobile App,Sports & Outdoors,2,61.27,5,116.41,No
+SO-100519,02/09/2025,Kuwait,Website,Home & Kitchen,1,248.30,25,186.23,No
+SO-100520,28/08/2025,Qatar,Website,Sports & Outdoors,1,59.50,20,47.60,No
+SO-100521,11/01/2025,UAE,Marketplace,Books,3,19.73,0,59.19,No
+SO-100522,16/10/2025,Qatar,Website,Electronics,2,676.25,15,"1,149.62",No
+SO-100523,08/11/2025,Saudi Arabia,Mobile App,Home & Kitchen,3,63.57,30,133.50,No
+SO-100524,29/03/2025,Bahrain,Mobile App,Beauty,1,48.25,10,43.43,No
+SO-100525,16/01/2025,UAE,Website,Books,4,42.48,20,135.94,No
+SO-100526,13/01/2025,Saudi Arabia,Mobile App,Electronics,4,436.31,5,"1,657.98",Yes
+SO-100527,26/02/2025,Oman,Website,Sports & Outdoors,2,211.20,5,401.28,No
+SO-100528,06/06/2025,UAE,Website,Fashion,2,59.00,0,118.00,No
+SO-100529,17/12/2025,UAE,Website,Books,3,26.91,0,80.73,No
+SO-100530,30/01/2025,UAE,Website,Home & Kitchen,2,145.27,25,217.91,No
+SO-100531,05/10/2025,Saudi Arabia,Mobile App,Electronics,2,169.51,0,339.02,No
+SO-100532,20/08/2025,Bahrain,Mobile App,Fashion,1,47.00,15,39.95,No
+SO-100533,29/10/2025,Oman,Website,Beauty,3,23.83,0,71.49,No
+SO-100534,04/11/2025,Qatar,Website,Fashion,2,113.53,15,193.00,No
+SO-100535,08/08/2025,Saudi Arabia,Website,Electronics,1,528.35,0,528.35,No
+SO-100536,16/03/2025,UAE,Website,Electronics,1,408.78,0,408.78,No
+SO-100537,30/03/2025,UAE,Mobile App,Electronics,3,111.30,20,267.12,No
+SO-100538,10/01/2025,UAE,Website,Books,1,36.90,0,36.90,No
+SO-100539,24/02/2025,Saudi Arabia,Website,Electronics,2,91.49,10,164.68,No
+SO-100540,13/02/2025,Saudi Arabia,Website,Home & Kitchen,2,95.47,5,181.39,No
+SO-100541,23/01/2025,Saudi Arabia,Mobile App,Home & Kitchen,1,18.77,0,18.77,No
+SO-100542,03/09/2025,Saudi Arabia,Mobile App,Fashion,2,160.49,5,304.93,No
+SO-100543,20/12/2025,Kuwait,Mobile App,Fashion,1,26.32,10,23.69,Yes
+SO-100544,28/03/2025,Saudi Arabia,Website,Electronics,1,830.78,25,623.09,No
+SO-100545,07/10/2025,UAE,Marketplace,Beauty,1,52.04,5,49.44,No
+SO-100546,12/10/2025,Oman,Mobile App,Home & Kitchen,3,133.30,10,359.91,No
+SO-100547,15/11/2025,Kuwait,Website,Home & Kitchen,1,85.17,15,72.39,No
+SO-100548,05/08/2025,UAE,Mobile App,Sports & Outdoors,1,299.64,0,299.64,No
+SO-100549,26/10/2025,Kuwait,Mobile App,Books,1,10.63,25,7.97,No
+SO-100550,24/08/2025,Qatar,Mobile App,Home & Kitchen,1,106.59,5,101.26,No
+SO-100551,08/03/2025,UAE,Website,Beauty,3,20.78,0,62.34,No
+SO-100552,05/05/2025,Saudi Arabia,Marketplace,Sports & Outdoors,3,160.00,5,456.00,No
+SO-100553,04/11/2025,UAE,Mobile App,Sports & Outdoors,1,55.24,30,38.67,No
+SO-100554,22/04/2025,Saudi Arabia,Marketplace,Electronics,1,211.45,20,169.16,No
+SO-100555,01/09/2025,Bahrain,Marketplace,Beauty,1,55.27,10,49.74,No
+SO-100556,15/04/2025,Saudi Arabia,Website,Beauty,1,14.37,25,10.78,No
+SO-100557,13/12/2025,Saudi Arabia,Mobile App,Electronics,2,726.65,25,"1,089.97",No
+SO-100558,15/10/2025,Saudi Arabia,Marketplace,Home & Kitchen,1,178.96,0,178.96,No
+SO-100559,29/06/2025,UAE,Mobile App,Fashion,2,161.36,0,322.72,No
+SO-100560,12/11/2025,Oman,Website,Electronics,2,291.46,30,408.04,No
+SO-100561,17/10/2025,Bahrain,Website,Electronics,2,207.56,0,415.12,No
+SO-100562,07/02/2025,UAE,Marketplace,Fashion,1,159.00,15,135.15,No
+SO-100563,08/12/2025,Qatar,Mobile App,Beauty,1,9.25,10,8.33,No
+SO-100564,14/05/2025,UAE,Website,Beauty,1,34.54,15,29.36,No
+SO-100565,27/03/2025,UAE,Mobile App,Sports & Outdoors,1,61.73,10,55.56,No
+SO-100566,12/03/2025,UAE,Marketplace,Sports & Outdoors,1,301.56,0,301.56,No
+SO-100567,28/12/2025,UAE,Mobile App,Books,3,7.09,0,21.27,No
+SO-100568,16/12/2025,Qatar,Website,Fashion,1,172.98,0,172.98,No
+SO-100569,26/07/2025,UAE,Mobile App,Electronics,1,283.22,5,269.06,No
+SO-100570,08/05/2025,Oman,Mobile App,Electronics,1,103.91,0,103.91,No
+SO-100571,01/01/2025,Oman,Website,Electronics,2,743.13,20,"1,189.01",No
+SO-100572,14/10/2025,UAE,Mobile App,Beauty,1,41.82,0,41.82,No
+SO-100573,11/09/2025,UAE,Mobile App,Beauty,1,23.24,20,18.59,No
+SO-100574,03/03/2025,Saudi Arabia,Website,Home & Kitchen,1,97.44,10,87.70,No
+SO-100575,19/04/2025,Qatar,Website,Home & Kitchen,1,80.69,0,80.69,No
+SO-100576,23/10/2025,Saudi Arabia,Website,Home & Kitchen,3,225.02,0,675.06,No
+SO-100577,14/08/2025,Saudi Arabia,Mobile App,Electronics,2,491.41,0,982.82,No
+SO-100578,03/09/2025,UAE,Marketplace,Beauty,1,28.97,0,28.97,No
+SO-100579,04/02/2025,Kuwait,Mobile App,Fashion,1,153.67,15,130.62,No
+SO-100580,11/04/2025,Saudi Arabia,Marketplace,Home & Kitchen,2,22.20,0,44.40,No
+SO-100581,08/02/2025,Qatar,Website,Beauty,1,62.43,25,46.82,No
+SO-100582,19/07/2025,UAE,Website,Electronics,1,231.24,15,196.55,No
+SO-100583,15/04/2025,Bahrain,Mobile App,Home & Kitchen,1,217.22,0,217.22,No
+SO-100584,12/07/2025,Qatar,Website,Fashion,2,74.54,25,111.81,Yes
+SO-100585,07/06/2025,UAE,Website,Beauty,3,17.02,15,43.40,No
+SO-100586,23/01/2025,UAE,Mobile App,Beauty,2,79.79,25,119.69,No
+SO-100587,23/03/2025,UAE,Website,Electronics,2,452.44,20,723.90,No
+SO-100588,09/12/2025,Saudi Arabia,Mobile App,Sports & Outdoors,4,223.93,5,850.93,No
+SO-100589,07/12/2025,UAE,Mobile App,Electronics,1,755.98,15,642.58,No
+SO-100590,01/10/2025,Bahrain,Marketplace,Beauty,1,13.93,0,13.93,No
+SO-100591,17/08/2025,UAE,Mobile App,Sports & Outdoors,1,157.28,15,133.69,No
+SO-100592,22/01/2025,UAE,Website,Home & Kitchen,2,99.49,0,198.98,No
+SO-100593,01/05/2025,UAE,Marketplace,Books,4,8.72,20,27.90,No
+SO-100594,02/04/2025,Saudi Arabia,Website,Beauty,4,65.49,15,222.67,No
+SO-100595,25/02/2025,UAE,Mobile App,Beauty,3,33.75,15,86.06,No
+SO-100596,28/09/2025,Qatar,Website,Beauty,2,28.18,20,45.09,No
+SO-100597,19/10/2025,UAE,Website,Electronics,1,553.92,25,415.44,No
+SO-100598,31/07/2025,Kuwait,Website,Home & Kitchen,1,170.39,0,170.39,No
+SO-100599,30/05/2025,Qatar,Marketplace,Home & Kitchen,3,75.49,5,215.15,No
+SO-100600,03/06/2025,UAE,Marketplace,Fashion,2,29.14,10,52.45,No
+SO-100601,30/10/2025,Qatar,Mobile App,Electronics,3,675.73,0,"2,027.19",No
+SO-100602,25/09/2025,Saudi Arabia,Website,Home & Kitchen,1,142.95,10,128.66,No
+SO-100603,01/09/2025,Saudi Arabia,Website,Beauty,1,65.10,0,65.10,No
+SO-100604,25/05/2025,Oman,Website,Beauty,3,26.96,20,64.70,Yes
+SO-100605,01/10/2025,UAE,Mobile App,Electronics,1,561.33,5,533.26,No
+SO-100606,07/12/2025,Kuwait,Website,Sports & Outdoors,3,285.42,0,856.26,No
+SO-100607,09/08/2025,UAE,Website,Beauty,2,64.29,5,122.15,No
+SO-100608,20/03/2025,Saudi Arabia,Mobile App,Home & Kitchen,1,22.58,25,16.93,No
+SO-100609,18/11/2025,Qatar,Website,Electronics,4,289.64,20,926.85,No
+SO-100610,14/02/2025,Kuwait,Website,Electronics,4,452.02,0,"1,808.08",No
+SO-100611,23/04/2025,Saudi Arabia,Marketplace,Books,1,31.02,15,26.37,No
+SO-100612,23/08/2025,UAE,Mobile App,Beauty,4,74.18,0,296.72,No
+SO-100613,09/02/2025,Saudi Arabia,Mobile App,Home & Kitchen,1,50.99,25,38.24,No
+SO-100614,15/09/2025,UAE,Mobile App,Home & Kitchen,4,134.11,25,402.33,No
+SO-100615,07/09/2025,Qatar,Mobile App,Electronics,2,144.89,20,231.82,No
+SO-100616,04/08/2025,Bahrain,Mobile App,Electronics,2,705.50,10,"1,269.90",No
+SO-100617,26/10/2025,UAE,Website,Fashion,2,70.67,20,113.07,No
+SO-100618,14/07/2025,Kuwait,Mobile App,Home & Kitchen,1,199.42,5,189.45,No
+SO-100619,02/11/2025,Saudi Arabia,Website,Books,2,21.80,30,30.52,No
+SO-100620,27/04/2025,Bahrain,Mobile App,Home & Kitchen,2,106.87,15,181.68,No
+SO-100621,28/02/2025,Saudi Arabia,Website,Beauty,2,57.35,15,97.50,No
+SO-100622,29/05/2025,Kuwait,Website,Sports & Outdoors,3,245.67,20,589.61,No
+SO-100623,06/01/2025,UAE,Mobile App,Home & Kitchen,2,202.84,25,304.26,No
+SO-100624,16/05/2025,UAE,Marketplace,Home & Kitchen,1,193.45,20,154.76,No
+SO-100625,14/04/2025,Qatar,Website,Sports & Outdoors,1,200.17,10,180.15,No
+SO-100626,22/06/2025,Qatar,Mobile App,Books,2,21.35,0,42.70,No
+SO-100627,22/12/2025,Saudi Arabia,Website,Electronics,3,569.07,0,"1,707.21",No
+SO-100628,04/02/2025,UAE,Mobile App,Fashion,1,76.96,15,65.42,No
+SO-100629,20/02/2025,Kuwait,Website,Home & Kitchen,1,215.50,0,215.50,No
+SO-100630,15/11/2025,Kuwait,Mobile App,Beauty,4,9.61,20,30.75,No
+SO-100631,14/03/2025,Saudi Arabia,Website,Electronics,2,466.83,0,933.66,No
+SO-100632,11/01/2025,Saudi Arabia,Mobile App,Electronics,2,833.02,10,"1,499.44",No
+SO-100633,14/10/2025,UAE,Marketplace,Fashion,1,56.67,25,42.50,No
+SO-100634,24/07/2025,Saudi Arabia,Marketplace,Electronics,1,590.08,0,590.08,No
+SO-100635,03/05/2025,Saudi Arabia,Mobile App,Fashion,2,88.74,10,159.73,Yes
+SO-100636,05/01/2025,UAE,Website,Electronics,4,50.70,0,202.80,No
+SO-100637,20/03/2025,UAE,Website,Electronics,2,490.26,20,784.42,No
+SO-100638,25/10/2025,UAE,Mobile App,Electronics,1,330.50,5,313.97,No
+SO-100639,07/01/2025,Bahrain,Mobile App,Fashion,1,172.89,15,146.96,No
+SO-100640,03/07/2025,UAE,Mobile App,Electronics,3,176.80,20,424.32,No
+SO-100641,27/07/2025,Saudi Arabia,Mobile App,Sports & Outdoors,3,37.25,5,106.16,No
+SO-100642,04/05/2025,UAE,Marketplace,Fashion,4,148.38,5,563.84,No
+SO-100643,20/03/2025,UAE,Website,Home & Kitchen,3,157.96,5,450.19,No
+SO-100644,01/05/2025,Saudi Arabia,Mobile App,Home & Kitchen,3,86.83,0,260.49,No
+SO-100645,16/10/2025,Saudi Arabia,Marketplace,Home & Kitchen,2,131.51,10,236.72,No
+SO-100646,21/02/2025,Qatar,Mobile App,Books,1,12.08,15,10.27,No
+SO-100647,11/06/2025,UAE,Website,Sports & Outdoors,1,168.90,20,135.12,No
+SO-100648,11/07/2025,Saudi Arabia,Mobile App,Home & Kitchen,1,109.68,0,109.68,No
+SO-100649,05/07/2025,Saudi Arabia,Marketplace,Home & Kitchen,2,29.60,5,56.24,No
+SO-100650,08/04/2025,Saudi Arabia,Mobile App,Home & Kitchen,2,177.47,10,319.45,No
+SO-100651,12/11/2025,Saudi Arabia,Marketplace,Home & Kitchen,2,187.91,15,319.45,No
+SO-100652,03/07/2025,UAE,Marketplace,Books,1,15.52,0,15.52,No
+SO-100653,02/10/2025,UAE,Website,Home & Kitchen,4,251.47,10,905.29,Yes
+SO-100654,29/07/2025,Qatar,Marketplace,Fashion,1,95.01,0,95.01,No
+SO-100655,03/12/2025,UAE,Mobile App,Fashion,1,108.40,0,108.40,No
+SO-100656,14/10/2025,UAE,Marketplace,Fashion,1,52.20,0,52.20,No
+SO-100657,25/07/2025,Kuwait,Mobile App,Home & Kitchen,1,197.91,25,148.43,No
+SO-100658,06/07/2025,Saudi Arabia,Website,Beauty,2,88.25,5,167.67,No
+SO-100659,16/06/2025,UAE,Mobile App,Home & Kitchen,4,15.59,10,56.12,No
+SO-100660,13/01/2025,Bahrain,Website,Sports & Outdoors,1,74.59,20,59.67,No
+SO-100661,03/01/2025,Qatar,Mobile App,Fashion,2,76.11,5,144.61,No
+SO-100662,05/12/2025,UAE,Marketplace,Electronics,4,444.00,15,"1,509.60",No
+SO-100663,29/03/2025,Qatar,Website,Electronics,1,386.09,0,386.09,No
+SO-100664,15/05/2025,UAE,Mobile App,Home & Kitchen,1,243.09,0,243.09,No
+SO-100665,19/11/2025,Saudi Arabia,Website,Sports & Outdoors,2,210.46,30,294.64,No
+SO-100666,03/12/2025,Saudi Arabia,Mobile App,Sports & Outdoors,1,166.62,0,166.62,No
+SO-100667,15/10/2025,Saudi Arabia,Website,Sports & Outdoors,1,185.63,0,185.63,No
+SO-100668,29/01/2025,Bahrain,Website,Sports & Outdoors,4,33.25,5,126.35,No
+SO-100669,14/05/2025,Oman,Mobile App,Electronics,1,496.25,5,471.44,No
+SO-100670,29/03/2025,Saudi Arabia,Mobile App,Sports & Outdoors,3,223.05,15,568.78,No
+SO-100671,31/07/2025,UAE,Website,Fashion,1,87.64,25,65.73,No
+SO-100672,02/05/2025,Bahrain,Marketplace,Beauty,2,70.03,0,140.06,No
+SO-100673,19/04/2025,Saudi Arabia,Mobile App,Home & Kitchen,1,125.42,0,125.42,No
+SO-100674,20/09/2025,Kuwait,Website,Books,1,27.51,25,20.63,No
+SO-100675,19/06/2025,Saudi Arabia,Marketplace,Electronics,1,893.45,5,848.78,No
+SO-100676,06/06/2025,UAE,Website,Electronics,2,106.93,10,192.47,No
+SO-100677,03/04/2025,Saudi Arabia,Website,Fashion,1,32.27,5,30.66,No
+SO-100678,04/07/2025,Saudi Arabia,Website,Home & Kitchen,1,39.13,0,39.13,No
+SO-100679,13/11/2025,Saudi Arabia,Website,Beauty,1,44.88,20,35.90,No
+SO-100680,07/09/2025,Oman,Mobile App,Fashion,1,74.17,0,74.17,Yes
+SO-100681,19/02/2025,UAE,Marketplace,Books,4,12.65,0,50.60,No
+SO-100682,08/02/2025,UAE,Mobile App,Sports & Outdoors,3,174.50,0,523.50,No
+SO-100683,14/05/2025,Qatar,Mobile App,Fashion,4,23.54,20,75.33,No
+SO-100684,24/09/2025,UAE,Website,Home & Kitchen,1,28.98,25,21.73,Yes
+SO-100685,08/09/2025,Saudi Arabia,Website,Electronics,1,530.37,15,450.81,No
+SO-100686,07/10/2025,Kuwait,Marketplace,Beauty,2,75.17,0,150.34,No
+SO-100687,28/10/2025,UAE,Marketplace,Fashion,1,134.99,0,134.99,No
+SO-100688,24/04/2025,Saudi Arabia,Mobile App,Home & Kitchen,1,51.88,15,44.10,No
+SO-100689,11/05/2025,UAE,Mobile App,Electronics,1,422.79,0,422.79,No
+SO-100690,11/04/2025,UAE,Website,Fashion,4,50.90,20,162.88,No
+SO-100691,24/05/2025,Oman,Marketplace,Sports & Outdoors,4,253.45,10,912.42,No
+SO-100692,16/01/2025,UAE,Mobile App,Home & Kitchen,1,96.59,25,72.44,Yes
+SO-100693,11/07/2025,Kuwait,Website,Beauty,2,40.26,0,80.52,No
+SO-100694,11/12/2025,UAE,Marketplace,Electronics,4,265.46,0,"1,061.84",No
+SO-100695,13/02/2025,UAE,Website,Home & Kitchen,1,182.45,25,136.84,No
+SO-100696,24/06/2025,Saudi Arabia,Mobile App,Electronics,3,461.10,5,"1,314.14",No
+SO-100697,28/02/2025,Saudi Arabia,Mobile App,Beauty,1,46.83,15,39.81,No
+SO-100698,27/12/2025,Bahrain,Mobile App,Sports & Outdoors,1,211.87,0,211.87,No
+SO-100699,13/04/2025,Bahrain,Mobile App,Electronics,1,507.88,0,507.88,No
+SO-100700,24/02/2025,Kuwait,Mobile App,Electronics,2,461.79,15,785.04,No
+SO-100701,01/04/2025,UAE,Website,Electronics,2,371.44,20,594.30,No
+SO-100702,21/06/2025,Saudi Arabia,Mobile App,Beauty,3,41.37,0,124.11,No
+SO-100703,02/08/2025,Kuwait,Mobile App,Beauty,1,40.02,10,36.02,No
+SO-100704,27/06/2025,Saudi Arabia,Mobile App,Fashion,2,57.93,0,115.86,No
+SO-100705,15/01/2025,Bahrain,Mobile App,Home & Kitchen,3,111.01,0,333.03,No
+SO-100706,01/06/2025,UAE,Website,Electronics,2,532.94,10,959.29,No
+SO-100707,16/05/2025,Qatar,Website,Home & Kitchen,3,241.70,15,616.33,No
+SO-100708,03/08/2025,Kuwait,Mobile App,Electronics,1,379.54,5,360.56,No
+SO-100709,17/02/2025,Saudi Arabia,Mobile App,Fashion,4,75.02,0,300.08,No
+SO-100710,20/04/2025,UAE,Website,Fashion,1,18.94,5,17.99,No
+SO-100711,02/02/2025,UAE,Marketplace,Home & Kitchen,4,185.07,0,740.28,No
+SO-100712,12/10/2025,UAE,Website,Home & Kitchen,1,53.68,0,53.68,No
+SO-100713,17/12/2025,UAE,Website,Sports & Outdoors,2,90.79,0,181.58,No
+SO-100714,05/07/2025,Saudi Arabia,Website,Sports & Outdoors,3,227.17,5,647.43,No
+SO-100715,08/09/2025,Qatar,Mobile App,Electronics,3,161.32,0,483.96,No
+SO-100716,07/10/2025,Qatar,Mobile App,Beauty,2,17.98,5,34.16,No
+SO-100717,20/05/2025,Oman,Mobile App,Electronics,4,853.94,5,"3,244.97",No
+SO-100718,02/11/2025,UAE,Website,Fashion,1,57.81,15,49.14,No
+SO-100719,22/02/2025,Qatar,Website,Home & Kitchen,2,79.65,0,159.30,No
+SO-100720,12/05/2025,Saudi Arabia,Mobile App,Home & Kitchen,1,154.91,20,123.93,No
+SO-100721,10/03/2025,Saudi Arabia,Website,Home & Kitchen,1,241.86,0,241.86,No
+SO-100722,02/11/2025,Kuwait,Mobile App,Beauty,2,65.26,15,110.94,No
+SO-100723,18/02/2025,Saudi Arabia,Website,Home & Kitchen,1,98.56,0,98.56,No
+SO-100724,13/10/2025,Saudi Arabia,Mobile App,Electronics,1,741.23,25,555.92,No
+SO-100725,27/03/2025,Saudi Arabia,Mobile App,Fashion,1,154.79,10,139.31,No
+SO-100726,06/12/2025,UAE,Website,Home & Kitchen,3,163.70,20,392.88,No
+SO-100727,12/07/2025,UAE,Website,Home & Kitchen,1,232.61,25,174.46,No
+SO-100728,18/04/2025,UAE,Website,Beauty,1,11.21,0,11.21,No
+SO-100729,27/03/2025,Bahrain,Website,Electronics,2,189.33,15,321.86,No
+SO-100730,25/04/2025,Saudi Arabia,Marketplace,Beauty,1,67.32,20,53.86,No
+SO-100731,24/11/2025,Qatar,Marketplace,Sports & Outdoors,1,237.12,30,165.98,No
+SO-100732,03/12/2025,UAE,Mobile App,Beauty,4,33.83,25,101.49,No
+SO-100733,29/12/2025,UAE,Mobile App,Home & Kitchen,3,227.92,5,649.57,No
+SO-100734,15/11/2025,Saudi Arabia,Mobile App,Home & Kitchen,3,97.12,30,203.95,No
+SO-100735,24/01/2025,Kuwait,Mobile App,Books,3,6.53,20,15.67,No
+SO-100736,08/01/2025,UAE,Mobile App,Beauty,1,69.06,0,69.06,No
+SO-100737,31/10/2025,UAE,Website,Fashion,1,139.18,0,139.18,No
+SO-100738,20/08/2025,Kuwait,Website,Electronics,1,345.89,5,328.60,No
+SO-100739,04/09/2025,Saudi Arabia,Marketplace,Sports & Outdoors,1,136.14,0,136.14,No
+SO-100740,16/07/2025,Qatar,Mobile App,Home & Kitchen,4,38.18,10,137.45,No
+SO-100741,27/02/2025,Qatar,Website,Books,4,25.69,0,102.76,No
+SO-100742,21/01/2025,UAE,Website,Fashion,3,66.86,5,190.55,No
+SO-100743,30/07/2025,UAE,Website,Home & Kitchen,1,21.74,10,19.57,No
+SO-100744,03/03/2025,Oman,Mobile App,Electronics,1,793.59,10,714.23,No
+SO-100745,17/02/2025,UAE,Mobile App,Home & Kitchen,3,101.15,20,242.76,No
+SO-100746,18/09/2025,UAE,Marketplace,Electronics,2,678.68,0,"1,357.36",No
+SO-100747,21/09/2025,Qatar,Website,Books,3,8.76,0,26.28,No
+SO-100748,24/02/2025,Saudi Arabia,Mobile App,Beauty,1,11.08,25,8.31,No
+SO-100749,19/08/2025,Oman,Mobile App,Home & Kitchen,2,249.32,20,398.91,No
+SO-100750,14/07/2025,UAE,Mobile App,Fashion,4,164.64,0,658.56,No
+SO-100751,16/01/2025,Oman,Website,Home & Kitchen,1,145.22,10,130.70,No
+SO-100752,28/12/2025,UAE,Marketplace,Sports & Outdoors,2,268.61,10,483.50,No
+SO-100753,23/04/2025,Kuwait,Website,Sports & Outdoors,2,115.19,5,218.86,No
+SO-100754,02/10/2025,Saudi Arabia,Mobile App,Electronics,3,276.27,25,621.61,No
+SO-100755,16/07/2025,UAE,Marketplace,Home & Kitchen,3,98.47,25,221.56,No
+SO-100756,25/07/2025,Oman,Mobile App,Sports & Outdoors,1,135.26,0,135.26,No
+SO-100757,14/08/2025,UAE,Website,Sports & Outdoors,3,136.52,20,327.65,No
+SO-100758,22/10/2025,Saudi Arabia,Mobile App,Sports & Outdoors,1,48.60,10,43.74,No
+SO-100759,04/01/2025,Saudi Arabia,Website,Home & Kitchen,1,42.57,0,42.57,No
+SO-100760,30/08/2025,UAE,Website,Books,1,27.09,10,24.38,No
+SO-100761,12/09/2025,UAE,Marketplace,Fashion,4,109.96,0,439.84,No
+SO-100762,21/05/2025,Saudi Arabia,Mobile App,Home & Kitchen,1,87.36,25,65.52,No
+SO-100763,03/06/2025,UAE,Website,Electronics,1,79.51,20,63.61,No
+SO-100764,15/12/2025,Bahrain,Website,Electronics,3,816.07,0,"2,448.21",No
+SO-100765,28/04/2025,Oman,Mobile App,Home & Kitchen,4,219.47,5,833.99,No
+SO-100766,18/03/2025,UAE,Website,Home & Kitchen,1,257.87,0,257.87,No
+SO-100767,04/12/2025,UAE,Marketplace,Electronics,1,289.60,20,231.68,No
+SO-100768,22/10/2025,Qatar,Mobile App,Fashion,1,102.34,20,81.87,No
+SO-100769,17/03/2025,Bahrain,Website,Beauty,2,32.78,0,65.56,No
+SO-100770,27/05/2025,UAE,Mobile App,Home & Kitchen,1,119.58,15,101.64,Yes
+SO-100771,08/09/2025,Qatar,Website,Home & Kitchen,1,246.35,20,197.08,No
+SO-100772,12/01/2025,UAE,Website,Beauty,3,66.26,15,168.96,Yes
+SO-100773,16/06/2025,Saudi Arabia,Mobile App,Home & Kitchen,1,17.80,5,16.91,No
+SO-100774,17/07/2025,Oman,Website,Fashion,1,176.67,5,167.84,No
+SO-100775,12/06/2025,Saudi Arabia,Mobile App,Fashion,1,128.62,25,96.47,No
+SO-100776,15/09/2025,Qatar,Marketplace,Electronics,3,40.16,25,90.36,No
+SO-100777,19/11/2025,UAE,Mobile App,Beauty,2,73.72,20,117.95,No
+SO-100778,10/09/2025,UAE,Website,Home & Kitchen,2,63.74,25,95.61,No
+SO-100779,20/04/2025,UAE,Website,Sports & Outdoors,4,110.07,0,440.28,No
+SO-100780,23/01/2025,UAE,Website,Home & Kitchen,2,36.42,20,58.27,No
+SO-100781,24/09/2025,Qatar,Mobile App,Electronics,1,887.34,15,754.24,No
+SO-100782,05/11/2025,Saudi Arabia,Website,Beauty,1,46.64,15,39.64,No
+SO-100783,20/04/2025,Saudi Arabia,Website,Home & Kitchen,1,127.02,0,127.02,No
+SO-100784,26/11/2025,UAE,Mobile App,Home & Kitchen,1,166.66,20,133.33,No
+SO-100785,18/10/2025,Saudi Arabia,Marketplace,Fashion,1,88.86,0,88.86,No
+SO-100786,07/11/2025,UAE,Website,Fashion,2,63.17,15,107.39,No
+SO-100787,17/02/2025,Oman,Mobile App,Beauty,4,84.15,0,336.60,No
+SO-100788,08/10/2025,Qatar,Website,Home & Kitchen,3,229.71,25,516.85,No
+SO-100789,07/08/2025,Oman,Website,Home & Kitchen,2,138.82,5,263.76,No
+SO-100790,10/10/2025,Bahrain,Website,Electronics,1,389.81,5,370.32,No
+SO-100791,19/09/2025,Saudi Arabia,Marketplace,Beauty,2,30.31,15,51.53,Yes
+SO-100792,24/05/2025,UAE,Website,Books,4,6.87,0,27.48,No
+SO-100793,02/07/2025,Saudi Arabia,Marketplace,Electronics,3,266.66,0,799.98,No
+SO-100794,25/06/2025,Saudi Arabia,Mobile App,Electronics,2,654.73,15,"1,113.04",No
+SO-100795,30/05/2025,UAE,Mobile App,Sports & Outdoors,3,224.55,5,639.97,No
+SO-100796,01/01/2025,UAE,Mobile App,Fashion,2,64.56,10,116.21,No
+SO-100797,22/03/2025,UAE,Website,Fashion,2,126.08,15,214.34,No
+SO-100798,21/08/2025,Saudi Arabia,Website,Electronics,4,505.41,20,"1,617.31",No
+SO-100799,18/05/2025,UAE,Mobile App,Home & Kitchen,4,241.63,10,869.87,No
+SO-100800,05/11/2025,Qatar,Mobile App,Sports & Outdoors,1,193.01,20,154.41,No
+SO-100801,21/10/2025,UAE,Mobile App,Home & Kitchen,1,154.64,25,115.98,No
+SO-100802,20/04/2025,Qatar,Website,Electronics,3,770.14,15,"1,963.86",No
+SO-100803,18/03/2025,Oman,Website,Home & Kitchen,4,29.10,5,110.58,No
+SO-100804,04/03/2025,Saudi Arabia,Marketplace,Fashion,1,173.40,0,173.40,No
+SO-100805,08/01/2025,UAE,Website,Electronics,2,266.16,25,399.24,No
+SO-100806,26/01/2025,Bahrain,Website,Fashion,3,81.83,15,208.67,Yes
+SO-100807,08/02/2025,UAE,Mobile App,Beauty,1,77.36,0,77.36,No
+SO-100808,23/06/2025,Qatar,Marketplace,Home & Kitchen,2,32.46,0,64.92,No
+SO-100809,07/06/2025,Saudi Arabia,Website,Fashion,4,124.43,25,373.29,No
+SO-100810,12/11/2025,UAE,Website,Beauty,3,53.34,30,112.01,No
+SO-100811,01/08/2025,Oman,Website,Home & Kitchen,1,79.95,5,75.95,No
+SO-100812,29/11/2025,UAE,Mobile App,Electronics,1,104.43,15,88.77,No
+SO-100813,08/04/2025,Bahrain,Mobile App,Sports & Outdoors,1,27.61,0,27.61,No
+SO-100814,18/03/2025,UAE,Mobile App,Fashion,1,174.37,0,174.37,Yes
+SO-100815,13/07/2025,Saudi Arabia,Mobile App,Electronics,2,339.49,15,577.13,No
+SO-100816,26/08/2025,Saudi Arabia,Mobile App,Home & Kitchen,1,188.09,0,188.09,No
+SO-100817,19/05/2025,Bahrain,Website,Beauty,1,39.32,0,39.32,No
+SO-100818,30/01/2025,UAE,Mobile App,Electronics,1,353.38,10,318.04,No
+SO-100819,10/12/2025,UAE,Website,Beauty,2,56.47,10,101.65,No
+SO-100820,16/06/2025,UAE,Website,Fashion,1,119.20,5,113.24,No
+SO-100821,30/03/2025,Saudi Arabia,Website,Home & Kitchen,1,23.02,15,19.57,No
+SO-100822,19/07/2025,Saudi Arabia,Mobile App,Fashion,4,15.23,20,48.74,No
+SO-100823,11/05/2025,Saudi Arabia,Website,Fashion,1,61.56,25,46.17,Yes
+SO-100824,14/01/2025,UAE,Website,Fashion,1,66.34,5,63.02,No
+SO-100825,20/07/2025,UAE,Marketplace,Sports & Outdoors,2,317.37,5,603.00,No
+SO-100826,11/01/2025,UAE,Website,Books,3,33.82,15,86.24,No
+SO-100827,08/07/2025,Saudi Arabia,Marketplace,Beauty,2,89.48,20,143.17,No
+SO-100828,17/03/2025,UAE,Website,Beauty,1,58.87,25,44.15,No
+SO-100829,21/11/2025,UAE,Mobile App,Beauty,2,45.13,20,72.21,No
+SO-100830,02/01/2025,Saudi Arabia,Mobile App,Electronics,2,442.99,20,708.78,No
+SO-100831,07/06/2025,UAE,Website,Books,2,17.47,0,34.94,No
+SO-100832,02/02/2025,Kuwait,Website,Books,4,14.99,20,47.97,No
+SO-100833,04/10/2025,UAE,Website,Books,1,43.74,15,37.18,No
+SO-100834,02/08/2025,UAE,Mobile App,Home & Kitchen,1,77.50,10,69.75,No
+SO-100835,01/07/2025,Qatar,Marketplace,Home & Kitchen,1,102.06,10,91.85,No
+SO-100836,29/05/2025,Saudi Arabia,Website,Beauty,2,51.35,0,102.70,No
+SO-100837,21/08/2025,UAE,Mobile App,Sports & Outdoors,4,110.99,15,377.37,No
+SO-100838,11/10/2025,UAE,Mobile App,Home & Kitchen,1,151.17,5,143.61,Yes
+SO-100839,08/02/2025,UAE,Marketplace,Fashion,1,20.64,0,20.64,No
+SO-100840,07/10/2025,UAE,Website,Home & Kitchen,1,153.06,10,137.75,No
+SO-100841,15/08/2025,Qatar,Mobile App,Sports & Outdoors,2,264.61,10,476.30,No
+SO-100842,16/03/2025,Saudi Arabia,Mobile App,Electronics,2,843.30,10,"1,517.94",No
+SO-100843,07/05/2025,UAE,Marketplace,Electronics,4,800.44,0,"3,201.76",No
+SO-100844,29/04/2025,UAE,Mobile App,Fashion,2,169.15,10,304.47,No
+SO-100845,13/10/2025,Saudi Arabia,Mobile App,Fashion,1,139.01,15,118.16,No
+SO-100846,15/08/2025,UAE,Website,Electronics,4,345.91,15,"1,176.09",No
+SO-100847,13/10/2025,UAE,Website,Fashion,1,45.96,0,45.96,No
+SO-100848,16/06/2025,UAE,Marketplace,Home & Kitchen,3,210.96,5,601.24,No
+SO-100849,22/12/2025,UAE,Website,Sports & Outdoors,4,317.34,20,"1,015.49",No
+SO-100850,10/10/2025,UAE,Website,Home & Kitchen,4,138.38,10,498.17,No
+SO-100851,08/05/2025,Saudi Arabia,Website,Fashion,1,85.20,5,80.94,No
+SO-100852,07/04/2025,Kuwait,Marketplace,Fashion,2,49.62,0,99.24,No
+SO-100853,12/01/2025,UAE,Marketplace,Home & Kitchen,1,100.79,15,85.67,No
+SO-100854,30/07/2025,UAE,Marketplace,Electronics,4,313.06,25,939.18,No
+SO-100855,02/04/2025,UAE,Website,Electronics,1,884.76,0,884.76,No
+SO-100856,11/04/2025,UAE,Mobile App,Electronics,4,663.65,10,"2,389.14",No
+SO-100857,06/04/2025,Qatar,Mobile App,Fashion,2,48.37,0,96.74,No
+SO-100858,19/12/2025,Qatar,Website,Beauty,1,13.81,5,13.12,No
+SO-100859,23/08/2025,Saudi Arabia,Website,Fashion,4,112.56,25,337.68,No
+SO-100860,09/06/2025,UAE,Website,Home & Kitchen,2,202.45,10,364.41,No
+SO-100861,11/03/2025,Oman,Marketplace,Sports & Outdoors,1,175.05,0,175.05,No
+SO-100862,19/09/2025,Saudi Arabia,Website,Books,3,18.22,5,51.93,No
+SO-100863,30/04/2025,Saudi Arabia,Website,Fashion,1,49.96,0,49.96,No
+SO-100864,20/11/2025,Kuwait,Website,Beauty,1,17.61,15,14.97,No
+SO-100865,30/10/2025,UAE,Marketplace,Beauty,1,22.99,0,22.99,No
+SO-100866,31/01/2025,UAE,Website,Home & Kitchen,1,63.12,0,63.12,No
+SO-100867,21/10/2025,Saudi Arabia,Website,Beauty,1,11.40,0,11.40,No
+SO-100868,29/10/2025,Bahrain,Mobile App,Home & Kitchen,4,229.75,20,735.20,No
+SO-100869,29/07/2025,UAE,Mobile App,Sports & Outdoors,1,113.45,0,113.45,No
+SO-100870,19/07/2025,UAE,Website,Electronics,1,872.29,20,697.83,No
+SO-100871,07/11/2025,UAE,Website,Fashion,1,143.55,25,107.66,No
+SO-100872,07/01/2025,UAE,Mobile App,Electronics,2,859.65,20,"1,375.44",No
+SO-100873,21/09/2025,UAE,Website,Home & Kitchen,1,150.88,0,150.88,No
+SO-100874,15/02/2025,Saudi Arabia,Website,Books,2,31.39,20,50.22,No
+SO-100875,26/12/2025,Saudi Arabia,Marketplace,Electronics,1,128.09,25,96.07,No
+SO-100876,29/04/2025,UAE,Mobile App,Electronics,3,335.28,0,"1,005.84",No
+SO-100877,25/11/2025,Saudi Arabia,Mobile App,Beauty,3,8.73,20,20.95,No
+SO-100878,02/12/2025,Kuwait,Website,Electronics,2,859.94,5,"1,633.89",No
+SO-100879,03/07/2025,Saudi Arabia,Website,Beauty,2,31.66,0,63.32,No
+SO-100880,01/05/2025,UAE,Mobile App,Fashion,4,15.80,15,53.72,No
+SO-100881,03/11/2025,Saudi Arabia,Website,Sports & Outdoors,3,187.59,15,478.35,No
+SO-100882,07/06/2025,UAE,Website,Home & Kitchen,1,137.54,0,137.54,No
+SO-100883,26/08/2025,Kuwait,Website,Books,1,32.21,0,32.21,No
+SO-100884,14/05/2025,Kuwait,Mobile App,Fashion,1,120.09,0,120.09,No
+SO-100885,13/07/2025,Saudi Arabia,Mobile App,Fashion,4,136.36,10,490.90,No
+SO-100886,01/08/2025,Qatar,Mobile App,Beauty,1,25.03,25,18.77,No
+SO-100887,12/01/2025,UAE,Mobile App,Fashion,3,175.91,0,527.73,No
+SO-100888,26/05/2025,Saudi Arabia,Mobile App,Books,2,15.26,15,25.94,No
+SO-100889,24/02/2025,UAE,Website,Books,3,32.86,25,73.94,No
+SO-100890,01/07/2025,UAE,Mobile App,Electronics,3,208.72,5,594.85,No
+SO-100891,31/05/2025,UAE,Website,Electronics,2,510.21,0,"1,020.42",No
+SO-100892,19/12/2025,Qatar,Mobile App,Sports & Outdoors,2,265.31,5,504.09,No
+SO-100893,10/03/2025,UAE,Website,Home & Kitchen,1,18.87,0,18.87,No
+SO-100894,01/02/2025,UAE,Mobile App,Fashion,4,136.28,25,408.84,No
+SO-100895,31/12/2025,Qatar,Website,Books,2,37.08,0,74.16,No
+SO-100896,15/08/2025,Qatar,Website,Sports & Outdoors,2,66.09,25,99.14,No
+SO-100897,25/04/2025,Bahrain,Marketplace,Fashion,2,111.69,0,223.38,No
+SO-100898,06/08/2025,Kuwait,Mobile App,Beauty,2,18.00,10,32.40,No
+SO-100899,30/07/2025,UAE,Website,Electronics,1,830.52,25,622.89,No
+SO-100900,26/09/2025,UAE,Mobile App,Electronics,4,327.26,20,"1,047.23",No
+SO-100901,19/10/2025,Saudi Arabia,Marketplace,Books,1,11.52,25,8.64,No
+SO-100902,25/11/2025,Saudi Arabia,Website,Beauty,2,72.52,15,123.28,No
+SO-100903,08/12/2025,UAE,Website,Books,2,30.73,0,61.46,No
+SO-100904,07/02/2025,Qatar,Website,Beauty,4,23.95,0,95.80,No
+SO-100905,21/09/2025,Saudi Arabia,Website,Electronics,2,517.98,15,880.57,No
+SO-100906,25/06/2025,UAE,Website,Sports & Outdoors,1,28.75,0,28.75,Yes
+SO-100907,01/12/2025,UAE,Mobile App,Fashion,4,103.06,10,371.02,No
+SO-100908,04/04/2025,Qatar,Website,Books,1,6.82,0,6.82,No
+SO-100909,17/05/2025,Saudi Arabia,Website,Electronics,1,760.34,0,760.34,No
+SO-100910,17/11/2025,UAE,Mobile App,Fashion,2,145.68,15,247.66,No
+SO-100911,16/12/2025,Qatar,Website,Beauty,1,85.63,5,81.35,No
+SO-100912,20/08/2025,Saudi Arabia,Website,Home & Kitchen,1,240.22,0,240.22,No
+SO-100913,23/10/2025,Saudi Arabia,Website,Electronics,1,98.93,25,74.20,No
+SO-100914,11/04/2025,Saudi Arabia,Mobile App,Home & Kitchen,1,69.11,0,69.11,No
+SO-100915,02/03/2025,Bahrain,Marketplace,Beauty,4,83.23,20,266.34,No
+SO-100916,02/05/2025,Kuwait,Mobile App,Electronics,1,665.23,0,665.23,No
+SO-100917,05/11/2025,UAE,Website,Sports & Outdoors,1,218.94,15,186.10,No
+SO-100918,18/06/2025,Qatar,Website,Electronics,1,825.37,5,784.10,No
+SO-100919,13/12/2025,Saudi Arabia,Mobile App,Fashion,2,122.00,0,244.00,No
+SO-100920,17/07/2025,UAE,Website,Home & Kitchen,4,240.67,0,962.68,No
+SO-100921,20/01/2025,UAE,Mobile App,Beauty,1,54.01,10,48.61,No
+SO-100922,20/12/2025,Qatar,Website,Fashion,1,78.15,15,66.43,No
+SO-100923,13/01/2025,Kuwait,Marketplace,Home & Kitchen,1,179.80,25,134.85,No
+SO-100924,08/07/2025,Kuwait,Mobile App,Books,2,36.31,0,72.62,No
+SO-100925,06/05/2025,UAE,Marketplace,Beauty,2,70.42,15,119.71,No
+SO-100926,28/10/2025,UAE,Mobile App,Beauty,1,78.43,0,78.43,No
+SO-100927,09/06/2025,UAE,Marketplace,Fashion,3,56.44,15,143.92,No
+SO-100928,11/07/2025,Saudi Arabia,Website,Home & Kitchen,4,135.62,25,406.86,No
+SO-100929,02/01/2025,Saudi Arabia,Website,Home & Kitchen,2,194.60,20,311.36,No
+SO-100930,08/04/2025,UAE,Mobile App,Fashion,2,127.74,0,255.48,No
+SO-100931,27/07/2025,Bahrain,Mobile App,Electronics,1,843.09,25,632.32,No
+SO-100932,23/02/2025,Saudi Arabia,Website,Electronics,4,880.48,0,"3,521.92",No
+SO-100933,21/10/2025,Saudi Arabia,Website,Sports & Outdoors,3,32.08,20,76.99,No
+SO-100934,06/08/2025,Saudi Arabia,Website,Fashion,2,16.58,25,24.87,Yes
+SO-100935,07/04/2025,Saudi Arabia,Website,Home & Kitchen,1,85.89,0,85.89,No
+SO-100936,17/10/2025,UAE,Website,Sports & Outdoors,1,173.31,25,129.98,Yes
+SO-100937,12/07/2025,Oman,Mobile App,Fashion,1,27.91,10,25.12,No
+SO-100938,26/07/2025,UAE,Website,Sports & Outdoors,4,238.55,5,906.49,No
+SO-100939,21/11/2025,Kuwait,Website,Fashion,2,34.62,15,58.85,No
+SO-100940,03/07/2025,UAE,Marketplace,Electronics,1,690.46,5,655.94,No
+SO-100941,25/01/2025,UAE,Website,Fashion,1,120.73,0,120.73,No
+SO-100942,27/01/2025,Saudi Arabia,Website,Fashion,1,32.90,0,32.90,No
+SO-100943,17/02/2025,Saudi Arabia,Mobile App,Electronics,4,646.23,20,"2,067.94",No
+SO-100944,23/06/2025,UAE,Website,Home & Kitchen,1,122.70,10,110.43,No
+SO-100945,12/11/2025,UAE,Mobile App,Home & Kitchen,3,171.33,30,359.79,No
+SO-100946,14/12/2025,UAE,Mobile App,Books,1,44.77,20,35.82,No
+SO-100947,12/04/2025,UAE,Website,Beauty,2,73.55,0,147.10,No
+SO-100948,25/04/2025,UAE,Website,Fashion,1,22.23,15,18.90,No
+SO-100949,25/05/2025,Qatar,Marketplace,Electronics,2,683.10,0,"1,366.20",No
+SO-100950,07/11/2025,Oman,Mobile App,Electronics,1,97.87,20,78.30,No
+SO-100951,01/03/2025,Saudi Arabia,Mobile App,Home & Kitchen,1,194.24,5,184.53,No
+SO-100952,25/10/2025,UAE,Website,Sports & Outdoors,4,243.46,25,730.38,No
+SO-100953,28/03/2025,UAE,Mobile App,Electronics,1,899.30,25,674.47,No
+SO-100954,28/05/2025,UAE,Website,Home & Kitchen,1,217.98,20,174.38,No
+SO-100955,23/11/2025,UAE,Marketplace,Fashion,2,29.46,30,41.24,No
+SO-100956,07/12/2025,Saudi Arabia,Website,Fashion,2,150.14,5,285.27,No
+SO-100957,16/07/2025,UAE,Website,Home & Kitchen,1,131.02,5,124.47,No
+SO-100958,21/05/2025,Kuwait,Website,Fashion,1,77.27,20,61.82,No
+SO-100959,08/08/2025,Saudi Arabia,Website,Fashion,1,133.47,15,113.45,No
+SO-100960,04/01/2025,UAE,Mobile App,Electronics,1,743.11,10,668.80,Yes
+SO-100961,14/09/2025,UAE,Mobile App,Fashion,2,21.54,0,43.08,No
+SO-100962,02/04/2025,UAE,Website,Electronics,2,133.92,25,200.88,No
+SO-100963,16/02/2025,UAE,Website,Books,1,6.90,10,6.21,No
+SO-100964,06/11/2025,UAE,Website,Books,2,26.63,20,42.61,No
+SO-100965,10/12/2025,Bahrain,Mobile App,Beauty,1,20.55,0,20.55,No
+SO-100966,12/05/2025,Saudi Arabia,Mobile App,Home & Kitchen,2,134.58,20,215.33,No
+SO-100967,03/05/2025,Kuwait,Mobile App,Electronics,1,345.94,20,276.75,No
+SO-100968,21/05/2025,Saudi Arabia,Website,Books,3,30.44,0,91.32,No
+SO-100969,25/03/2025,UAE,Website,Home & Kitchen,1,101.97,15,86.67,No
+SO-100970,13/01/2025,Oman,Website,Electronics,2,256.97,0,513.94,No
+SO-100971,15/02/2025,Saudi Arabia,Website,Home & Kitchen,3,210.21,0,630.63,No
+SO-100972,02/12/2025,UAE,Marketplace,Sports & Outdoors,4,95.24,0,380.96,No
+SO-100973,02/10/2025,Oman,Website,Electronics,1,274.63,0,274.63,No
+SO-100974,05/12/2025,UAE,Mobile App,Electronics,3,120.97,0,362.91,No
+SO-100975,01/09/2025,Saudi Arabia,Mobile App,Home & Kitchen,2,129.45,0,258.90,No
+SO-100976,21/04/2025,UAE,Mobile App,Beauty,2,13.68,10,24.62,No
+SO-100977,03/12/2025,Kuwait,Mobile App,Electronics,1,349.43,25,262.07,No
+SO-100978,12/03/2025,Kuwait,Mobile App,Electronics,2,597.15,15,"1,015.15",No
+SO-100979,06/04/2025,UAE,Website,Sports & Outdoors,1,116.19,0,116.19,No
+SO-100980,15/06/2025,Oman,Website,Sports & Outdoors,2,156.06,0,312.12,No
+SO-100981,27/12/2025,Bahrain,Mobile App,Books,2,14.59,5,27.72,No
+SO-100982,16/04/2025,UAE,Website,Electronics,4,641.38,0,"2,565.52",No
+SO-100983,21/10/2025,UAE,Mobile App,Sports & Outdoors,1,227.68,25,170.76,Yes
+SO-100984,24/12/2025,UAE,Website,Fashion,4,138.48,10,498.53,No
+SO-100985,14/04/2025,Saudi Arabia,Website,Electronics,1,748.64,0,748.64,No
+SO-100986,15/11/2025,UAE,Mobile App,Home & Kitchen,2,119.91,20,191.86,No
+SO-100987,13/10/2025,UAE,Mobile App,Home & Kitchen,1,34.31,0,34.31,No
+SO-100988,03/01/2025,Saudi Arabia,Website,Beauty,1,70.27,0,70.27,No
+SO-100989,30/12/2025,Oman,Mobile App,Fashion,4,19.49,15,66.27,No
+SO-100990,07/11/2025,Saudi Arabia,Website,Beauty,3,68.24,20,163.78,Yes
+SO-100991,31/10/2025,Saudi Arabia,Marketplace,Home & Kitchen,2,32.48,0,64.96,No
+SO-100992,08/04/2025,Saudi Arabia,Mobile App,Beauty,1,40.95,15,34.81,No
+SO-100993,04/10/2025,UAE,Website,Home & Kitchen,3,166.20,0,498.60,No
+SO-100994,18/06/2025,Oman,Mobile App,Sports & Outdoors,2,237.51,20,380.02,No
+SO-100995,12/01/2025,UAE,Website,Fashion,2,65.84,25,98.76,No
+SO-100996,12/06/2025,UAE,Mobile App,Electronics,2,578.37,0,"1,156.74",No
+SO-100997,17/10/2025,Saudi Arabia,Mobile App,Fashion,1,179.86,10,161.87,No
+SO-100998,10/04/2025,UAE,Website,Books,1,34.56,25,25.92,Yes
+SO-100999,24/05/2025,Saudi Arabia,Marketplace,Home & Kitchen,4,149.60,0,598.40,No
+SO-101000,01/06/2025,UAE,Marketplace,Fashion,3,105.32,0,315.96,No
+SO-101001,03/07/2025,Oman,Website,Fashion,1,51.35,0,51.35,Yes
+SO-101002,22/01/2025,Kuwait,Marketplace,Sports & Outdoors,2,54.13,15,92.02,No
+SO-101003,17/03/2025,Saudi Arabia,Mobile App,Beauty,4,34.19,15,116.25,No
+SO-101004,21/11/2025,Saudi Arabia,Mobile App,Electronics,1,734.58,25,550.94,No
+SO-101005,12/07/2025,UAE,Website,Fashion,2,156.92,5,298.15,No
+SO-101006,18/03/2025,Bahrain,Website,Sports & Outdoors,2,127.52,0,255.04,No
+SO-101007,02/03/2025,Saudi Arabia,Website,Sports & Outdoors,4,114.58,0,458.32,Yes
+SO-101008,21/12/2025,UAE,Website,Books,1,16.97,20,13.58,No
+SO-101009,25/01/2025,Saudi Arabia,Website,Electronics,4,184.17,25,552.51,No
+SO-101010,21/09/2025,UAE,Website,Books,1,12.72,0,12.72,No
+SO-101011,21/07/2025,Oman,Mobile App,Fashion,1,75.70,15,64.34,No
+SO-101012,12/02/2025,Saudi Arabia,Mobile App,Electronics,1,554.15,20,443.32,No
+SO-101013,31/07/2025,UAE,Website,Electronics,4,269.43,20,862.18,No
+SO-101014,07/07/2025,Saudi Arabia,Website,Sports & Outdoors,3,246.84,10,666.47,No
+SO-101015,14/07/2025,UAE,Mobile App,Fashion,2,33.72,10,60.70,No
+SO-101016,21/03/2025,Qatar,Website,Books,3,22.67,5,64.61,No
+SO-101017,11/09/2025,Saudi Arabia,Website,Electronics,2,280.45,20,448.72,No
+SO-101018,11/05/2025,Oman,Mobile App,Electronics,4,736.01,25,"2,208.03",No
+SO-101019,09/01/2025,UAE,Marketplace,Fashion,1,101.04,0,101.04,No
+SO-101020,25/09/2025,Qatar,Mobile App,Fashion,1,157.60,10,141.84,No
+SO-101021,08/11/2025,Saudi Arabia,Mobile App,Home & Kitchen,3,102.16,30,214.54,No
+SO-101022,25/05/2025,UAE,Website,Fashion,1,174.99,20,139.99,No
+SO-101023,17/04/2025,UAE,Website,Home & Kitchen,1,182.41,0,182.41,No
+SO-101024,26/08/2025,UAE,Marketplace,Books,3,35.79,0,107.37,No
+SO-101025,12/11/2025,UAE,Website,Beauty,4,58.49,20,187.17,No
+SO-101026,07/04/2025,Saudi Arabia,Website,Books,2,7.45,10,13.41,No
+SO-101027,21/05/2025,UAE,Mobile App,Fashion,1,53.52,0,53.52,No
+SO-101028,13/01/2025,UAE,Website,Electronics,2,595.82,25,893.73,Yes
+SO-101029,29/04/2025,UAE,Mobile App,Beauty,1,74.75,25,56.06,No
+SO-101030,17/07/2025,Qatar,Mobile App,Electronics,2,116.72,20,186.75,No
+SO-101031,06/09/2025,Saudi Arabia,Website,Home & Kitchen,1,213.90,0,213.90,No
+SO-101032,01/12/2025,UAE,Mobile App,Home & Kitchen,3,91.11,0,273.33,No
+SO-101033,07/08/2025,UAE,Website,Electronics,1,494.09,25,370.57,No
+SO-101034,08/06/2025,Kuwait,Website,Books,2,19.87,15,33.78,No
+SO-101035,17/03/2025,Kuwait,Mobile App,Fashion,2,104.08,0,208.16,Yes
+SO-101036,30/03/2025,Saudi Arabia,Website,Fashion,1,172.91,20,138.33,No
+SO-101037,10/01/2025,UAE,Marketplace,Beauty,1,71.85,15,61.07,No
+SO-101038,29/11/2025,UAE,Website,Sports & Outdoors,2,284.29,15,483.29,No
+SO-101039,25/04/2025,UAE,Mobile App,Sports & Outdoors,1,119.65,0,119.65,No
+SO-101040,27/06/2025,Qatar,Mobile App,Beauty,1,87.83,10,79.05,No
+SO-101041,16/09/2025,UAE,Mobile App,Home & Kitchen,2,206.18,5,391.74,No
+SO-101042,14/11/2025,Oman,Website,Books,4,35.05,20,112.16,No
+SO-101043,16/02/2025,UAE,Mobile App,Fashion,2,127.20,0,254.40,No
+SO-101044,25/10/2025,Qatar,Mobile App,Books,3,19.57,10,52.84,No
+SO-101045,05/03/2025,Saudi Arabia,Mobile App,Electronics,1,465.62,5,442.34,Yes
+SO-101046,22/08/2025,Qatar,Mobile App,Electronics,3,694.58,20,"1,666.99",No
+SO-101047,16/01/2025,Saudi Arabia,Website,Sports & Outdoors,4,114.44,20,366.21,No
+SO-101048,06/01/2025,Kuwait,Marketplace,Electronics,1,845.42,0,845.42,No
+SO-101049,02/05/2025,Saudi Arabia,Website,Beauty,1,61.57,15,52.33,No
+SO-101050,12/04/2025,Saudi Arabia,Marketplace,Books,1,26.35,25,19.76,No
+SO-101051,08/02/2025,Kuwait,Website,Books,1,41.51,0,41.51,Yes
+SO-101052,09/05/2025,UAE,Marketplace,Electronics,1,456.23,0,456.23,No
+SO-101053,25/09/2025,UAE,Mobile App,Electronics,3,116.13,10,313.55,No
+SO-101054,12/10/2025,UAE,Mobile App,Home & Kitchen,4,129.34,15,439.76,No
+SO-101055,02/05/2025,Oman,Mobile App,Home & Kitchen,1,126.25,10,113.62,No
+SO-101056,22/08/2025,UAE,Website,Books,4,36.84,0,147.36,No
+SO-101057,15/02/2025,UAE,Marketplace,Home & Kitchen,2,253.29,0,506.58,No
+SO-101058,22/06/2025,Saudi Arabia,Mobile App,Electronics,1,109.55,15,93.12,No
+SO-101059,05/03/2025,UAE,Mobile App,Beauty,2,68.90,10,124.02,No
+SO-101060,04/09/2025,UAE,Mobile App,Fashion,2,79.54,10,143.17,No
+SO-101061,14/02/2025,UAE,Mobile App,Home & Kitchen,4,193.27,0,773.08,No
+SO-101062,13/08/2025,Oman,Marketplace,Beauty,2,85.78,5,162.98,No
+SO-101063,13/04/2025,UAE,Mobile App,Sports & Outdoors,3,172.72,20,414.53,No
+SO-101064,21/07/2025,UAE,Website,Sports & Outdoors,2,170.54,0,341.08,No
+SO-101065,22/10/2025,UAE,Website,Electronics,1,323.57,20,258.86,No
+SO-101066,14/05/2025,UAE,Website,Sports & Outdoors,1,307.59,0,307.59,No
+SO-101067,11/10/2025,Saudi Arabia,Mobile App,Electronics,1,544.80,0,544.80,No
+SO-101068,11/05/2025,UAE,Website,Home & Kitchen,1,81.17,10,73.05,No
+SO-101069,07/05/2025,UAE,Mobile App,Electronics,1,624.26,20,499.41,No
+SO-101070,25/10/2025,Oman,Website,Home & Kitchen,2,193.24,0,386.48,No
+SO-101071,19/05/2025,Oman,Mobile App,Sports & Outdoors,4,81.98,0,327.92,No
+SO-101072,16/10/2025,UAE,Website,Home & Kitchen,2,245.89,0,491.78,No
+SO-101073,03/05/2025,UAE,Website,Home & Kitchen,2,23.45,0,46.90,No
+SO-101074,22/02/2025,Saudi Arabia,Mobile App,Sports & Outdoors,1,22.46,0,22.46,No
+SO-101075,06/02/2025,UAE,Marketplace,Home & Kitchen,4,12.03,25,36.09,No
+SO-101076,14/01/2025,UAE,Marketplace,Beauty,2,88.78,20,142.05,No
+SO-101077,20/10/2025,UAE,Marketplace,Fashion,1,166.10,0,166.10,No
+SO-101078,14/10/2025,UAE,Marketplace,Sports & Outdoors,1,118.61,0,118.61,No
+SO-101079,19/08/2025,Saudi Arabia,Mobile App,Electronics,1,101.13,0,101.13,No
+SO-101080,03/10/2025,UAE,Website,Electronics,2,826.58,10,"1,487.84",No
+SO-101081,03/07/2025,UAE,Mobile App,Electronics,1,659.19,0,659.19,No
+SO-101082,07/04/2025,Kuwait,Website,Fashion,3,157.73,0,473.19,No
+SO-101083,12/06/2025,UAE,Mobile App,Sports & Outdoors,1,142.31,0,142.31,Yes
+SO-101084,09/10/2025,UAE,Mobile App,Electronics,1,564.30,0,564.30,No
+SO-101085,25/04/2025,UAE,Website,Electronics,2,104.65,15,177.91,No
+SO-101086,18/05/2025,UAE,Website,Home & Kitchen,1,140.61,0,140.61,No
+SO-101087,21/11/2025,UAE,Website,Home & Kitchen,3,49.44,30,103.82,No
+SO-101088,23/07/2025,UAE,Mobile App,Books,2,40.23,15,68.39,No
+SO-101089,11/09/2025,Oman,Mobile App,Fashion,2,166.27,0,332.54,No
+SO-101090,11/04/2025,UAE,Website,Fashion,3,88.95,25,200.14,No
+SO-101091,02/07/2025,Kuwait,Website,Beauty,3,64.95,20,155.88,No
+SO-101092,22/11/2025,Bahrain,Marketplace,Home & Kitchen,3,113.64,30,238.64,No
+SO-101093,13/10/2025,Oman,Marketplace,Fashion,3,157.88,5,449.96,No
+SO-101094,26/08/2025,UAE,Mobile App,Books,2,33.01,0,66.02,No
+SO-101095,22/05/2025,Kuwait,Website,Fashion,1,20.10,0,20.10,No
+SO-101096,01/06/2025,Kuwait,Mobile App,Electronics,2,782.04,5,"1,485.88",No
+SO-101097,21/02/2025,Saudi Arabia,Mobile App,Fashion,2,21.18,20,33.89,No
+SO-101098,14/07/2025,Saudi Arabia,Website,Fashion,2,89.92,10,161.86,No
+SO-101099,14/08/2025,UAE,Mobile App,Beauty,1,73.31,0,73.31,No
+SO-101100,17/04/2025,Qatar,Website,Electronics,3,407.59,0,"1,222.77",No
+SO-101101,02/03/2025,Qatar,Mobile App,Beauty,2,89.20,0,178.40,No
+SO-101102,23/06/2025,UAE,Marketplace,Fashion,1,32.76,25,24.57,No
+SO-101103,22/07/2025,UAE,Website,Books,2,32.39,5,61.54,Yes
+SO-101104,02/08/2025,UAE,Marketplace,Fashion,1,85.97,0,85.97,No
+SO-101105,22/05/2025,UAE,Marketplace,Books,2,24.02,10,43.24,No
+SO-101106,08/05/2025,Qatar,Mobile App,Electronics,1,866.07,15,736.16,No
+SO-101107,23/07/2025,Bahrain,Website,Sports & Outdoors,1,93.17,10,83.85,Yes
+SO-101108,18/02/2025,UAE,Website,Home & Kitchen,2,221.36,25,332.04,No
+SO-101109,09/12/2025,UAE,Mobile App,Electronics,2,323.12,0,646.24,No
+SO-101110,05/08/2025,Qatar,Website,Beauty,2,64.06,15,108.90,No
+SO-101111,13/08/2025,Kuwait,Website,Beauty,2,77.62,20,124.19,No
+SO-101112,20/05/2025,Saudi Arabia,Mobile App,Home & Kitchen,1,235.98,10,212.38,Yes
+SO-101113,26/10/2025,UAE,Mobile App,Electronics,1,144.63,15,122.94,No
+SO-101114,15/06/2025,UAE,Website,Books,1,13.65,10,12.29,No
+SO-101115,16/05/2025,Oman,Website,Sports & Outdoors,1,271.45,10,244.31,No
+SO-101116,22/01/2025,UAE,Mobile App,Fashion,3,22.14,5,63.10,No
+SO-101117,29/10/2025,Qatar,Mobile App,Home & Kitchen,3,257.31,5,733.33,No
+SO-101118,09/04/2025,Kuwait,Website,Electronics,2,514.07,15,873.92,No
+SO-101119,25/10/2025,Bahrain,Mobile App,Beauty,4,8.62,15,29.31,No
+SO-101120,01/02/2025,Saudi Arabia,Mobile App,Books,3,7.55,20,18.12,No
+SO-101121,14/02/2025,UAE,Marketplace,Electronics,2,822.09,10,"1,479.76",No
+SO-101122,06/10/2025,Oman,Marketplace,Home & Kitchen,1,253.72,15,215.66,No
+SO-101123,17/03/2025,Saudi Arabia,Website,Beauty,1,49.15,0,49.15,No
+SO-101124,25/07/2025,UAE,Website,Fashion,4,146.08,5,555.10,No
+SO-101125,11/11/2025,Saudi Arabia,Marketplace,Fashion,1,130.87,20,104.70,No
+SO-101126,22/08/2025,Qatar,Marketplace,Electronics,1,664.54,0,664.54,No
+SO-101127,25/11/2025,Saudi Arabia,Mobile App,Home & Kitchen,1,75.39,30,52.77,No
+SO-101128,04/09/2025,Kuwait,Website,Home & Kitchen,2,169.25,15,287.72,No
+SO-101129,03/03/2025,Oman,Website,Home & Kitchen,1,211.89,25,158.92,No
+SO-101130,20/12/2025,UAE,Mobile App,Sports & Outdoors,3,261.49,10,706.02,Yes
+SO-101131,21/08/2025,Saudi Arabia,Website,Sports & Outdoors,1,58.65,25,43.99,No
+SO-101132,18/09/2025,UAE,Mobile App,Books,4,27.57,25,82.71,No
+SO-101133,04/04/2025,UAE,Marketplace,Home & Kitchen,1,239.34,0,239.34,No
+SO-101134,04/06/2025,Saudi Arabia,Website,Fashion,3,145.03,20,348.07,No
+SO-101135,15/03/2025,UAE,Mobile App,Electronics,3,332.85,0,998.55,No
+SO-101136,07/07/2025,Qatar,Marketplace,Home & Kitchen,1,241.16,20,192.93,No
+SO-101137,21/09/2025,UAE,Mobile App,Electronics,4,451.09,20,"1,443.49",No
+SO-101138,21/07/2025,UAE,Website,Fashion,3,110.94,0,332.82,No
+SO-101139,17/04/2025,UAE,Website,Fashion,3,123.81,25,278.57,No
+SO-101140,26/08/2025,Saudi Arabia,Website,Home & Kitchen,4,228.62,0,914.48,No
+SO-101141,25/11/2025,UAE,Website,Home & Kitchen,4,23.00,20,73.60,No
+SO-101142,25/06/2025,Oman,Website,Electronics,1,417.61,10,375.85,No
+SO-101143,15/06/2025,Saudi Arabia,Mobile App,Sports & Outdoors,1,267.76,0,267.76,No
+SO-101144,09/09/2025,Saudi Arabia,Website,Sports & Outdoors,1,98.96,0,98.96,No
+SO-101145,27/04/2025,UAE,Website,Fashion,2,159.95,20,255.92,No
+SO-101146,29/11/2025,UAE,Mobile App,Sports & Outdoors,2,34.65,15,58.90,No
+SO-101147,03/06/2025,Saudi Arabia,Website,Sports & Outdoors,1,281.99,0,281.99,No
+SO-101148,17/11/2025,UAE,Mobile App,Home & Kitchen,2,74.67,15,126.94,No
+SO-101149,14/07/2025,Kuwait,Mobile App,Fashion,2,174.28,25,261.42,No
+SO-101150,24/03/2025,Oman,Website,Electronics,2,835.65,0,"1,671.30",No
+SO-101151,03/07/2025,Oman,Mobile App,Beauty,4,60.02,5,228.08,Yes
+SO-101152,12/02/2025,UAE,Marketplace,Electronics,2,453.75,10,816.75,No
+SO-101153,12/03/2025,Oman,Website,Sports & Outdoors,2,210.51,0,421.02,No
+SO-101154,26/11/2025,Bahrain,Mobile App,Beauty,3,34.22,30,71.86,No
+SO-101155,25/12/2025,Qatar,Website,Home & Kitchen,1,128.49,5,122.07,Yes
+SO-101156,13/03/2025,Saudi Arabia,Website,Home & Kitchen,2,30.95,10,55.71,No
+SO-101157,15/05/2025,Saudi Arabia,Website,Fashion,1,63.32,20,50.66,Yes
+SO-101158,18/09/2025,Bahrain,Website,Home & Kitchen,2,92.57,0,185.14,No
+SO-101159,22/03/2025,UAE,Mobile App,Books,3,24.26,10,65.50,No
+SO-101160,17/07/2025,Qatar,Website,Fashion,3,64.92,5,185.02,No
+SO-101161,17/04/2025,Saudi Arabia,Mobile App,Beauty,1,25.30,5,24.04,No
+SO-101162,26/11/2025,UAE,Mobile App,Fashion,1,70.77,15,60.15,No
+SO-101163,13/03/2025,UAE,Mobile App,Beauty,2,78.63,15,133.67,No
+SO-101164,18/04/2025,UAE,Website,Home & Kitchen,1,91.70,15,77.95,No
+SO-101165,04/06/2025,UAE,Website,Fashion,1,55.81,25,41.86,No
+SO-101166,22/11/2025,Oman,Website,Fashion,1,25.94,30,18.16,No
+SO-101167,28/03/2025,UAE,Website,Beauty,2,30.71,10,55.28,No
+SO-101168,11/08/2025,Oman,Website,Home & Kitchen,2,122.46,0,244.92,No
+SO-101169,25/05/2025,Bahrain,Mobile App,Electronics,2,264.19,0,528.38,No
+SO-101170,03/09/2025,Qatar,Mobile App,Home & Kitchen,2,209.50,0,419.00,No
+SO-101171,29/10/2025,UAE,Mobile App,Books,1,21.89,25,16.42,No
+SO-101172,23/09/2025,Bahrain,Mobile App,Electronics,4,416.06,0,"1,664.24",No
+SO-101173,13/05/2025,Saudi Arabia,Mobile App,Home & Kitchen,2,92.44,15,157.15,No
+SO-101174,16/03/2025,UAE,Website,Electronics,1,148.02,5,140.62,No
+SO-101175,05/10/2025,UAE,Website,Sports & Outdoors,1,319.85,0,319.85,No
+SO-101176,12/03/2025,Oman,Website,Fashion,1,109.16,10,98.24,No
+SO-101177,08/07/2025,Saudi Arabia,Marketplace,Fashion,1,33.80,15,28.73,No
+SO-101178,23/11/2025,Saudi Arabia,Marketplace,Fashion,1,155.75,20,124.60,No
+SO-101179,12/05/2025,UAE,Mobile App,Sports & Outdoors,1,85.01,20,68.01,No
+SO-101180,06/02/2025,UAE,Website,Electronics,2,639.81,25,959.71,No
+SO-101181,01/04/2025,Saudi Arabia,Marketplace,Electronics,1,336.89,25,252.67,No
+SO-101182,22/04/2025,UAE,Mobile App,Sports & Outdoors,1,124.74,25,93.55,No
+SO-101183,19/12/2025,UAE,Mobile App,Beauty,2,23.01,15,39.12,No
+SO-101184,17/03/2025,Qatar,Website,Sports & Outdoors,1,162.42,15,138.06,No
+SO-101185,12/10/2025,Saudi Arabia,Mobile App,Home & Kitchen,2,160.24,0,320.48,No
+SO-101186,01/01/2025,UAE,Mobile App,Sports & Outdoors,4,41.83,0,167.32,No
+SO-101187,11/06/2025,Kuwait,Website,Books,1,13.59,0,13.59,Yes
+SO-101188,25/10/2025,UAE,Mobile App,Books,2,16.43,15,27.93,No
+SO-101189,30/05/2025,Saudi Arabia,Mobile App,Fashion,1,93.87,25,70.40,No
+SO-101190,08/04/2025,UAE,Website,Home & Kitchen,1,136.99,25,102.74,No
+SO-101191,12/03/2025,UAE,Mobile App,Electronics,1,500.12,20,400.10,Yes
+SO-101192,24/11/2025,Saudi Arabia,Website,Fashion,4,93.52,20,299.26,No
+SO-101193,19/09/2025,UAE,Mobile App,Beauty,4,49.20,15,167.28,No
+SO-101194,02/11/2025,Saudi Arabia,Website,Home & Kitchen,1,239.77,20,191.82,No
+SO-101195,28/11/2025,Qatar,Website,Electronics,2,773.65,15,"1,315.20",No
+SO-101196,26/10/2025,UAE,Website,Fashion,1,64.48,20,51.58,No
+SO-101197,01/10/2025,Oman,Website,Home & Kitchen,1,225.28,20,180.22,No
+SO-101198,19/09/2025,UAE,Mobile App,Electronics,2,465.84,0,931.68,No
+SO-101199,18/07/2025,Qatar,Website,Fashion,2,134.43,10,241.97,Yes
+SO-101200,20/05/2025,Qatar,Mobile App,Home & Kitchen,1,13.88,5,13.19,No
+SO-101201,16/07/2025,Saudi Arabia,Website,Electronics,1,885.99,10,797.39,No
+SO-101202,24/04/2025,Qatar,Mobile App,Fashion,4,29.42,5,111.80,No
+SO-101203,04/01/2025,UAE,Mobile App,Fashion,4,170.18,0,680.72,No
+SO-101204,24/10/2025,Oman,Website,Fashion,2,100.90,20,161.44,No
+SO-101205,18/05/2025,UAE,Website,Beauty,2,44.67,10,80.41,No
+SO-101206,11/03/2025,UAE,Website,Home & Kitchen,2,37.44,20,59.90,No
+SO-101207,21/02/2025,Saudi Arabia,Website,Sports & Outdoors,1,266.37,20,213.10,No
+SO-101208,12/05/2025,Saudi Arabia,Website,Fashion,4,72.69,5,276.22,No
+SO-101209,17/10/2025,Qatar,Website,Electronics,2,645.61,5,"1,226.66",No
+SO-101210,27/11/2025,UAE,Website,Sports & Outdoors,2,223.49,25,335.24,No
+SO-101211,29/06/2025,Bahrain,Mobile App,Fashion,4,157.60,15,535.84,No
+SO-101212,29/09/2025,Qatar,Mobile App,Beauty,4,85.01,0,340.04,No
+SO-101213,11/07/2025,Kuwait,Marketplace,Beauty,4,70.19,5,266.72,No
+SO-101214,22/01/2025,Saudi Arabia,Mobile App,Beauty,2,71.83,20,114.93,No
+SO-101215,21/06/2025,Oman,Website,Home & Kitchen,4,84.59,25,253.77,No
+SO-101216,14/11/2025,UAE,Marketplace,Electronics,2,670.28,15,"1,139.48",No
+SO-101217,03/11/2025,UAE,Website,Fashion,1,110.40,20,88.32,No
+SO-101218,07/12/2025,Bahrain,Website,Books,2,21.30,15,36.21,Yes
+SO-101219,16/11/2025,Saudi Arabia,Mobile App,Fashion,2,164.10,30,229.74,Yes
+SO-101220,13/03/2025,Qatar,Mobile App,Home & Kitchen,1,71.21,25,53.41,No
+SO-101221,05/06/2025,Saudi Arabia,Website,Books,2,15.31,0,30.62,No
+SO-101222,10/01/2025,Saudi Arabia,Mobile App,Fashion,3,62.63,20,150.31,No
+SO-101223,06/11/2025,Saudi Arabia,Website,Sports & Outdoors,4,276.16,30,773.25,No
+SO-101224,08/08/2025,Saudi Arabia,Mobile App,Books,1,15.72,0,15.72,No
+SO-101225,15/05/2025,Saudi Arabia,Mobile App,Beauty,4,70.13,25,210.39,No
+SO-101226,10/08/2025,Qatar,Website,Home & Kitchen,1,14.26,20,11.41,No
+SO-101227,27/09/2025,Kuwait,Marketplace,Electronics,2,459.56,0,919.12,No
+SO-101228,11/02/2025,Kuwait,Mobile App,Books,3,34.89,0,104.67,No
+SO-101229,27/07/2025,Qatar,Website,Electronics,1,592.96,25,444.72,No
+SO-101230,21/11/2025,UAE,Marketplace,Beauty,3,48.28,20,115.87,No
+SO-101231,12/09/2025,Qatar,Mobile App,Electronics,4,883.57,10,"3,180.85",No
+SO-101232,13/06/2025,UAE,Mobile App,Beauty,1,11.20,0,11.20,No
+SO-101233,06/05/2025,UAE,Mobile App,Beauty,1,33.55,15,28.52,Yes
+SO-101234,06/05/2025,UAE,Mobile App,Books,1,32.99,10,29.69,No
+SO-101235,16/03/2025,UAE,Mobile App,Home & Kitchen,2,106.38,0,212.76,No
+SO-101236,01/06/2025,Bahrain,Website,Beauty,4,46.02,15,156.47,No
+SO-101237,19/04/2025,Qatar,Marketplace,Fashion,2,144.13,25,216.19,No
+SO-101238,10/11/2025,UAE,Marketplace,Electronics,1,290.51,30,203.36,No
+SO-101239,26/03/2025,UAE,Website,Electronics,1,348.52,0,348.52,No
+SO-101240,22/06/2025,Kuwait,Marketplace,Home & Kitchen,3,194.71,10,525.72,No
+SO-101241,26/09/2025,Kuwait,Mobile App,Electronics,3,73.25,0,219.75,No
+SO-101242,28/03/2025,Oman,Mobile App,Beauty,1,50.64,0,50.64,No
+SO-101243,04/03/2025,Bahrain,Mobile App,Fashion,1,125.99,0,125.99,No
+SO-101244,20/06/2025,Kuwait,Website,Books,2,6.42,25,9.63,No
+SO-101245,09/01/2025,Qatar,Website,Fashion,4,67.58,0,270.32,No
+SO-101246,08/11/2025,Qatar,Mobile App,Electronics,2,591.70,30,828.38,No
+SO-101247,31/12/2025,UAE,Website,Beauty,4,75.29,0,301.16,No
+SO-101248,25/03/2025,UAE,Marketplace,Electronics,3,804.04,0,"2,412.12",No
+SO-101249,09/09/2025,Saudi Arabia,Website,Home & Kitchen,1,210.43,10,189.39,No
+SO-101250,21/12/2025,Kuwait,Mobile App,Beauty,4,17.24,5,65.51,No
+SO-101251,31/03/2025,UAE,Marketplace,Sports & Outdoors,3,97.92,0,293.76,No
+SO-101252,06/05/2025,Bahrain,Marketplace,Beauty,2,51.51,25,77.27,No
+SO-101253,30/01/2025,UAE,Website,Home & Kitchen,1,91.24,10,82.12,No
+SO-101254,27/08/2025,Saudi Arabia,Mobile App,Beauty,1,17.14,0,17.14,No
+SO-101255,23/11/2025,Qatar,Website,Beauty,2,32.88,15,55.90,No
+SO-101256,01/02/2025,UAE,Website,Home & Kitchen,4,200.73,5,762.77,No
+SO-101257,09/06/2025,UAE,Website,Books,3,17.70,15,45.13,No
+SO-101258,30/01/2025,Saudi Arabia,Website,Sports & Outdoors,3,302.66,0,907.98,No
+SO-101259,09/02/2025,UAE,Mobile App,Electronics,1,191.19,20,152.95,No
+SO-101260,09/10/2025,UAE,Mobile App,Fashion,2,175.93,10,316.67,No
+SO-101261,30/09/2025,Kuwait,Website,Beauty,1,57.08,0,57.08,No
+SO-101262,14/09/2025,UAE,Website,Books,3,7.39,5,21.06,No
+SO-101263,09/06/2025,UAE,Website,Fashion,1,87.18,25,65.39,No
+SO-101264,03/02/2025,Saudi Arabia,Mobile App,Sports & Outdoors,1,232.03,0,232.03,No
+SO-101265,17/09/2025,UAE,Mobile App,Electronics,2,467.55,20,748.08,No
+SO-101266,07/03/2025,UAE,Mobile App,Home & Kitchen,1,207.78,0,207.78,No
+SO-101267,25/01/2025,Kuwait,Website,Fashion,4,83.67,0,334.68,No
+SO-101268,10/06/2025,Oman,Mobile App,Electronics,3,586.52,20,"1,407.65",No
+SO-101269,03/12/2025,UAE,Marketplace,Sports & Outdoors,3,219.17,10,591.76,No
+SO-101270,29/11/2025,UAE,Mobile App,Home & Kitchen,1,81.69,20,65.35,No
+SO-101271,23/10/2025,UAE,Mobile App,Electronics,1,347.36,15,295.26,No
+SO-101272,29/05/2025,UAE,Mobile App,Sports & Outdoors,1,28.01,5,26.61,No
+SO-101273,26/01/2025,Bahrain,Website,Fashion,3,77.62,0,232.86,Yes
+SO-101274,07/04/2025,UAE,Website,Electronics,1,897.85,25,673.39,No
+SO-101275,13/05/2025,UAE,Mobile App,Electronics,1,432.68,10,389.41,No
+SO-101276,04/06/2025,Oman,Website,Fashion,1,17.31,0,17.31,No
+SO-101277,29/12/2025,Saudi Arabia,Website,Electronics,1,457.40,25,343.05,No
+SO-101278,27/03/2025,Oman,Website,Fashion,4,56.90,20,182.08,No
+SO-101279,25/08/2025,UAE,Website,Sports & Outdoors,2,27.42,20,43.87,No
+SO-101280,11/01/2025,UAE,Website,Beauty,1,37.06,5,35.21,No
+SO-101281,22/11/2025,Bahrain,Website,Home & Kitchen,3,110.42,20,265.01,No
+SO-101282,30/09/2025,UAE,Website,Electronics,2,322.54,5,612.83,No
+SO-101283,06/12/2025,Oman,Marketplace,Electronics,2,860.97,15,"1,463.65",No
+SO-101284,26/10/2025,Saudi Arabia,Website,Fashion,2,128.77,20,206.03,No
+SO-101285,14/09/2025,Saudi Arabia,Mobile App,Electronics,2,514.32,10,925.78,No
+SO-101286,13/08/2025,UAE,Website,Home & Kitchen,3,98.99,5,282.12,No
+SO-101287,07/01/2025,UAE,Mobile App,Beauty,2,28.34,20,45.34,No
+SO-101288,30/03/2025,Qatar,Marketplace,Home & Kitchen,2,29.51,15,50.17,No
+SO-101289,03/04/2025,Kuwait,Website,Beauty,3,9.16,20,21.98,No
+SO-101290,29/12/2025,Kuwait,Website,Electronics,1,88.57,0,88.57,No
+SO-101291,24/09/2025,Oman,Website,Beauty,2,55.26,25,82.89,No
+SO-101292,15/08/2025,Bahrain,Website,Electronics,2,212.08,15,360.54,No
+SO-101293,07/09/2025,Saudi Arabia,Mobile App,Home & Kitchen,1,221.67,0,221.67,Yes
+SO-101294,12/05/2025,Kuwait,Website,Books,4,24.23,0,96.92,No
+SO-101295,22/09/2025,Saudi Arabia,Mobile App,Sports & Outdoors,1,186.97,15,158.92,No
+SO-101296,31/10/2025,Kuwait,Website,Electronics,1,398.21,10,358.39,No
+SO-101297,05/10/2025,UAE,Mobile App,Home & Kitchen,2,129.99,25,194.99,No
+SO-101298,03/10/2025,Kuwait,Mobile App,Sports & Outdoors,1,252.35,0,252.35,No
+SO-101299,05/08/2025,Saudi Arabia,Website,Home & Kitchen,2,102.20,10,183.96,No
+SO-101300,20/05/2025,Qatar,Marketplace,Electronics,1,436.88,15,371.35,No
+SO-101301,31/10/2025,Saudi Arabia,Mobile App,Electronics,2,622.52,20,996.03,No
+SO-101302,24/01/2025,Oman,Website,Home & Kitchen,1,51.12,25,38.34,No
+SO-101303,31/05/2025,UAE,Website,Beauty,1,79.17,10,71.25,No
+SO-101304,26/03/2025,Qatar,Website,Electronics,3,815.94,5,"2,325.43",No
+SO-101305,28/08/2025,UAE,Website,Fashion,1,74.75,5,71.01,Yes
+SO-101306,25/09/2025,Saudi Arabia,Website,Fashion,1,125.02,10,112.52,No
+SO-101307,25/09/2025,Oman,Mobile App,Sports & Outdoors,4,242.44,0,969.76,No
+SO-101308,22/05/2025,Kuwait,Marketplace,Home & Kitchen,2,243.67,0,487.34,No
+SO-101309,26/11/2025,Qatar,Mobile App,Sports & Outdoors,1,78.50,20,62.80,No
+SO-101310,13/08/2025,Qatar,Website,Books,2,23.64,0,47.28,No
+SO-101311,27/11/2025,Saudi Arabia,Mobile App,Books,2,18.20,20,29.12,No
+SO-101312,03/12/2025,Saudi Arabia,Mobile App,Sports & Outdoors,1,315.51,15,268.18,No
+SO-101313,26/04/2025,UAE,Website,Beauty,1,37.10,0,37.10,No
+SO-101314,20/06/2025,Oman,Marketplace,Beauty,2,69.74,25,104.61,No
+SO-101315,20/05/2025,UAE,Website,Beauty,1,75.21,5,71.45,No
+SO-101316,15/11/2025,Bahrain,Mobile App,Beauty,3,82.78,25,186.25,No
+SO-101317,16/12/2025,UAE,Website,Home & Kitchen,1,101.18,15,86.00,No
+SO-101318,08/05/2025,Saudi Arabia,Mobile App,Books,2,7.62,0,15.24,No
+SO-101319,11/07/2025,Saudi Arabia,Mobile App,Electronics,4,453.87,0,"1,815.48",No
+SO-101320,01/12/2025,Kuwait,Marketplace,Home & Kitchen,1,50.98,0,50.98,No
+SO-101321,19/03/2025,UAE,Marketplace,Fashion,2,37.94,10,68.29,No
+SO-101322,06/11/2025,UAE,Mobile App,Home & Kitchen,2,189.71,20,303.54,No
+SO-101323,24/04/2025,Qatar,Website,Sports & Outdoors,1,112.54,15,95.66,No
+SO-101324,02/03/2025,UAE,Mobile App,Sports & Outdoors,2,76.46,0,152.92,No
+SO-101325,16/11/2025,UAE,Website,Sports & Outdoors,2,187.54,20,300.06,No
+SO-101326,22/12/2025,Qatar,Website,Fashion,1,147.46,0,147.46,No
+SO-101327,15/04/2025,Saudi Arabia,Website,Books,1,27.70,10,24.93,No
+SO-101328,28/12/2025,Oman,Mobile App,Fashion,2,65.95,5,125.30,No
+SO-101329,09/03/2025,UAE,Mobile App,Home & Kitchen,3,32.55,0,97.65,No
+SO-101330,23/02/2025,Saudi Arabia,Mobile App,Electronics,1,354.48,20,283.58,No
+SO-101331,23/01/2025,UAE,Website,Beauty,1,22.57,5,21.44,No
+SO-101332,08/01/2025,Saudi Arabia,Mobile App,Sports & Outdoors,2,140.23,0,280.46,No
+SO-101333,15/02/2025,UAE,Mobile App,Beauty,1,66.11,25,49.58,No
+SO-101334,25/07/2025,UAE,Marketplace,Sports & Outdoors,1,230.48,0,230.48,No
+SO-101335,28/11/2025,Qatar,Website,Books,2,14.07,20,22.51,No
+SO-101336,17/12/2025,Kuwait,Mobile App,Electronics,4,175.33,0,701.32,No
+SO-101337,30/05/2025,Kuwait,Website,Home & Kitchen,3,122.47,15,312.30,No
+SO-101338,10/01/2025,Saudi Arabia,Mobile App,Beauty,2,55.17,10,99.31,No
+SO-101339,06/01/2025,UAE,Website,Home & Kitchen,1,36.28,0,36.28,No
+SO-101340,01/05/2025,UAE,Mobile App,Home & Kitchen,1,259.48,5,246.51,No
+SO-101341,06/07/2025,Saudi Arabia,Website,Electronics,2,510.76,0,"1,021.52",No
+SO-101342,18/01/2025,UAE,Website,Home & Kitchen,1,182.42,0,182.42,No
+SO-101343,25/03/2025,Bahrain,Website,Fashion,3,149.28,10,403.06,No
+SO-101344,10/07/2025,Qatar,Website,Home & Kitchen,2,193.42,25,290.13,No
+SO-101345,15/12/2025,UAE,Website,Electronics,2,573.41,5,"1,089.48",No
+SO-101346,24/12/2025,UAE,Mobile App,Home & Kitchen,1,59.23,25,44.42,No
+SO-101347,30/06/2025,Saudi Arabia,Website,Electronics,4,226.52,0,906.08,No
+SO-101348,30/03/2025,UAE,Mobile App,Electronics,2,246.44,15,418.95,No
+SO-101349,12/07/2025,UAE,Website,Electronics,4,378.51,5,"1,438.34",No
+SO-101350,26/03/2025,Qatar,Mobile App,Sports & Outdoors,2,41.18,0,82.36,No
+SO-101351,17/06/2025,Saudi Arabia,Mobile App,Fashion,2,91.68,0,183.36,Yes
+SO-101352,16/12/2025,Kuwait,Marketplace,Electronics,1,530.40,15,450.84,No
+SO-101353,06/01/2025,Qatar,Website,Electronics,1,465.82,25,349.37,No
+SO-101354,13/07/2025,Saudi Arabia,Website,Sports & Outdoors,2,310.76,10,559.37,No
+SO-101355,31/12/2025,Saudi Arabia,Mobile App,Sports & Outdoors,1,190.79,5,181.25,No
+SO-101356,15/07/2025,Saudi Arabia,Website,Home & Kitchen,3,153.57,10,414.64,No
+SO-101357,26/07/2025,Bahrain,Mobile App,Sports & Outdoors,2,164.22,25,246.33,No
+SO-101358,16/07/2025,UAE,Website,Books,2,42.47,25,63.70,No
+SO-101359,16/08/2025,Qatar,Website,Sports & Outdoors,4,169.42,20,542.14,No
+SO-101360,10/11/2025,Saudi Arabia,Mobile App,Home & Kitchen,2,242.99,30,340.19,No
+SO-101361,23/06/2025,UAE,Mobile App,Fashion,4,175.37,0,701.48,No
+SO-101362,10/07/2025,Saudi Arabia,Marketplace,Books,2,10.11,5,19.21,No
+SO-101363,08/08/2025,Kuwait,Website,Beauty,1,62.47,10,56.22,No
+SO-101364,23/11/2025,UAE,Website,Fashion,1,177.12,15,150.55,No
+SO-101365,17/10/2025,Saudi Arabia,Mobile App,Home & Kitchen,1,31.97,20,25.58,No
+SO-101366,04/07/2025,UAE,Mobile App,Electronics,2,634.42,5,"1,205.40",No
+SO-101367,17/09/2025,UAE,Website,Electronics,1,307.98,25,230.99,No
+SO-101368,07/02/2025,UAE,Website,Books,1,40.33,25,30.25,No
+SO-101369,21/06/2025,Kuwait,Website,Electronics,1,444.50,0,444.50,No
+SO-101370,26/01/2025,UAE,Mobile App,Home & Kitchen,1,206.19,5,195.88,No
+SO-101371,16/09/2025,UAE,Website,Beauty,1,40.36,15,34.31,No
+SO-101372,21/12/2025,Bahrain,Website,Fashion,1,109.82,0,109.82,No
+SO-101373,27/02/2025,Qatar,Mobile App,Fashion,1,51.75,0,51.75,No
+SO-101374,18/08/2025,UAE,Mobile App,Electronics,1,719.00,5,683.05,No
+SO-101375,14/11/2025,Qatar,Marketplace,Fashion,2,115.75,15,196.78,No
+SO-101376,15/02/2025,Saudi Arabia,Website,Electronics,3,98.54,5,280.84,Yes
+SO-101377,20/04/2025,UAE,Website,Electronics,3,416.83,0,"1,250.49",No
+SO-101378,25/09/2025,UAE,Website,Home & Kitchen,1,238.28,15,202.54,No
+SO-101379,08/03/2025,Oman,Mobile App,Sports & Outdoors,4,204.48,15,695.23,No
+SO-101380,25/02/2025,UAE,Website,Home & Kitchen,2,118.24,10,212.83,No
+SO-101381,21/01/2025,Saudi Arabia,Mobile App,Fashion,2,95.30,15,162.01,No
+SO-101382,19/01/2025,Saudi Arabia,Website,Books,2,33.94,20,54.30,No
+SO-101383,15/09/2025,UAE,Website,Books,2,30.08,0,60.16,No
+SO-101384,15/06/2025,Saudi Arabia,Website,Books,4,38.34,10,138.02,No
+SO-101385,29/08/2025,UAE,Marketplace,Sports & Outdoors,4,176.47,10,635.29,No
+SO-101386,11/11/2025,UAE,Website,Electronics,1,646.76,20,517.41,No
+SO-101387,22/08/2025,UAE,Mobile App,Home & Kitchen,2,28.00,20,44.80,No
+SO-101388,25/04/2025,Saudi Arabia,Mobile App,Books,1,23.46,15,19.94,Yes
+SO-101389,16/03/2025,UAE,Website,Home & Kitchen,1,145.01,15,123.26,No
+SO-101390,12/06/2025,UAE,Mobile App,Sports & Outdoors,1,119.85,25,89.89,No
+SO-101391,13/04/2025,UAE,Website,Home & Kitchen,4,168.81,15,573.95,No
+SO-101392,09/06/2025,Saudi Arabia,Mobile App,Home & Kitchen,3,90.69,25,204.05,No
+SO-101393,16/07/2025,Bahrain,Mobile App,Home & Kitchen,2,162.84,15,276.83,No
+SO-101394,12/01/2025,Saudi Arabia,Mobile App,Books,1,32.71,15,27.80,No
+SO-101395,02/03/2025,Bahrain,Marketplace,Sports & Outdoors,3,214.40,0,643.20,No
+SO-101396,10/01/2025,UAE,Mobile App,Beauty,2,41.32,15,70.24,No
+SO-101397,15/12/2025,UAE,Website,Home & Kitchen,2,190.01,0,380.02,No
+SO-101398,22/11/2025,UAE,Mobile App,Home & Kitchen,1,66.13,15,56.21,No
+SO-101399,26/12/2025,UAE,Mobile App,Electronics,3,74.94,10,202.34,No
+SO-101400,11/06/2025,UAE,Mobile App,Home & Kitchen,1,60.21,20,48.17,No
+SO-101401,28/08/2025,Bahrain,Website,Home & Kitchen,1,103.92,0,103.92,No
+SO-101402,04/08/2025,Bahrain,Mobile App,Electronics,1,137.14,10,123.43,No
+SO-101403,09/11/2025,Saudi Arabia,Mobile App,Beauty,2,74.64,30,104.50,No
+SO-101404,02/09/2025,Saudi Arabia,Mobile App,Home & Kitchen,2,230.79,10,415.42,No
+SO-101405,29/08/2025,Saudi Arabia,Mobile App,Home & Kitchen,2,60.51,20,96.82,No
+SO-101406,06/02/2025,Saudi Arabia,Marketplace,Home & Kitchen,4,99.72,15,339.05,No
+SO-101407,17/12/2025,Saudi Arabia,Mobile App,Home & Kitchen,1,108.90,20,87.12,No
+SO-101408,04/10/2025,UAE,Website,Beauty,1,85.16,0,85.16,No
+SO-101409,29/04/2025,Qatar,Mobile App,Beauty,2,45.37,0,90.74,No
+SO-101410,23/11/2025,UAE,Marketplace,Fashion,4,58.10,30,162.68,No
+SO-101411,01/02/2025,Kuwait,Marketplace,Electronics,4,374.64,20,"1,198.85",No
+SO-101412,15/11/2025,Qatar,Mobile App,Fashion,1,79.28,30,55.50,No
+SO-101413,09/07/2025,Kuwait,Marketplace,Beauty,4,88.18,0,352.72,No
+SO-101414,25/06/2025,Saudi Arabia,Mobile App,Books,2,34.85,20,55.76,No
+SO-101415,11/01/2025,Saudi Arabia,Marketplace,Electronics,4,143.35,20,458.72,No
+SO-101416,18/02/2025,UAE,Website,Electronics,3,763.27,20,"1,831.85",No
+SO-101417,10/11/2025,Qatar,Website,Beauty,1,57.03,30,39.92,No
+SO-101418,29/11/2025,UAE,Website,Electronics,2,737.24,30,"1,032.14",No
+SO-101419,10/05/2025,UAE,Website,Books,2,35.60,5,67.64,No
+SO-101420,05/03/2025,Kuwait,Website,Home & Kitchen,1,249.34,25,187.00,No
+SO-101421,01/08/2025,Saudi Arabia,Website,Beauty,2,74.46,15,126.58,No
+SO-101422,26/11/2025,UAE,Website,Electronics,1,485.71,15,412.85,No
+SO-101423,20/09/2025,Kuwait,Website,Books,4,12.44,15,42.30,No
+SO-101424,26/03/2025,Qatar,Mobile App,Electronics,4,597.54,0,"2,390.16",No
+SO-101425,15/02/2025,UAE,Mobile App,Fashion,1,179.34,0,179.34,No
+SO-101426,25/06/2025,Saudi Arabia,Mobile App,Beauty,2,76.39,0,152.78,No
+SO-101427,18/10/2025,Saudi Arabia,Mobile App,Fashion,2,94.54,5,179.63,No
+SO-101428,21/07/2025,UAE,Mobile App,Sports & Outdoors,2,164.75,15,280.07,No
+SO-101429,05/10/2025,UAE,Website,Electronics,1,478.76,20,383.01,No
+SO-101430,04/01/2025,Bahrain,Website,Books,1,39.46,25,29.59,No
+SO-101431,20/05/2025,Saudi Arabia,Marketplace,Electronics,1,768.12,0,768.12,No
+SO-101432,23/11/2025,UAE,Website,Fashion,4,39.73,25,119.19,No
+SO-101433,10/09/2025,UAE,Marketplace,Beauty,2,52.53,25,78.80,No
+SO-101434,25/08/2025,Kuwait,Mobile App,Books,3,38.41,20,92.18,No
+SO-101435,16/04/2025,UAE,Website,Sports & Outdoors,2,168.91,10,304.04,No
+SO-101436,02/06/2025,UAE,Website,Electronics,3,579.84,0,"1,739.52",No
+SO-101437,17/07/2025,UAE,Mobile App,Beauty,1,85.19,5,80.93,No
+SO-101438,15/10/2025,Oman,Website,Fashion,2,123.00,20,196.80,No
+SO-101439,22/04/2025,UAE,Mobile App,Books,4,19.97,0,79.88,No
+SO-101440,29/09/2025,Saudi Arabia,Website,Electronics,2,181.11,10,326.00,No
+SO-101441,25/05/2025,Saudi Arabia,Website,Sports & Outdoors,4,209.98,10,755.93,No
+SO-101442,10/08/2025,Kuwait,Website,Sports & Outdoors,1,154.59,10,139.13,No
+SO-101443,01/08/2025,UAE,Website,Beauty,1,37.93,5,36.03,No
+SO-101444,04/03/2025,Kuwait,Website,Sports & Outdoors,3,173.01,10,467.13,No
+SO-101445,06/10/2025,Kuwait,Marketplace,Electronics,1,304.98,20,243.98,No
+SO-101446,30/03/2025,Saudi Arabia,Mobile App,Electronics,1,250.11,0,250.11,No
+SO-101447,16/05/2025,UAE,Website,Electronics,4,188.77,20,604.06,No
+SO-101448,30/05/2025,UAE,Website,Home & Kitchen,1,216.36,5,205.54,Yes
+SO-101449,02/05/2025,Saudi Arabia,Website,Books,1,33.18,5,31.52,No
+SO-101450,12/06/2025,Qatar,Website,Beauty,1,68.96,25,51.72,No
+SO-101451,14/04/2025,Oman,Website,Electronics,2,244.89,0,489.78,No
+SO-101452,04/03/2025,UAE,Website,Electronics,1,228.67,20,182.94,No
+SO-101453,19/02/2025,Qatar,Mobile App,Sports & Outdoors,3,302.52,0,907.56,No
+SO-101454,15/08/2025,Saudi Arabia,Mobile App,Fashion,2,167.94,25,251.91,No
+SO-101455,27/02/2025,Qatar,Mobile App,Fashion,2,176.20,15,299.54,No
+SO-101456,25/02/2025,Kuwait,Mobile App,Beauty,2,10.93,0,21.86,No
+SO-101457,07/12/2025,Saudi Arabia,Marketplace,Home & Kitchen,1,74.90,0,74.90,No
+SO-101458,12/05/2025,UAE,Mobile App,Books,1,39.64,0,39.64,No
+SO-101459,08/09/2025,UAE,Marketplace,Electronics,1,572.20,15,486.37,No
+SO-101460,25/11/2025,Kuwait,Mobile App,Electronics,2,54.81,20,87.70,Yes
+SO-101461,24/06/2025,UAE,Mobile App,Electronics,1,579.87,20,463.90,No
+SO-101462,27/06/2025,Oman,Website,Home & Kitchen,2,49.14,10,88.45,No
+SO-101463,23/09/2025,UAE,Marketplace,Home & Kitchen,2,234.10,25,351.15,No
+SO-101464,18/09/2025,Oman,Website,Fashion,3,57.33,15,146.19,No
+SO-101465,14/01/2025,Qatar,Mobile App,Home & Kitchen,4,20.90,15,71.06,No
+SO-101466,07/02/2025,UAE,Mobile App,Electronics,1,524.93,15,446.19,No
+SO-101467,06/02/2025,UAE,Marketplace,Electronics,1,830.25,20,664.20,No
+SO-101468,18/11/2025,UAE,Mobile App,Books,1,43.68,15,37.13,No
+SO-101469,20/06/2025,Bahrain,Website,Sports & Outdoors,2,45.03,20,72.05,No
+SO-101470,18/07/2025,UAE,Mobile App,Fashion,3,169.35,5,482.65,No
+SO-101471,06/07/2025,UAE,Website,Home & Kitchen,3,207.16,10,559.33,No
+SO-101472,19/04/2025,Oman,Mobile App,Fashion,2,69.60,0,139.20,No
+SO-101473,26/10/2025,UAE,Website,Books,1,13.49,0,13.49,No
+SO-101474,09/08/2025,UAE,Mobile App,Fashion,2,46.38,0,92.76,No
+SO-101475,23/05/2025,UAE,Mobile App,Electronics,2,96.64,15,164.29,No
+SO-101476,05/05/2025,Kuwait,Mobile App,Electronics,2,568.51,5,"1,080.17",No
+SO-101477,27/01/2025,UAE,Mobile App,Home & Kitchen,1,187.97,10,169.17,No
+SO-101478,29/03/2025,UAE,Mobile App,Beauty,4,30.62,10,110.23,No
+SO-101479,04/04/2025,UAE,Mobile App,Home & Kitchen,1,175.46,0,175.46,No
+SO-101480,12/02/2025,UAE,Marketplace,Home & Kitchen,2,143.88,20,230.21,No
+SO-101481,18/07/2025,Oman,Website,Home & Kitchen,1,224.66,0,224.66,No
+SO-101482,02/02/2025,Saudi Arabia,Website,Home & Kitchen,1,240.09,10,216.08,No
+SO-101483,09/12/2025,UAE,Website,Home & Kitchen,2,69.30,0,138.60,No
+SO-101484,08/11/2025,Saudi Arabia,Website,Electronics,1,57.22,30,40.05,No
+SO-101485,03/08/2025,UAE,Website,Electronics,2,287.35,5,545.97,No
+SO-101486,22/12/2025,Kuwait,Mobile App,Electronics,2,720.88,20,"1,153.41",No
+SO-101487,11/12/2025,Bahrain,Marketplace,Beauty,1,19.82,0,19.82,No
+SO-101488,03/04/2025,UAE,Website,Fashion,2,34.28,15,58.28,No
+SO-101489,22/12/2025,UAE,Website,Books,4,43.99,25,131.97,No
+SO-101490,19/10/2025,Oman,Website,Home & Kitchen,2,174.49,0,348.98,No
+SO-101491,14/04/2025,Saudi Arabia,Website,Fashion,3,57.12,0,171.36,No
+SO-101492,04/09/2025,UAE,Mobile App,Books,3,14.26,5,40.64,No
+SO-101493,26/02/2025,Qatar,Marketplace,Beauty,1,76.74,0,76.74,No
+SO-101494,05/04/2025,UAE,Mobile App,Fashion,4,40.04,0,160.16,No
+SO-101495,26/11/2025,UAE,Website,Beauty,2,22.79,30,31.91,No
+SO-101496,26/06/2025,Kuwait,Website,Electronics,1,879.06,15,747.20,No
+SO-101497,30/11/2025,Qatar,Website,Electronics,1,202.65,25,151.99,No
+SO-101498,02/03/2025,Oman,Mobile App,Electronics,2,93.11,0,186.22,No
+SO-101499,21/01/2025,Qatar,Marketplace,Sports & Outdoors,1,223.83,0,223.83,No
+SO-101500,18/06/2025,UAE,Website,Books,2,25.04,0,50.08,No
+SO-101501,07/11/2025,Bahrain,Website,Sports & Outdoors,1,176.76,20,141.41,Yes
+SO-101502,01/09/2025,UAE,Mobile App,Fashion,2,94.65,10,170.37,No
+SO-101503,08/11/2025,UAE,Mobile App,Fashion,1,110.69,30,77.48,No
+SO-101504,08/05/2025,Kuwait,Website,Books,4,30.90,0,123.60,No
+SO-101505,04/11/2025,Saudi Arabia,Mobile App,Beauty,1,84.05,15,71.44,No
+SO-101506,30/04/2025,Qatar,Mobile App,Sports & Outdoors,1,106.37,15,90.41,No
+SO-101507,12/01/2025,Saudi Arabia,Website,Books,1,41.04,25,30.78,No
+SO-101508,16/10/2025,UAE,Mobile App,Beauty,4,68.76,20,220.03,Yes
+SO-101509,06/07/2025,Saudi Arabia,Mobile App,Fashion,2,126.98,20,203.17,Yes
+SO-101510,18/10/2025,UAE,Mobile App,Electronics,1,332.26,10,299.03,No
+SO-101511,06/05/2025,UAE,Website,Fashion,2,139.18,0,278.36,Yes
+SO-101512,26/06/2025,UAE,Website,Beauty,2,33.08,15,56.24,No
+SO-101513,27/05/2025,Saudi Arabia,Website,Fashion,1,131.30,25,98.48,No
+SO-101514,27/09/2025,UAE,Mobile App,Home & Kitchen,3,164.97,20,395.93,No
+SO-101515,26/06/2025,Kuwait,Mobile App,Home & Kitchen,3,112.61,10,304.05,No
+SO-101516,07/10/2025,Qatar,Website,Fashion,1,32.14,10,28.93,No
+SO-101517,19/06/2025,Qatar,Mobile App,Home & Kitchen,3,178.44,5,508.55,No
+SO-101518,31/03/2025,UAE,Mobile App,Sports & Outdoors,4,160.57,25,481.71,No
+SO-101519,04/09/2025,Oman,Marketplace,Beauty,1,30.47,20,24.38,No
+SO-101520,11/03/2025,Saudi Arabia,Website,Fashion,2,32.45,0,64.90,No
+SO-101521,24/07/2025,Oman,Website,Electronics,1,553.09,5,525.44,No
+SO-101522,13/04/2025,Oman,Mobile App,Fashion,2,41.61,5,79.06,No
+SO-101523,13/08/2025,Bahrain,Website,Electronics,4,519.50,15,"1,766.30",No
+SO-101524,19/07/2025,Qatar,Website,Electronics,4,876.41,0,"3,505.64",No
+SO-101525,18/06/2025,UAE,Website,Books,1,12.50,15,10.62,No
+SO-101526,10/02/2025,UAE,Website,Home & Kitchen,2,79.07,0,158.14,No
+SO-101527,04/03/2025,UAE,Mobile App,Beauty,2,31.58,25,47.37,No
+SO-101528,07/12/2025,UAE,Mobile App,Fashion,1,70.73,25,53.05,No
+SO-101529,06/05/2025,Bahrain,Website,Electronics,2,279.73,10,503.51,No
+SO-101530,18/09/2025,Qatar,Website,Books,2,10.23,0,20.46,No
+SO-101531,17/10/2025,UAE,Website,Fashion,2,43.27,0,86.54,No
+SO-101532,08/05/2025,UAE,Mobile App,Beauty,2,49.89,5,94.79,No
+SO-101533,08/05/2025,UAE,Mobile App,Home & Kitchen,1,177.88,20,142.30,No
+SO-101534,23/04/2025,Saudi Arabia,Website,Sports & Outdoors,3,243.91,0,731.73,No
+SO-101535,24/01/2025,UAE,Mobile App,Books,1,9.53,10,8.58,No
+SO-101536,23/09/2025,Bahrain,Website,Fashion,2,175.74,10,316.33,No
+SO-101537,21/10/2025,UAE,Mobile App,Home & Kitchen,4,20.47,5,77.79,No
+SO-101538,24/12/2025,Saudi Arabia,Website,Home & Kitchen,2,63.27,25,94.91,No
+SO-101539,16/11/2025,UAE,Website,Beauty,3,44.25,20,106.20,No
+SO-101540,29/12/2025,Saudi Arabia,Mobile App,Electronics,1,851.02,25,638.26,No
+SO-101541,18/04/2025,UAE,Mobile App,Sports & Outdoors,2,310.03,5,589.06,No
+SO-101542,04/03/2025,Saudi Arabia,Marketplace,Electronics,4,300.08,15,"1,020.27",No
+SO-101543,19/01/2025,Saudi Arabia,Website,Sports & Outdoors,2,212.33,20,339.73,No
+SO-101544,03/02/2025,Saudi Arabia,Website,Beauty,1,12.73,20,10.18,No
+SO-101545,10/10/2025,Saudi Arabia,Mobile App,Home & Kitchen,4,179.76,5,683.09,No
+SO-101546,26/07/2025,UAE,Mobile App,Books,1,22.14,0,22.14,No
+SO-101547,21/11/2025,Saudi Arabia,Mobile App,Electronics,3,541.17,30,"1,136.46",No
+SO-101548,11/11/2025,UAE,Mobile App,Home & Kitchen,3,167.46,20,401.90,No
+SO-101549,30/03/2025,UAE,Mobile App,Sports & Outdoors,1,194.47,10,175.02,No
+SO-101550,20/02/2025,UAE,Mobile App,Sports & Outdoors,2,165.75,20,265.20,No
+SO-101551,29/04/2025,UAE,Marketplace,Books,1,39.69,25,29.77,No
+SO-101552,09/03/2025,UAE,Mobile App,Books,1,16.82,5,15.98,No
+SO-101553,08/03/2025,UAE,Mobile App,Books,2,15.85,0,31.70,No
+SO-101554,20/08/2025,Oman,Website,Sports & Outdoors,2,250.73,25,376.09,No
+SO-101555,14/04/2025,Bahrain,Website,Sports & Outdoors,1,74.44,5,70.72,No
+SO-101556,20/10/2025,UAE,Marketplace,Fashion,1,86.04,5,81.74,No
+SO-101557,04/09/2025,Oman,Mobile App,Electronics,1,695.91,15,591.52,No
+SO-101558,06/01/2025,Saudi Arabia,Website,Beauty,1,81.34,15,69.14,No
+SO-101559,30/05/2025,UAE,Website,Fashion,2,107.17,20,171.47,No
+SO-101560,26/03/2025,Oman,Marketplace,Fashion,2,156.53,10,281.75,Yes
+SO-101561,08/01/2025,UAE,Website,Home & Kitchen,2,223.13,0,446.26,No
+SO-101562,30/06/2025,UAE,Mobile App,Electronics,1,366.01,20,292.81,No
+SO-101563,07/05/2025,Saudi Arabia,Website,Electronics,1,128.07,5,121.67,No
+SO-101564,20/12/2025,Qatar,Website,Electronics,1,149.16,0,149.16,No
+SO-101565,13/07/2025,UAE,Mobile App,Beauty,1,73.74,10,66.37,No
+SO-101566,31/05/2025,Kuwait,Website,Electronics,1,569.59,10,512.63,No
+SO-101567,20/08/2025,UAE,Mobile App,Sports & Outdoors,2,142.84,0,285.68,No
+SO-101568,11/06/2025,UAE,Mobile App,Electronics,1,528.45,0,528.45,No
+SO-101569,11/09/2025,Qatar,Website,Fashion,1,28.05,0,28.05,No
+SO-101570,17/05/2025,Saudi Arabia,Website,Fashion,1,155.79,0,155.79,Yes
+SO-101571,18/06/2025,Saudi Arabia,Mobile App,Sports & Outdoors,1,30.41,0,30.41,No
+SO-101572,11/12/2025,Saudi Arabia,Mobile App,Home & Kitchen,1,192.30,5,182.69,No
+SO-101573,25/06/2025,Saudi Arabia,Mobile App,Electronics,3,562.94,0,"1,688.82",No
+SO-101574,08/08/2025,UAE,Website,Beauty,4,26.83,0,107.32,No
+SO-101575,19/11/2025,Saudi Arabia,Mobile App,Home & Kitchen,1,237.67,30,166.37,No
+SO-101576,06/05/2025,Saudi Arabia,Website,Home & Kitchen,2,13.72,5,26.07,No
+SO-101577,04/10/2025,UAE,Mobile App,Fashion,2,66.77,0,133.54,No
+SO-101578,03/01/2025,Kuwait,Mobile App,Beauty,1,74.28,0,74.28,No
+SO-101579,28/06/2025,Bahrain,Website,Fashion,1,66.57,5,63.24,No
+SO-101580,09/05/2025,UAE,Mobile App,Beauty,1,9.22,15,7.84,No
+SO-101581,28/11/2025,UAE,Mobile App,Home & Kitchen,1,56.62,30,39.63,No
+SO-101582,25/01/2025,Bahrain,Website,Home & Kitchen,2,180.61,20,288.98,No
+SO-101583,22/05/2025,Saudi Arabia,Marketplace,Books,4,42.15,25,126.45,No
+SO-101584,11/08/2025,UAE,Website,Electronics,1,887.32,20,709.86,No
+SO-101585,08/05/2025,Qatar,Marketplace,Sports & Outdoors,1,53.58,5,50.90,No
+SO-101586,04/03/2025,Oman,Website,Electronics,4,241.51,0,966.04,No
+SO-101587,08/05/2025,UAE,Marketplace,Fashion,4,19.10,20,61.12,No
+SO-101588,22/12/2025,Qatar,Mobile App,Home & Kitchen,4,113.26,0,453.04,No
+SO-101589,13/04/2025,Saudi Arabia,Marketplace,Home & Kitchen,2,240.32,15,408.54,No
+SO-101590,22/11/2025,Kuwait,Mobile App,Electronics,3,80.98,20,194.35,Yes
+SO-101591,20/05/2025,Kuwait,Mobile App,Fashion,1,113.10,5,107.44,No
+SO-101592,14/05/2025,Saudi Arabia,Website,Home & Kitchen,3,219.96,0,659.88,No
+SO-101593,13/04/2025,Saudi Arabia,Website,Fashion,2,78.20,15,132.94,No
+SO-101594,15/07/2025,UAE,Mobile App,Fashion,2,91.97,5,174.74,No
+SO-101595,01/01/2025,Saudi Arabia,Mobile App,Fashion,2,104.21,5,198.00,No
+SO-101596,31/10/2025,UAE,Website,Home & Kitchen,2,19.88,0,39.76,No
+SO-101597,28/01/2025,UAE,Mobile App,Electronics,1,166.92,0,166.92,No
+SO-101598,19/04/2025,UAE,Website,Home & Kitchen,1,118.60,20,94.88,No
+SO-101599,04/03/2025,UAE,Marketplace,Sports & Outdoors,1,162.61,0,162.61,No
+SO-101600,10/04/2025,Qatar,Website,Books,2,27.12,5,51.53,No
+SO-101601,27/01/2025,UAE,Mobile App,Home & Kitchen,1,19.00,0,19.00,No
+SO-101602,17/08/2025,Qatar,Website,Home & Kitchen,1,211.44,0,211.44,No
+SO-101603,14/10/2025,Kuwait,Mobile App,Electronics,1,157.94,0,157.94,Yes
+SO-101604,02/09/2025,Kuwait,Mobile App,Home & Kitchen,2,117.99,5,224.18,No
+SO-101605,03/09/2025,UAE,Mobile App,Electronics,2,608.79,25,913.18,No
+SO-101606,05/06/2025,Kuwait,Website,Electronics,2,264.34,0,528.68,No
+SO-101607,06/09/2025,Saudi Arabia,Mobile App,Electronics,2,402.97,20,644.75,No
+SO-101608,28/03/2025,Kuwait,Mobile App,Sports & Outdoors,2,50.33,15,85.56,No
+SO-101609,09/01/2025,Saudi Arabia,Website,Fashion,4,122.27,0,489.08,No
+SO-101610,02/08/2025,UAE,Website,Beauty,2,67.12,0,134.24,No
+SO-101611,25/10/2025,Saudi Arabia,Mobile App,Beauty,1,80.43,25,60.32,No
+SO-101612,05/05/2025,UAE,Mobile App,Beauty,1,74.60,20,59.68,No
+SO-101613,30/07/2025,Kuwait,Mobile App,Electronics,1,307.55,15,261.42,No
+SO-101614,22/04/2025,UAE,Website,Home & Kitchen,1,232.76,0,232.76,No
+SO-101615,12/05/2025,Saudi Arabia,Website,Home & Kitchen,1,203.79,5,193.60,No
+SO-101616,23/09/2025,Qatar,Mobile App,Electronics,1,390.64,0,390.64,No
+SO-101617,22/12/2025,Qatar,Mobile App,Home & Kitchen,2,249.23,5,473.54,No
+SO-101618,13/05/2025,Kuwait,Website,Home & Kitchen,1,17.70,25,13.27,No
+SO-101619,20/12/2025,Oman,Website,Electronics,3,76.15,0,228.45,No
+SO-101620,28/10/2025,Kuwait,Marketplace,Home & Kitchen,1,135.11,0,135.11,No
+SO-101621,28/03/2025,UAE,Mobile App,Books,1,37.90,25,28.42,No
+SO-101622,17/05/2025,Saudi Arabia,Mobile App,Sports & Outdoors,1,91.00,10,81.90,Yes
+SO-101623,18/10/2025,Qatar,Website,Beauty,4,20.10,20,64.32,No
+SO-101624,04/11/2025,UAE,Mobile App,Books,4,11.71,15,39.81,No
+SO-101625,10/03/2025,Qatar,Website,Home & Kitchen,1,251.79,5,239.20,No
+SO-101626,23/04/2025,UAE,Website,Fashion,4,164.19,15,558.25,Yes
+SO-101627,10/03/2025,UAE,Marketplace,Books,1,23.77,0,23.77,No
+SO-101628,13/11/2025,UAE,Marketplace,Sports & Outdoors,2,53.11,30,74.35,No
+SO-101629,25/11/2025,Oman,Marketplace,Electronics,3,378.69,15,965.66,No
+SO-101630,01/07/2025,Qatar,Mobile App,Fashion,1,103.12,5,97.96,No
+SO-101631,12/07/2025,Bahrain,Marketplace,Beauty,1,34.71,0,34.71,No
+SO-101632,12/06/2025,UAE,Website,Home & Kitchen,2,167.93,15,285.48,No
+SO-101633,31/10/2025,UAE,Mobile App,Books,2,34.37,0,68.74,No
+SO-101634,09/02/2025,Oman,Website,Electronics,4,844.19,25,"2,532.57",No
+SO-101635,17/05/2025,UAE,Marketplace,Fashion,2,27.73,5,52.69,No
+SO-101636,03/03/2025,Saudi Arabia,Website,Books,3,28.09,0,84.27,No
+SO-101637,04/02/2025,Saudi Arabia,Website,Electronics,1,480.00,5,456.00,No
+SO-101638,22/10/2025,UAE,Website,Electronics,2,559.77,10,"1,007.59",Yes
+SO-101639,12/06/2025,Saudi Arabia,Mobile App,Fashion,1,61.89,10,55.70,No
+SO-101640,18/01/2025,Saudi Arabia,Mobile App,Beauty,4,48.70,5,185.06,No
+SO-101641,22/04/2025,UAE,Marketplace,Fashion,4,65.84,10,237.02,No
+SO-101642,17/10/2025,Qatar,Website,Sports & Outdoors,3,206.84,0,620.52,No
+SO-101643,06/12/2025,Kuwait,Marketplace,Beauty,1,78.54,0,78.54,No
+SO-101644,19/02/2025,Saudi Arabia,Marketplace,Books,3,6.18,20,14.83,No
+SO-101645,29/11/2025,Saudi Arabia,Mobile App,Beauty,1,66.28,20,53.02,No
+SO-101646,23/06/2025,UAE,Mobile App,Electronics,1,192.04,25,144.03,No
+SO-101647,04/11/2025,UAE,Mobile App,Beauty,3,8.84,15,22.54,No
+SO-101648,24/10/2025,Saudi Arabia,Mobile App,Beauty,1,12.13,0,12.13,No
+SO-101649,24/04/2025,Oman,Website,Sports & Outdoors,1,63.83,0,63.83,No
+SO-101650,18/10/2025,Saudi Arabia,Mobile App,Beauty,2,80.18,15,136.31,No
+SO-101651,28/10/2025,Oman,Website,Beauty,4,80.74,25,242.22,No
+SO-101652,09/11/2025,Saudi Arabia,Mobile App,Home & Kitchen,2,101.07,15,171.82,No
+SO-101653,26/03/2025,Saudi Arabia,Mobile App,Home & Kitchen,3,98.34,15,250.77,No
+SO-101654,27/03/2025,UAE,Marketplace,Home & Kitchen,2,136.53,20,218.45,No
+SO-101655,20/06/2025,UAE,Marketplace,Books,1,7.24,15,6.15,No
+SO-101656,10/05/2025,UAE,Marketplace,Electronics,1,558.74,0,558.74,No
+SO-101657,24/02/2025,Kuwait,Website,Electronics,2,461.85,0,923.70,No
+SO-101658,05/10/2025,Saudi Arabia,Mobile App,Books,1,9.05,20,7.24,No
+SO-101659,20/09/2025,UAE,Marketplace,Beauty,3,85.93,0,257.79,No
+SO-101660,27/09/2025,UAE,Mobile App,Beauty,3,33.49,0,100.47,No
+SO-101661,07/03/2025,UAE,Website,Sports & Outdoors,3,183.74,20,440.98,Yes
+SO-101662,17/02/2025,UAE,Mobile App,Home & Kitchen,1,235.58,0,235.58,No
+SO-101663,19/05/2025,UAE,Website,Fashion,2,62.61,0,125.22,No
+SO-101664,02/12/2025,Oman,Mobile App,Beauty,2,28.85,0,57.70,No
+SO-101665,30/03/2025,UAE,Marketplace,Beauty,2,62.53,15,106.30,No
+SO-101666,17/12/2025,UAE,Mobile App,Fashion,1,30.62,15,26.03,No
+SO-101667,10/07/2025,UAE,Mobile App,Fashion,1,122.08,0,122.08,No
+SO-101668,24/08/2025,Qatar,Website,Home & Kitchen,4,158.75,15,539.75,No
+SO-101669,03/12/2025,Saudi Arabia,Website,Beauty,2,43.89,0,87.78,No
+SO-101670,20/10/2025,Kuwait,Marketplace,Books,4,29.94,5,113.77,No
+SO-101671,20/11/2025,Saudi Arabia,Marketplace,Beauty,1,26.82,20,21.46,No
+SO-101672,17/01/2025,Saudi Arabia,Mobile App,Beauty,1,76.14,10,68.53,Yes
+SO-101673,11/09/2025,Saudi Arabia,Mobile App,Sports & Outdoors,3,69.35,15,176.84,No
+SO-101674,21/08/2025,UAE,Mobile App,Home & Kitchen,1,213.99,0,213.99,No
+SO-101675,06/04/2025,Bahrain,Website,Electronics,4,674.03,0,"2,696.12",No
+SO-101676,17/11/2025,Bahrain,Mobile App,Fashion,1,163.67,15,139.12,No
+SO-101677,04/07/2025,UAE,Mobile App,Books,2,20.32,0,40.64,No
+SO-101678,17/01/2025,Saudi Arabia,Mobile App,Home & Kitchen,1,146.15,0,146.15,No
+SO-101679,05/11/2025,UAE,Mobile App,Sports & Outdoors,1,212.12,30,148.48,No
+SO-101680,13/06/2025,Bahrain,Mobile App,Home & Kitchen,2,51.87,20,82.99,No
+SO-101681,07/07/2025,Kuwait,Website,Home & Kitchen,2,169.09,0,338.18,No
+SO-101682,02/09/2025,Saudi Arabia,Mobile App,Electronics,3,146.72,20,352.13,No
+SO-101683,18/05/2025,Bahrain,Mobile App,Electronics,1,695.01,10,625.51,No
+SO-101684,23/03/2025,Oman,Website,Beauty,1,66.95,5,63.60,No
+SO-101685,31/03/2025,Saudi Arabia,Website,Electronics,2,603.63,25,905.44,No
+SO-101686,31/12/2025,Kuwait,Mobile App,Home & Kitchen,1,48.15,10,43.34,No
+SO-101687,22/02/2025,UAE,Mobile App,Electronics,2,588.49,15,"1,000.43",No
+SO-101688,03/06/2025,Qatar,Website,Electronics,2,455.82,0,911.64,No
+SO-101689,06/11/2025,Saudi Arabia,Mobile App,Electronics,2,154.69,30,216.57,No
+SO-101690,07/05/2025,Saudi Arabia,Marketplace,Fashion,1,122.30,0,122.30,No
+SO-101691,04/11/2025,Oman,Website,Beauty,2,14.84,20,23.74,No
+SO-101692,07/03/2025,Kuwait,Website,Electronics,1,212.73,0,212.73,No
+SO-101693,14/12/2025,Saudi Arabia,Website,Books,3,32.41,0,97.23,No
+SO-101694,21/08/2025,Saudi Arabia,Mobile App,Beauty,1,9.71,0,9.71,No
+SO-101695,03/08/2025,UAE,Mobile App,Home & Kitchen,4,127.43,5,484.23,No
+SO-101696,14/12/2025,Saudi Arabia,Marketplace,Home & Kitchen,1,34.80,25,26.10,No
+SO-101697,09/10/2025,Saudi Arabia,Mobile App,Fashion,2,94.24,20,150.78,No
+SO-101698,02/03/2025,Saudi Arabia,Website,Books,1,43.52,0,43.52,No
+SO-101699,22/02/2025,Saudi Arabia,Website,Beauty,4,79.06,20,252.99,No
+SO-101700,14/05/2025,Qatar,Marketplace,Home & Kitchen,1,212.57,5,201.94,No
+SO-101701,31/08/2025,Qatar,Website,Beauty,2,85.96,25,128.94,No
+SO-101702,01/03/2025,Saudi Arabia,Website,Electronics,2,543.43,0,"1,086.86",Yes
+SO-101703,12/02/2025,UAE,Mobile App,Electronics,3,257.15,0,771.45,No
+SO-101704,27/03/2025,Kuwait,Website,Sports & Outdoors,4,62.09,0,248.36,No
+SO-101705,28/10/2025,UAE,Mobile App,Beauty,1,68.55,10,61.70,No
+SO-101706,07/05/2025,UAE,Mobile App,Fashion,1,153.62,0,153.62,No
+SO-101707,07/06/2025,UAE,Website,Home & Kitchen,2,116.04,10,208.87,No
+SO-101708,27/06/2025,Saudi Arabia,Marketplace,Fashion,1,78.05,10,70.25,No
+SO-101709,11/06/2025,Kuwait,Marketplace,Electronics,3,693.99,5,"1,977.87",No
+SO-101710,05/07/2025,Saudi Arabia,Website,Books,1,32.19,15,27.36,No
+SO-101711,17/06/2025,Qatar,Mobile App,Fashion,1,27.18,0,27.18,No
+SO-101712,03/04/2025,Saudi Arabia,Mobile App,Sports & Outdoors,1,221.77,25,166.33,No
+SO-101713,20/12/2025,Saudi Arabia,Mobile App,Beauty,3,52.01,25,117.02,No
+SO-101714,12/07/2025,UAE,Website,Electronics,1,253.63,5,240.95,No
+SO-101715,02/12/2025,UAE,Website,Beauty,1,52.46,5,49.84,Yes
+SO-101716,12/10/2025,UAE,Mobile App,Electronics,1,67.53,10,60.78,No
+SO-101717,21/06/2025,Saudi Arabia,Mobile App,Beauty,1,49.79,20,39.83,No
+SO-101718,09/05/2025,Kuwait,Mobile App,Books,1,19.80,5,18.81,No
+SO-101719,31/03/2025,UAE,Website,Fashion,3,119.73,25,269.39,No
+SO-101720,29/05/2025,UAE,Mobile App,Sports & Outdoors,1,220.10,25,165.07,No
+SO-101721,01/08/2025,UAE,Mobile App,Electronics,2,462.63,25,693.94,No
+SO-101722,28/08/2025,UAE,Marketplace,Home & Kitchen,1,237.01,0,237.01,No
+SO-101723,11/08/2025,Saudi Arabia,Marketplace,Fashion,1,122.69,0,122.69,No
+SO-101724,12/08/2025,Bahrain,Marketplace,Fashion,2,174.06,0,348.12,No
+SO-101725,18/12/2025,Saudi Arabia,Website,Fashion,1,153.30,15,130.31,No
+SO-101726,25/04/2025,UAE,Mobile App,Beauty,4,88.46,0,353.84,No
+SO-101727,24/08/2025,UAE,Website,Sports & Outdoors,2,143.22,0,286.44,No
+SO-101728,04/10/2025,UAE,Mobile App,Electronics,4,285.17,10,"1,026.61",No
+SO-101729,22/06/2025,UAE,Marketplace,Home & Kitchen,1,16.53,25,12.40,No
+SO-101730,16/09/2025,Qatar,Website,Beauty,2,74.73,20,119.57,No
+SO-101731,04/01/2025,Saudi Arabia,Marketplace,Home & Kitchen,1,133.94,0,133.94,No
+SO-101732,12/09/2025,Saudi Arabia,Website,Fashion,3,81.65,10,220.46,No
+SO-101733,27/04/2025,UAE,Website,Home & Kitchen,2,82.26,20,131.62,No
+SO-101734,21/03/2025,Saudi Arabia,Website,Fashion,1,62.34,25,46.76,No
+SO-101735,23/03/2025,UAE,Website,Fashion,3,53.52,0,160.56,No
+SO-101736,23/10/2025,UAE,Marketplace,Beauty,1,59.65,0,59.65,No
+SO-101737,01/10/2025,UAE,Mobile App,Electronics,3,849.06,15,"2,165.10",No
+SO-101738,25/03/2025,UAE,Website,Sports & Outdoors,1,184.81,20,147.85,No
+SO-101739,18/10/2025,UAE,Website,Books,3,21.60,0,64.80,Yes
+SO-101740,26/09/2025,UAE,Marketplace,Home & Kitchen,2,54.20,0,108.40,No
+SO-101741,26/08/2025,UAE,Website,Beauty,3,46.03,0,138.09,No
+SO-101742,22/09/2025,Qatar,Website,Fashion,1,91.12,25,68.34,Yes
+SO-101743,25/06/2025,Saudi Arabia,Website,Books,4,30.75,0,123.00,No
+SO-101744,08/10/2025,Saudi Arabia,Website,Sports & Outdoors,1,183.67,15,156.12,No
+SO-101745,31/01/2025,Oman,Website,Electronics,1,174.14,15,148.02,No
+SO-101746,05/05/2025,Bahrain,Mobile App,Sports & Outdoors,1,278.65,15,236.85,No
+SO-101747,01/04/2025,Saudi Arabia,Mobile App,Home & Kitchen,1,126.55,0,126.55,No
+SO-101748,08/10/2025,Saudi Arabia,Website,Sports & Outdoors,2,65.01,0,130.02,No
+SO-101749,10/09/2025,Saudi Arabia,Website,Electronics,1,611.26,0,611.26,No
+SO-101750,12/03/2025,UAE,Mobile App,Sports & Outdoors,3,135.29,10,365.28,No
+SO-101751,07/04/2025,Kuwait,Mobile App,Sports & Outdoors,1,184.81,0,184.81,No
+SO-101752,05/12/2025,Saudi Arabia,Website,Sports & Outdoors,4,183.81,20,588.19,No
+SO-101753,03/01/2025,Saudi Arabia,Marketplace,Electronics,3,628.09,0,"1,884.27",No
+SO-101754,12/07/2025,UAE,Mobile App,Electronics,1,219.36,25,164.52,No
+SO-101755,01/04/2025,Saudi Arabia,Website,Electronics,3,48.09,20,115.42,Yes
+SO-101756,27/12/2025,UAE,Mobile App,Beauty,2,82.21,10,147.98,Yes
+SO-101757,29/04/2025,UAE,Website,Home & Kitchen,4,59.35,20,189.92,No
+SO-101758,24/04/2025,UAE,Mobile App,Fashion,2,125.22,0,250.44,No
+SO-101759,16/09/2025,UAE,Mobile App,Beauty,1,15.40,25,11.55,No
+SO-101760,05/02/2025,UAE,Mobile App,Electronics,1,446.08,0,446.08,No
+SO-101761,21/12/2025,Qatar,Website,Electronics,1,353.88,5,336.19,No
+SO-101762,28/12/2025,Qatar,Mobile App,Fashion,2,77.75,25,116.62,No
+SO-101763,02/06/2025,Bahrain,Website,Electronics,4,338.53,15,"1,151.00",No
+SO-101764,03/06/2025,UAE,Mobile App,Home & Kitchen,1,53.97,15,45.87,No
+SO-101765,15/07/2025,Saudi Arabia,Website,Beauty,2,16.27,5,30.91,No
+SO-101766,01/08/2025,UAE,Website,Fashion,2,99.76,15,169.59,No
+SO-101767,07/03/2025,UAE,Marketplace,Books,1,34.08,0,34.08,No
+SO-101768,18/08/2025,UAE,Marketplace,Sports & Outdoors,4,232.39,5,883.08,Yes
+SO-101769,19/11/2025,Saudi Arabia,Website,Home & Kitchen,2,204.48,30,286.27,No
+SO-101770,08/10/2025,UAE,Marketplace,Books,1,10.98,20,8.78,No
+SO-101771,20/12/2025,Qatar,Website,Beauty,2,59.99,20,95.98,No
+SO-101772,04/11/2025,Oman,Mobile App,Electronics,2,303.20,25,454.80,No
+SO-101773,17/12/2025,UAE,Website,Electronics,2,326.07,15,554.32,Yes
+SO-101774,03/11/2025,Oman,Website,Electronics,1,165.58,15,140.74,No
+SO-101775,28/06/2025,UAE,Mobile App,Sports & Outdoors,1,69.01,0,69.01,No
+SO-101776,28/01/2025,UAE,Mobile App,Electronics,1,185.12,5,175.86,No
+SO-101777,18/08/2025,Saudi Arabia,Mobile App,Sports & Outdoors,1,55.86,5,53.07,No
+SO-101778,10/02/2025,Qatar,Mobile App,Electronics,1,637.24,20,509.79,No
+SO-101779,15/08/2025,Oman,Mobile App,Beauty,1,33.23,0,33.23,No
+SO-101780,11/07/2025,Saudi Arabia,Website,Books,2,10.79,10,19.42,No
+SO-101781,04/08/2025,Bahrain,Marketplace,Electronics,1,92.30,25,69.22,No
+SO-101782,21/07/2025,Kuwait,Mobile App,Books,3,13.71,15,34.96,No
+SO-101783,04/04/2025,Qatar,Mobile App,Fashion,1,65.43,0,65.43,No
+SO-101784,30/06/2025,Saudi Arabia,Marketplace,Home & Kitchen,2,129.82,25,194.73,No
+SO-101785,05/09/2025,Qatar,Mobile App,Books,1,39.06,25,29.30,No
+SO-101786,01/02/2025,Qatar,Website,Electronics,2,224.38,0,448.76,No
+SO-101787,13/01/2025,Oman,Website,Electronics,1,97.23,10,87.51,No
+SO-101788,11/05/2025,UAE,Website,Fashion,1,39.22,10,35.30,No
+SO-101789,26/04/2025,Qatar,Website,Sports & Outdoors,1,80.92,25,60.69,No
+SO-101790,28/01/2025,UAE,Website,Beauty,1,48.50,10,43.65,No
+SO-101791,19/02/2025,UAE,Website,Fashion,4,174.09,0,696.36,No
+SO-101792,29/09/2025,Oman,Mobile App,Books,2,34.87,25,52.30,No
+SO-101793,13/02/2025,Saudi Arabia,Website,Books,1,33.85,20,27.08,No
+SO-101794,09/07/2025,Qatar,Mobile App,Books,2,11.98,0,23.96,No
+SO-101795,10/05/2025,UAE,Mobile App,Sports & Outdoors,2,239.47,10,431.05,No
+SO-101796,14/08/2025,UAE,Website,Sports & Outdoors,3,168.03,0,504.09,No
+SO-101797,07/01/2025,Qatar,Mobile App,Beauty,3,86.72,10,234.14,No
+SO-101798,01/06/2025,Saudi Arabia,Website,Home & Kitchen,2,124.50,10,224.10,No
+SO-101799,29/11/2025,Saudi Arabia,Website,Books,2,9.90,25,14.85,Yes
+SO-101800,27/12/2025,Bahrain,Website,Electronics,1,373.76,20,299.01,No
+SO-101801,13/07/2025,Saudi Arabia,Website,Home & Kitchen,2,145.91,15,248.05,No
+SO-101802,04/12/2025,UAE,Mobile App,Electronics,3,848.50,25,"1,909.12",No
+SO-101803,08/12/2025,Saudi Arabia,Website,Fashion,2,175.08,20,280.13,No
+SO-101804,26/03/2025,UAE,Marketplace,Beauty,3,66.75,10,180.22,No
+SO-101805,09/09/2025,UAE,Mobile App,Electronics,2,487.83,25,731.75,No
+SO-101806,25/07/2025,UAE,Website,Sports & Outdoors,1,182.26,25,136.69,No
+SO-101807,06/09/2025,UAE,Mobile App,Fashion,1,48.02,0,48.02,No
+SO-101808,06/01/2025,Saudi Arabia,Website,Home & Kitchen,2,250.75,0,501.50,No
+SO-101809,08/11/2025,Saudi Arabia,Website,Books,1,33.95,20,27.16,Yes
+SO-101810,02/06/2025,UAE,Mobile App,Beauty,4,19.06,0,76.24,No
+SO-101811,14/02/2025,UAE,Website,Sports & Outdoors,2,19.87,25,29.80,No
+SO-101812,22/04/2025,UAE,Website,Fashion,3,157.38,20,377.71,No
+SO-101813,23/01/2025,Kuwait,Website,Sports & Outdoors,4,178.79,5,679.40,No
+SO-101814,02/07/2025,Kuwait,Mobile App,Beauty,1,46.88,5,44.54,No
+SO-101815,23/12/2025,UAE,Website,Fashion,1,163.69,10,147.32,No
+SO-101816,14/05/2025,UAE,Website,Beauty,1,88.61,0,88.61,No
+SO-101817,26/05/2025,Saudi Arabia,Website,Sports & Outdoors,1,112.46,5,106.84,Yes
+SO-101818,17/01/2025,Saudi Arabia,Mobile App,Beauty,1,30.80,0,30.80,No
+SO-101819,06/01/2025,Oman,Mobile App,Home & Kitchen,1,153.82,15,130.75,No
+SO-101820,14/12/2025,UAE,Mobile App,Home & Kitchen,1,232.46,0,232.46,No
+SO-101821,28/02/2025,Kuwait,Marketplace,Electronics,2,788.62,0,"1,577.24",No
+SO-101822,17/01/2025,Saudi Arabia,Website,Books,4,42.08,10,151.49,No
+SO-101823,07/07/2025,UAE,Website,Sports & Outdoors,3,56.46,25,127.03,No
+SO-101824,16/05/2025,Kuwait,Website,Electronics,1,545.41,25,409.06,No
+SO-101825,16/04/2025,Kuwait,Mobile App,Sports & Outdoors,1,59.01,0,59.01,No
+SO-101826,23/03/2025,Qatar,Website,Home & Kitchen,2,26.08,10,46.94,No
+SO-101827,25/03/2025,Saudi Arabia,Mobile App,Electronics,1,119.69,0,119.69,No
+SO-101828,21/11/2025,Saudi Arabia,Mobile App,Electronics,1,233.94,30,163.76,No
+SO-101829,25/07/2025,UAE,Website,Fashion,2,118.41,15,201.30,No
+SO-101830,21/06/2025,Saudi Arabia,Mobile App,Home & Kitchen,1,191.76,25,143.82,No
+SO-101831,05/04/2025,Oman,Website,Books,3,44.25,0,132.75,No
+SO-101832,15/03/2025,Saudi Arabia,Marketplace,Electronics,1,253.62,10,228.26,No
+SO-101833,23/02/2025,Qatar,Mobile App,Fashion,4,37.20,15,126.48,Yes
+SO-101834,29/03/2025,Saudi Arabia,Mobile App,Home & Kitchen,2,134.55,10,242.19,No
+SO-101835,30/07/2025,UAE,Mobile App,Electronics,1,845.69,0,845.69,No
+SO-101836,19/07/2025,Qatar,Website,Home & Kitchen,1,16.54,20,13.23,No
+SO-101837,25/12/2025,UAE,Marketplace,Sports & Outdoors,1,106.84,20,85.47,No
+SO-101838,24/04/2025,Oman,Marketplace,Home & Kitchen,2,128.57,15,218.57,No
+SO-101839,31/05/2025,UAE,Mobile App,Home & Kitchen,2,205.21,0,410.42,No
+SO-101840,28/08/2025,UAE,Website,Sports & Outdoors,4,94.14,0,376.56,No
+SO-101841,13/03/2025,Oman,Marketplace,Sports & Outdoors,3,180.52,5,514.48,No
+SO-101842,22/05/2025,UAE,Mobile App,Sports & Outdoors,2,258.53,15,439.50,No
+SO-101843,01/10/2025,Saudi Arabia,Mobile App,Sports & Outdoors,3,313.69,20,752.86,No
+SO-101844,19/02/2025,Bahrain,Marketplace,Beauty,3,24.56,25,55.26,No
+SO-101845,15/07/2025,Saudi Arabia,Marketplace,Electronics,3,259.70,20,623.28,No
+SO-101846,03/02/2025,Saudi Arabia,Mobile App,Fashion,4,145.82,10,524.95,No
+SO-101847,18/02/2025,Saudi Arabia,Marketplace,Beauty,2,45.92,0,91.84,No
+SO-101848,01/06/2025,Saudi Arabia,Website,Beauty,1,58.61,0,58.61,No
+SO-101849,12/09/2025,Saudi Arabia,Website,Sports & Outdoors,1,207.47,25,155.60,No
+SO-101850,15/07/2025,Oman,Mobile App,Books,1,35.81,0,35.81,No
+SO-101851,06/05/2025,UAE,Website,Home & Kitchen,1,193.05,0,193.05,No
+SO-101852,11/07/2025,Saudi Arabia,Marketplace,Sports & Outdoors,2,171.64,0,343.28,No
+SO-101853,14/10/2025,Bahrain,Website,Home & Kitchen,2,66.17,0,132.34,No
+SO-101854,16/11/2025,UAE,Mobile App,Electronics,3,571.27,30,"1,199.67",No
+SO-101855,01/07/2025,UAE,Marketplace,Electronics,2,708.86,20,"1,134.18",No
+SO-101856,06/03/2025,Saudi Arabia,Mobile App,Sports & Outdoors,2,105.01,10,189.02,No
+SO-101857,10/01/2025,Oman,Website,Home & Kitchen,2,77.38,0,154.76,No
+SO-101858,26/09/2025,UAE,Marketplace,Electronics,1,232.83,15,197.91,No
+SO-101859,29/06/2025,Saudi Arabia,Mobile App,Electronics,1,577.79,5,548.90,No
+SO-101860,30/10/2025,Saudi Arabia,Website,Home & Kitchen,2,119.53,25,179.30,No
+SO-101861,27/05/2025,Bahrain,Mobile App,Books,3,42.19,0,126.57,Yes
+SO-101862,24/09/2025,UAE,Mobile App,Books,4,30.52,0,122.08,No
+SO-101863,15/10/2025,Kuwait,Mobile App,Fashion,3,65.26,15,166.41,No
+SO-101864,24/07/2025,Oman,Mobile App,Electronics,2,584.18,0,"1,168.36",No
+SO-101865,30/03/2025,UAE,Mobile App,Sports & Outdoors,4,80.63,0,322.52,No
+SO-101866,16/12/2025,Saudi Arabia,Mobile App,Beauty,1,11.09,20,8.87,No
+SO-101867,09/05/2025,UAE,Marketplace,Fashion,2,91.34,0,182.68,No
+SO-101868,28/05/2025,UAE,Marketplace,Home & Kitchen,1,40.19,0,40.19,No
+SO-101869,02/10/2025,UAE,Website,Beauty,4,18.68,0,74.72,No
+SO-101870,08/08/2025,Saudi Arabia,Website,Home & Kitchen,3,140.92,0,422.76,No
+SO-101871,14/07/2025,Qatar,Marketplace,Electronics,2,830.40,5,"1,577.76",No
+SO-101872,09/04/2025,UAE,Website,Home & Kitchen,1,178.40,0,178.40,No
+SO-101873,02/07/2025,UAE,Website,Sports & Outdoors,1,51.07,20,40.86,No
+SO-101874,28/10/2025,UAE,Website,Sports & Outdoors,3,163.40,15,416.67,No
+SO-101875,13/04/2025,UAE,Website,Fashion,4,90.12,0,360.48,No
+SO-101876,14/09/2025,UAE,Website,Sports & Outdoors,1,44.46,15,37.79,No
+SO-101877,06/05/2025,UAE,Marketplace,Electronics,4,190.43,0,761.72,No
+SO-101878,26/03/2025,Saudi Arabia,Website,Electronics,1,468.38,15,398.12,No
+SO-101879,30/06/2025,Oman,Website,Electronics,3,342.51,10,924.78,No
+SO-101880,22/01/2025,Oman,Marketplace,Electronics,1,598.88,0,598.88,No
+SO-101881,20/03/2025,UAE,Mobile App,Electronics,1,220.96,25,165.72,No
+SO-101882,17/04/2025,UAE,Website,Electronics,2,733.62,0,"1,467.24",No
+SO-101883,02/09/2025,Oman,Website,Fashion,1,151.50,5,143.92,No
+SO-101884,01/04/2025,Qatar,Website,Fashion,4,174.64,15,593.78,No
+SO-101885,30/05/2025,Saudi Arabia,Marketplace,Fashion,1,159.53,25,119.65,No
+SO-101886,06/12/2025,Kuwait,Mobile App,Electronics,3,451.63,25,"1,016.17",No
+SO-101887,27/06/2025,Saudi Arabia,Mobile App,Books,1,27.63,20,22.10,No
+SO-101888,12/10/2025,Saudi Arabia,Marketplace,Beauty,4,69.66,0,278.64,No
+SO-101889,01/05/2025,UAE,Mobile App,Books,1,34.64,15,29.44,No
+SO-101890,10/08/2025,UAE,Mobile App,Electronics,4,843.57,20,"2,699.42",No
+SO-101891,26/06/2025,UAE,Marketplace,Beauty,3,65.55,10,176.98,No
+SO-101892,23/03/2025,Bahrain,Website,Electronics,3,689.90,0,"2,069.70",No
+SO-101893,09/04/2025,Qatar,Website,Electronics,1,687.72,15,584.56,No
+SO-101894,27/12/2025,Saudi Arabia,Website,Electronics,2,700.03,0,"1,400.06",No
+SO-101895,13/07/2025,Qatar,Website,Electronics,1,462.41,5,439.29,No
+SO-101896,25/05/2025,UAE,Website,Fashion,1,49.63,25,37.22,No
+SO-101897,07/09/2025,Qatar,Mobile App,Home & Kitchen,2,185.90,15,316.03,No
+SO-101898,17/04/2025,UAE,Mobile App,Home & Kitchen,1,228.51,0,228.51,No
+SO-101899,14/02/2025,Qatar,Mobile App,Books,1,7.13,25,5.35,No
+SO-101900,27/03/2025,UAE,Website,Electronics,1,717.17,15,609.59,No
+SO-101901,28/02/2025,Oman,Mobile App,Home & Kitchen,1,117.57,15,99.93,No
+SO-101902,19/07/2025,UAE,Mobile App,Electronics,1,258.10,10,232.29,No
+SO-101903,01/06/2025,Kuwait,Website,Sports & Outdoors,3,33.77,25,75.98,No
+SO-101904,11/08/2025,Bahrain,Mobile App,Books,4,21.33,25,63.99,No
+SO-101905,22/01/2025,Saudi Arabia,Mobile App,Home & Kitchen,1,215.04,10,193.54,No
+SO-101906,29/06/2025,Saudi Arabia,Website,Sports & Outdoors,2,211.16,15,358.97,No
+SO-101907,21/12/2025,UAE,Website,Fashion,2,34.73,10,62.51,No
+SO-101908,29/08/2025,Oman,Mobile App,Electronics,2,562.18,0,"1,124.36",No
+SO-101909,15/04/2025,UAE,Website,Beauty,2,80.08,20,128.13,No
+SO-101910,29/12/2025,UAE,Mobile App,Fashion,2,126.83,20,202.93,No
+SO-101911,11/02/2025,UAE,Website,Beauty,3,64.89,0,194.67,No
+SO-101912,06/06/2025,UAE,Mobile App,Sports & Outdoors,3,281.41,0,844.23,No
+SO-101913,04/07/2025,UAE,Mobile App,Electronics,1,469.73,5,446.24,No
+SO-101914,11/12/2025,Saudi Arabia,Mobile App,Sports & Outdoors,1,43.01,10,38.71,No
+SO-101915,08/07/2025,UAE,Website,Home & Kitchen,1,64.81,5,61.57,No
+SO-101916,01/02/2025,Kuwait,Mobile App,Fashion,1,112.77,5,107.13,No
+SO-101917,13/10/2025,Kuwait,Mobile App,Fashion,2,132.22,20,211.55,No
+SO-101918,29/10/2025,UAE,Mobile App,Books,2,21.61,10,38.90,Yes
+SO-101919,26/01/2025,UAE,Mobile App,Electronics,2,361.71,10,651.08,No
+SO-101920,22/11/2025,Oman,Website,Sports & Outdoors,3,93.52,30,196.39,Yes
+SO-101921,08/08/2025,Bahrain,Mobile App,Beauty,2,75.40,15,128.18,No
+SO-101922,24/11/2025,Saudi Arabia,Mobile App,Electronics,4,170.21,30,476.59,Yes
+SO-101923,23/01/2025,UAE,Mobile App,Beauty,3,83.88,0,251.64,No
+SO-101924,24/06/2025,UAE,Mobile App,Electronics,3,619.01,25,"1,392.77",No
+SO-101925,26/10/2025,Kuwait,Mobile App,Electronics,2,815.30,0,"1,630.60",No
+SO-101926,15/05/2025,Oman,Marketplace,Electronics,2,243.19,15,413.42,No
+SO-101927,15/04/2025,UAE,Website,Fashion,1,176.97,15,150.42,No
+SO-101928,03/04/2025,UAE,Mobile App,Fashion,1,136.44,0,136.44,No
+SO-101929,10/09/2025,UAE,Website,Beauty,1,17.34,5,16.47,No
+SO-101930,18/05/2025,Saudi Arabia,Mobile App,Home & Kitchen,2,145.00,20,232.00,No
+SO-101931,15/09/2025,UAE,Mobile App,Sports & Outdoors,2,72.40,20,115.84,No
+SO-101932,12/10/2025,Saudi Arabia,Mobile App,Home & Kitchen,1,57.18,10,51.46,No
+SO-101933,26/12/2025,UAE,Marketplace,Electronics,1,94.34,20,75.47,No
+SO-101934,12/10/2025,Saudi Arabia,Mobile App,Home & Kitchen,4,142.36,25,427.08,No
+SO-101935,11/01/2025,Saudi Arabia,Mobile App,Books,4,6.17,0,24.68,No
+SO-101936,07/03/2025,UAE,Mobile App,Electronics,4,528.78,0,"2,115.12",No
+SO-101937,12/02/2025,Bahrain,Website,Fashion,2,63.45,0,126.90,No
+SO-101938,25/12/2025,Saudi Arabia,Website,Electronics,1,186.35,0,186.35,No
+SO-101939,10/02/2025,UAE,Website,Electronics,1,410.72,5,390.18,Yes
+SO-101940,05/07/2025,Saudi Arabia,Website,Home & Kitchen,1,25.46,0,25.46,No
+SO-101941,25/05/2025,UAE,Website,Fashion,2,79.73,25,119.59,No
+SO-101942,20/06/2025,Saudi Arabia,Website,Electronics,1,792.06,0,792.06,No
+SO-101943,14/07/2025,Saudi Arabia,Marketplace,Home & Kitchen,4,200.70,5,762.66,No
+SO-101944,16/06/2025,Oman,Mobile App,Fashion,1,130.36,15,110.81,No
+SO-101945,13/10/2025,Qatar,Mobile App,Electronics,4,508.54,10,"1,830.74",No
+SO-101946,30/12/2025,Saudi Arabia,Website,Books,2,18.84,0,37.68,No
+SO-101947,14/10/2025,Oman,Mobile App,Fashion,3,146.97,0,440.91,No
+SO-101948,14/01/2025,UAE,Marketplace,Electronics,1,164.18,5,155.97,No
+SO-101949,07/02/2025,Oman,Website,Beauty,1,54.15,10,48.73,No
+SO-101950,08/11/2025,Saudi Arabia,Website,Books,4,23.32,30,65.30,No
+SO-101951,08/07/2025,Kuwait,Marketplace,Home & Kitchen,2,19.43,10,34.97,No
+SO-101952,08/02/2025,Saudi Arabia,Mobile App,Fashion,2,169.31,5,321.69,No
+SO-101953,26/07/2025,UAE,Website,Fashion,2,175.82,0,351.64,No
+SO-101954,04/03/2025,Saudi Arabia,Mobile App,Books,2,27.78,0,55.56,No
+SO-101955,21/06/2025,UAE,Mobile App,Home & Kitchen,1,170.12,15,144.60,No
+SO-101956,26/10/2025,UAE,Website,Home & Kitchen,2,132.91,0,265.82,No
+SO-101957,20/08/2025,UAE,Website,Sports & Outdoors,2,137.08,10,246.74,No
+SO-101958,12/12/2025,UAE,Mobile App,Fashion,1,171.25,0,171.25,No
+SO-101959,02/05/2025,Qatar,Mobile App,Beauty,3,8.89,0,26.67,No
+SO-101960,06/10/2025,UAE,Mobile App,Books,2,34.79,0,69.58,No
+SO-101961,21/05/2025,Qatar,Website,Beauty,2,39.33,15,66.86,No
+SO-101962,25/05/2025,UAE,Website,Sports & Outdoors,1,91.11,0,91.11,No
+SO-101963,09/03/2025,UAE,Website,Books,1,31.14,10,28.03,No
+SO-101964,11/09/2025,Saudi Arabia,Mobile App,Fashion,3,148.59,0,445.77,No
+SO-101965,09/09/2025,Saudi Arabia,Mobile App,Home & Kitchen,3,127.79,0,383.37,No
+SO-101966,18/02/2025,Qatar,Marketplace,Books,2,16.05,20,25.68,No
+SO-101967,06/03/2025,Saudi Arabia,Mobile App,Home & Kitchen,2,217.69,0,435.38,No
+SO-101968,03/11/2025,Saudi Arabia,Mobile App,Electronics,1,82.98,15,70.53,No
+SO-101969,02/09/2025,Saudi Arabia,Mobile App,Home & Kitchen,1,28.29,0,28.29,No
+SO-101970,20/12/2025,Qatar,Marketplace,Beauty,1,56.99,0,56.99,No
+SO-101971,20/04/2025,UAE,Website,Fashion,2,58.04,0,116.08,No
+SO-101972,17/07/2025,UAE,Website,Sports & Outdoors,1,280.62,0,280.62,No
+SO-101973,06/11/2025,UAE,Website,Electronics,4,361.22,20,"1,155.90",No
+SO-101974,24/08/2025,Saudi Arabia,Website,Books,1,31.06,10,27.95,No
+SO-101975,04/03/2025,Qatar,Mobile App,Sports & Outdoors,1,85.04,5,80.79,No
+SO-101976,15/09/2025,Saudi Arabia,Mobile App,Fashion,1,113.67,15,96.62,No
+SO-101977,03/12/2025,UAE,Mobile App,Sports & Outdoors,1,62.77,0,62.77,No
+SO-101978,22/09/2025,UAE,Mobile App,Fashion,2,42.59,20,68.14,Yes
+SO-101979,01/02/2025,UAE,Website,Home & Kitchen,3,159.33,0,477.99,No
+SO-101980,04/03/2025,Saudi Arabia,Website,Electronics,1,894.04,5,849.34,No
+SO-101981,24/05/2025,UAE,Marketplace,Sports & Outdoors,3,212.27,0,636.81,No
+SO-101982,02/10/2025,Saudi Arabia,Marketplace,Beauty,2,68.36,0,136.72,Yes
+SO-101983,08/08/2025,Qatar,Marketplace,Fashion,1,71.08,0,71.08,No
+SO-101984,27/04/2025,UAE,Website,Books,2,9.95,0,19.90,No
+SO-101985,19/07/2025,Saudi Arabia,Mobile App,Fashion,1,127.93,5,121.53,No
+SO-101986,22/08/2025,Kuwait,Website,Sports & Outdoors,4,292.12,25,876.36,No
+SO-101987,14/07/2025,Saudi Arabia,Mobile App,Electronics,1,525.22,0,525.22,No
+SO-101988,19/03/2025,UAE,Marketplace,Books,1,35.89,20,28.71,Yes
+SO-101989,13/12/2025,Qatar,Marketplace,Electronics,3,179.71,0,539.13,No
+SO-101990,26/04/2025,UAE,Marketplace,Sports & Outdoors,2,105.51,25,158.27,No
+SO-101991,21/11/2025,Saudi Arabia,Marketplace,Home & Kitchen,1,180.51,30,126.36,No
+SO-101992,18/11/2025,Kuwait,Website,Fashion,1,115.50,15,98.17,No
+SO-101993,28/05/2025,UAE,Mobile App,Beauty,2,49.95,10,89.91,No
+SO-101994,03/08/2025,UAE,Website,Fashion,1,154.60,5,146.87,No
+SO-101995,12/05/2025,Saudi Arabia,Mobile App,Home & Kitchen,1,70.23,15,59.70,No
+SO-101996,12/06/2025,Saudi Arabia,Mobile App,Fashion,2,75.60,25,113.40,No
+SO-101997,14/03/2025,Saudi Arabia,Website,Sports & Outdoors,1,71.44,10,64.30,No
+SO-101998,20/12/2025,Oman,Website,Sports & Outdoors,1,38.57,0,38.57,No
+SO-101999,08/03/2025,Bahrain,Website,Fashion,1,107.09,0,107.09,No
+SO-102000,25/08/2025,UAE,Mobile App,Electronics,4,407.30,0,"1,629.20",No
+SO-102001,29/03/2025,Qatar,Website,Books,4,26.01,0,104.04,No
+SO-102002,10/11/2025,UAE,Mobile App,Electronics,4,466.36,20,"1,492.35",No
+SO-102003,02/08/2025,Bahrain,Mobile App,Electronics,1,324.11,0,324.11,No
+SO-102004,13/10/2025,Qatar,Website,Fashion,2,24.79,0,49.58,No
+SO-102005,12/11/2025,Saudi Arabia,Website,Electronics,2,40.23,30,56.32,No
+SO-102006,21/02/2025,UAE,Mobile App,Books,2,18.98,5,36.06,No
+SO-102007,21/08/2025,Saudi Arabia,Mobile App,Beauty,1,23.04,0,23.04,No
+SO-102008,10/11/2025,UAE,Website,Books,1,17.69,30,12.38,No
+SO-102009,07/10/2025,Saudi Arabia,Mobile App,Electronics,1,213.66,5,202.98,No
+SO-102010,21/01/2025,UAE,Mobile App,Home & Kitchen,1,79.55,20,63.64,No
+SO-102011,04/05/2025,UAE,Website,Sports & Outdoors,1,30.74,0,30.74,No
+SO-102012,30/12/2025,Kuwait,Mobile App,Books,2,19.71,0,39.42,No
+SO-102013,22/01/2025,Saudi Arabia,Website,Electronics,1,449.91,0,449.91,No
+SO-102014,02/12/2025,Kuwait,Website,Sports & Outdoors,2,55.99,25,83.98,No
+SO-102015,14/08/2025,Qatar,Mobile App,Home & Kitchen,1,130.64,20,104.51,No
+SO-102016,28/01/2025,UAE,Website,Fashion,3,26.43,5,75.33,No
+SO-102017,11/11/2025,UAE,Website,Electronics,3,116.05,20,278.52,No
+SO-102018,18/11/2025,Oman,Mobile App,Home & Kitchen,1,84.07,30,58.85,No
+SO-102019,08/10/2025,Saudi Arabia,Website,Electronics,2,495.61,0,991.22,No
+SO-102020,04/06/2025,UAE,Website,Fashion,1,176.47,5,167.65,No
+SO-102021,20/03/2025,Qatar,Mobile App,Fashion,4,176.74,20,565.57,No
+SO-102022,19/06/2025,Saudi Arabia,Website,Fashion,4,41.82,15,142.19,No
+SO-102023,13/12/2025,Saudi Arabia,Website,Electronics,2,201.39,0,402.78,No
+SO-102024,02/10/2025,UAE,Website,Electronics,1,479.84,0,479.84,No
+SO-102025,17/06/2025,UAE,Website,Fashion,1,150.67,0,150.67,No
+SO-102026,27/10/2025,UAE,Marketplace,Sports & Outdoors,1,226.42,0,226.42,No
+SO-102027,17/01/2025,Qatar,Website,Fashion,1,103.74,0,103.74,No
+SO-102028,01/02/2025,UAE,Mobile App,Books,2,6.37,0,12.74,No
+SO-102029,08/08/2025,UAE,Marketplace,Home & Kitchen,3,251.94,15,642.45,No
+SO-102030,06/06/2025,Qatar,Mobile App,Sports & Outdoors,2,274.62,10,494.32,No
+SO-102031,26/05/2025,Saudi Arabia,Website,Books,2,15.83,0,31.66,No
+SO-102032,16/04/2025,Qatar,Website,Home & Kitchen,1,181.21,0,181.21,No
+SO-102033,20/11/2025,UAE,Mobile App,Sports & Outdoors,1,292.14,20,233.71,No
+SO-102034,06/08/2025,Saudi Arabia,Website,Electronics,2,58.79,10,105.82,No
+SO-102035,28/02/2025,Kuwait,Mobile App,Sports & Outdoors,1,256.09,0,256.09,No
+SO-102036,03/11/2025,UAE,Mobile App,Fashion,2,156.52,15,266.08,No
+SO-102037,02/09/2025,UAE,Mobile App,Sports & Outdoors,2,131.80,0,263.60,No
+SO-102038,19/09/2025,UAE,Mobile App,Electronics,1,646.93,0,646.93,No
+SO-102039,27/07/2025,Bahrain,Mobile App,Home & Kitchen,2,132.45,0,264.90,No
+SO-102040,06/10/2025,Kuwait,Mobile App,Electronics,4,679.81,10,"2,447.32",No
+SO-102041,08/10/2025,UAE,Mobile App,Electronics,4,195.11,20,624.35,Yes
+SO-102042,26/02/2025,UAE,Website,Home & Kitchen,2,144.57,25,216.85,No
+SO-102043,17/05/2025,Saudi Arabia,Mobile App,Fashion,2,121.16,25,181.74,No
+SO-102044,07/11/2025,UAE,Mobile App,Home & Kitchen,1,231.32,20,185.06,No
+SO-102045,10/05/2025,Saudi Arabia,Mobile App,Sports & Outdoors,2,109.74,5,208.51,No
+SO-102046,02/03/2025,Saudi Arabia,Mobile App,Beauty,1,16.98,0,16.98,Yes
+SO-102047,28/10/2025,Bahrain,Website,Electronics,1,333.35,20,266.68,No
+SO-102048,06/09/2025,UAE,Website,Home & Kitchen,4,110.78,0,443.12,No
+SO-102049,08/08/2025,UAE,Website,Fashion,2,100.68,20,161.09,No
+SO-102050,05/05/2025,Qatar,Mobile App,Electronics,1,878.98,25,659.24,No
+SO-102051,09/12/2025,Qatar,Website,Sports & Outdoors,2,84.21,25,126.31,No
+SO-102052,23/12/2025,Saudi Arabia,Website,Beauty,2,82.72,5,157.17,No
+SO-102053,26/02/2025,Qatar,Mobile App,Electronics,1,398.04,0,398.04,No
+SO-102054,21/06/2025,Saudi Arabia,Website,Fashion,4,146.36,5,556.17,Yes
+SO-102055,13/08/2025,Saudi Arabia,Mobile App,Home & Kitchen,4,98.20,15,333.88,No
+SO-102056,11/02/2025,Bahrain,Mobile App,Beauty,4,31.50,0,126.00,No
+SO-102057,09/04/2025,Saudi Arabia,Website,Electronics,2,863.40,25,"1,295.10",No
+SO-102058,29/04/2025,UAE,Website,Fashion,2,58.07,25,87.11,Yes
+SO-102059,17/09/2025,Qatar,Marketplace,Fashion,2,107.42,10,193.36,No
+SO-102060,12/09/2025,UAE,Mobile App,Home & Kitchen,1,192.36,0,192.36,No
+SO-102061,14/12/2025,UAE,Website,Fashion,2,120.83,0,241.66,Yes
+SO-102062,15/12/2025,UAE,Website,Electronics,1,889.08,0,889.08,No
+SO-102063,20/06/2025,Qatar,Marketplace,Books,2,33.45,10,60.21,No
+SO-102064,29/05/2025,UAE,Mobile App,Sports & Outdoors,1,203.41,15,172.90,No
+SO-102065,06/04/2025,Saudi Arabia,Marketplace,Electronics,2,178.76,20,286.02,No
+SO-102066,27/09/2025,Saudi Arabia,Mobile App,Electronics,2,701.96,15,"1,193.33",No
+SO-102067,26/10/2025,UAE,Marketplace,Electronics,1,289.81,15,246.34,No
+SO-102068,27/08/2025,Saudi Arabia,Marketplace,Sports & Outdoors,3,177.32,0,531.96,No
+SO-102069,12/09/2025,UAE,Marketplace,Fashion,1,39.89,0,39.89,No
+SO-102070,21/06/2025,UAE,Mobile App,Electronics,1,893.41,15,759.40,No
+SO-102071,06/05/2025,Kuwait,Website,Electronics,1,279.02,0,279.02,No
+SO-102072,03/03/2025,Kuwait,Marketplace,Books,1,44.79,20,35.83,No
+SO-102073,29/07/2025,UAE,Website,Electronics,2,219.20,0,438.40,No
+SO-102074,12/06/2025,Saudi Arabia,Website,Fashion,4,73.01,0,292.04,No
+SO-102075,05/07/2025,Kuwait,Marketplace,Sports & Outdoors,1,275.95,0,275.95,No
+SO-102076,30/01/2025,UAE,Website,Beauty,1,53.30,0,53.30,No
+SO-102077,09/03/2025,UAE,Website,Electronics,4,503.37,20,"1,610.78",No
+SO-102078,31/12/2025,Saudi Arabia,Website,Electronics,4,468.80,5,"1,781.44",No
+SO-102079,08/05/2025,Saudi Arabia,Website,Fashion,1,20.50,0,20.50,No
+SO-102080,19/10/2025,UAE,Mobile App,Home & Kitchen,1,216.91,25,162.68,No
+SO-102081,19/10/2025,UAE,Mobile App,Electronics,3,508.33,5,"1,448.74",No
+SO-102082,09/11/2025,Saudi Arabia,Mobile App,Books,1,36.87,30,25.81,No
+SO-102083,17/02/2025,UAE,Website,Books,1,35.75,25,26.81,No
+SO-102084,23/08/2025,UAE,Website,Electronics,1,147.70,0,147.70,No
+SO-102085,02/09/2025,UAE,Mobile App,Sports & Outdoors,1,252.97,10,227.67,No
+SO-102086,02/11/2025,UAE,Website,Electronics,1,836.06,15,710.65,No
+SO-102087,13/11/2025,UAE,Website,Books,2,38.30,30,53.62,No
+SO-102088,02/08/2025,Saudi Arabia,Mobile App,Beauty,4,85.77,0,343.08,No
+SO-102089,23/08/2025,UAE,Website,Electronics,1,302.96,0,302.96,No
+SO-102090,25/01/2025,Saudi Arabia,Mobile App,Fashion,2,138.57,5,263.28,Yes
+SO-102091,04/06/2025,Kuwait,Website,Fashion,1,138.79,0,138.79,No
+SO-102092,15/03/2025,UAE,Mobile App,Sports & Outdoors,4,191.99,25,575.97,No
+SO-102093,16/08/2025,UAE,Marketplace,Electronics,1,146.91,25,110.18,No
+SO-102094,30/04/2025,UAE,Mobile App,Fashion,1,118.27,0,118.27,No
+SO-102095,01/07/2025,UAE,Website,Home & Kitchen,1,147.22,5,139.86,No
+SO-102096,11/10/2025,Bahrain,Website,Books,3,7.13,10,19.25,No
+SO-102097,13/03/2025,Oman,Mobile App,Sports & Outdoors,4,124.51,5,473.14,No
+SO-102098,17/01/2025,Kuwait,Website,Home & Kitchen,1,233.11,5,221.45,No
+SO-102099,01/12/2025,Saudi Arabia,Mobile App,Electronics,2,553.04,15,940.17,No
+SO-102100,18/05/2025,UAE,Website,Electronics,4,159.10,25,477.30,No
+SO-102101,18/08/2025,Kuwait,Mobile App,Electronics,1,450.32,25,337.74,No
+SO-102102,06/09/2025,Saudi Arabia,Website,Fashion,2,143.43,0,286.86,No
+SO-102103,30/06/2025,UAE,Website,Beauty,1,38.67,25,29.00,No
+SO-102104,02/02/2025,UAE,Mobile App,Electronics,2,177.18,15,301.21,No
+SO-102105,17/02/2025,Bahrain,Website,Fashion,3,114.89,15,292.97,Yes
+SO-102106,18/04/2025,Qatar,Marketplace,Home & Kitchen,1,142.29,5,135.18,No
+SO-102107,02/01/2025,UAE,Mobile App,Electronics,2,687.79,20,"1,100.46",No
+SO-102108,27/06/2025,Saudi Arabia,Mobile App,Sports & Outdoors,2,85.27,5,162.01,No
+SO-102109,06/04/2025,Saudi Arabia,Website,Fashion,1,146.96,15,124.92,No
+SO-102110,02/03/2025,Oman,Mobile App,Electronics,2,78.74,0,157.48,No
+SO-102111,19/01/2025,Saudi Arabia,Mobile App,Books,2,33.34,10,60.01,No
+SO-102112,18/06/2025,UAE,Website,Fashion,3,142.63,0,427.89,Yes
+SO-102113,23/06/2025,Oman,Website,Electronics,4,667.81,0,"2,671.24",No
+SO-102114,14/08/2025,Saudi Arabia,Website,Electronics,2,128.54,25,192.81,No
+SO-102115,22/01/2025,UAE,Mobile App,Electronics,1,61.00,0,61.00,No
+SO-102116,28/08/2025,Qatar,Mobile App,Beauty,2,25.43,10,45.77,No
+SO-102117,15/11/2025,UAE,Website,Electronics,1,504.83,30,353.38,No
+SO-102118,31/08/2025,Saudi Arabia,Website,Fashion,1,53.28,0,53.28,No
+SO-102119,24/04/2025,UAE,Website,Electronics,4,200.67,0,802.68,No
+SO-102120,02/09/2025,Kuwait,Mobile App,Sports & Outdoors,3,148.05,20,355.32,No
+SO-102121,17/08/2025,UAE,Marketplace,Electronics,3,479.15,0,"1,437.45",Yes
+SO-102122,16/02/2025,Kuwait,Website,Home & Kitchen,1,50.28,10,45.25,No
+SO-102123,07/05/2025,Oman,Website,Books,2,39.03,20,62.45,No
+SO-102124,07/03/2025,Qatar,Mobile App,Electronics,1,372.36,25,279.27,No
+SO-102125,22/12/2025,Kuwait,Website,Electronics,1,752.90,0,752.90,No
+SO-102126,05/01/2025,UAE,Website,Home & Kitchen,2,91.00,0,182.00,No
+SO-102127,25/07/2025,UAE,Mobile App,Electronics,2,110.67,10,199.21,No
+SO-102128,12/04/2025,Qatar,Website,Books,1,16.48,5,15.66,No
+SO-102129,24/04/2025,Oman,Mobile App,Fashion,1,153.89,0,153.89,No
+SO-102130,15/05/2025,UAE,Mobile App,Electronics,4,810.33,0,"3,241.32",No
+SO-102131,30/03/2025,Saudi Arabia,Website,Electronics,1,866.23,5,822.92,No
+SO-102132,23/10/2025,Saudi Arabia,Marketplace,Books,2,8.69,20,13.90,No
+SO-102133,10/12/2025,UAE,Website,Beauty,1,88.82,0,88.82,No
+SO-102134,28/11/2025,UAE,Website,Fashion,1,16.92,15,14.38,No
+SO-102135,01/02/2025,Saudi Arabia,Mobile App,Sports & Outdoors,2,34.54,10,62.17,No
+SO-102136,11/05/2025,Oman,Mobile App,Books,1,8.26,0,8.26,No
+SO-102137,25/09/2025,UAE,Website,Electronics,1,75.41,0,75.41,No
+SO-102138,07/07/2025,Saudi Arabia,Mobile App,Home & Kitchen,1,188.00,25,141.00,No
+SO-102139,06/01/2025,Saudi Arabia,Mobile App,Fashion,2,135.59,10,244.06,No
+SO-102140,06/07/2025,Qatar,Website,Home & Kitchen,1,210.59,0,210.59,No
+SO-102141,18/07/2025,Bahrain,Mobile App,Fashion,3,150.17,0,450.51,No
+SO-102142,06/09/2025,UAE,Website,Home & Kitchen,3,93.92,0,281.76,No
+SO-102143,13/02/2025,Saudi Arabia,Mobile App,Beauty,4,25.52,5,96.98,No
+SO-102144,01/06/2025,Kuwait,Website,Home & Kitchen,1,223.76,0,223.76,No
+SO-102145,05/02/2025,Kuwait,Marketplace,Fashion,4,141.70,0,566.80,No
+SO-102146,08/08/2025,Kuwait,Marketplace,Beauty,4,70.97,20,227.10,No
+SO-102147,31/07/2025,Bahrain,Website,Home & Kitchen,2,73.47,20,117.55,No
+SO-102148,14/07/2025,Saudi Arabia,Marketplace,Home & Kitchen,1,237.22,0,237.22,No
+SO-102149,18/12/2025,UAE,Website,Beauty,3,79.20,5,225.72,No
+SO-102150,24/03/2025,UAE,Website,Electronics,1,278.17,20,222.54,No
+SO-102151,03/08/2025,Qatar,Mobile App,Electronics,2,621.44,25,932.16,No
+SO-102152,29/04/2025,Saudi Arabia,Mobile App,Electronics,3,227.69,0,683.07,No
+SO-102153,21/08/2025,Saudi Arabia,Website,Books,4,26.14,25,78.42,No
+SO-102154,20/12/2025,UAE,Website,Home & Kitchen,1,232.81,0,232.81,No
+SO-102155,18/05/2025,UAE,Marketplace,Electronics,1,83.84,20,67.07,No
+SO-102156,05/10/2025,UAE,Website,Sports & Outdoors,2,65.12,0,130.24,No
+SO-102157,31/08/2025,UAE,Website,Books,1,12.63,15,10.74,No
+SO-102158,08/01/2025,Qatar,Website,Sports & Outdoors,2,171.13,0,342.26,No
+SO-102159,14/12/2025,UAE,Website,Fashion,1,69.99,0,69.99,No
+SO-102160,01/12/2025,UAE,Mobile App,Beauty,2,87.44,0,174.88,No
+SO-102161,03/11/2025,Saudi Arabia,Marketplace,Books,1,26.88,30,18.82,No
+SO-102162,22/09/2025,UAE,Mobile App,Home & Kitchen,1,245.58,5,233.30,No
+SO-102163,02/04/2025,UAE,Website,Home & Kitchen,1,88.63,5,84.20,No
+SO-102164,31/03/2025,Saudi Arabia,Website,Fashion,3,85.82,0,257.46,No
+SO-102165,22/06/2025,Oman,Mobile App,Beauty,1,58.48,20,46.78,No
+SO-102166,23/10/2025,UAE,Marketplace,Home & Kitchen,3,175.68,0,527.04,No
+SO-102167,21/09/2025,Qatar,Website,Beauty,1,9.25,10,8.33,No
+SO-102168,19/11/2025,UAE,Mobile App,Books,4,8.61,30,24.11,No
+SO-102169,03/06/2025,UAE,Mobile App,Home & Kitchen,1,170.76,0,170.76,No
+SO-102170,28/08/2025,Oman,Website,Fashion,2,116.34,20,186.14,No
+SO-102171,21/03/2025,UAE,Website,Beauty,2,67.05,5,127.39,No
+SO-102172,30/04/2025,UAE,Mobile App,Electronics,1,485.27,15,412.48,No
+SO-102173,26/02/2025,Oman,Website,Electronics,4,220.68,10,794.45,No
+SO-102174,09/01/2025,Qatar,Mobile App,Fashion,1,37.72,20,30.18,Yes
+SO-102175,05/11/2025,Saudi Arabia,Mobile App,Beauty,2,20.37,30,28.52,No
+SO-102176,11/10/2025,Saudi Arabia,Mobile App,Sports & Outdoors,2,108.23,5,205.64,No
+SO-102177,16/12/2025,Oman,Website,Sports & Outdoors,2,63.53,10,114.35,No
+SO-102178,25/05/2025,Qatar,Mobile App,Sports & Outdoors,2,76.72,5,145.77,No
+SO-102179,07/07/2025,UAE,Mobile App,Fashion,4,173.54,15,590.04,No
+SO-102180,17/04/2025,UAE,Website,Home & Kitchen,1,104.04,0,104.04,No
+SO-102181,03/01/2025,Saudi Arabia,Mobile App,Fashion,3,93.83,25,211.12,No
+SO-102182,12/01/2025,UAE,Marketplace,Home & Kitchen,2,240.01,20,384.02,No
+SO-102183,24/02/2025,Saudi Arabia,Mobile App,Fashion,4,82.97,15,282.10,No
+SO-102184,09/06/2025,UAE,Website,Home & Kitchen,3,222.56,5,634.30,No
+SO-102185,31/03/2025,UAE,Website,Home & Kitchen,2,176.27,20,282.03,No
+SO-102186,11/11/2025,Kuwait,Marketplace,Electronics,1,327.30,20,261.84,No
+SO-102187,03/04/2025,Saudi Arabia,Mobile App,Home & Kitchen,3,44.57,15,113.65,No
+SO-102188,03/01/2025,Saudi Arabia,Website,Fashion,3,160.58,20,385.39,No
+SO-102189,07/12/2025,UAE,Mobile App,Beauty,1,53.64,15,45.59,No
+SO-102190,17/04/2025,UAE,Mobile App,Electronics,4,54.78,0,219.12,Yes
+SO-102191,17/05/2025,Saudi Arabia,Mobile App,Beauty,2,51.98,15,88.37,No
+SO-102192,03/06/2025,Oman,Mobile App,Fashion,1,88.33,20,70.66,No
+SO-102193,21/04/2025,UAE,Website,Sports & Outdoors,2,94.22,5,179.02,No
+SO-102194,12/03/2025,UAE,Mobile App,Home & Kitchen,2,30.60,0,61.20,No
+SO-102195,02/04/2025,Qatar,Mobile App,Fashion,4,92.61,0,370.44,No
+SO-102196,05/04/2025,Saudi Arabia,Mobile App,Home & Kitchen,2,158.50,20,253.60,No
+SO-102197,17/12/2025,Saudi Arabia,Mobile App,Books,2,16.32,5,31.01,No
+SO-102198,19/04/2025,Oman,Website,Sports & Outdoors,3,159.87,25,359.71,No
+SO-102199,26/02/2025,Saudi Arabia,Mobile App,Electronics,2,465.49,5,884.43,No
+SO-102200,11/04/2025,UAE,Marketplace,Beauty,1,70.87,25,53.15,No
+SO-102201,14/11/2025,Kuwait,Mobile App,Fashion,1,126.14,30,88.30,Yes
+SO-102202,29/08/2025,Saudi Arabia,Marketplace,Home & Kitchen,1,191.80,15,163.03,No
+SO-102203,26/09/2025,Qatar,Marketplace,Home & Kitchen,1,211.28,20,169.02,No
+SO-102204,06/10/2025,Saudi Arabia,Website,Home & Kitchen,1,160.89,5,152.85,No
+SO-102205,25/09/2025,Oman,Website,Electronics,2,895.27,20,"1,432.43",No
+SO-102206,14/01/2025,UAE,Mobile App,Fashion,4,47.40,0,189.60,No
+SO-102207,15/04/2025,UAE,Mobile App,Sports & Outdoors,1,203.43,5,193.26,No
+SO-102208,03/06/2025,Saudi Arabia,Mobile App,Fashion,1,60.30,25,45.22,No
+SO-102209,12/03/2025,UAE,Mobile App,Beauty,4,56.70,25,170.10,No
+SO-102210,12/11/2025,Oman,Mobile App,Fashion,1,158.01,15,134.31,No
+SO-102211,19/09/2025,Qatar,Mobile App,Electronics,2,481.35,0,962.70,No
+SO-102212,27/07/2025,Saudi Arabia,Mobile App,Sports & Outdoors,4,316.42,0,"1,265.68",No
+SO-102213,14/03/2025,Saudi Arabia,Mobile App,Books,1,40.76,0,40.76,No
+SO-102214,02/01/2025,UAE,Website,Sports & Outdoors,4,268.31,5,"1,019.58",No
+SO-102215,28/11/2025,UAE,Website,Beauty,3,68.52,20,164.45,No
+SO-102216,24/08/2025,Kuwait,Website,Electronics,4,129.77,5,493.13,No
+SO-102217,23/08/2025,Kuwait,Mobile App,Fashion,1,40.52,0,40.52,Yes
+SO-102218,21/10/2025,Qatar,Website,Fashion,3,50.34,5,143.47,Yes
+SO-102219,16/05/2025,Qatar,Website,Electronics,1,263.96,10,237.56,No
+SO-102220,28/05/2025,Saudi Arabia,Website,Books,1,28.48,20,22.78,No
+SO-102221,03/02/2025,Saudi Arabia,Website,Beauty,3,46.34,15,118.17,No
+SO-102222,29/06/2025,Qatar,Website,Books,1,7.64,0,7.64,No
+SO-102223,17/04/2025,Saudi Arabia,Marketplace,Beauty,1,19.05,15,16.19,No
+SO-102224,16/03/2025,Kuwait,Marketplace,Home & Kitchen,1,111.61,0,111.61,No
+SO-102225,16/03/2025,UAE,Mobile App,Fashion,2,106.06,20,169.70,No
+SO-102226,19/01/2025,Oman,Marketplace,Home & Kitchen,2,215.18,20,344.29,No
+SO-102227,07/04/2025,Saudi Arabia,Marketplace,Beauty,2,75.50,25,113.25,No
+SO-102228,31/01/2025,Saudi Arabia,Website,Home & Kitchen,3,109.92,5,313.27,No
+SO-102229,30/09/2025,UAE,Mobile App,Beauty,1,9.40,20,7.52,No
+SO-102230,15/10/2025,Qatar,Website,Fashion,1,64.35,0,64.35,No
+SO-102231,27/07/2025,Kuwait,Website,Electronics,2,852.63,10,"1,534.73",No
+SO-102232,18/02/2025,UAE,Mobile App,Beauty,3,12.11,15,30.88,No
+SO-102233,09/11/2025,Bahrain,Mobile App,Electronics,1,578.13,30,404.69,No
+SO-102234,08/05/2025,UAE,Mobile App,Fashion,4,52.72,10,189.79,No
+SO-102235,30/08/2025,Bahrain,Marketplace,Home & Kitchen,2,221.18,0,442.36,No
+SO-102236,20/02/2025,UAE,Website,Electronics,2,415.89,25,623.84,No
+SO-102237,19/11/2025,Kuwait,Website,Sports & Outdoors,1,230.86,20,184.69,No
+SO-102238,21/03/2025,UAE,Mobile App,Electronics,4,688.71,0,"2,754.84",Yes
+SO-102239,27/02/2025,UAE,Mobile App,Beauty,4,61.08,0,244.32,No
+SO-102240,10/06/2025,UAE,Mobile App,Fashion,1,39.02,15,33.17,No
+SO-102241,27/04/2025,UAE,Website,Fashion,1,90.60,5,86.07,No
+SO-102242,31/12/2025,Kuwait,Mobile App,Home & Kitchen,2,229.69,0,459.38,No
+SO-102243,20/09/2025,Saudi Arabia,Mobile App,Fashion,1,101.10,10,90.99,No
+SO-102244,25/05/2025,UAE,Website,Fashion,1,156.83,5,148.99,No
+SO-102245,17/09/2025,Qatar,Website,Home & Kitchen,1,201.54,20,161.23,No
+SO-102246,21/03/2025,UAE,Mobile App,Home & Kitchen,4,128.52,0,514.08,No
+SO-102247,23/09/2025,UAE,Mobile App,Home & Kitchen,1,104.07,5,98.87,No
+SO-102248,09/03/2025,UAE,Marketplace,Books,3,38.47,0,115.41,No
+SO-102249,09/11/2025,UAE,Website,Sports & Outdoors,2,182.09,15,309.55,No
+SO-102250,01/04/2025,UAE,Marketplace,Fashion,1,82.08,20,65.66,No
+SO-102251,25/01/2025,UAE,Website,Home & Kitchen,2,154.43,0,308.86,No
+SO-102252,30/09/2025,UAE,Mobile App,Fashion,2,161.63,0,323.26,No
+SO-102253,05/08/2025,UAE,Website,Home & Kitchen,4,198.90,0,795.60,No
+SO-102254,14/11/2025,Kuwait,Website,Fashion,4,23.27,20,74.46,No
+SO-102255,20/07/2025,Kuwait,Marketplace,Electronics,2,553.99,0,"1,107.98",No
+SO-102256,19/08/2025,UAE,Marketplace,Electronics,2,741.99,15,"1,261.38",No
+SO-102257,15/05/2025,Bahrain,Website,Electronics,3,192.23,0,576.69,No
+SO-102258,02/12/2025,Bahrain,Website,Fashion,1,27.57,10,24.81,No
+SO-102259,30/05/2025,Qatar,Mobile App,Home & Kitchen,2,114.29,0,228.58,No
+SO-102260,21/07/2025,UAE,Website,Electronics,1,863.62,10,777.26,No
+SO-102261,04/03/2025,UAE,Mobile App,Books,2,35.50,0,71.00,No
+SO-102262,22/01/2025,UAE,Mobile App,Beauty,1,25.72,0,25.72,No
+SO-102263,11/07/2025,Qatar,Website,Beauty,1,40.96,0,40.96,Yes
+SO-102264,30/12/2025,Oman,Mobile App,Fashion,1,131.47,5,124.90,No
+SO-102265,24/12/2025,Kuwait,Website,Home & Kitchen,1,134.61,15,114.42,No
+SO-102266,02/04/2025,Saudi Arabia,Mobile App,Beauty,4,57.88,0,231.52,No
+SO-102267,04/04/2025,UAE,Mobile App,Sports & Outdoors,1,225.55,15,191.72,No
+SO-102268,07/01/2025,Bahrain,Website,Books,2,12.35,15,20.99,No
+SO-102269,23/01/2025,UAE,Mobile App,Fashion,1,177.94,15,151.25,No
+SO-102270,22/12/2025,Bahrain,Marketplace,Home & Kitchen,1,216.04,0,216.04,No
+SO-102271,22/12/2025,Saudi Arabia,Website,Books,1,8.77,25,6.58,No
+SO-102272,01/07/2025,Kuwait,Mobile App,Home & Kitchen,2,255.81,20,409.30,No
+SO-102273,16/10/2025,Bahrain,Marketplace,Sports & Outdoors,2,278.77,25,418.15,No
+SO-102274,30/03/2025,UAE,Mobile App,Books,1,40.42,0,40.42,No
+SO-102275,07/02/2025,UAE,Website,Fashion,1,103.98,0,103.98,No
+SO-102276,12/06/2025,Bahrain,Marketplace,Electronics,1,575.04,15,488.78,No
+SO-102277,22/02/2025,UAE,Website,Electronics,2,278.48,20,445.57,No
+SO-102278,23/06/2025,UAE,Website,Home & Kitchen,2,156.05,25,234.08,No
+SO-102279,26/05/2025,Qatar,Mobile App,Books,1,22.83,0,22.83,No
+SO-102280,28/04/2025,Qatar,Website,Electronics,1,362.67,0,362.67,No
+SO-102281,02/11/2025,Saudi Arabia,Marketplace,Fashion,2,67.11,30,93.95,No
+SO-102282,06/06/2025,UAE,Marketplace,Home & Kitchen,2,114.49,15,194.63,No
+SO-102283,18/01/2025,Saudi Arabia,Website,Electronics,1,55.61,0,55.61,No
+SO-102284,13/02/2025,Kuwait,Marketplace,Sports & Outdoors,1,285.69,10,257.12,No
+SO-102285,17/01/2025,Oman,Mobile App,Home & Kitchen,4,151.58,0,606.32,No
+SO-102286,02/10/2025,UAE,Website,Home & Kitchen,2,136.03,0,272.06,No
+SO-102287,18/11/2025,Saudi Arabia,Website,Home & Kitchen,2,225.16,20,360.26,No
+SO-102288,16/10/2025,UAE,Mobile App,Home & Kitchen,2,175.05,0,350.10,No
+SO-102289,03/04/2025,Bahrain,Mobile App,Sports & Outdoors,1,293.55,15,249.52,No
+SO-102290,17/07/2025,Saudi Arabia,Website,Beauty,2,24.38,10,43.88,No
+SO-102291,05/03/2025,UAE,Mobile App,Electronics,3,395.60,15,"1,008.78",Yes
+SO-102292,23/02/2025,Oman,Website,Home & Kitchen,2,18.37,25,27.55,No
+SO-102293,24/03/2025,Saudi Arabia,Marketplace,Electronics,1,671.92,15,571.13,No
+SO-102294,29/07/2025,Saudi Arabia,Website,Home & Kitchen,1,163.36,5,155.19,No
+SO-102295,01/03/2025,UAE,Marketplace,Electronics,1,395.90,10,356.31,No
+SO-102296,23/09/2025,UAE,Website,Books,2,13.55,0,27.10,No
+SO-102297,10/03/2025,Saudi Arabia,Website,Electronics,2,113.21,0,226.42,No
+SO-102298,08/04/2025,Saudi Arabia,Mobile App,Electronics,1,667.25,15,567.16,No
+SO-102299,09/03/2025,Saudi Arabia,Mobile App,Sports & Outdoors,2,251.00,0,502.00,No
+SO-102300,05/05/2025,UAE,Website,Sports & Outdoors,2,244.61,0,489.22,No
+SO-102301,18/04/2025,Saudi Arabia,Website,Sports & Outdoors,2,190.02,0,380.04,No
+SO-102302,31/07/2025,UAE,Website,Electronics,2,710.33,0,"1,420.66",No
+SO-102303,23/11/2025,UAE,Mobile App,Beauty,4,16.64,20,53.25,No
+SO-102304,08/03/2025,UAE,Marketplace,Fashion,1,86.79,5,82.45,No
+SO-102305,11/12/2025,Oman,Mobile App,Electronics,3,677.97,10,"1,830.52",No
+SO-102306,19/03/2025,Kuwait,Website,Books,1,31.92,10,28.73,No
+SO-102307,08/08/2025,Saudi Arabia,Mobile App,Fashion,1,147.37,15,125.26,No
+SO-102308,10/03/2025,Kuwait,Website,Sports & Outdoors,1,171.65,5,163.07,Yes
+SO-102309,03/11/2025,Kuwait,Mobile App,Electronics,1,677.37,20,541.90,No
+SO-102310,13/09/2025,UAE,Website,Books,2,9.14,5,17.37,No
+SO-102311,23/12/2025,UAE,Marketplace,Fashion,1,37.54,25,28.16,No
+SO-102312,23/05/2025,Qatar,Website,Beauty,1,47.83,0,47.83,No
+SO-102313,26/02/2025,Saudi Arabia,Mobile App,Beauty,2,81.69,5,155.21,No
+SO-102314,16/03/2025,Kuwait,Mobile App,Books,1,26.79,0,26.79,No
+SO-102315,09/01/2025,UAE,Mobile App,Books,2,6.68,20,10.69,No
+SO-102316,27/09/2025,UAE,Mobile App,Sports & Outdoors,2,242.99,0,485.98,No
+SO-102317,25/04/2025,UAE,Website,Sports & Outdoors,1,229.08,0,229.08,No
+SO-102318,03/02/2025,Kuwait,Website,Beauty,1,43.63,0,43.63,No
+SO-102319,18/11/2025,UAE,Website,Books,1,33.49,15,28.47,No
+SO-102320,25/02/2025,Saudi Arabia,Marketplace,Fashion,1,146.73,25,110.05,No
+SO-102321,01/02/2025,Saudi Arabia,Marketplace,Fashion,2,143.47,15,243.90,Yes
+SO-102322,05/08/2025,UAE,Mobile App,Home & Kitchen,1,51.15,0,51.15,No
+SO-102323,21/03/2025,UAE,Website,Beauty,4,28.53,10,102.71,No
+SO-102324,01/07/2025,Saudi Arabia,Marketplace,Sports & Outdoors,1,226.58,0,226.58,No
+SO-102325,01/09/2025,Oman,Website,Books,1,8.57,5,8.14,No
+SO-102326,30/05/2025,UAE,Website,Beauty,2,11.98,20,19.17,No
+SO-102327,22/07/2025,Kuwait,Mobile App,Sports & Outdoors,2,240.36,15,408.61,No
+SO-102328,17/06/2025,UAE,Mobile App,Sports & Outdoors,3,78.40,10,211.68,No
+SO-102329,08/06/2025,Saudi Arabia,Marketplace,Fashion,3,136.34,25,306.76,No
+SO-102330,25/04/2025,Saudi Arabia,Website,Home & Kitchen,1,109.74,0,109.74,No
+SO-102331,13/02/2025,Kuwait,Marketplace,Home & Kitchen,1,57.41,10,51.67,No
+SO-102332,11/02/2025,Oman,Website,Home & Kitchen,4,137.34,0,549.36,No
+SO-102333,16/05/2025,Kuwait,Marketplace,Home & Kitchen,1,222.89,0,222.89,No
+SO-102334,09/12/2025,Saudi Arabia,Website,Home & Kitchen,3,112.01,0,336.03,No
+SO-102335,11/04/2025,UAE,Website,Beauty,1,40.40,0,40.40,No
+SO-102336,27/06/2025,Saudi Arabia,Marketplace,Sports & Outdoors,1,300.70,0,300.70,No
+SO-102337,05/05/2025,Qatar,Mobile App,Electronics,1,701.84,25,526.38,No
+SO-102338,21/08/2025,Kuwait,Website,Home & Kitchen,2,237.89,0,475.78,No
+SO-102339,17/02/2025,Saudi Arabia,Website,Beauty,4,73.48,0,293.92,No
+SO-102340,08/04/2025,Qatar,Website,Books,2,44.28,20,70.85,No
+SO-102341,29/07/2025,UAE,Website,Sports & Outdoors,3,255.37,15,651.19,No
+SO-102342,17/07/2025,UAE,Website,Home & Kitchen,3,118.57,10,320.14,No
+SO-102343,31/07/2025,UAE,Website,Home & Kitchen,4,153.48,25,460.44,No
+SO-102344,23/04/2025,Saudi Arabia,Website,Books,2,7.35,5,13.96,No
+SO-102345,17/11/2025,Saudi Arabia,Website,Home & Kitchen,1,56.48,20,45.18,No
+SO-102346,16/04/2025,UAE,Marketplace,Home & Kitchen,2,187.41,25,281.12,No
+SO-102347,20/02/2025,Saudi Arabia,Marketplace,Fashion,4,91.38,10,328.97,No
+SO-102348,14/10/2025,Qatar,Mobile App,Fashion,1,109.67,5,104.19,No
+SO-102349,19/05/2025,UAE,Website,Books,1,19.09,25,14.32,No
+SO-102350,31/03/2025,UAE,Marketplace,Electronics,2,178.38,0,356.76,No
+SO-102351,17/12/2025,UAE,Mobile App,Fashion,1,114.13,5,108.42,No
+SO-102352,19/07/2025,UAE,Website,Electronics,1,895.46,5,850.69,No
+SO-102353,27/09/2025,Saudi Arabia,Website,Home & Kitchen,1,93.44,5,88.77,No
+SO-102354,25/03/2025,UAE,Website,Electronics,2,874.49,10,"1,574.08",No
+SO-102355,09/10/2025,UAE,Website,Home & Kitchen,3,48.81,5,139.11,No
+SO-102356,15/07/2025,UAE,Mobile App,Sports & Outdoors,2,124.95,0,249.90,No
+SO-102357,10/09/2025,Bahrain,Marketplace,Fashion,2,97.04,20,155.26,No
+SO-102358,23/06/2025,UAE,Mobile App,Sports & Outdoors,1,24.17,0,24.17,No
+SO-102359,31/07/2025,UAE,Marketplace,Sports & Outdoors,2,27.70,0,55.40,No
+SO-102360,06/12/2025,UAE,Mobile App,Electronics,4,524.70,0,"2,098.80",No
+SO-102361,26/12/2025,Saudi Arabia,Mobile App,Fashion,1,111.70,20,89.36,No
+SO-102362,28/02/2025,Qatar,Mobile App,Home & Kitchen,4,185.43,10,667.55,No
+SO-102363,12/08/2025,Saudi Arabia,Website,Beauty,1,57.28,0,57.28,No
+SO-102364,08/08/2025,Qatar,Mobile App,Fashion,1,78.32,0,78.32,No
+SO-102365,30/01/2025,Saudi Arabia,Mobile App,Fashion,1,27.17,15,23.09,No
+SO-102366,25/09/2025,Saudi Arabia,Mobile App,Home & Kitchen,3,116.88,15,298.04,No
+SO-102367,06/05/2025,UAE,Mobile App,Electronics,2,220.04,20,352.06,No
+SO-102368,14/11/2025,Oman,Mobile App,Beauty,3,17.48,30,36.71,No
+SO-102369,20/05/2025,Qatar,Mobile App,Electronics,1,254.70,5,241.96,No
+SO-102370,07/02/2025,Saudi Arabia,Website,Home & Kitchen,1,160.20,20,128.16,No
+SO-102371,29/08/2025,Qatar,Mobile App,Sports & Outdoors,2,290.93,20,465.49,No
+SO-102372,15/05/2025,Kuwait,Mobile App,Electronics,3,347.75,10,938.93,No
+SO-102373,13/11/2025,Saudi Arabia,Website,Beauty,3,26.99,30,56.68,No
+SO-102374,15/07/2025,Qatar,Marketplace,Sports & Outdoors,1,72.43,0,72.43,No
+SO-102375,29/08/2025,Saudi Arabia,Website,Fashion,1,147.03,25,110.27,No
+SO-102376,28/03/2025,UAE,Website,Electronics,1,309.14,0,309.14,No
+SO-102377,20/04/2025,Bahrain,Website,Electronics,2,298.79,20,478.06,No
+SO-102378,06/03/2025,Saudi Arabia,Mobile App,Home & Kitchen,1,83.26,20,66.61,No
+SO-102379,26/04/2025,UAE,Website,Home & Kitchen,1,119.73,0,119.73,No
+SO-102380,03/12/2025,Bahrain,Mobile App,Home & Kitchen,1,24.98,0,24.98,No
+SO-102381,21/02/2025,Saudi Arabia,Mobile App,Fashion,1,18.18,0,18.18,No
+SO-102382,25/11/2025,UAE,Marketplace,Electronics,2,58.61,30,82.05,No
+SO-102383,28/02/2025,Kuwait,Website,Electronics,3,810.86,0,"2,432.58",No
+SO-102384,12/10/2025,Bahrain,Website,Electronics,2,820.67,5,"1,559.27",No
+SO-102385,22/02/2025,Saudi Arabia,Mobile App,Electronics,2,382.10,10,687.78,No
+SO-102386,13/11/2025,UAE,Website,Home & Kitchen,2,173.47,30,242.86,No
+SO-102387,24/06/2025,UAE,Website,Fashion,1,32.42,20,25.94,Yes
+SO-102388,01/11/2025,UAE,Mobile App,Home & Kitchen,1,199.90,30,139.93,No
+SO-102389,08/06/2025,UAE,Website,Sports & Outdoors,2,151.91,10,273.44,No
+SO-102390,10/08/2025,Oman,Website,Home & Kitchen,1,68.21,0,68.21,No
+SO-102391,17/02/2025,UAE,Website,Beauty,3,8.32,0,24.96,No
+SO-102392,03/01/2025,UAE,Website,Electronics,2,589.41,20,943.06,Yes
+SO-102393,01/12/2025,UAE,Website,Electronics,3,381.10,5,"1,086.14",No
+SO-102394,14/10/2025,UAE,Mobile App,Home & Kitchen,2,194.11,0,388.22,Yes
+SO-102395,20/07/2025,Saudi Arabia,Mobile App,Sports & Outdoors,2,130.06,10,234.11,No
+SO-102396,28/11/2025,UAE,Mobile App,Fashion,1,28.72,15,24.41,No
+SO-102397,21/10/2025,UAE,Mobile App,Fashion,3,137.87,15,351.57,No
+SO-102398,21/11/2025,Kuwait,Marketplace,Home & Kitchen,1,250.82,30,175.57,No
+SO-102399,30/11/2025,UAE,Mobile App,Fashion,1,81.43,15,69.22,No
+SO-102400,07/11/2025,Saudi Arabia,Mobile App,Home & Kitchen,2,216.00,20,345.60,No

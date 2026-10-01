@@ -1,0 +1,385 @@
+period_month,fiscal_year,fiscal_quarter,region,product_line,target_usd,actual_usd,deals_closed,period_status
+2025-01-01,2025,Q1,North America,Cloud Platform,994000.0,996821.0,22,Closed
+2025-01-01,2025,Q1,North America,Analytics Suite,449000.0,390333.39,14,Closed
+2025-01-01,2025,Q1,North America,Professional Services,268000.0,242633.14,7,Closed
+2025-01-01,2025,Q1,North America,Support & Maintenance,225000.0,208215.41,18,Closed
+2025-01-01,2025,Q1,Europe,Cloud Platform,616000.0,595194.83,14,Closed
+2025-01-01,2025,Q1,Europe,Analytics Suite,279000.0,289365.49,11,Closed
+2025-01-01,2025,Q1,Europe,Professional Services,166000.0,196227.42,6,Closed
+2025-01-01,2025,Q1,Europe,Support & Maintenance,139000.0,139931.84,10,Closed
+2025-01-01,2025,Q1,Middle East & Africa,Cloud Platform,338000.0,397444.87,8,Closed
+2025-01-01,2025,Q1,Middle East & Africa,Analytics Suite,153000.0,165432.58,6,Closed
+2025-01-01,2025,Q1,Middle East & Africa,Professional Services,91000.0,104651.01,3,Closed
+2025-01-01,2025,Q1,Middle East & Africa,Support & Maintenance,76000.0,81849.87,6,Closed
+2025-01-01,2025,Q1,Asia Pacific,Cloud Platform,407000.0,404907.02,8,Closed
+2025-01-01,2025,Q1,Asia Pacific,Analytics Suite,184000.0,186707.73,8,Closed
+2025-01-01,2025,Q1,Asia Pacific,Professional Services,110000.0,146668.75,5,Closed
+2025-01-01,2025,Q1,Asia Pacific,Support & Maintenance,92000.0,94708.55,7,Closed
+2025-02-01,2025,Q1,North America,Cloud Platform,1006000.0,1050912.02,23,Closed
+2025-02-01,2025,Q1,North America,Analytics Suite,459000.0,484571.48,17,Closed
+2025-02-01,2025,Q1,North America,Professional Services,271000.0,307517.38,10,Closed
+2025-02-01,2025,Q1,North America,Support & Maintenance,227000.0,250931.96,18,Closed
+2025-02-01,2025,Q1,Europe,Cloud Platform,623000.0,669519.78,13,Closed
+2025-02-01,2025,Q1,Europe,Analytics Suite,285000.0,273643.84,11,Closed
+2025-02-01,2025,Q1,Europe,Professional Services,168000.0,174263.81,6,Closed
+2025-02-01,2025,Q1,Europe,Support & Maintenance,141000.0,127476.24,10,Closed
+2025-02-01,2025,Q1,Middle East & Africa,Cloud Platform,348000.0,382972.93,8,Closed
+2025-02-01,2025,Q1,Middle East & Africa,Analytics Suite,159000.0,160865.56,7,Closed
+2025-02-01,2025,Q1,Middle East & Africa,Professional Services,94000.0,95879.34,3,Closed
+2025-02-01,2025,Q1,Middle East & Africa,Support & Maintenance,79000.0,87153.39,7,Closed
+2025-02-01,2025,Q1,Asia Pacific,Cloud Platform,412000.0,445030.98,9,Closed
+2025-02-01,2025,Q1,Asia Pacific,Analytics Suite,188000.0,182050.12,8,Closed
+2025-02-01,2025,Q1,Asia Pacific,Professional Services,111000.0,126540.3,4,Closed
+2025-02-01,2025,Q1,Asia Pacific,Support & Maintenance,93000.0,92610.63,7,Closed
+2025-03-01,2025,Q1,North America,Cloud Platform,1145000.0,1183138.18,28,Closed
+2025-03-01,2025,Q1,North America,Analytics Suite,528000.0,557096.91,24,Closed
+2025-03-01,2025,Q1,North America,Professional Services,309000.0,322349.9,10,Closed
+2025-03-01,2025,Q1,North America,Support & Maintenance,259000.0,289535.39,28,Closed
+2025-03-01,2025,Q1,Europe,Cloud Platform,710000.0,687441.37,14,Closed
+2025-03-01,2025,Q1,Europe,Analytics Suite,327000.0,330309.23,12,Closed
+2025-03-01,2025,Q1,Europe,Professional Services,191000.0,183197.1,6,Closed
+2025-03-01,2025,Q1,Europe,Support & Maintenance,160000.0,162897.19,13,Closed
+2025-03-01,2025,Q1,Middle East & Africa,Cloud Platform,403000.0,437801.0,9,Closed
+2025-03-01,2025,Q1,Middle East & Africa,Analytics Suite,186000.0,215632.02,9,Closed
+2025-03-01,2025,Q1,Middle East & Africa,Professional Services,109000.0,112093.32,3,Closed
+2025-03-01,2025,Q1,Middle East & Africa,Support & Maintenance,91000.0,94501.26,8,Closed
+2025-03-01,2025,Q1,Asia Pacific,Cloud Platform,469000.0,508257.76,9,Closed
+2025-03-01,2025,Q1,Asia Pacific,Analytics Suite,216000.0,226457.17,10,Closed
+2025-03-01,2025,Q1,Asia Pacific,Professional Services,127000.0,128363.64,4,Closed
+2025-03-01,2025,Q1,Asia Pacific,Support & Maintenance,106000.0,103658.6,9,Closed
+2025-04-01,2025,Q2,North America,Cloud Platform,1121000.0,1121767.89,26,Closed
+2025-04-01,2025,Q2,North America,Analytics Suite,522000.0,510561.6,18,Closed
+2025-04-01,2025,Q2,North America,Professional Services,302000.0,298386.84,8,Closed
+2025-04-01,2025,Q2,North America,Support & Maintenance,253000.0,229151.49,16,Closed
+2025-04-01,2025,Q2,Europe,Cloud Platform,695000.0,654914.36,15,Closed
+2025-04-01,2025,Q2,Europe,Analytics Suite,323000.0,328970.71,14,Closed
+2025-04-01,2025,Q2,Europe,Professional Services,187000.0,227111.56,6,Closed
+2025-04-01,2025,Q2,Europe,Support & Maintenance,157000.0,161017.39,12,Closed
+2025-04-01,2025,Q2,Middle East & Africa,Cloud Platform,401000.0,437155.28,10,Closed
+2025-04-01,2025,Q2,Middle East & Africa,Analytics Suite,186000.0,179202.78,7,Closed
+2025-04-01,2025,Q2,Middle East & Africa,Professional Services,108000.0,107129.68,3,Closed
+2025-04-01,2025,Q2,Middle East & Africa,Support & Maintenance,91000.0,96913.11,8,Closed
+2025-04-01,2025,Q2,Asia Pacific,Cloud Platform,460000.0,481333.64,9,Closed
+2025-04-01,2025,Q2,Asia Pacific,Analytics Suite,214000.0,229587.53,8,Closed
+2025-04-01,2025,Q2,Asia Pacific,Professional Services,124000.0,144154.03,4,Closed
+2025-04-01,2025,Q2,Asia Pacific,Support & Maintenance,104000.0,105649.05,10,Closed
+2025-05-01,2025,Q2,North America,Cloud Platform,1134000.0,1109328.31,25,Closed
+2025-05-01,2025,Q2,North America,Analytics Suite,532000.0,538517.74,23,Closed
+2025-05-01,2025,Q2,North America,Professional Services,306000.0,301934.04,9,Closed
+2025-05-01,2025,Q2,North America,Support & Maintenance,256000.0,250626.4,20,Closed
+2025-05-01,2025,Q2,Europe,Cloud Platform,703000.0,652313.66,12,Closed
+2025-05-01,2025,Q2,Europe,Analytics Suite,330000.0,317068.87,11,Closed
+2025-05-01,2025,Q2,Europe,Professional Services,190000.0,215540.06,7,Closed
+2025-05-01,2025,Q2,Europe,Support & Maintenance,159000.0,148075.4,13,Closed
+2025-05-01,2025,Q2,Middle East & Africa,Cloud Platform,412000.0,434050.61,8,Closed
+2025-05-01,2025,Q2,Middle East & Africa,Analytics Suite,193000.0,215934.02,8,Closed
+2025-05-01,2025,Q2,Middle East & Africa,Professional Services,111000.0,119449.36,4,Closed
+2025-05-01,2025,Q2,Middle East & Africa,Support & Maintenance,93000.0,98637.45,8,Closed
+2025-05-01,2025,Q2,Asia Pacific,Cloud Platform,465000.0,500317.44,11,Closed
+2025-05-01,2025,Q2,Asia Pacific,Analytics Suite,218000.0,242546.07,10,Closed
+2025-05-01,2025,Q2,Asia Pacific,Professional Services,125000.0,119399.86,4,Closed
+2025-05-01,2025,Q2,Asia Pacific,Support & Maintenance,105000.0,101151.08,9,Closed
+2025-06-01,2025,Q2,North America,Cloud Platform,1290000.0,1221076.21,25,Closed
+2025-06-01,2025,Q2,North America,Analytics Suite,611000.0,611820.53,21,Closed
+2025-06-01,2025,Q2,North America,Professional Services,348000.0,337125.79,10,Closed
+2025-06-01,2025,Q2,North America,Support & Maintenance,292000.0,287011.74,26,Closed
+2025-06-01,2025,Q2,Europe,Cloud Platform,800000.0,745823.62,16,Closed
+2025-06-01,2025,Q2,Europe,Analytics Suite,379000.0,408247.45,18,Closed
+2025-06-01,2025,Q2,Europe,Professional Services,216000.0,205255.84,6,Closed
+2025-06-01,2025,Q2,Europe,Support & Maintenance,181000.0,198691.18,14,Closed
+2025-06-01,2025,Q2,Middle East & Africa,Cloud Platform,476000.0,526325.74,11,Closed
+2025-06-01,2025,Q2,Middle East & Africa,Analytics Suite,225000.0,234223.88,9,Closed
+2025-06-01,2025,Q2,Middle East & Africa,Professional Services,128000.0,164312.32,5,Closed
+2025-06-01,2025,Q2,Middle East & Africa,Support & Maintenance,108000.0,120754.06,9,Closed
+2025-06-01,2025,Q2,Asia Pacific,Cloud Platform,529000.0,481654.43,9,Closed
+2025-06-01,2025,Q2,Asia Pacific,Analytics Suite,250000.0,256607.64,11,Closed
+2025-06-01,2025,Q2,Asia Pacific,Professional Services,143000.0,123880.97,4,Closed
+2025-06-01,2025,Q2,Asia Pacific,Support & Maintenance,120000.0,120133.88,11,Closed
+2025-07-01,2025,Q3,North America,Cloud Platform,1231000.0,1210589.12,26,Closed
+2025-07-01,2025,Q3,North America,Analytics Suite,588000.0,609489.8,24,Closed
+2025-07-01,2025,Q3,North America,Professional Services,332000.0,330225.95,9,Closed
+2025-07-01,2025,Q3,North America,Support & Maintenance,278000.0,288736.95,24,Closed
+2025-07-01,2025,Q3,Europe,Cloud Platform,763000.0,772447.17,18,Closed
+2025-07-01,2025,Q3,Europe,Analytics Suite,364000.0,324990.51,11,Closed
+2025-07-01,2025,Q3,Europe,Professional Services,206000.0,211297.61,6,Closed
+2025-07-01,2025,Q3,Europe,Support & Maintenance,173000.0,169933.12,16,Closed
+2025-07-01,2025,Q3,Middle East & Africa,Cloud Platform,461000.0,532896.79,11,Closed
+2025-07-01,2025,Q3,Middle East & Africa,Analytics Suite,219000.0,237472.71,10,Closed
+2025-07-01,2025,Q3,Middle East & Africa,Professional Services,124000.0,157272.55,5,Closed
+2025-07-01,2025,Q3,Middle East & Africa,Support & Maintenance,104000.0,108911.03,9,Closed
+2025-07-01,2025,Q3,Asia Pacific,Cloud Platform,505000.0,536124.05,13,Closed
+2025-07-01,2025,Q3,Asia Pacific,Analytics Suite,241000.0,230741.45,10,Closed
+2025-07-01,2025,Q3,Asia Pacific,Professional Services,136000.0,144238.52,4,Closed
+2025-07-01,2025,Q3,Asia Pacific,Support & Maintenance,114000.0,117975.98,10,Closed
+2025-08-01,2025,Q3,North America,Cloud Platform,1245000.0,1264020.83,27,Closed
+2025-08-01,2025,Q3,North America,Analytics Suite,599000.0,595692.11,25,Closed
+2025-08-01,2025,Q3,North America,Professional Services,336000.0,301468.07,8,Closed
+2025-08-01,2025,Q3,North America,Support & Maintenance,281000.0,298629.16,28,Closed
+2025-08-01,2025,Q3,Europe,Cloud Platform,772000.0,719027.05,14,Closed
+2025-08-01,2025,Q3,Europe,Analytics Suite,371000.0,375437.8,15,Closed
+2025-08-01,2025,Q3,Europe,Professional Services,208000.0,219037.48,6,Closed
+2025-08-01,2025,Q3,Europe,Support & Maintenance,174000.0,178154.58,14,Closed
+2025-08-01,2025,Q3,Middle East & Africa,Cloud Platform,472000.0,538234.28,10,Closed
+2025-08-01,2025,Q3,Middle East & Africa,Analytics Suite,226000.0,239217.38,8,Closed
+2025-08-01,2025,Q3,Middle East & Africa,Professional Services,127000.0,152649.21,5,Closed
+2025-08-01,2025,Q3,Middle East & Africa,Support & Maintenance,107000.0,121909.07,10,Closed
+2025-08-01,2025,Q3,Asia Pacific,Cloud Platform,510000.0,558322.9,13,Closed
+2025-08-01,2025,Q3,Asia Pacific,Analytics Suite,246000.0,252738.71,8,Closed
+2025-08-01,2025,Q3,Asia Pacific,Professional Services,138000.0,147012.84,4,Closed
+2025-08-01,2025,Q3,Asia Pacific,Support & Maintenance,115000.0,117775.43,9,Closed
+2025-09-01,2025,Q3,North America,Cloud Platform,1416000.0,1382428.92,31,Closed
+2025-09-01,2025,Q3,North America,Analytics Suite,687000.0,644638.25,28,Closed
+2025-09-01,2025,Q3,North America,Professional Services,382000.0,371792.64,11,Closed
+2025-09-01,2025,Q3,North America,Support & Maintenance,320000.0,350566.32,27,Closed
+2025-09-01,2025,Q3,Europe,Cloud Platform,878000.0,924965.34,18,Closed
+2025-09-01,2025,Q3,Europe,Analytics Suite,426000.0,418583.94,14,Closed
+2025-09-01,2025,Q3,Europe,Professional Services,237000.0,217139.41,6,Closed
+2025-09-01,2025,Q3,Europe,Support & Maintenance,198000.0,202351.66,18,Closed
+2025-09-01,2025,Q3,Middle East & Africa,Cloud Platform,545000.0,617251.46,11,Closed
+2025-09-01,2025,Q3,Middle East & Africa,Analytics Suite,262000.0,275888.41,11,Closed
+2025-09-01,2025,Q3,Middle East & Africa,Professional Services,147000.0,138767.6,4,Closed
+2025-09-01,2025,Q3,Middle East & Africa,Support & Maintenance,123000.0,123853.48,10,Closed
+2025-09-01,2025,Q3,Asia Pacific,Cloud Platform,580000.0,570141.03,13,Closed
+2025-09-01,2025,Q3,Asia Pacific,Analytics Suite,282000.0,275436.63,10,Closed
+2025-09-01,2025,Q3,Asia Pacific,Professional Services,156000.0,161175.08,5,Closed
+2025-09-01,2025,Q3,Asia Pacific,Support & Maintenance,131000.0,123185.23,9,Closed
+2025-10-01,2025,Q4,North America,Cloud Platform,1370000.0,1395809.9,33,Closed
+2025-10-01,2025,Q4,North America,Analytics Suite,670000.0,694205.43,30,Closed
+2025-10-01,2025,Q4,North America,Professional Services,369000.0,404341.02,13,Closed
+2025-10-01,2025,Q4,North America,Support & Maintenance,310000.0,335239.69,29,Closed
+2025-10-01,2025,Q4,Europe,Cloud Platform,849000.0,826108.46,18,Closed
+2025-10-01,2025,Q4,Europe,Analytics Suite,415000.0,411249.56,17,Closed
+2025-10-01,2025,Q4,Europe,Professional Services,229000.0,239778.19,8,Closed
+2025-10-01,2025,Q4,Europe,Support & Maintenance,192000.0,206925.98,17,Closed
+2025-10-01,2025,Q4,Middle East & Africa,Cloud Platform,534000.0,549195.65,13,Closed
+2025-10-01,2025,Q4,Middle East & Africa,Analytics Suite,259000.0,269092.33,10,Closed
+2025-10-01,2025,Q4,Middle East & Africa,Professional Services,144000.0,139972.26,4,Closed
+2025-10-01,2025,Q4,Middle East & Africa,Support & Maintenance,121000.0,126833.27,11,Closed
+2025-10-01,2025,Q4,Asia Pacific,Cloud Platform,562000.0,522094.66,12,Closed
+2025-10-01,2025,Q4,Asia Pacific,Analytics Suite,275000.0,277200.64,12,Closed
+2025-10-01,2025,Q4,Asia Pacific,Professional Services,151000.0,134269.45,4,Closed
+2025-10-01,2025,Q4,Asia Pacific,Support & Maintenance,127000.0,128992.58,11,Closed
+2025-11-01,2025,Q4,North America,Cloud Platform,1385000.0,1217661.57,23,Closed
+2025-11-01,2025,Q4,North America,Analytics Suite,682000.0,615047.12,25,Closed
+2025-11-01,2025,Q4,North America,Professional Services,373000.0,323887.92,9,Closed
+2025-11-01,2025,Q4,North America,Support & Maintenance,313000.0,317189.41,25,Closed
+2025-11-01,2025,Q4,Europe,Cloud Platform,859000.0,776034.43,18,Closed
+2025-11-01,2025,Q4,Europe,Analytics Suite,423000.0,432694.38,18,Closed
+2025-11-01,2025,Q4,Europe,Professional Services,231000.0,218113.46,7,Closed
+2025-11-01,2025,Q4,Europe,Support & Maintenance,194000.0,189118.36,18,Closed
+2025-11-01,2025,Q4,Middle East & Africa,Cloud Platform,547000.0,580679.12,11,Closed
+2025-11-01,2025,Q4,Middle East & Africa,Analytics Suite,266000.0,288831.36,12,Closed
+2025-11-01,2025,Q4,Middle East & Africa,Professional Services,147000.0,169482.84,4,Closed
+2025-11-01,2025,Q4,Middle East & Africa,Support & Maintenance,124000.0,133197.39,11,Closed
+2025-11-01,2025,Q4,Asia Pacific,Cloud Platform,568000.0,565642.77,11,Closed
+2025-11-01,2025,Q4,Asia Pacific,Analytics Suite,280000.0,284558.79,11,Closed
+2025-11-01,2025,Q4,Asia Pacific,Professional Services,153000.0,154004.34,4,Closed
+2025-11-01,2025,Q4,Asia Pacific,Support & Maintenance,128000.0,130948.66,10,Closed
+2025-12-01,2025,Q4,North America,Cloud Platform,1575000.0,1636929.18,33,Closed
+2025-12-01,2025,Q4,North America,Analytics Suite,781000.0,762547.34,28,Closed
+2025-12-01,2025,Q4,North America,Professional Services,424000.0,388502.11,10,Closed
+2025-12-01,2025,Q4,North America,Support & Maintenance,356000.0,363797.42,29,Closed
+2025-12-01,2025,Q4,Europe,Cloud Platform,976000.0,938544.14,17,Closed
+2025-12-01,2025,Q4,Europe,Analytics Suite,484000.0,500186.65,22,Closed
+2025-12-01,2025,Q4,Europe,Professional Services,263000.0,294669.59,9,Closed
+2025-12-01,2025,Q4,Europe,Support & Maintenance,221000.0,228408.07,21,Closed
+2025-12-01,2025,Q4,Middle East & Africa,Cloud Platform,629000.0,688445.28,16,Closed
+2025-12-01,2025,Q4,Middle East & Africa,Analytics Suite,308000.0,379717.54,13,Closed
+2025-12-01,2025,Q4,Middle East & Africa,Professional Services,170000.0,187586.21,5,Closed
+2025-12-01,2025,Q4,Middle East & Africa,Support & Maintenance,142000.0,144231.18,14,Closed
+2025-12-01,2025,Q4,Asia Pacific,Cloud Platform,646000.0,648809.02,13,Closed
+2025-12-01,2025,Q4,Asia Pacific,Analytics Suite,320000.0,346024.65,13,Closed
+2025-12-01,2025,Q4,Asia Pacific,Professional Services,174000.0,193461.16,5,Closed
+2025-12-01,2025,Q4,Asia Pacific,Support & Maintenance,146000.0,147370.68,14,Closed
+2026-01-01,2026,Q1,North America,Cloud Platform,1137000.0,1159237.29,24,Closed
+2026-01-01,2026,Q1,North America,Analytics Suite,568000.0,551176.97,21,Closed
+2026-01-01,2026,Q1,North America,Professional Services,306000.0,318259.64,10,Closed
+2026-01-01,2026,Q1,North America,Support & Maintenance,257000.0,261573.52,22,Closed
+2026-01-01,2026,Q1,Europe,Cloud Platform,705000.0,655644.04,13,Closed
+2026-01-01,2026,Q1,Europe,Analytics Suite,352000.0,367456.04,16,Closed
+2026-01-01,2026,Q1,Europe,Professional Services,190000.0,185158.1,6,Closed
+2026-01-01,2026,Q1,Europe,Support & Maintenance,159000.0,155882.31,12,Closed
+2026-01-01,2026,Q1,Middle East & Africa,Cloud Platform,459000.0,493968.99,10,Closed
+2026-01-01,2026,Q1,Middle East & Africa,Analytics Suite,226000.0,258591.5,10,Closed
+2026-01-01,2026,Q1,Middle East & Africa,Professional Services,124000.0,131492.51,3,Closed
+2026-01-01,2026,Q1,Middle East & Africa,Support & Maintenance,104000.0,120157.27,10,Closed
+2026-01-01,2026,Q1,Asia Pacific,Cloud Platform,466000.0,524243.8,11,Closed
+2026-01-01,2026,Q1,Asia Pacific,Analytics Suite,233000.0,216049.49,9,Closed
+2026-01-01,2026,Q1,Asia Pacific,Professional Services,126000.0,138526.77,4,Closed
+2026-01-01,2026,Q1,Asia Pacific,Support & Maintenance,105000.0,98975.37,7,Closed
+2026-02-01,2026,Q1,North America,Cloud Platform,1149000.0,1076058.85,20,Closed
+2026-02-01,2026,Q1,North America,Analytics Suite,578000.0,682875.96,28,Closed
+2026-02-01,2026,Q1,North America,Professional Services,310000.0,332176.76,11,Closed
+2026-02-01,2026,Q1,North America,Support & Maintenance,260000.0,234360.67,21,Closed
+2026-02-01,2026,Q1,Europe,Cloud Platform,712000.0,672431.52,16,Closed
+2026-02-01,2026,Q1,Europe,Analytics Suite,358000.0,398576.29,14,Closed
+2026-02-01,2026,Q1,Europe,Professional Services,192000.0,192360.77,5,Closed
+2026-02-01,2026,Q1,Europe,Support & Maintenance,161000.0,171927.56,12,Closed
+2026-02-01,2026,Q1,Middle East & Africa,Cloud Platform,470000.0,531965.57,10,Closed
+2026-02-01,2026,Q1,Middle East & Africa,Analytics Suite,232000.0,250437.23,9,Closed
+2026-02-01,2026,Q1,Middle East & Africa,Professional Services,127000.0,121307.72,3,Closed
+2026-02-01,2026,Q1,Middle East & Africa,Support & Maintenance,106000.0,112951.61,9,Closed
+2026-02-01,2026,Q1,Asia Pacific,Cloud Platform,471000.0,474735.74,10,Closed
+2026-02-01,2026,Q1,Asia Pacific,Analytics Suite,237000.0,208711.57,8,Closed
+2026-02-01,2026,Q1,Asia Pacific,Professional Services,127000.0,136289.0,4,Closed
+2026-02-01,2026,Q1,Asia Pacific,Support & Maintenance,106000.0,108067.73,10,Closed
+2026-03-01,2026,Q1,North America,Cloud Platform,1306000.0,1379951.44,29,Closed
+2026-03-01,2026,Q1,North America,Analytics Suite,661000.0,649050.06,24,Closed
+2026-03-01,2026,Q1,North America,Professional Services,352000.0,372268.01,12,Closed
+2026-03-01,2026,Q1,North America,Support & Maintenance,295000.0,300284.17,25,Closed
+2026-03-01,2026,Q1,Europe,Cloud Platform,809000.0,821681.52,19,Closed
+2026-03-01,2026,Q1,Europe,Analytics Suite,410000.0,435522.24,19,Closed
+2026-03-01,2026,Q1,Europe,Professional Services,218000.0,230177.62,7,Closed
+2026-03-01,2026,Q1,Europe,Support & Maintenance,183000.0,166004.94,14,Closed
+2026-03-01,2026,Q1,Middle East & Africa,Cloud Platform,540000.0,619008.73,14,Closed
+2026-03-01,2026,Q1,Middle East & Africa,Analytics Suite,268000.0,286566.05,11,Closed
+2026-03-01,2026,Q1,Middle East & Africa,Professional Services,145000.0,138815.38,4,Closed
+2026-03-01,2026,Q1,Middle East & Africa,Support & Maintenance,122000.0,137058.13,10,Closed
+2026-03-01,2026,Q1,Asia Pacific,Cloud Platform,535000.0,569600.74,11,Closed
+2026-03-01,2026,Q1,Asia Pacific,Analytics Suite,271000.0,281667.38,11,Closed
+2026-03-01,2026,Q1,Asia Pacific,Professional Services,144000.0,147530.21,5,Closed
+2026-03-01,2026,Q1,Asia Pacific,Support & Maintenance,121000.0,127818.64,10,Closed
+2026-04-01,2026,Q2,North America,Cloud Platform,1277000.0,1293157.91,26,Closed
+2026-04-01,2026,Q2,North America,Analytics Suite,651000.0,660153.24,25,Closed
+2026-04-01,2026,Q2,North America,Professional Services,344000.0,427331.74,12,Closed
+2026-04-01,2026,Q2,North America,Support & Maintenance,289000.0,299212.49,27,Closed
+2026-04-01,2026,Q2,Europe,Cloud Platform,792000.0,669937.05,16,Closed
+2026-04-01,2026,Q2,Europe,Analytics Suite,403000.0,329379.01,14,Closed
+2026-04-01,2026,Q2,Europe,Professional Services,213000.0,161223.79,5,Closed
+2026-04-01,2026,Q2,Europe,Support & Maintenance,179000.0,159449.31,15,Closed
+2026-04-01,2026,Q2,Middle East & Africa,Cloud Platform,533000.0,626566.49,12,Closed
+2026-04-01,2026,Q2,Middle East & Africa,Analytics Suite,266000.0,287298.59,10,Closed
+2026-04-01,2026,Q2,Middle East & Africa,Professional Services,144000.0,151445.68,4,Closed
+2026-04-01,2026,Q2,Middle East & Africa,Support & Maintenance,121000.0,126256.14,12,Closed
+2026-04-01,2026,Q2,Asia Pacific,Cloud Platform,523000.0,516795.84,11,Closed
+2026-04-01,2026,Q2,Asia Pacific,Analytics Suite,267000.0,268652.59,11,Closed
+2026-04-01,2026,Q2,Asia Pacific,Professional Services,141000.0,120080.98,4,Closed
+2026-04-01,2026,Q2,Asia Pacific,Support & Maintenance,118000.0,123434.79,10,Closed
+2026-05-01,2026,Q2,North America,Cloud Platform,1290000.0,1240248.28,28,Closed
+2026-05-01,2026,Q2,North America,Analytics Suite,661000.0,638108.48,22,Closed
+2026-05-01,2026,Q2,North America,Professional Services,348000.0,377050.56,11,Closed
+2026-05-01,2026,Q2,North America,Support & Maintenance,292000.0,305519.48,22,Closed
+2026-05-01,2026,Q2,Europe,Cloud Platform,800000.0,807007.16,19,Closed
+2026-05-01,2026,Q2,Europe,Analytics Suite,410000.0,326235.94,12,Closed
+2026-05-01,2026,Q2,Europe,Professional Services,216000.0,147137.58,4,Closed
+2026-05-01,2026,Q2,Europe,Support & Maintenance,181000.0,138827.68,13,Closed
+2026-05-01,2026,Q2,Middle East & Africa,Cloud Platform,544000.0,600087.43,13,Closed
+2026-05-01,2026,Q2,Middle East & Africa,Analytics Suite,273000.0,308616.59,10,Closed
+2026-05-01,2026,Q2,Middle East & Africa,Professional Services,147000.0,189587.34,6,Closed
+2026-05-01,2026,Q2,Middle East & Africa,Support & Maintenance,123000.0,121554.86,11,Closed
+2026-05-01,2026,Q2,Asia Pacific,Cloud Platform,529000.0,479046.44,11,Closed
+2026-05-01,2026,Q2,Asia Pacific,Analytics Suite,271000.0,271729.45,10,Closed
+2026-05-01,2026,Q2,Asia Pacific,Professional Services,143000.0,169534.2,5,Closed
+2026-05-01,2026,Q2,Asia Pacific,Support & Maintenance,120000.0,114496.27,9,Closed
+2026-06-01,2026,Q2,North America,Cloud Platform,1465000.0,1482885.2,30,Closed
+2026-06-01,2026,Q2,North America,Analytics Suite,756000.0,679357.71,24,Closed
+2026-06-01,2026,Q2,North America,Professional Services,395000.0,390785.12,11,Closed
+2026-06-01,2026,Q2,North America,Support & Maintenance,331000.0,323594.83,29,Closed
+2026-06-01,2026,Q2,Europe,Cloud Platform,909000.0,768512.23,16,Closed
+2026-06-01,2026,Q2,Europe,Analytics Suite,469000.0,424375.29,16,Closed
+2026-06-01,2026,Q2,Europe,Professional Services,245000.0,209817.07,5,Closed
+2026-06-01,2026,Q2,Europe,Support & Maintenance,205000.0,166859.33,15,Closed
+2026-06-01,2026,Q2,Middle East & Africa,Cloud Platform,625000.0,724234.45,15,Closed
+2026-06-01,2026,Q2,Middle East & Africa,Analytics Suite,314000.0,378903.57,15,Closed
+2026-06-01,2026,Q2,Middle East & Africa,Professional Services,168000.0,185129.56,5,Closed
+2026-06-01,2026,Q2,Middle East & Africa,Support & Maintenance,141000.0,149607.24,14,Closed
+2026-06-01,2026,Q2,Asia Pacific,Cloud Platform,601000.0,610352.02,13,Closed
+2026-06-01,2026,Q2,Asia Pacific,Analytics Suite,310000.0,314699.48,13,Closed
+2026-06-01,2026,Q2,Asia Pacific,Professional Services,162000.0,156726.95,5,Closed
+2026-06-01,2026,Q2,Asia Pacific,Support & Maintenance,136000.0,142086.94,13,Closed
+2026-07-01,2026,Q3,North America,Cloud Platform,1396000.0,1516945.77,31,Closed
+2026-07-01,2026,Q3,North America,Analytics Suite,725000.0,685376.08,25,Closed
+2026-07-01,2026,Q3,North America,Professional Services,376000.0,380745.79,10,Closed
+2026-07-01,2026,Q3,North America,Support & Maintenance,316000.0,318418.68,29,Closed
+2026-07-01,2026,Q3,Europe,Cloud Platform,866000.0,827765.76,16,Closed
+2026-07-01,2026,Q3,Europe,Analytics Suite,449000.0,486609.38,20,Closed
+2026-07-01,2026,Q3,Europe,Professional Services,233000.0,237808.89,6,Closed
+2026-07-01,2026,Q3,Europe,Support & Maintenance,196000.0,190662.7,17,Closed
+2026-07-01,2026,Q3,Middle East & Africa,Cloud Platform,601000.0,634248.88,11,Closed
+2026-07-01,2026,Q3,Middle East & Africa,Analytics Suite,304000.0,355661.86,16,Closed
+2026-07-01,2026,Q3,Middle East & Africa,Professional Services,162000.0,188315.81,5,Closed
+2026-07-01,2026,Q3,Middle East & Africa,Support & Maintenance,136000.0,158035.7,12,Closed
+2026-07-01,2026,Q3,Asia Pacific,Cloud Platform,572000.0,589114.09,12,Closed
+2026-07-01,2026,Q3,Asia Pacific,Analytics Suite,297000.0,319297.33,14,Closed
+2026-07-01,2026,Q3,Asia Pacific,Professional Services,154000.0,121488.24,3,Closed
+2026-07-01,2026,Q3,Asia Pacific,Support & Maintenance,129000.0,128780.86,10,Closed
+2026-08-01,2026,Q3,North America,Cloud Platform,1410000.0,1575480.41,30,Closed
+2026-08-01,2026,Q3,North America,Analytics Suite,736000.0,733897.62,28,Closed
+2026-08-01,2026,Q3,North America,Professional Services,380000.0,389237.02,10,Closed
+2026-08-01,2026,Q3,North America,Support & Maintenance,319000.0,334272.6,24,Closed
+2026-08-01,2026,Q3,Europe,Cloud Platform,874000.0,889392.9,21,Closed
+2026-08-01,2026,Q3,Europe,Analytics Suite,456000.0,425591.5,15,Closed
+2026-08-01,2026,Q3,Europe,Professional Services,236000.0,183795.24,5,Closed
+2026-08-01,2026,Q3,Europe,Support & Maintenance,198000.0,200138.66,18,Closed
+2026-08-01,2026,Q3,Middle East & Africa,Cloud Platform,613000.0,684486.54,14,Closed
+2026-08-01,2026,Q3,Middle East & Africa,Analytics Suite,311000.0,348873.75,15,Closed
+2026-08-01,2026,Q3,Middle East & Africa,Professional Services,165000.0,220068.17,5,Closed
+2026-08-01,2026,Q3,Middle East & Africa,Support & Maintenance,139000.0,156625.16,11,Closed
+2026-08-01,2026,Q3,Asia Pacific,Cloud Platform,578000.0,625489.66,12,Closed
+2026-08-01,2026,Q3,Asia Pacific,Analytics Suite,302000.0,326128.79,11,Closed
+2026-08-01,2026,Q3,Asia Pacific,Professional Services,156000.0,169938.74,4,Closed
+2026-08-01,2026,Q3,Asia Pacific,Support & Maintenance,131000.0,129903.9,9,Closed
+2026-09-01,2026,Q3,North America,Cloud Platform,1602000.0,1628591.21,31,Closed
+2026-09-01,2026,Q3,North America,Analytics Suite,841000.0,827475.06,31,Closed
+2026-09-01,2026,Q3,North America,Professional Services,432000.0,507144.16,14,Closed
+2026-09-01,2026,Q3,North America,Support & Maintenance,362000.0,393661.15,29,Closed
+2026-09-01,2026,Q3,Europe,Cloud Platform,993000.0,1052167.35,19,Closed
+2026-09-01,2026,Q3,Europe,Analytics Suite,521000.0,568998.21,24,Closed
+2026-09-01,2026,Q3,Europe,Professional Services,268000.0,288475.34,8,Closed
+2026-09-01,2026,Q3,Europe,Support & Maintenance,225000.0,232717.26,19,Closed
+2026-09-01,2026,Q3,Middle East & Africa,Cloud Platform,703000.0,761894.66,16,Closed
+2026-09-01,2026,Q3,Middle East & Africa,Analytics Suite,357000.0,419641.63,15,Closed
+2026-09-01,2026,Q3,Middle East & Africa,Professional Services,189000.0,162986.82,4,Closed
+2026-09-01,2026,Q3,Middle East & Africa,Support & Maintenance,159000.0,153726.22,13,Closed
+2026-09-01,2026,Q3,Asia Pacific,Cloud Platform,657000.0,670250.66,15,Closed
+2026-09-01,2026,Q3,Asia Pacific,Analytics Suite,345000.0,329776.3,12,Closed
+2026-09-01,2026,Q3,Asia Pacific,Professional Services,177000.0,180944.43,4,Closed
+2026-09-01,2026,Q3,Asia Pacific,Support & Maintenance,148000.0,150231.79,14,Closed
+2026-10-01,2026,Q4,North America,Cloud Platform,1548000.0,,,Open
+2026-10-01,2026,Q4,North America,Analytics Suite,817000.0,,,Open
+2026-10-01,2026,Q4,North America,Professional Services,417000.0,,,Open
+2026-10-01,2026,Q4,North America,Support & Maintenance,350000.0,,,Open
+2026-10-01,2026,Q4,Europe,Cloud Platform,960000.0,,,Open
+2026-10-01,2026,Q4,Europe,Analytics Suite,507000.0,,,Open
+2026-10-01,2026,Q4,Europe,Professional Services,259000.0,,,Open
+2026-10-01,2026,Q4,Europe,Support & Maintenance,217000.0,,,Open
+2026-10-01,2026,Q4,Middle East & Africa,Cloud Platform,685000.0,,,Open
+2026-10-01,2026,Q4,Middle East & Africa,Analytics Suite,350000.0,,,Open
+2026-10-01,2026,Q4,Middle East & Africa,Professional Services,185000.0,,,Open
+2026-10-01,2026,Q4,Middle East & Africa,Support & Maintenance,155000.0,,,Open
+2026-10-01,2026,Q4,Asia Pacific,Cloud Platform,635000.0,,,Open
+2026-10-01,2026,Q4,Asia Pacific,Analytics Suite,335000.0,,,Open
+2026-10-01,2026,Q4,Asia Pacific,Professional Services,171000.0,,,Open
+2026-10-01,2026,Q4,Asia Pacific,Support & Maintenance,143000.0,,,Open
+2026-11-01,2026,Q4,North America,Cloud Platform,1563000.0,,,Open
+2026-11-01,2026,Q4,North America,Analytics Suite,830000.0,,,Open
+2026-11-01,2026,Q4,North America,Professional Services,421000.0,,,Open
+2026-11-01,2026,Q4,North America,Support & Maintenance,353000.0,,,Open
+2026-11-01,2026,Q4,Europe,Cloud Platform,969000.0,,,Open
+2026-11-01,2026,Q4,Europe,Analytics Suite,514000.0,,,Open
+2026-11-01,2026,Q4,Europe,Professional Services,261000.0,,,Open
+2026-11-01,2026,Q4,Europe,Support & Maintenance,219000.0,,,Open
+2026-11-01,2026,Q4,Middle East & Africa,Cloud Platform,698000.0,,,Open
+2026-11-01,2026,Q4,Middle East & Africa,Analytics Suite,357000.0,,,Open
+2026-11-01,2026,Q4,Middle East & Africa,Professional Services,188000.0,,,Open
+2026-11-01,2026,Q4,Middle East & Africa,Support & Maintenance,158000.0,,,Open
+2026-11-01,2026,Q4,Asia Pacific,Cloud Platform,641000.0,,,Open
+2026-11-01,2026,Q4,Asia Pacific,Analytics Suite,340000.0,,,Open
+2026-11-01,2026,Q4,Asia Pacific,Professional Services,173000.0,,,Open
+2026-11-01,2026,Q4,Asia Pacific,Support & Maintenance,145000.0,,,Open
+2026-12-01,2026,Q4,North America,Cloud Platform,1775000.0,,,Open
+2026-12-01,2026,Q4,North America,Analytics Suite,947000.0,,,Open
+2026-12-01,2026,Q4,North America,Professional Services,478000.0,,,Open
+2026-12-01,2026,Q4,North America,Support & Maintenance,401000.0,,,Open
+2026-12-01,2026,Q4,Europe,Cloud Platform,1100000.0,,,Open
+2026-12-01,2026,Q4,Europe,Analytics Suite,587000.0,,,Open
+2026-12-01,2026,Q4,Europe,Professional Services,297000.0,,,Open
+2026-12-01,2026,Q4,Europe,Support & Maintenance,249000.0,,,Open
+2026-12-01,2026,Q4,Middle East & Africa,Cloud Platform,799000.0,,,Open
+2026-12-01,2026,Q4,Middle East & Africa,Analytics Suite,411000.0,,,Open
+2026-12-01,2026,Q4,Middle East & Africa,Professional Services,215000.0,,,Open
+2026-12-01,2026,Q4,Middle East & Africa,Support & Maintenance,181000.0,,,Open
+2026-12-01,2026,Q4,Asia Pacific,Cloud Platform,728000.0,,,Open
+2026-12-01,2026,Q4,Asia Pacific,Analytics Suite,388000.0,,,Open
+2026-12-01,2026,Q4,Asia Pacific,Professional Services,196000.0,,,Open
+2026-12-01,2026,Q4,Asia Pacific,Support & Maintenance,165000.0,,,Open

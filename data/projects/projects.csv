@@ -1,0 +1,19 @@
+project_id,project_name,portfolio,sponsor_department,project_manager_id,priority,status,health,start_date,planned_end_date,forecast_end_date,actual_end_date,budget_usd,actual_cost_usd,percent_complete
+PRJ-001,CRM Migration to Cloud,Customer Experience,Sales,TM07,High,Completed,Closed,2025-03-03,2026-02-27,,2026-04-09,455000.0,479148.98,100
+PRJ-002,Data Warehouse Modernization,Data & Analytics,Finance,TM03,High,In Progress,Off Track,2025-06-02,2026-12-18,2027-05-01,,557000.0,441227.14,65
+PRJ-003,Customer Mobile App v3,Customer Experience,Product Management,TM05,High,In Progress,On Track,2025-10-06,2026-11-27,2026-11-27,,411000.0,351674.78,91
+PRJ-004,ERP Finance Module Upgrade,Digital Transformation,Finance,TM06,High,Completed,Closed,2025-04-07,2026-01-30,,2026-01-30,297000.0,282926.69,100
+PRJ-005,Zero Trust Network Rollout,Infrastructure & Security,IT & Operations,TM04,High,In Progress,At Risk,2025-09-01,2026-10-30,2026-12-17,,382000.0,339152.24,87
+PRJ-006,PDPL & GDPR Compliance Program,Compliance,Finance,TM03,High,Completed,Closed,2025-05-05,2026-03-31,,2026-03-31,402000.0,374856.89,100
+PRJ-007,Self-Service Analytics Portal,Data & Analytics,Product Management,TM08,Medium,In Progress,On Track,2026-01-12,2026-12-11,2026-12-11,,346000.0,278548.03,82
+PRJ-008,HR Information System Replacement,Digital Transformation,People & HR,TM05,Medium,In Progress,Off Track,2025-11-03,2026-09-25,2026-12-13,,273000.0,275202.58,87
+PRJ-009,Customer Support Chatbot,Customer Experience,Customer Success,TM07,Medium,In Progress,At Risk,2026-02-02,2026-11-13,2026-12-09,,327000.0,291000.79,82
+PRJ-010,Data Center Exit,Infrastructure & Security,IT & Operations,TM03,High,In Progress,On Track,2025-07-07,2027-03-26,2027-04-01,,543000.0,355214.56,67
+PRJ-011,Procurement Automation,Digital Transformation,Finance,TM06,Low,Completed,Closed,2025-08-04,2026-04-24,,2026-05-16,236000.0,255960.42,100
+PRJ-012,Website Redesign,Customer Experience,Marketing,TM01,Medium,In Progress,On Track,2026-03-02,2026-10-23,2026-10-23,,216000.0,190143.1,93
+PRJ-013,Master Data Management,Data & Analytics,IT & Operations,TM01,Medium,On Hold,On Hold,2026-04-06,2027-02-26,2027-02-26,,291000.0,72121.83,24
+PRJ-014,SOC 2 Type II Certification,Compliance,IT & Operations,TM06,High,Completed,Closed,2025-09-15,2026-07-17,,2026-08-20,311000.0,338840.09,100
+PRJ-015,Field Service Scheduling,Digital Transformation,Customer Success,TM05,Low,Not Started,Not Started,2026-10-12,2027-05-28,2027-05-28,,202000.0,0.0,0
+PRJ-016,Endpoint Management Refresh,Infrastructure & Security,IT & Operations,TM03,Low,Not Started,Not Started,2026-11-02,2027-03-12,2027-03-12,,109000.0,0.0,0
+PRJ-017,Revenue Forecasting ML Model,Data & Analytics,Sales,TM08,Medium,In Progress,At Risk,2026-05-04,2026-12-18,2027-01-13,,258000.0,164179.65,57
+PRJ-018,E-Invoicing Compliance,Compliance,Finance,TM05,High,Not Started,Not Started,2026-10-05,2027-06-25,2027-06-25,,291000.0,0.0,0

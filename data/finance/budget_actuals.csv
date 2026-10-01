@@ -1,0 +1,1585 @@
+period_month,fiscal_year,fiscal_quarter,department_id,expense_category,budget_usd,actual_usd,period_status
+2025-01-01,2025,Q1,D01,Salaries & Wages,900000.0,909598.59,Closed
+2025-01-01,2025,Q1,D01,Benefits,198000.0,190792.91,Closed
+2025-01-01,2025,Q1,D01,Contractors,10000.0,10262.66,Closed
+2025-01-01,2025,Q1,D01,Software & Subscriptions,45000.0,46481.39,Closed
+2025-01-01,2025,Q1,D01,Travel & Entertainment,148500.0,138359.49,Closed
+2025-01-01,2025,Q1,D01,Facilities,54000.0,51538.88,Closed
+2025-01-01,2025,Q1,D01,Training & Development,21600.0,21696.65,Closed
+2025-01-01,2025,Q1,D01,Hardware & Equipment,17600.0,17405.19,Closed
+2025-01-01,2025,Q1,D01,Marketing Programs,24000.0,23985.89,Closed
+2025-01-01,2025,Q1,D02,Salaries & Wages,350000.0,339550.21,Closed
+2025-01-01,2025,Q1,D02,Benefits,77000.0,79369.98,Closed
+2025-01-01,2025,Q1,D02,Contractors,40000.0,41088.91,Closed
+2025-01-01,2025,Q1,D02,Software & Subscriptions,55000.0,55127.11,Closed
+2025-01-01,2025,Q1,D02,Travel & Entertainment,33800.0,35133.53,Closed
+2025-01-01,2025,Q1,D02,Facilities,21000.0,21343.62,Closed
+2025-01-01,2025,Q1,D02,Training & Development,8400.0,8147.37,Closed
+2025-01-01,2025,Q1,D02,Hardware & Equipment,13200.0,13370.36,Closed
+2025-01-01,2025,Q1,D02,Marketing Programs,336000.0,324723.54,Closed
+2025-01-01,2025,Q1,D03,Salaries & Wages,450000.0,463835.59,Closed
+2025-01-01,2025,Q1,D03,Benefits,99000.0,98827.01,Closed
+2025-01-01,2025,Q1,D03,Contractors,12000.0,11922.36,Closed
+2025-01-01,2025,Q1,D03,Software & Subscriptions,30000.0,29285.02,Closed
+2025-01-01,2025,Q1,D03,Travel & Entertainment,47200.0,49219.64,Closed
+2025-01-01,2025,Q1,D03,Facilities,27000.0,26853.97,Closed
+2025-01-01,2025,Q1,D03,Training & Development,10800.0,10638.09,Closed
+2025-01-01,2025,Q1,D03,Hardware & Equipment,15400.0,15210.2,Closed
+2025-01-01,2025,Q1,D04,Salaries & Wages,1450000.0,1477014.69,Closed
+2025-01-01,2025,Q1,D04,Benefits,319000.0,323080.18,Closed
+2025-01-01,2025,Q1,D04,Contractors,180000.0,182600.22,Closed
+2025-01-01,2025,Q1,D04,Software & Subscriptions,120000.0,121809.45,Closed
+2025-01-01,2025,Q1,D04,Travel & Entertainment,20200.0,21714.14,Closed
+2025-01-01,2025,Q1,D04,Facilities,87000.0,85762.47,Closed
+2025-01-01,2025,Q1,D04,Training & Development,34800.0,34176.09,Closed
+2025-01-01,2025,Q1,D04,Hardware & Equipment,88000.0,85493.58,Closed
+2025-01-01,2025,Q1,D05,Salaries & Wages,300000.0,306467.78,Closed
+2025-01-01,2025,Q1,D05,Benefits,66000.0,68607.93,Closed
+2025-01-01,2025,Q1,D05,Contractors,20000.0,19920.24,Closed
+2025-01-01,2025,Q1,D05,Software & Subscriptions,18000.0,17470.7,Closed
+2025-01-01,2025,Q1,D05,Travel & Entertainment,16200.0,15732.52,Closed
+2025-01-01,2025,Q1,D05,Facilities,18000.0,18409.87,Closed
+2025-01-01,2025,Q1,D05,Training & Development,7200.0,7387.3,Closed
+2025-01-01,2025,Q1,D05,Hardware & Equipment,11000.0,11209.11,Closed
+2025-01-01,2025,Q1,D06,Salaries & Wages,220000.0,214875.58,Closed
+2025-01-01,2025,Q1,D06,Benefits,48400.0,48793.28,Closed
+2025-01-01,2025,Q1,D06,Contractors,15000.0,15061.26,Closed
+2025-01-01,2025,Q1,D06,Software & Subscriptions,16000.0,16122.47,Closed
+2025-01-01,2025,Q1,D06,Travel & Entertainment,10800.0,11129.4,Closed
+2025-01-01,2025,Q1,D06,Facilities,13200.0,13303.3,Closed
+2025-01-01,2025,Q1,D06,Training & Development,5300.0,5425.94,Closed
+2025-01-01,2025,Q1,D06,Hardware & Equipment,8800.0,8820.81,Closed
+2025-01-01,2025,Q1,D07,Salaries & Wages,180000.0,181821.45,Closed
+2025-01-01,2025,Q1,D07,Benefits,39600.0,40474.97,Closed
+2025-01-01,2025,Q1,D07,Contractors,10000.0,9490.0,Closed
+2025-01-01,2025,Q1,D07,Software & Subscriptions,14000.0,13843.36,Closed
+2025-01-01,2025,Q1,D07,Travel & Entertainment,12200.0,11999.15,Closed
+2025-01-01,2025,Q1,D07,Facilities,10800.0,10558.5,Closed
+2025-01-01,2025,Q1,D07,Training & Development,4300.0,4258.59,Closed
+2025-01-01,2025,Q1,D07,Hardware & Equipment,8800.0,9260.44,Closed
+2025-01-01,2025,Q1,D08,Salaries & Wages,250000.0,242423.98,Closed
+2025-01-01,2025,Q1,D08,Benefits,55000.0,56863.94,Closed
+2025-01-01,2025,Q1,D08,Contractors,60000.0,56465.97,Closed
+2025-01-01,2025,Q1,D08,Software & Subscriptions,140000.0,138359.06,Closed
+2025-01-01,2025,Q1,D08,Travel & Entertainment,13500.0,13576.9,Closed
+2025-01-01,2025,Q1,D08,Facilities,15000.0,15307.77,Closed
+2025-01-01,2025,Q1,D08,Training & Development,6000.0,6149.36,Closed
+2025-01-01,2025,Q1,D08,Hardware & Equipment,154000.0,158276.14,Closed
+2025-02-01,2025,Q1,D01,Salaries & Wages,900000.0,889015.16,Closed
+2025-02-01,2025,Q1,D01,Benefits,198000.0,194795.9,Closed
+2025-02-01,2025,Q1,D01,Contractors,10000.0,10300.29,Closed
+2025-02-01,2025,Q1,D01,Software & Subscriptions,45000.0,44698.7,Closed
+2025-02-01,2025,Q1,D01,Travel & Entertainment,110000.0,105088.61,Closed
+2025-02-01,2025,Q1,D01,Facilities,54000.0,51858.09,Closed
+2025-02-01,2025,Q1,D01,Training & Development,21600.0,20904.89,Closed
+2025-02-01,2025,Q1,D01,Hardware & Equipment,17600.0,17906.25,Closed
+2025-02-01,2025,Q1,D01,Marketing Programs,24000.0,24119.64,Closed
+2025-02-01,2025,Q1,D02,Salaries & Wages,350000.0,358458.45,Closed
+2025-02-01,2025,Q1,D02,Benefits,77000.0,75848.55,Closed
+2025-02-01,2025,Q1,D02,Contractors,40000.0,40221.96,Closed
+2025-02-01,2025,Q1,D02,Software & Subscriptions,55000.0,56204.26,Closed
+2025-02-01,2025,Q1,D02,Travel & Entertainment,25000.0,24729.32,Closed
+2025-02-01,2025,Q1,D02,Facilities,21000.0,21335.73,Closed
+2025-02-01,2025,Q1,D02,Training & Development,8400.0,8205.39,Closed
+2025-02-01,2025,Q1,D02,Hardware & Equipment,13200.0,13032.27,Closed
+2025-02-01,2025,Q1,D02,Marketing Programs,336000.0,331510.76,Closed
+2025-02-01,2025,Q1,D03,Salaries & Wages,450000.0,431165.53,Closed
+2025-02-01,2025,Q1,D03,Benefits,99000.0,100687.36,Closed
+2025-02-01,2025,Q1,D03,Contractors,12000.0,11802.85,Closed
+2025-02-01,2025,Q1,D03,Software & Subscriptions,30000.0,30013.12,Closed
+2025-02-01,2025,Q1,D03,Travel & Entertainment,35000.0,35588.91,Closed
+2025-02-01,2025,Q1,D03,Facilities,27000.0,27421.97,Closed
+2025-02-01,2025,Q1,D03,Training & Development,10800.0,11051.52,Closed
+2025-02-01,2025,Q1,D03,Hardware & Equipment,15400.0,15346.92,Closed
+2025-02-01,2025,Q1,D04,Salaries & Wages,1450000.0,1428517.61,Closed
+2025-02-01,2025,Q1,D04,Benefits,319000.0,318109.95,Closed
+2025-02-01,2025,Q1,D04,Contractors,180000.0,169369.79,Closed
+2025-02-01,2025,Q1,D04,Software & Subscriptions,120000.0,113922.13,Closed
+2025-02-01,2025,Q1,D04,Travel & Entertainment,15000.0,14305.58,Closed
+2025-02-01,2025,Q1,D04,Facilities,87000.0,83963.38,Closed
+2025-02-01,2025,Q1,D04,Training & Development,34800.0,35286.93,Closed
+2025-02-01,2025,Q1,D04,Hardware & Equipment,88000.0,85211.12,Closed
+2025-02-01,2025,Q1,D05,Salaries & Wages,300000.0,296029.29,Closed
+2025-02-01,2025,Q1,D05,Benefits,66000.0,69001.22,Closed
+2025-02-01,2025,Q1,D05,Contractors,20000.0,19750.62,Closed
+2025-02-01,2025,Q1,D05,Software & Subscriptions,18000.0,18464.63,Closed
+2025-02-01,2025,Q1,D05,Travel & Entertainment,12000.0,11607.88,Closed
+2025-02-01,2025,Q1,D05,Facilities,18000.0,17870.57,Closed
+2025-02-01,2025,Q1,D05,Training & Development,7200.0,6960.59,Closed
+2025-02-01,2025,Q1,D05,Hardware & Equipment,11000.0,10869.47,Closed
+2025-02-01,2025,Q1,D06,Salaries & Wages,220000.0,226470.37,Closed
+2025-02-01,2025,Q1,D06,Benefits,48400.0,45473.92,Closed
+2025-02-01,2025,Q1,D06,Contractors,15000.0,15228.07,Closed
+2025-02-01,2025,Q1,D06,Software & Subscriptions,16000.0,16133.13,Closed
+2025-02-01,2025,Q1,D06,Travel & Entertainment,8000.0,7833.64,Closed
+2025-02-01,2025,Q1,D06,Facilities,13200.0,12531.92,Closed
+2025-02-01,2025,Q1,D06,Training & Development,5300.0,5313.38,Closed
+2025-02-01,2025,Q1,D06,Hardware & Equipment,8800.0,8636.92,Closed
+2025-02-01,2025,Q1,D07,Salaries & Wages,180000.0,181465.86,Closed
+2025-02-01,2025,Q1,D07,Benefits,39600.0,39630.29,Closed
+2025-02-01,2025,Q1,D07,Contractors,10000.0,10560.62,Closed
+2025-02-01,2025,Q1,D07,Software & Subscriptions,14000.0,13882.72,Closed
+2025-02-01,2025,Q1,D07,Travel & Entertainment,9000.0,8677.6,Closed
+2025-02-01,2025,Q1,D07,Facilities,10800.0,10867.77,Closed
+2025-02-01,2025,Q1,D07,Training & Development,4300.0,4333.11,Closed
+2025-02-01,2025,Q1,D07,Hardware & Equipment,8800.0,9218.63,Closed
+2025-02-01,2025,Q1,D08,Salaries & Wages,250000.0,257307.22,Closed
+2025-02-01,2025,Q1,D08,Benefits,55000.0,55686.98,Closed
+2025-02-01,2025,Q1,D08,Contractors,60000.0,63072.94,Closed
+2025-02-01,2025,Q1,D08,Software & Subscriptions,140000.0,134175.06,Closed
+2025-02-01,2025,Q1,D08,Travel & Entertainment,10000.0,9776.09,Closed
+2025-02-01,2025,Q1,D08,Facilities,15000.0,14513.55,Closed
+2025-02-01,2025,Q1,D08,Training & Development,6000.0,5918.14,Closed
+2025-02-01,2025,Q1,D08,Hardware & Equipment,154000.0,146579.66,Closed
+2025-03-01,2025,Q1,D01,Salaries & Wages,900000.0,920007.25,Closed
+2025-03-01,2025,Q1,D01,Benefits,198000.0,196460.0,Closed
+2025-03-01,2025,Q1,D01,Contractors,10000.0,9485.22,Closed
+2025-03-01,2025,Q1,D01,Software & Subscriptions,45000.0,43400.46,Closed
+2025-03-01,2025,Q1,D01,Travel & Entertainment,110000.0,111207.03,Closed
+2025-03-01,2025,Q1,D01,Facilities,54000.0,55584.06,Closed
+2025-03-01,2025,Q1,D01,Training & Development,21600.0,23109.53,Closed
+2025-03-01,2025,Q1,D01,Hardware & Equipment,6000.0,6611.91,Closed
+2025-03-01,2025,Q1,D01,Marketing Programs,24000.0,24348.1,Closed
+2025-03-01,2025,Q1,D02,Salaries & Wages,350000.0,337878.16,Closed
+2025-03-01,2025,Q1,D02,Benefits,77000.0,71254.14,Closed
+2025-03-01,2025,Q1,D02,Contractors,40000.0,40374.8,Closed
+2025-03-01,2025,Q1,D02,Software & Subscriptions,55000.0,53435.09,Closed
+2025-03-01,2025,Q1,D02,Travel & Entertainment,25000.0,24636.56,Closed
+2025-03-01,2025,Q1,D02,Facilities,21000.0,20550.11,Closed
+2025-03-01,2025,Q1,D02,Training & Development,8400.0,8358.61,Closed
+2025-03-01,2025,Q1,D02,Hardware & Equipment,4500.0,4667.89,Closed
+2025-03-01,2025,Q1,D02,Marketing Programs,336000.0,337846.89,Closed
+2025-03-01,2025,Q1,D03,Salaries & Wages,450000.0,447501.5,Closed
+2025-03-01,2025,Q1,D03,Benefits,99000.0,95411.46,Closed
+2025-03-01,2025,Q1,D03,Contractors,12000.0,11296.63,Closed
+2025-03-01,2025,Q1,D03,Software & Subscriptions,30000.0,29489.38,Closed
+2025-03-01,2025,Q1,D03,Travel & Entertainment,35000.0,34934.12,Closed
+2025-03-01,2025,Q1,D03,Facilities,27000.0,28670.69,Closed
+2025-03-01,2025,Q1,D03,Training & Development,10800.0,10849.24,Closed
+2025-03-01,2025,Q1,D03,Hardware & Equipment,5200.0,5378.86,Closed
+2025-03-01,2025,Q1,D04,Salaries & Wages,1450000.0,1424660.75,Closed
+2025-03-01,2025,Q1,D04,Benefits,319000.0,305770.1,Closed
+2025-03-01,2025,Q1,D04,Contractors,180000.0,173919.76,Closed
+2025-03-01,2025,Q1,D04,Software & Subscriptions,120000.0,116954.05,Closed
+2025-03-01,2025,Q1,D04,Travel & Entertainment,15000.0,16117.45,Closed
+2025-03-01,2025,Q1,D04,Facilities,87000.0,84498.88,Closed
+2025-03-01,2025,Q1,D04,Training & Development,34800.0,35821.28,Closed
+2025-03-01,2025,Q1,D04,Hardware & Equipment,30000.0,29051.93,Closed
+2025-03-01,2025,Q1,D05,Salaries & Wages,300000.0,309781.52,Closed
+2025-03-01,2025,Q1,D05,Benefits,66000.0,66889.24,Closed
+2025-03-01,2025,Q1,D05,Contractors,20000.0,19890.35,Closed
+2025-03-01,2025,Q1,D05,Software & Subscriptions,18000.0,17974.32,Closed
+2025-03-01,2025,Q1,D05,Travel & Entertainment,12000.0,11724.99,Closed
+2025-03-01,2025,Q1,D05,Facilities,18000.0,18281.03,Closed
+2025-03-01,2025,Q1,D05,Training & Development,7200.0,7085.34,Closed
+2025-03-01,2025,Q1,D05,Hardware & Equipment,3800.0,3636.99,Closed
+2025-03-01,2025,Q1,D06,Salaries & Wages,220000.0,210159.88,Closed
+2025-03-01,2025,Q1,D06,Benefits,48400.0,48692.36,Closed
+2025-03-01,2025,Q1,D06,Contractors,15000.0,15829.02,Closed
+2025-03-01,2025,Q1,D06,Software & Subscriptions,16000.0,16089.6,Closed
+2025-03-01,2025,Q1,D06,Travel & Entertainment,8000.0,7966.78,Closed
+2025-03-01,2025,Q1,D06,Facilities,13200.0,13332.05,Closed
+2025-03-01,2025,Q1,D06,Training & Development,5300.0,5542.26,Closed
+2025-03-01,2025,Q1,D06,Hardware & Equipment,3000.0,3023.04,Closed
+2025-03-01,2025,Q1,D07,Salaries & Wages,180000.0,177411.16,Closed
+2025-03-01,2025,Q1,D07,Benefits,39600.0,41133.32,Closed
+2025-03-01,2025,Q1,D07,Contractors,10000.0,10150.06,Closed
+2025-03-01,2025,Q1,D07,Software & Subscriptions,14000.0,14752.52,Closed
+2025-03-01,2025,Q1,D07,Travel & Entertainment,9000.0,9057.72,Closed
+2025-03-01,2025,Q1,D07,Facilities,10800.0,10337.15,Closed
+2025-03-01,2025,Q1,D07,Training & Development,4300.0,4094.09,Closed
+2025-03-01,2025,Q1,D07,Hardware & Equipment,3000.0,3173.35,Closed
+2025-03-01,2025,Q1,D08,Salaries & Wages,250000.0,265082.08,Closed
+2025-03-01,2025,Q1,D08,Benefits,55000.0,54654.43,Closed
+2025-03-01,2025,Q1,D08,Contractors,60000.0,59195.31,Closed
+2025-03-01,2025,Q1,D08,Software & Subscriptions,140000.0,147161.08,Closed
+2025-03-01,2025,Q1,D08,Travel & Entertainment,10000.0,9612.53,Closed
+2025-03-01,2025,Q1,D08,Facilities,15000.0,14530.27,Closed
+2025-03-01,2025,Q1,D08,Training & Development,6000.0,6135.1,Closed
+2025-03-01,2025,Q1,D08,Hardware & Equipment,52500.0,51774.91,Closed
+2025-04-01,2025,Q2,D01,Salaries & Wages,900000.0,899838.66,Closed
+2025-04-01,2025,Q2,D01,Benefits,198000.0,196867.34,Closed
+2025-04-01,2025,Q2,D01,Contractors,10000.0,10118.15,Closed
+2025-04-01,2025,Q2,D01,Software & Subscriptions,45000.0,47216.78,Closed
+2025-04-01,2025,Q2,D01,Travel & Entertainment,110000.0,110348.75,Closed
+2025-04-01,2025,Q2,D01,Facilities,54000.0,55217.04,Closed
+2025-04-01,2025,Q2,D01,Training & Development,8100.0,7518.78,Closed
+2025-04-01,2025,Q2,D01,Hardware & Equipment,6000.0,5989.77,Closed
+2025-04-01,2025,Q2,D01,Marketing Programs,37500.0,36393.26,Closed
+2025-04-01,2025,Q2,D02,Salaries & Wages,350000.0,335069.54,Closed
+2025-04-01,2025,Q2,D02,Benefits,77000.0,74633.38,Closed
+2025-04-01,2025,Q2,D02,Contractors,40000.0,39532.23,Closed
+2025-04-01,2025,Q2,D02,Software & Subscriptions,55000.0,56763.11,Closed
+2025-04-01,2025,Q2,D02,Travel & Entertainment,25000.0,23839.41,Closed
+2025-04-01,2025,Q2,D02,Facilities,21000.0,21022.51,Closed
+2025-04-01,2025,Q2,D02,Training & Development,3200.0,3145.77,Closed
+2025-04-01,2025,Q2,D02,Hardware & Equipment,4500.0,4448.39,Closed
+2025-04-01,2025,Q2,D02,Marketing Programs,525000.0,543425.68,Closed
+2025-04-01,2025,Q2,D03,Salaries & Wages,450000.0,458475.32,Closed
+2025-04-01,2025,Q2,D03,Benefits,99000.0,103634.08,Closed
+2025-04-01,2025,Q2,D03,Contractors,12000.0,11935.11,Closed
+2025-04-01,2025,Q2,D03,Software & Subscriptions,30000.0,29269.26,Closed
+2025-04-01,2025,Q2,D03,Travel & Entertainment,35000.0,34725.77,Closed
+2025-04-01,2025,Q2,D03,Facilities,27000.0,27229.16,Closed
+2025-04-01,2025,Q2,D03,Training & Development,4000.0,4024.72,Closed
+2025-04-01,2025,Q2,D03,Hardware & Equipment,5200.0,5002.64,Closed
+2025-04-01,2025,Q2,D04,Salaries & Wages,1450000.0,1454592.36,Closed
+2025-04-01,2025,Q2,D04,Benefits,319000.0,321548.17,Closed
+2025-04-01,2025,Q2,D04,Contractors,180000.0,195860.09,Closed
+2025-04-01,2025,Q2,D04,Software & Subscriptions,120000.0,127882.75,Closed
+2025-04-01,2025,Q2,D04,Travel & Entertainment,15000.0,14552.05,Closed
+2025-04-01,2025,Q2,D04,Facilities,87000.0,86124.92,Closed
+2025-04-01,2025,Q2,D04,Training & Development,13000.0,12334.13,Closed
+2025-04-01,2025,Q2,D04,Hardware & Equipment,30000.0,29379.76,Closed
+2025-04-01,2025,Q2,D05,Salaries & Wages,300000.0,303313.85,Closed
+2025-04-01,2025,Q2,D05,Benefits,66000.0,68785.52,Closed
+2025-04-01,2025,Q2,D05,Contractors,20000.0,19489.64,Closed
+2025-04-01,2025,Q2,D05,Software & Subscriptions,18000.0,17587.89,Closed
+2025-04-01,2025,Q2,D05,Travel & Entertainment,12000.0,11098.14,Closed
+2025-04-01,2025,Q2,D05,Facilities,18000.0,17897.52,Closed
+2025-04-01,2025,Q2,D05,Training & Development,2700.0,2599.6,Closed
+2025-04-01,2025,Q2,D05,Hardware & Equipment,3800.0,3729.58,Closed
+2025-04-01,2025,Q2,D06,Salaries & Wages,220000.0,213248.17,Closed
+2025-04-01,2025,Q2,D06,Benefits,48400.0,48240.32,Closed
+2025-04-01,2025,Q2,D06,Contractors,15000.0,14077.19,Closed
+2025-04-01,2025,Q2,D06,Software & Subscriptions,16000.0,15178.45,Closed
+2025-04-01,2025,Q2,D06,Travel & Entertainment,8000.0,8596.19,Closed
+2025-04-01,2025,Q2,D06,Facilities,13200.0,12605.21,Closed
+2025-04-01,2025,Q2,D06,Training & Development,2000.0,1923.23,Closed
+2025-04-01,2025,Q2,D06,Hardware & Equipment,3000.0,3192.88,Closed
+2025-04-01,2025,Q2,D07,Salaries & Wages,180000.0,198301.92,Closed
+2025-04-01,2025,Q2,D07,Benefits,39600.0,37976.21,Closed
+2025-04-01,2025,Q2,D07,Contractors,10000.0,9871.11,Closed
+2025-04-01,2025,Q2,D07,Software & Subscriptions,14000.0,14167.36,Closed
+2025-04-01,2025,Q2,D07,Travel & Entertainment,9000.0,9544.54,Closed
+2025-04-01,2025,Q2,D07,Facilities,10800.0,10426.97,Closed
+2025-04-01,2025,Q2,D07,Training & Development,1600.0,1586.26,Closed
+2025-04-01,2025,Q2,D07,Hardware & Equipment,3000.0,3081.62,Closed
+2025-04-01,2025,Q2,D08,Salaries & Wages,250000.0,253804.2,Closed
+2025-04-01,2025,Q2,D08,Benefits,55000.0,54275.9,Closed
+2025-04-01,2025,Q2,D08,Contractors,60000.0,59718.97,Closed
+2025-04-01,2025,Q2,D08,Software & Subscriptions,140000.0,133263.01,Closed
+2025-04-01,2025,Q2,D08,Travel & Entertainment,10000.0,9916.64,Closed
+2025-04-01,2025,Q2,D08,Facilities,15000.0,14860.15,Closed
+2025-04-01,2025,Q2,D08,Training & Development,2200.0,2217.88,Closed
+2025-04-01,2025,Q2,D08,Hardware & Equipment,52500.0,51479.59,Closed
+2025-05-01,2025,Q2,D01,Salaries & Wages,900000.0,914853.46,Closed
+2025-05-01,2025,Q2,D01,Benefits,198000.0,205018.12,Closed
+2025-05-01,2025,Q2,D01,Contractors,10000.0,10054.4,Closed
+2025-05-01,2025,Q2,D01,Software & Subscriptions,45000.0,45554.02,Closed
+2025-05-01,2025,Q2,D01,Travel & Entertainment,110000.0,110204.65,Closed
+2025-05-01,2025,Q2,D01,Facilities,54000.0,54000.16,Closed
+2025-05-01,2025,Q2,D01,Training & Development,8100.0,7895.44,Closed
+2025-05-01,2025,Q2,D01,Hardware & Equipment,6000.0,6066.46,Closed
+2025-05-01,2025,Q2,D01,Marketing Programs,37500.0,37372.31,Closed
+2025-05-01,2025,Q2,D02,Salaries & Wages,350000.0,375641.31,Closed
+2025-05-01,2025,Q2,D02,Benefits,77000.0,81240.19,Closed
+2025-05-01,2025,Q2,D02,Contractors,40000.0,40540.19,Closed
+2025-05-01,2025,Q2,D02,Software & Subscriptions,55000.0,53531.11,Closed
+2025-05-01,2025,Q2,D02,Travel & Entertainment,25000.0,24026.64,Closed
+2025-05-01,2025,Q2,D02,Facilities,21000.0,21875.49,Closed
+2025-05-01,2025,Q2,D02,Training & Development,3200.0,3229.43,Closed
+2025-05-01,2025,Q2,D02,Hardware & Equipment,4500.0,4575.62,Closed
+2025-05-01,2025,Q2,D02,Marketing Programs,525000.0,492943.23,Closed
+2025-05-01,2025,Q2,D03,Salaries & Wages,450000.0,464607.16,Closed
+2025-05-01,2025,Q2,D03,Benefits,99000.0,100574.57,Closed
+2025-05-01,2025,Q2,D03,Contractors,12000.0,11533.62,Closed
+2025-05-01,2025,Q2,D03,Software & Subscriptions,30000.0,29504.9,Closed
+2025-05-01,2025,Q2,D03,Travel & Entertainment,35000.0,35323.05,Closed
+2025-05-01,2025,Q2,D03,Facilities,27000.0,27049.58,Closed
+2025-05-01,2025,Q2,D03,Training & Development,4000.0,3959.1,Closed
+2025-05-01,2025,Q2,D03,Hardware & Equipment,5200.0,5181.17,Closed
+2025-05-01,2025,Q2,D04,Salaries & Wages,1450000.0,1437212.15,Closed
+2025-05-01,2025,Q2,D04,Benefits,319000.0,320703.36,Closed
+2025-05-01,2025,Q2,D04,Contractors,180000.0,189270.4,Closed
+2025-05-01,2025,Q2,D04,Software & Subscriptions,120000.0,109220.03,Closed
+2025-05-01,2025,Q2,D04,Travel & Entertainment,15000.0,14875.65,Closed
+2025-05-01,2025,Q2,D04,Facilities,87000.0,87537.48,Closed
+2025-05-01,2025,Q2,D04,Training & Development,13000.0,13134.68,Closed
+2025-05-01,2025,Q2,D04,Hardware & Equipment,30000.0,29609.49,Closed
+2025-05-01,2025,Q2,D05,Salaries & Wages,300000.0,281554.42,Closed
+2025-05-01,2025,Q2,D05,Benefits,66000.0,66757.67,Closed
+2025-05-01,2025,Q2,D05,Contractors,20000.0,21209.15,Closed
+2025-05-01,2025,Q2,D05,Software & Subscriptions,18000.0,17033.67,Closed
+2025-05-01,2025,Q2,D05,Travel & Entertainment,12000.0,12362.81,Closed
+2025-05-01,2025,Q2,D05,Facilities,18000.0,17793.03,Closed
+2025-05-01,2025,Q2,D05,Training & Development,2700.0,2694.2,Closed
+2025-05-01,2025,Q2,D05,Hardware & Equipment,3800.0,3659.96,Closed
+2025-05-01,2025,Q2,D06,Salaries & Wages,220000.0,217424.69,Closed
+2025-05-01,2025,Q2,D06,Benefits,48400.0,50602.28,Closed
+2025-05-01,2025,Q2,D06,Contractors,15000.0,15305.89,Closed
+2025-05-01,2025,Q2,D06,Software & Subscriptions,16000.0,16970.09,Closed
+2025-05-01,2025,Q2,D06,Travel & Entertainment,8000.0,8329.68,Closed
+2025-05-01,2025,Q2,D06,Facilities,13200.0,13402.86,Closed
+2025-05-01,2025,Q2,D06,Training & Development,2000.0,2122.08,Closed
+2025-05-01,2025,Q2,D06,Hardware & Equipment,3000.0,3046.09,Closed
+2025-05-01,2025,Q2,D07,Salaries & Wages,180000.0,185216.33,Closed
+2025-05-01,2025,Q2,D07,Benefits,39600.0,39188.95,Closed
+2025-05-01,2025,Q2,D07,Contractors,10000.0,10023.29,Closed
+2025-05-01,2025,Q2,D07,Software & Subscriptions,14000.0,13658.26,Closed
+2025-05-01,2025,Q2,D07,Travel & Entertainment,9000.0,9311.72,Closed
+2025-05-01,2025,Q2,D07,Facilities,10800.0,10354.6,Closed
+2025-05-01,2025,Q2,D07,Training & Development,1600.0,1643.81,Closed
+2025-05-01,2025,Q2,D07,Hardware & Equipment,3000.0,2979.98,Closed
+2025-05-01,2025,Q2,D08,Salaries & Wages,250000.0,260248.41,Closed
+2025-05-01,2025,Q2,D08,Benefits,55000.0,56445.42,Closed
+2025-05-01,2025,Q2,D08,Contractors,60000.0,63823.36,Closed
+2025-05-01,2025,Q2,D08,Software & Subscriptions,140000.0,143580.8,Closed
+2025-05-01,2025,Q2,D08,Travel & Entertainment,10000.0,9449.79,Closed
+2025-05-01,2025,Q2,D08,Facilities,15000.0,14964.85,Closed
+2025-05-01,2025,Q2,D08,Training & Development,2200.0,2109.76,Closed
+2025-05-01,2025,Q2,D08,Hardware & Equipment,52500.0,51547.66,Closed
+2025-06-01,2025,Q2,D01,Salaries & Wages,900000.0,947603.7,Closed
+2025-06-01,2025,Q2,D01,Benefits,198000.0,202418.11,Closed
+2025-06-01,2025,Q2,D01,Contractors,10000.0,9755.37,Closed
+2025-06-01,2025,Q2,D01,Software & Subscriptions,45000.0,43403.4,Closed
+2025-06-01,2025,Q2,D01,Travel & Entertainment,110000.0,110126.21,Closed
+2025-06-01,2025,Q2,D01,Facilities,54000.0,51700.7,Closed
+2025-06-01,2025,Q2,D01,Training & Development,8100.0,7909.73,Closed
+2025-06-01,2025,Q2,D01,Hardware & Equipment,6000.0,6065.52,Closed
+2025-06-01,2025,Q2,D01,Marketing Programs,37500.0,39016.35,Closed
+2025-06-01,2025,Q2,D02,Salaries & Wages,350000.0,357457.33,Closed
+2025-06-01,2025,Q2,D02,Benefits,77000.0,70824.97,Closed
+2025-06-01,2025,Q2,D02,Contractors,40000.0,40426.11,Closed
+2025-06-01,2025,Q2,D02,Software & Subscriptions,55000.0,55138.66,Closed
+2025-06-01,2025,Q2,D02,Travel & Entertainment,25000.0,25362.15,Closed
+2025-06-01,2025,Q2,D02,Facilities,21000.0,22187.91,Closed
+2025-06-01,2025,Q2,D02,Training & Development,3200.0,2968.92,Closed
+2025-06-01,2025,Q2,D02,Hardware & Equipment,4500.0,4406.9,Closed
+2025-06-01,2025,Q2,D02,Marketing Programs,525000.0,535857.9,Closed
+2025-06-01,2025,Q2,D03,Salaries & Wages,450000.0,425089.89,Closed
+2025-06-01,2025,Q2,D03,Benefits,99000.0,104114.16,Closed
+2025-06-01,2025,Q2,D03,Contractors,12000.0,12154.71,Closed
+2025-06-01,2025,Q2,D03,Software & Subscriptions,30000.0,30888.91,Closed
+2025-06-01,2025,Q2,D03,Travel & Entertainment,35000.0,34300.59,Closed
+2025-06-01,2025,Q2,D03,Facilities,27000.0,27769.01,Closed
+2025-06-01,2025,Q2,D03,Training & Development,4000.0,4149.59,Closed
+2025-06-01,2025,Q2,D03,Hardware & Equipment,5200.0,5242.38,Closed
+2025-06-01,2025,Q2,D04,Salaries & Wages,1450000.0,1461895.85,Closed
+2025-06-01,2025,Q2,D04,Benefits,319000.0,322018.38,Closed
+2025-06-01,2025,Q2,D04,Contractors,180000.0,174560.92,Closed
+2025-06-01,2025,Q2,D04,Software & Subscriptions,120000.0,119380.38,Closed
+2025-06-01,2025,Q2,D04,Travel & Entertainment,15000.0,14919.93,Closed
+2025-06-01,2025,Q2,D04,Facilities,87000.0,88167.43,Closed
+2025-06-01,2025,Q2,D04,Training & Development,13000.0,13454.92,Closed
+2025-06-01,2025,Q2,D04,Hardware & Equipment,30000.0,28888.54,Closed
+2025-06-01,2025,Q2,D05,Salaries & Wages,300000.0,298687.41,Closed
+2025-06-01,2025,Q2,D05,Benefits,66000.0,69422.16,Closed
+2025-06-01,2025,Q2,D05,Contractors,20000.0,19479.49,Closed
+2025-06-01,2025,Q2,D05,Software & Subscriptions,18000.0,17481.98,Closed
+2025-06-01,2025,Q2,D05,Travel & Entertainment,12000.0,12084.97,Closed
+2025-06-01,2025,Q2,D05,Facilities,18000.0,18531.96,Closed
+2025-06-01,2025,Q2,D05,Training & Development,2700.0,2701.08,Closed
+2025-06-01,2025,Q2,D05,Hardware & Equipment,3800.0,3976.75,Closed
+2025-06-01,2025,Q2,D06,Salaries & Wages,220000.0,226597.31,Closed
+2025-06-01,2025,Q2,D06,Benefits,48400.0,49826.04,Closed
+2025-06-01,2025,Q2,D06,Contractors,15000.0,15290.91,Closed
+2025-06-01,2025,Q2,D06,Software & Subscriptions,16000.0,17303.49,Closed
+2025-06-01,2025,Q2,D06,Travel & Entertainment,8000.0,7942.55,Closed
+2025-06-01,2025,Q2,D06,Facilities,13200.0,12274.37,Closed
+2025-06-01,2025,Q2,D06,Training & Development,2000.0,2112.3,Closed
+2025-06-01,2025,Q2,D06,Hardware & Equipment,3000.0,2951.94,Closed
+2025-06-01,2025,Q2,D07,Salaries & Wages,180000.0,180679.65,Closed
+2025-06-01,2025,Q2,D07,Benefits,39600.0,41415.04,Closed
+2025-06-01,2025,Q2,D07,Contractors,10000.0,9439.21,Closed
+2025-06-01,2025,Q2,D07,Software & Subscriptions,14000.0,13386.69,Closed
+2025-06-01,2025,Q2,D07,Travel & Entertainment,9000.0,8495.6,Closed
+2025-06-01,2025,Q2,D07,Facilities,10800.0,10499.82,Closed
+2025-06-01,2025,Q2,D07,Training & Development,1600.0,1624.62,Closed
+2025-06-01,2025,Q2,D07,Hardware & Equipment,3000.0,3055.04,Closed
+2025-06-01,2025,Q2,D08,Salaries & Wages,250000.0,252417.4,Closed
+2025-06-01,2025,Q2,D08,Benefits,55000.0,52280.43,Closed
+2025-06-01,2025,Q2,D08,Contractors,60000.0,55148.78,Closed
+2025-06-01,2025,Q2,D08,Software & Subscriptions,140000.0,140266.33,Closed
+2025-06-01,2025,Q2,D08,Travel & Entertainment,10000.0,9834.88,Closed
+2025-06-01,2025,Q2,D08,Facilities,15000.0,15241.18,Closed
+2025-06-01,2025,Q2,D08,Training & Development,2200.0,2254.05,Closed
+2025-06-01,2025,Q2,D08,Hardware & Equipment,52500.0,52754.02,Closed
+2025-07-01,2025,Q3,D01,Salaries & Wages,900000.0,923944.19,Closed
+2025-07-01,2025,Q3,D01,Benefits,198000.0,199588.43,Closed
+2025-07-01,2025,Q3,D01,Contractors,10000.0,10185.52,Closed
+2025-07-01,2025,Q3,D01,Software & Subscriptions,45000.0,43890.14,Closed
+2025-07-01,2025,Q3,D01,Travel & Entertainment,110000.0,109308.5,Closed
+2025-07-01,2025,Q3,D01,Facilities,54000.0,54371.91,Closed
+2025-07-01,2025,Q3,D01,Training & Development,21600.0,22220.32,Closed
+2025-07-01,2025,Q3,D01,Hardware & Equipment,6000.0,5917.31,Closed
+2025-07-01,2025,Q3,D01,Marketing Programs,24000.0,24437.78,Closed
+2025-07-01,2025,Q3,D02,Salaries & Wages,350000.0,346743.47,Closed
+2025-07-01,2025,Q3,D02,Benefits,77000.0,76683.22,Closed
+2025-07-01,2025,Q3,D02,Contractors,40000.0,41161.33,Closed
+2025-07-01,2025,Q3,D02,Software & Subscriptions,55000.0,51163.36,Closed
+2025-07-01,2025,Q3,D02,Travel & Entertainment,25000.0,23865.59,Closed
+2025-07-01,2025,Q3,D02,Facilities,21000.0,19910.59,Closed
+2025-07-01,2025,Q3,D02,Training & Development,8400.0,7713.92,Closed
+2025-07-01,2025,Q3,D02,Hardware & Equipment,4500.0,4393.17,Closed
+2025-07-01,2025,Q3,D02,Marketing Programs,336000.0,344813.34,Closed
+2025-07-01,2025,Q3,D03,Salaries & Wages,450000.0,445513.08,Closed
+2025-07-01,2025,Q3,D03,Benefits,99000.0,99685.34,Closed
+2025-07-01,2025,Q3,D03,Contractors,12000.0,12457.47,Closed
+2025-07-01,2025,Q3,D03,Software & Subscriptions,30000.0,31394.07,Closed
+2025-07-01,2025,Q3,D03,Travel & Entertainment,35000.0,34915.31,Closed
+2025-07-01,2025,Q3,D03,Facilities,27000.0,28279.14,Closed
+2025-07-01,2025,Q3,D03,Training & Development,10800.0,10834.82,Closed
+2025-07-01,2025,Q3,D03,Hardware & Equipment,5200.0,5047.59,Closed
+2025-07-01,2025,Q3,D04,Salaries & Wages,1450000.0,1419834.18,Closed
+2025-07-01,2025,Q3,D04,Benefits,319000.0,302469.81,Closed
+2025-07-01,2025,Q3,D04,Contractors,180000.0,174404.76,Closed
+2025-07-01,2025,Q3,D04,Software & Subscriptions,120000.0,118496.33,Closed
+2025-07-01,2025,Q3,D04,Travel & Entertainment,15000.0,15421.88,Closed
+2025-07-01,2025,Q3,D04,Facilities,87000.0,92239.74,Closed
+2025-07-01,2025,Q3,D04,Training & Development,34800.0,33116.5,Closed
+2025-07-01,2025,Q3,D04,Hardware & Equipment,30000.0,30412.47,Closed
+2025-07-01,2025,Q3,D05,Salaries & Wages,300000.0,289074.29,Closed
+2025-07-01,2025,Q3,D05,Benefits,66000.0,67096.55,Closed
+2025-07-01,2025,Q3,D05,Contractors,20000.0,19908.24,Closed
+2025-07-01,2025,Q3,D05,Software & Subscriptions,18000.0,16846.53,Closed
+2025-07-01,2025,Q3,D05,Travel & Entertainment,12000.0,12389.88,Closed
+2025-07-01,2025,Q3,D05,Facilities,18000.0,17618.85,Closed
+2025-07-01,2025,Q3,D05,Training & Development,7200.0,7065.46,Closed
+2025-07-01,2025,Q3,D05,Hardware & Equipment,3800.0,3657.72,Closed
+2025-07-01,2025,Q3,D06,Salaries & Wages,220000.0,214962.02,Closed
+2025-07-01,2025,Q3,D06,Benefits,48400.0,49124.85,Closed
+2025-07-01,2025,Q3,D06,Contractors,15000.0,14900.65,Closed
+2025-07-01,2025,Q3,D06,Software & Subscriptions,16000.0,16184.05,Closed
+2025-07-01,2025,Q3,D06,Travel & Entertainment,8000.0,8101.34,Closed
+2025-07-01,2025,Q3,D06,Facilities,13200.0,13810.15,Closed
+2025-07-01,2025,Q3,D06,Training & Development,5300.0,5236.41,Closed
+2025-07-01,2025,Q3,D06,Hardware & Equipment,3000.0,2844.93,Closed
+2025-07-01,2025,Q3,D07,Salaries & Wages,180000.0,186723.5,Closed
+2025-07-01,2025,Q3,D07,Benefits,39600.0,39140.56,Closed
+2025-07-01,2025,Q3,D07,Contractors,10000.0,10390.11,Closed
+2025-07-01,2025,Q3,D07,Software & Subscriptions,14000.0,14187.85,Closed
+2025-07-01,2025,Q3,D07,Travel & Entertainment,9000.0,8958.69,Closed
+2025-07-01,2025,Q3,D07,Facilities,10800.0,10931.84,Closed
+2025-07-01,2025,Q3,D07,Training & Development,4300.0,4593.63,Closed
+2025-07-01,2025,Q3,D07,Hardware & Equipment,3000.0,3218.08,Closed
+2025-07-01,2025,Q3,D08,Salaries & Wages,250000.0,250607.08,Closed
+2025-07-01,2025,Q3,D08,Benefits,55000.0,55308.37,Closed
+2025-07-01,2025,Q3,D08,Contractors,60000.0,62260.1,Closed
+2025-07-01,2025,Q3,D08,Software & Subscriptions,140000.0,135856.26,Closed
+2025-07-01,2025,Q3,D08,Travel & Entertainment,10000.0,10116.57,Closed
+2025-07-01,2025,Q3,D08,Facilities,15000.0,14986.42,Closed
+2025-07-01,2025,Q3,D08,Training & Development,6000.0,6065.92,Closed
+2025-07-01,2025,Q3,D08,Hardware & Equipment,52500.0,50968.68,Closed
+2025-08-01,2025,Q3,D01,Salaries & Wages,900000.0,849928.62,Closed
+2025-08-01,2025,Q3,D01,Benefits,198000.0,183634.22,Closed
+2025-08-01,2025,Q3,D01,Contractors,10000.0,9608.92,Closed
+2025-08-01,2025,Q3,D01,Software & Subscriptions,45000.0,44277.59,Closed
+2025-08-01,2025,Q3,D01,Travel & Entertainment,77000.0,76209.85,Closed
+2025-08-01,2025,Q3,D01,Facilities,54000.0,57661.37,Closed
+2025-08-01,2025,Q3,D01,Training & Development,21600.0,22436.13,Closed
+2025-08-01,2025,Q3,D01,Hardware & Equipment,6000.0,5797.96,Closed
+2025-08-01,2025,Q3,D01,Marketing Programs,24000.0,24292.08,Closed
+2025-08-01,2025,Q3,D02,Salaries & Wages,350000.0,345013.29,Closed
+2025-08-01,2025,Q3,D02,Benefits,77000.0,76233.64,Closed
+2025-08-01,2025,Q3,D02,Contractors,40000.0,40259.46,Closed
+2025-08-01,2025,Q3,D02,Software & Subscriptions,55000.0,56191.9,Closed
+2025-08-01,2025,Q3,D02,Travel & Entertainment,17500.0,17292.2,Closed
+2025-08-01,2025,Q3,D02,Facilities,21000.0,21781.93,Closed
+2025-08-01,2025,Q3,D02,Training & Development,8400.0,8064.27,Closed
+2025-08-01,2025,Q3,D02,Hardware & Equipment,4500.0,4501.0,Closed
+2025-08-01,2025,Q3,D02,Marketing Programs,336000.0,366548.64,Closed
+2025-08-01,2025,Q3,D03,Salaries & Wages,450000.0,453513.51,Closed
+2025-08-01,2025,Q3,D03,Benefits,99000.0,103966.09,Closed
+2025-08-01,2025,Q3,D03,Contractors,12000.0,12038.44,Closed
+2025-08-01,2025,Q3,D03,Software & Subscriptions,30000.0,30609.82,Closed
+2025-08-01,2025,Q3,D03,Travel & Entertainment,24500.0,24451.31,Closed
+2025-08-01,2025,Q3,D03,Facilities,27000.0,26838.96,Closed
+2025-08-01,2025,Q3,D03,Training & Development,10800.0,10505.36,Closed
+2025-08-01,2025,Q3,D03,Hardware & Equipment,5200.0,5278.31,Closed
+2025-08-01,2025,Q3,D04,Salaries & Wages,1450000.0,1406784.49,Closed
+2025-08-01,2025,Q3,D04,Benefits,319000.0,326431.26,Closed
+2025-08-01,2025,Q3,D04,Contractors,180000.0,186837.31,Closed
+2025-08-01,2025,Q3,D04,Software & Subscriptions,120000.0,121539.43,Closed
+2025-08-01,2025,Q3,D04,Travel & Entertainment,10500.0,10394.8,Closed
+2025-08-01,2025,Q3,D04,Facilities,87000.0,88382.33,Closed
+2025-08-01,2025,Q3,D04,Training & Development,34800.0,34424.04,Closed
+2025-08-01,2025,Q3,D04,Hardware & Equipment,30000.0,30982.32,Closed
+2025-08-01,2025,Q3,D05,Salaries & Wages,300000.0,280770.24,Closed
+2025-08-01,2025,Q3,D05,Benefits,66000.0,65224.75,Closed
+2025-08-01,2025,Q3,D05,Contractors,20000.0,18606.43,Closed
+2025-08-01,2025,Q3,D05,Software & Subscriptions,18000.0,17058.11,Closed
+2025-08-01,2025,Q3,D05,Travel & Entertainment,8400.0,8800.98,Closed
+2025-08-01,2025,Q3,D05,Facilities,18000.0,18563.97,Closed
+2025-08-01,2025,Q3,D05,Training & Development,7200.0,7018.69,Closed
+2025-08-01,2025,Q3,D05,Hardware & Equipment,3800.0,3600.17,Closed
+2025-08-01,2025,Q3,D06,Salaries & Wages,220000.0,197173.13,Closed
+2025-08-01,2025,Q3,D06,Benefits,48400.0,47479.32,Closed
+2025-08-01,2025,Q3,D06,Contractors,15000.0,16270.72,Closed
+2025-08-01,2025,Q3,D06,Software & Subscriptions,16000.0,16243.54,Closed
+2025-08-01,2025,Q3,D06,Travel & Entertainment,5600.0,5490.32,Closed
+2025-08-01,2025,Q3,D06,Facilities,13200.0,13414.87,Closed
+2025-08-01,2025,Q3,D06,Training & Development,5300.0,5010.44,Closed
+2025-08-01,2025,Q3,D06,Hardware & Equipment,3000.0,2968.78,Closed
+2025-08-01,2025,Q3,D07,Salaries & Wages,180000.0,180626.71,Closed
+2025-08-01,2025,Q3,D07,Benefits,39600.0,39480.66,Closed
+2025-08-01,2025,Q3,D07,Contractors,10000.0,10276.78,Closed
+2025-08-01,2025,Q3,D07,Software & Subscriptions,14000.0,14168.88,Closed
+2025-08-01,2025,Q3,D07,Travel & Entertainment,6300.0,6447.37,Closed
+2025-08-01,2025,Q3,D07,Facilities,10800.0,10539.8,Closed
+2025-08-01,2025,Q3,D07,Training & Development,4300.0,4435.12,Closed
+2025-08-01,2025,Q3,D07,Hardware & Equipment,3000.0,3171.04,Closed
+2025-08-01,2025,Q3,D08,Salaries & Wages,250000.0,241511.19,Closed
+2025-08-01,2025,Q3,D08,Benefits,55000.0,53291.19,Closed
+2025-08-01,2025,Q3,D08,Contractors,60000.0,62805.15,Closed
+2025-08-01,2025,Q3,D08,Software & Subscriptions,140000.0,139062.41,Closed
+2025-08-01,2025,Q3,D08,Travel & Entertainment,7000.0,7343.94,Closed
+2025-08-01,2025,Q3,D08,Facilities,15000.0,14767.67,Closed
+2025-08-01,2025,Q3,D08,Training & Development,6000.0,6305.56,Closed
+2025-08-01,2025,Q3,D08,Hardware & Equipment,52500.0,52741.61,Closed
+2025-09-01,2025,Q3,D01,Salaries & Wages,900000.0,908134.21,Closed
+2025-09-01,2025,Q3,D01,Benefits,198000.0,208843.5,Closed
+2025-09-01,2025,Q3,D01,Contractors,10000.0,9873.38,Closed
+2025-09-01,2025,Q3,D01,Software & Subscriptions,45000.0,43517.73,Closed
+2025-09-01,2025,Q3,D01,Travel & Entertainment,110000.0,108273.03,Closed
+2025-09-01,2025,Q3,D01,Facilities,54000.0,54854.91,Closed
+2025-09-01,2025,Q3,D01,Training & Development,21600.0,20416.29,Closed
+2025-09-01,2025,Q3,D01,Hardware & Equipment,6000.0,6133.87,Closed
+2025-09-01,2025,Q3,D01,Marketing Programs,24000.0,23547.43,Closed
+2025-09-01,2025,Q3,D02,Salaries & Wages,350000.0,364060.71,Closed
+2025-09-01,2025,Q3,D02,Benefits,77000.0,70547.47,Closed
+2025-09-01,2025,Q3,D02,Contractors,40000.0,38898.81,Closed
+2025-09-01,2025,Q3,D02,Software & Subscriptions,55000.0,51753.55,Closed
+2025-09-01,2025,Q3,D02,Travel & Entertainment,25000.0,24277.05,Closed
+2025-09-01,2025,Q3,D02,Facilities,21000.0,21182.03,Closed
+2025-09-01,2025,Q3,D02,Training & Development,8400.0,8347.31,Closed
+2025-09-01,2025,Q3,D02,Hardware & Equipment,4500.0,4460.09,Closed
+2025-09-01,2025,Q3,D02,Marketing Programs,336000.0,334127.99,Closed
+2025-09-01,2025,Q3,D03,Salaries & Wages,450000.0,453203.36,Closed
+2025-09-01,2025,Q3,D03,Benefits,99000.0,95505.42,Closed
+2025-09-01,2025,Q3,D03,Contractors,12000.0,12296.88,Closed
+2025-09-01,2025,Q3,D03,Software & Subscriptions,30000.0,30695.8,Closed
+2025-09-01,2025,Q3,D03,Travel & Entertainment,35000.0,35471.67,Closed
+2025-09-01,2025,Q3,D03,Facilities,27000.0,27525.92,Closed
+2025-09-01,2025,Q3,D03,Training & Development,10800.0,10912.05,Closed
+2025-09-01,2025,Q3,D03,Hardware & Equipment,5200.0,5570.38,Closed
+2025-09-01,2025,Q3,D04,Salaries & Wages,1450000.0,1445579.97,Closed
+2025-09-01,2025,Q3,D04,Benefits,319000.0,315571.42,Closed
+2025-09-01,2025,Q3,D04,Contractors,180000.0,175252.78,Closed
+2025-09-01,2025,Q3,D04,Software & Subscriptions,120000.0,115664.5,Closed
+2025-09-01,2025,Q3,D04,Travel & Entertainment,15000.0,14346.65,Closed
+2025-09-01,2025,Q3,D04,Facilities,87000.0,84293.61,Closed
+2025-09-01,2025,Q3,D04,Training & Development,34800.0,34713.91,Closed
+2025-09-01,2025,Q3,D04,Hardware & Equipment,30000.0,30351.01,Closed
+2025-09-01,2025,Q3,D05,Salaries & Wages,300000.0,300536.99,Closed
+2025-09-01,2025,Q3,D05,Benefits,66000.0,64231.61,Closed
+2025-09-01,2025,Q3,D05,Contractors,20000.0,20630.13,Closed
+2025-09-01,2025,Q3,D05,Software & Subscriptions,18000.0,18465.83,Closed
+2025-09-01,2025,Q3,D05,Travel & Entertainment,12000.0,11932.95,Closed
+2025-09-01,2025,Q3,D05,Facilities,18000.0,17588.66,Closed
+2025-09-01,2025,Q3,D05,Training & Development,7200.0,7338.2,Closed
+2025-09-01,2025,Q3,D05,Hardware & Equipment,3800.0,3825.0,Closed
+2025-09-01,2025,Q3,D06,Salaries & Wages,220000.0,208849.42,Closed
+2025-09-01,2025,Q3,D06,Benefits,48400.0,48284.84,Closed
+2025-09-01,2025,Q3,D06,Contractors,15000.0,15137.57,Closed
+2025-09-01,2025,Q3,D06,Software & Subscriptions,16000.0,15496.17,Closed
+2025-09-01,2025,Q3,D06,Travel & Entertainment,8000.0,8053.16,Closed
+2025-09-01,2025,Q3,D06,Facilities,13200.0,12527.87,Closed
+2025-09-01,2025,Q3,D06,Training & Development,5300.0,5547.86,Closed
+2025-09-01,2025,Q3,D06,Hardware & Equipment,3000.0,3131.03,Closed
+2025-09-01,2025,Q3,D07,Salaries & Wages,180000.0,178409.14,Closed
+2025-09-01,2025,Q3,D07,Benefits,39600.0,40103.75,Closed
+2025-09-01,2025,Q3,D07,Contractors,10000.0,9156.53,Closed
+2025-09-01,2025,Q3,D07,Software & Subscriptions,14000.0,13433.39,Closed
+2025-09-01,2025,Q3,D07,Travel & Entertainment,9000.0,8907.46,Closed
+2025-09-01,2025,Q3,D07,Facilities,10800.0,10394.73,Closed
+2025-09-01,2025,Q3,D07,Training & Development,4300.0,4407.52,Closed
+2025-09-01,2025,Q3,D07,Hardware & Equipment,3000.0,3209.72,Closed
+2025-09-01,2025,Q3,D08,Salaries & Wages,250000.0,239704.62,Closed
+2025-09-01,2025,Q3,D08,Benefits,55000.0,53387.88,Closed
+2025-09-01,2025,Q3,D08,Contractors,60000.0,60494.44,Closed
+2025-09-01,2025,Q3,D08,Software & Subscriptions,140000.0,147894.47,Closed
+2025-09-01,2025,Q3,D08,Travel & Entertainment,10000.0,9572.17,Closed
+2025-09-01,2025,Q3,D08,Facilities,15000.0,15130.74,Closed
+2025-09-01,2025,Q3,D08,Training & Development,6000.0,6382.47,Closed
+2025-09-01,2025,Q3,D08,Hardware & Equipment,52500.0,49464.89,Closed
+2025-10-01,2025,Q4,D01,Salaries & Wages,900000.0,859646.32,Closed
+2025-10-01,2025,Q4,D01,Benefits,198000.0,195064.41,Closed
+2025-10-01,2025,Q4,D01,Contractors,10000.0,9817.79,Closed
+2025-10-01,2025,Q4,D01,Software & Subscriptions,45000.0,46279.85,Closed
+2025-10-01,2025,Q4,D01,Travel & Entertainment,110000.0,140881.6,Closed
+2025-10-01,2025,Q4,D01,Facilities,54000.0,50645.32,Closed
+2025-10-01,2025,Q4,D01,Training & Development,8100.0,8246.12,Closed
+2025-10-01,2025,Q4,D01,Hardware & Equipment,6000.0,5878.72,Closed
+2025-10-01,2025,Q4,D01,Marketing Programs,37500.0,39172.71,Closed
+2025-10-01,2025,Q4,D02,Salaries & Wages,350000.0,342312.05,Closed
+2025-10-01,2025,Q4,D02,Benefits,77000.0,75284.32,Closed
+2025-10-01,2025,Q4,D02,Contractors,40000.0,40757.58,Closed
+2025-10-01,2025,Q4,D02,Software & Subscriptions,55000.0,56468.63,Closed
+2025-10-01,2025,Q4,D02,Travel & Entertainment,25000.0,25392.09,Closed
+2025-10-01,2025,Q4,D02,Facilities,21000.0,19761.09,Closed
+2025-10-01,2025,Q4,D02,Training & Development,3200.0,3260.26,Closed
+2025-10-01,2025,Q4,D02,Hardware & Equipment,4500.0,4337.1,Closed
+2025-10-01,2025,Q4,D02,Marketing Programs,525000.0,529323.2,Closed
+2025-10-01,2025,Q4,D03,Salaries & Wages,450000.0,427576.18,Closed
+2025-10-01,2025,Q4,D03,Benefits,99000.0,100546.51,Closed
+2025-10-01,2025,Q4,D03,Contractors,12000.0,11661.23,Closed
+2025-10-01,2025,Q4,D03,Software & Subscriptions,30000.0,28653.23,Closed
+2025-10-01,2025,Q4,D03,Travel & Entertainment,35000.0,35874.43,Closed
+2025-10-01,2025,Q4,D03,Facilities,27000.0,27228.35,Closed
+2025-10-01,2025,Q4,D03,Training & Development,4000.0,3914.04,Closed
+2025-10-01,2025,Q4,D03,Hardware & Equipment,5200.0,5464.11,Closed
+2025-10-01,2025,Q4,D04,Salaries & Wages,1450000.0,1427636.89,Closed
+2025-10-01,2025,Q4,D04,Benefits,319000.0,319358.48,Closed
+2025-10-01,2025,Q4,D04,Contractors,180000.0,181694.15,Closed
+2025-10-01,2025,Q4,D04,Software & Subscriptions,120000.0,117397.4,Closed
+2025-10-01,2025,Q4,D04,Travel & Entertainment,15000.0,15247.35,Closed
+2025-10-01,2025,Q4,D04,Facilities,87000.0,85375.64,Closed
+2025-10-01,2025,Q4,D04,Training & Development,13000.0,12812.7,Closed
+2025-10-01,2025,Q4,D04,Hardware & Equipment,30000.0,31430.77,Closed
+2025-10-01,2025,Q4,D05,Salaries & Wages,300000.0,289073.85,Closed
+2025-10-01,2025,Q4,D05,Benefits,66000.0,60426.48,Closed
+2025-10-01,2025,Q4,D05,Contractors,20000.0,21127.66,Closed
+2025-10-01,2025,Q4,D05,Software & Subscriptions,18000.0,19606.08,Closed
+2025-10-01,2025,Q4,D05,Travel & Entertainment,12000.0,11829.79,Closed
+2025-10-01,2025,Q4,D05,Facilities,18000.0,16779.79,Closed
+2025-10-01,2025,Q4,D05,Training & Development,2700.0,2670.66,Closed
+2025-10-01,2025,Q4,D05,Hardware & Equipment,3800.0,3761.93,Closed
+2025-10-01,2025,Q4,D06,Salaries & Wages,220000.0,218537.59,Closed
+2025-10-01,2025,Q4,D06,Benefits,48400.0,46513.92,Closed
+2025-10-01,2025,Q4,D06,Contractors,15000.0,15304.27,Closed
+2025-10-01,2025,Q4,D06,Software & Subscriptions,16000.0,16293.72,Closed
+2025-10-01,2025,Q4,D06,Travel & Entertainment,8000.0,7581.57,Closed
+2025-10-01,2025,Q4,D06,Facilities,13200.0,13523.03,Closed
+2025-10-01,2025,Q4,D06,Training & Development,2000.0,2143.69,Closed
+2025-10-01,2025,Q4,D06,Hardware & Equipment,3000.0,3018.06,Closed
+2025-10-01,2025,Q4,D07,Salaries & Wages,180000.0,177874.85,Closed
+2025-10-01,2025,Q4,D07,Benefits,39600.0,39403.18,Closed
+2025-10-01,2025,Q4,D07,Contractors,10000.0,10215.34,Closed
+2025-10-01,2025,Q4,D07,Software & Subscriptions,14000.0,13151.97,Closed
+2025-10-01,2025,Q4,D07,Travel & Entertainment,9000.0,9051.78,Closed
+2025-10-01,2025,Q4,D07,Facilities,10800.0,10652.4,Closed
+2025-10-01,2025,Q4,D07,Training & Development,1600.0,1703.48,Closed
+2025-10-01,2025,Q4,D07,Hardware & Equipment,3000.0,2981.71,Closed
+2025-10-01,2025,Q4,D08,Salaries & Wages,250000.0,264594.02,Closed
+2025-10-01,2025,Q4,D08,Benefits,55000.0,52875.3,Closed
+2025-10-01,2025,Q4,D08,Contractors,60000.0,61233.24,Closed
+2025-10-01,2025,Q4,D08,Software & Subscriptions,140000.0,141565.06,Closed
+2025-10-01,2025,Q4,D08,Travel & Entertainment,10000.0,9695.83,Closed
+2025-10-01,2025,Q4,D08,Facilities,15000.0,15093.13,Closed
+2025-10-01,2025,Q4,D08,Training & Development,2200.0,2293.36,Closed
+2025-10-01,2025,Q4,D08,Hardware & Equipment,52500.0,51905.03,Closed
+2025-11-01,2025,Q4,D01,Salaries & Wages,900000.0,846703.18,Closed
+2025-11-01,2025,Q4,D01,Benefits,198000.0,197878.29,Closed
+2025-11-01,2025,Q4,D01,Contractors,10000.0,9684.15,Closed
+2025-11-01,2025,Q4,D01,Software & Subscriptions,45000.0,44460.81,Closed
+2025-11-01,2025,Q4,D01,Travel & Entertainment,110000.0,139301.08,Closed
+2025-11-01,2025,Q4,D01,Facilities,54000.0,50776.32,Closed
+2025-11-01,2025,Q4,D01,Training & Development,8100.0,7641.96,Closed
+2025-11-01,2025,Q4,D01,Hardware & Equipment,6000.0,6101.23,Closed
+2025-11-01,2025,Q4,D01,Marketing Programs,37500.0,36813.93,Closed
+2025-11-01,2025,Q4,D02,Salaries & Wages,350000.0,318581.88,Closed
+2025-11-01,2025,Q4,D02,Benefits,77000.0,79115.15,Closed
+2025-11-01,2025,Q4,D02,Contractors,40000.0,40381.32,Closed
+2025-11-01,2025,Q4,D02,Software & Subscriptions,55000.0,53625.79,Closed
+2025-11-01,2025,Q4,D02,Travel & Entertainment,25000.0,23847.77,Closed
+2025-11-01,2025,Q4,D02,Facilities,21000.0,21614.32,Closed
+2025-11-01,2025,Q4,D02,Training & Development,3200.0,3239.13,Closed
+2025-11-01,2025,Q4,D02,Hardware & Equipment,4500.0,4875.26,Closed
+2025-11-01,2025,Q4,D02,Marketing Programs,525000.0,532720.97,Closed
+2025-11-01,2025,Q4,D03,Salaries & Wages,450000.0,456106.32,Closed
+2025-11-01,2025,Q4,D03,Benefits,99000.0,98421.59,Closed
+2025-11-01,2025,Q4,D03,Contractors,12000.0,12343.05,Closed
+2025-11-01,2025,Q4,D03,Software & Subscriptions,30000.0,30656.34,Closed
+2025-11-01,2025,Q4,D03,Travel & Entertainment,35000.0,36533.36,Closed
+2025-11-01,2025,Q4,D03,Facilities,27000.0,26507.35,Closed
+2025-11-01,2025,Q4,D03,Training & Development,4000.0,3939.04,Closed
+2025-11-01,2025,Q4,D03,Hardware & Equipment,5200.0,5112.8,Closed
+2025-11-01,2025,Q4,D04,Salaries & Wages,1450000.0,1490133.19,Closed
+2025-11-01,2025,Q4,D04,Benefits,319000.0,335729.35,Closed
+2025-11-01,2025,Q4,D04,Contractors,180000.0,177109.3,Closed
+2025-11-01,2025,Q4,D04,Software & Subscriptions,120000.0,118215.95,Closed
+2025-11-01,2025,Q4,D04,Travel & Entertainment,15000.0,15164.89,Closed
+2025-11-01,2025,Q4,D04,Facilities,87000.0,86251.66,Closed
+2025-11-01,2025,Q4,D04,Training & Development,13000.0,13433.18,Closed
+2025-11-01,2025,Q4,D04,Hardware & Equipment,30000.0,27635.63,Closed
+2025-11-01,2025,Q4,D05,Salaries & Wages,300000.0,291319.6,Closed
+2025-11-01,2025,Q4,D05,Benefits,66000.0,64192.62,Closed
+2025-11-01,2025,Q4,D05,Contractors,20000.0,18375.75,Closed
+2025-11-01,2025,Q4,D05,Software & Subscriptions,18000.0,17392.91,Closed
+2025-11-01,2025,Q4,D05,Travel & Entertainment,12000.0,11615.63,Closed
+2025-11-01,2025,Q4,D05,Facilities,18000.0,17873.3,Closed
+2025-11-01,2025,Q4,D05,Training & Development,2700.0,2805.18,Closed
+2025-11-01,2025,Q4,D05,Hardware & Equipment,3800.0,3767.41,Closed
+2025-11-01,2025,Q4,D06,Salaries & Wages,220000.0,212062.73,Closed
+2025-11-01,2025,Q4,D06,Benefits,48400.0,48303.52,Closed
+2025-11-01,2025,Q4,D06,Contractors,15000.0,15550.82,Closed
+2025-11-01,2025,Q4,D06,Software & Subscriptions,16000.0,15453.46,Closed
+2025-11-01,2025,Q4,D06,Travel & Entertainment,8000.0,7745.04,Closed
+2025-11-01,2025,Q4,D06,Facilities,13200.0,13458.05,Closed
+2025-11-01,2025,Q4,D06,Training & Development,2000.0,1984.49,Closed
+2025-11-01,2025,Q4,D06,Hardware & Equipment,3000.0,3067.99,Closed
+2025-11-01,2025,Q4,D07,Salaries & Wages,180000.0,179914.03,Closed
+2025-11-01,2025,Q4,D07,Benefits,39600.0,40572.51,Closed
+2025-11-01,2025,Q4,D07,Contractors,10000.0,9637.72,Closed
+2025-11-01,2025,Q4,D07,Software & Subscriptions,14000.0,13994.08,Closed
+2025-11-01,2025,Q4,D07,Travel & Entertainment,9000.0,8933.63,Closed
+2025-11-01,2025,Q4,D07,Facilities,10800.0,10340.39,Closed
+2025-11-01,2025,Q4,D07,Training & Development,1600.0,1512.45,Closed
+2025-11-01,2025,Q4,D07,Hardware & Equipment,3000.0,3072.0,Closed
+2025-11-01,2025,Q4,D08,Salaries & Wages,250000.0,246929.17,Closed
+2025-11-01,2025,Q4,D08,Benefits,55000.0,53032.11,Closed
+2025-11-01,2025,Q4,D08,Contractors,60000.0,59798.02,Closed
+2025-11-01,2025,Q4,D08,Software & Subscriptions,140000.0,145527.29,Closed
+2025-11-01,2025,Q4,D08,Travel & Entertainment,10000.0,9201.74,Closed
+2025-11-01,2025,Q4,D08,Facilities,15000.0,14214.26,Closed
+2025-11-01,2025,Q4,D08,Training & Development,2200.0,2128.94,Closed
+2025-11-01,2025,Q4,D08,Hardware & Equipment,52500.0,55184.92,Closed
+2025-12-01,2025,Q4,D01,Salaries & Wages,900000.0,908901.49,Closed
+2025-12-01,2025,Q4,D01,Benefits,198000.0,203317.51,Closed
+2025-12-01,2025,Q4,D01,Contractors,10000.0,9600.94,Closed
+2025-12-01,2025,Q4,D01,Software & Subscriptions,45000.0,43236.73,Closed
+2025-12-01,2025,Q4,D01,Travel & Entertainment,110000.0,141889.59,Closed
+2025-12-01,2025,Q4,D01,Facilities,54000.0,54110.14,Closed
+2025-12-01,2025,Q4,D01,Training & Development,8100.0,8255.57,Closed
+2025-12-01,2025,Q4,D01,Hardware & Equipment,6000.0,5960.59,Closed
+2025-12-01,2025,Q4,D01,Marketing Programs,37500.0,37865.06,Closed
+2025-12-01,2025,Q4,D02,Salaries & Wages,350000.0,351936.96,Closed
+2025-12-01,2025,Q4,D02,Benefits,77000.0,79096.08,Closed
+2025-12-01,2025,Q4,D02,Contractors,40000.0,41129.81,Closed
+2025-12-01,2025,Q4,D02,Software & Subscriptions,55000.0,51881.75,Closed
+2025-12-01,2025,Q4,D02,Travel & Entertainment,25000.0,23033.64,Closed
+2025-12-01,2025,Q4,D02,Facilities,21000.0,21736.28,Closed
+2025-12-01,2025,Q4,D02,Training & Development,3200.0,3333.03,Closed
+2025-12-01,2025,Q4,D02,Hardware & Equipment,4500.0,4339.25,Closed
+2025-12-01,2025,Q4,D02,Marketing Programs,525000.0,490825.52,Closed
+2025-12-01,2025,Q4,D03,Salaries & Wages,450000.0,451559.8,Closed
+2025-12-01,2025,Q4,D03,Benefits,99000.0,102225.35,Closed
+2025-12-01,2025,Q4,D03,Contractors,12000.0,12754.99,Closed
+2025-12-01,2025,Q4,D03,Software & Subscriptions,30000.0,30542.11,Closed
+2025-12-01,2025,Q4,D03,Travel & Entertainment,35000.0,34544.65,Closed
+2025-12-01,2025,Q4,D03,Facilities,27000.0,26155.99,Closed
+2025-12-01,2025,Q4,D03,Training & Development,4000.0,4001.6,Closed
+2025-12-01,2025,Q4,D03,Hardware & Equipment,5200.0,5145.53,Closed
+2025-12-01,2025,Q4,D04,Salaries & Wages,1450000.0,1398485.3,Closed
+2025-12-01,2025,Q4,D04,Benefits,319000.0,341874.36,Closed
+2025-12-01,2025,Q4,D04,Contractors,180000.0,191246.56,Closed
+2025-12-01,2025,Q4,D04,Software & Subscriptions,120000.0,124771.4,Closed
+2025-12-01,2025,Q4,D04,Travel & Entertainment,15000.0,14516.55,Closed
+2025-12-01,2025,Q4,D04,Facilities,87000.0,89603.53,Closed
+2025-12-01,2025,Q4,D04,Training & Development,13000.0,13291.03,Closed
+2025-12-01,2025,Q4,D04,Hardware & Equipment,30000.0,30464.67,Closed
+2025-12-01,2025,Q4,D05,Salaries & Wages,300000.0,313121.49,Closed
+2025-12-01,2025,Q4,D05,Benefits,66000.0,67467.71,Closed
+2025-12-01,2025,Q4,D05,Contractors,20000.0,20518.01,Closed
+2025-12-01,2025,Q4,D05,Software & Subscriptions,18000.0,18401.25,Closed
+2025-12-01,2025,Q4,D05,Travel & Entertainment,12000.0,12143.13,Closed
+2025-12-01,2025,Q4,D05,Facilities,18000.0,16876.32,Closed
+2025-12-01,2025,Q4,D05,Training & Development,2700.0,2707.9,Closed
+2025-12-01,2025,Q4,D05,Hardware & Equipment,3800.0,3726.03,Closed
+2025-12-01,2025,Q4,D06,Salaries & Wages,220000.0,210145.22,Closed
+2025-12-01,2025,Q4,D06,Benefits,48400.0,51249.0,Closed
+2025-12-01,2025,Q4,D06,Contractors,15000.0,15907.72,Closed
+2025-12-01,2025,Q4,D06,Software & Subscriptions,16000.0,16761.16,Closed
+2025-12-01,2025,Q4,D06,Travel & Entertainment,8000.0,8071.46,Closed
+2025-12-01,2025,Q4,D06,Facilities,13200.0,13823.99,Closed
+2025-12-01,2025,Q4,D06,Training & Development,2000.0,2000.84,Closed
+2025-12-01,2025,Q4,D06,Hardware & Equipment,3000.0,3021.29,Closed
+2025-12-01,2025,Q4,D07,Salaries & Wages,180000.0,173111.13,Closed
+2025-12-01,2025,Q4,D07,Benefits,39600.0,40150.23,Closed
+2025-12-01,2025,Q4,D07,Contractors,10000.0,10021.14,Closed
+2025-12-01,2025,Q4,D07,Software & Subscriptions,14000.0,13361.7,Closed
+2025-12-01,2025,Q4,D07,Travel & Entertainment,9000.0,8983.87,Closed
+2025-12-01,2025,Q4,D07,Facilities,10800.0,10769.86,Closed
+2025-12-01,2025,Q4,D07,Training & Development,1600.0,1700.66,Closed
+2025-12-01,2025,Q4,D07,Hardware & Equipment,3000.0,3093.89,Closed
+2025-12-01,2025,Q4,D08,Salaries & Wages,250000.0,250100.15,Closed
+2025-12-01,2025,Q4,D08,Benefits,55000.0,55478.92,Closed
+2025-12-01,2025,Q4,D08,Contractors,60000.0,60092.85,Closed
+2025-12-01,2025,Q4,D08,Software & Subscriptions,140000.0,139005.72,Closed
+2025-12-01,2025,Q4,D08,Travel & Entertainment,10000.0,9621.15,Closed
+2025-12-01,2025,Q4,D08,Facilities,15000.0,14920.7,Closed
+2025-12-01,2025,Q4,D08,Training & Development,2200.0,2142.55,Closed
+2025-12-01,2025,Q4,D08,Hardware & Equipment,52500.0,50202.55,Closed
+2026-01-01,2026,Q1,D01,Salaries & Wages,972000.0,930028.26,Closed
+2026-01-01,2026,Q1,D01,Benefits,213800.0,216727.83,Closed
+2026-01-01,2026,Q1,D01,Contractors,10800.0,10124.62,Closed
+2026-01-01,2026,Q1,D01,Software & Subscriptions,48600.0,48391.31,Closed
+2026-01-01,2026,Q1,D01,Travel & Entertainment,160400.0,165989.87,Closed
+2026-01-01,2026,Q1,D01,Facilities,58300.0,60461.35,Closed
+2026-01-01,2026,Q1,D01,Training & Development,23300.0,24136.57,Closed
+2026-01-01,2026,Q1,D01,Hardware & Equipment,19000.0,19025.88,Closed
+2026-01-01,2026,Q1,D01,Marketing Programs,25900.0,25133.97,Closed
+2026-01-01,2026,Q1,D02,Salaries & Wages,378000.0,363662.66,Closed
+2026-01-01,2026,Q1,D02,Benefits,83200.0,84203.49,Closed
+2026-01-01,2026,Q1,D02,Contractors,43200.0,43773.47,Closed
+2026-01-01,2026,Q1,D02,Software & Subscriptions,59400.0,62076.36,Closed
+2026-01-01,2026,Q1,D02,Travel & Entertainment,36400.0,37801.37,Closed
+2026-01-01,2026,Q1,D02,Facilities,22700.0,22594.94,Closed
+2026-01-01,2026,Q1,D02,Training & Development,9100.0,8703.72,Closed
+2026-01-01,2026,Q1,D02,Hardware & Equipment,14300.0,14140.29,Closed
+2026-01-01,2026,Q1,D02,Marketing Programs,362900.0,365659.16,Closed
+2026-01-01,2026,Q1,D03,Salaries & Wages,486000.0,482562.56,Closed
+2026-01-01,2026,Q1,D03,Benefits,106900.0,104737.81,Closed
+2026-01-01,2026,Q1,D03,Contractors,13000.0,13115.06,Closed
+2026-01-01,2026,Q1,D03,Software & Subscriptions,32400.0,31828.51,Closed
+2026-01-01,2026,Q1,D03,Travel & Entertainment,51000.0,49878.9,Closed
+2026-01-01,2026,Q1,D03,Facilities,29200.0,29518.3,Closed
+2026-01-01,2026,Q1,D03,Training & Development,11700.0,11535.38,Closed
+2026-01-01,2026,Q1,D03,Hardware & Equipment,16600.0,16741.82,Closed
+2026-01-01,2026,Q1,D04,Salaries & Wages,1566000.0,1525640.21,Closed
+2026-01-01,2026,Q1,D04,Benefits,344500.0,330761.33,Closed
+2026-01-01,2026,Q1,D04,Contractors,194400.0,191125.64,Closed
+2026-01-01,2026,Q1,D04,Software & Subscriptions,129600.0,136121.76,Closed
+2026-01-01,2026,Q1,D04,Travel & Entertainment,21900.0,21009.27,Closed
+2026-01-01,2026,Q1,D04,Facilities,94000.0,87036.21,Closed
+2026-01-01,2026,Q1,D04,Training & Development,37600.0,35149.81,Closed
+2026-01-01,2026,Q1,D04,Hardware & Equipment,95000.0,95096.79,Closed
+2026-01-01,2026,Q1,D05,Salaries & Wages,324000.0,324350.6,Closed
+2026-01-01,2026,Q1,D05,Benefits,71300.0,71006.5,Closed
+2026-01-01,2026,Q1,D05,Contractors,21600.0,22517.93,Closed
+2026-01-01,2026,Q1,D05,Software & Subscriptions,19400.0,17585.15,Closed
+2026-01-01,2026,Q1,D05,Travel & Entertainment,17500.0,17742.51,Closed
+2026-01-01,2026,Q1,D05,Facilities,19400.0,20460.22,Closed
+2026-01-01,2026,Q1,D05,Training & Development,7800.0,7492.12,Closed
+2026-01-01,2026,Q1,D05,Hardware & Equipment,11900.0,11741.81,Closed
+2026-01-01,2026,Q1,D06,Salaries & Wages,237600.0,231338.95,Closed
+2026-01-01,2026,Q1,D06,Benefits,52300.0,50662.9,Closed
+2026-01-01,2026,Q1,D06,Contractors,16200.0,16015.01,Closed
+2026-01-01,2026,Q1,D06,Software & Subscriptions,17300.0,18164.34,Closed
+2026-01-01,2026,Q1,D06,Travel & Entertainment,11700.0,12452.41,Closed
+2026-01-01,2026,Q1,D06,Facilities,14300.0,14131.86,Closed
+2026-01-01,2026,Q1,D06,Training & Development,5700.0,6080.06,Closed
+2026-01-01,2026,Q1,D06,Hardware & Equipment,9500.0,9511.83,Closed
+2026-01-01,2026,Q1,D07,Salaries & Wages,194400.0,206332.11,Closed
+2026-01-01,2026,Q1,D07,Benefits,42800.0,42660.24,Closed
+2026-01-01,2026,Q1,D07,Contractors,10800.0,10849.54,Closed
+2026-01-01,2026,Q1,D07,Software & Subscriptions,15100.0,15293.15,Closed
+2026-01-01,2026,Q1,D07,Travel & Entertainment,13100.0,14557.5,Closed
+2026-01-01,2026,Q1,D07,Facilities,11700.0,12048.6,Closed
+2026-01-01,2026,Q1,D07,Training & Development,4700.0,4583.65,Closed
+2026-01-01,2026,Q1,D07,Hardware & Equipment,9500.0,9822.19,Closed
+2026-01-01,2026,Q1,D08,Salaries & Wages,270000.0,266580.68,Closed
+2026-01-01,2026,Q1,D08,Benefits,59400.0,58381.81,Closed
+2026-01-01,2026,Q1,D08,Contractors,64800.0,66860.71,Closed
+2026-01-01,2026,Q1,D08,Software & Subscriptions,151200.0,172555.54,Closed
+2026-01-01,2026,Q1,D08,Travel & Entertainment,14600.0,14742.35,Closed
+2026-01-01,2026,Q1,D08,Facilities,16200.0,16207.93,Closed
+2026-01-01,2026,Q1,D08,Training & Development,6500.0,6576.57,Closed
+2026-01-01,2026,Q1,D08,Hardware & Equipment,166300.0,168773.51,Closed
+2026-02-01,2026,Q1,D01,Salaries & Wages,972000.0,851738.12,Closed
+2026-02-01,2026,Q1,D01,Benefits,213800.0,218787.96,Closed
+2026-02-01,2026,Q1,D01,Contractors,10800.0,10428.8,Closed
+2026-02-01,2026,Q1,D01,Software & Subscriptions,48600.0,46146.65,Closed
+2026-02-01,2026,Q1,D01,Travel & Entertainment,118800.0,118557.13,Closed
+2026-02-01,2026,Q1,D01,Facilities,58300.0,58471.36,Closed
+2026-02-01,2026,Q1,D01,Training & Development,23300.0,22734.45,Closed
+2026-02-01,2026,Q1,D01,Hardware & Equipment,19000.0,19552.64,Closed
+2026-02-01,2026,Q1,D01,Marketing Programs,25900.0,24683.32,Closed
+2026-02-01,2026,Q1,D02,Salaries & Wages,378000.0,372616.13,Closed
+2026-02-01,2026,Q1,D02,Benefits,83200.0,81496.85,Closed
+2026-02-01,2026,Q1,D02,Contractors,43200.0,43129.56,Closed
+2026-02-01,2026,Q1,D02,Software & Subscriptions,59400.0,59979.76,Closed
+2026-02-01,2026,Q1,D02,Travel & Entertainment,27000.0,26047.54,Closed
+2026-02-01,2026,Q1,D02,Facilities,22700.0,23275.44,Closed
+2026-02-01,2026,Q1,D02,Training & Development,9100.0,9120.07,Closed
+2026-02-01,2026,Q1,D02,Hardware & Equipment,14300.0,13353.08,Closed
+2026-02-01,2026,Q1,D02,Marketing Programs,362900.0,338022.95,Closed
+2026-02-01,2026,Q1,D03,Salaries & Wages,486000.0,485790.45,Closed
+2026-02-01,2026,Q1,D03,Benefits,106900.0,106073.25,Closed
+2026-02-01,2026,Q1,D03,Contractors,13000.0,12952.94,Closed
+2026-02-01,2026,Q1,D03,Software & Subscriptions,32400.0,32368.27,Closed
+2026-02-01,2026,Q1,D03,Travel & Entertainment,37800.0,38098.42,Closed
+2026-02-01,2026,Q1,D03,Facilities,29200.0,30168.5,Closed
+2026-02-01,2026,Q1,D03,Training & Development,11700.0,11245.0,Closed
+2026-02-01,2026,Q1,D03,Hardware & Equipment,16600.0,15919.08,Closed
+2026-02-01,2026,Q1,D04,Salaries & Wages,1566000.0,1453362.3,Closed
+2026-02-01,2026,Q1,D04,Benefits,344500.0,347983.61,Closed
+2026-02-01,2026,Q1,D04,Contractors,194400.0,202870.62,Closed
+2026-02-01,2026,Q1,D04,Software & Subscriptions,129600.0,127643.44,Closed
+2026-02-01,2026,Q1,D04,Travel & Entertainment,16200.0,14781.54,Closed
+2026-02-01,2026,Q1,D04,Facilities,94000.0,88393.86,Closed
+2026-02-01,2026,Q1,D04,Training & Development,37600.0,36503.72,Closed
+2026-02-01,2026,Q1,D04,Hardware & Equipment,95000.0,93145.55,Closed
+2026-02-01,2026,Q1,D05,Salaries & Wages,324000.0,319368.87,Closed
+2026-02-01,2026,Q1,D05,Benefits,71300.0,71396.28,Closed
+2026-02-01,2026,Q1,D05,Contractors,21600.0,21364.32,Closed
+2026-02-01,2026,Q1,D05,Software & Subscriptions,19400.0,20112.5,Closed
+2026-02-01,2026,Q1,D05,Travel & Entertainment,13000.0,12692.41,Closed
+2026-02-01,2026,Q1,D05,Facilities,19400.0,18814.49,Closed
+2026-02-01,2026,Q1,D05,Training & Development,7800.0,7930.73,Closed
+2026-02-01,2026,Q1,D05,Hardware & Equipment,11900.0,11260.41,Closed
+2026-02-01,2026,Q1,D06,Salaries & Wages,237600.0,240840.68,Closed
+2026-02-01,2026,Q1,D06,Benefits,52300.0,52487.72,Closed
+2026-02-01,2026,Q1,D06,Contractors,16200.0,16116.4,Closed
+2026-02-01,2026,Q1,D06,Software & Subscriptions,17300.0,18261.7,Closed
+2026-02-01,2026,Q1,D06,Travel & Entertainment,8600.0,8412.72,Closed
+2026-02-01,2026,Q1,D06,Facilities,14300.0,15331.18,Closed
+2026-02-01,2026,Q1,D06,Training & Development,5700.0,5655.03,Closed
+2026-02-01,2026,Q1,D06,Hardware & Equipment,9500.0,9075.39,Closed
+2026-02-01,2026,Q1,D07,Salaries & Wages,194400.0,194875.73,Closed
+2026-02-01,2026,Q1,D07,Benefits,42800.0,41187.78,Closed
+2026-02-01,2026,Q1,D07,Contractors,10800.0,10515.84,Closed
+2026-02-01,2026,Q1,D07,Software & Subscriptions,15100.0,15309.83,Closed
+2026-02-01,2026,Q1,D07,Travel & Entertainment,9700.0,9888.62,Closed
+2026-02-01,2026,Q1,D07,Facilities,11700.0,11445.22,Closed
+2026-02-01,2026,Q1,D07,Training & Development,4700.0,4862.43,Closed
+2026-02-01,2026,Q1,D07,Hardware & Equipment,9500.0,9884.87,Closed
+2026-02-01,2026,Q1,D08,Salaries & Wages,270000.0,283573.05,Closed
+2026-02-01,2026,Q1,D08,Benefits,59400.0,60500.65,Closed
+2026-02-01,2026,Q1,D08,Contractors,64800.0,67892.26,Closed
+2026-02-01,2026,Q1,D08,Software & Subscriptions,151200.0,161021.37,Closed
+2026-02-01,2026,Q1,D08,Travel & Entertainment,10800.0,10679.83,Closed
+2026-02-01,2026,Q1,D08,Facilities,16200.0,15708.41,Closed
+2026-02-01,2026,Q1,D08,Training & Development,6500.0,6527.12,Closed
+2026-02-01,2026,Q1,D08,Hardware & Equipment,166300.0,162973.88,Closed
+2026-03-01,2026,Q1,D01,Salaries & Wages,972000.0,908366.47,Closed
+2026-03-01,2026,Q1,D01,Benefits,213800.0,227884.31,Closed
+2026-03-01,2026,Q1,D01,Contractors,10800.0,10735.85,Closed
+2026-03-01,2026,Q1,D01,Software & Subscriptions,48600.0,49303.86,Closed
+2026-03-01,2026,Q1,D01,Travel & Entertainment,118800.0,117834.22,Closed
+2026-03-01,2026,Q1,D01,Facilities,58300.0,58454.49,Closed
+2026-03-01,2026,Q1,D01,Training & Development,23300.0,23304.91,Closed
+2026-03-01,2026,Q1,D01,Hardware & Equipment,6500.0,6601.99,Closed
+2026-03-01,2026,Q1,D01,Marketing Programs,25900.0,26956.35,Closed
+2026-03-01,2026,Q1,D02,Salaries & Wages,378000.0,399795.02,Closed
+2026-03-01,2026,Q1,D02,Benefits,83200.0,84101.61,Closed
+2026-03-01,2026,Q1,D02,Contractors,43200.0,44091.39,Closed
+2026-03-01,2026,Q1,D02,Software & Subscriptions,59400.0,57007.35,Closed
+2026-03-01,2026,Q1,D02,Travel & Entertainment,27000.0,26916.96,Closed
+2026-03-01,2026,Q1,D02,Facilities,22700.0,23447.06,Closed
+2026-03-01,2026,Q1,D02,Training & Development,9100.0,9375.81,Closed
+2026-03-01,2026,Q1,D02,Hardware & Equipment,4900.0,4936.29,Closed
+2026-03-01,2026,Q1,D02,Marketing Programs,362900.0,374158.53,Closed
+2026-03-01,2026,Q1,D03,Salaries & Wages,486000.0,494347.94,Closed
+2026-03-01,2026,Q1,D03,Benefits,106900.0,111390.95,Closed
+2026-03-01,2026,Q1,D03,Contractors,13000.0,13131.66,Closed
+2026-03-01,2026,Q1,D03,Software & Subscriptions,32400.0,31996.64,Closed
+2026-03-01,2026,Q1,D03,Travel & Entertainment,37800.0,38244.32,Closed
+2026-03-01,2026,Q1,D03,Facilities,29200.0,26204.93,Closed
+2026-03-01,2026,Q1,D03,Training & Development,11700.0,11856.79,Closed
+2026-03-01,2026,Q1,D03,Hardware & Equipment,5700.0,4972.14,Closed
+2026-03-01,2026,Q1,D04,Salaries & Wages,1566000.0,1420033.18,Closed
+2026-03-01,2026,Q1,D04,Benefits,344500.0,349947.2,Closed
+2026-03-01,2026,Q1,D04,Contractors,194400.0,197649.11,Closed
+2026-03-01,2026,Q1,D04,Software & Subscriptions,129600.0,124327.22,Closed
+2026-03-01,2026,Q1,D04,Travel & Entertainment,16200.0,15796.24,Closed
+2026-03-01,2026,Q1,D04,Facilities,94000.0,98509.08,Closed
+2026-03-01,2026,Q1,D04,Training & Development,37600.0,36963.02,Closed
+2026-03-01,2026,Q1,D04,Hardware & Equipment,32400.0,34943.47,Closed
+2026-03-01,2026,Q1,D05,Salaries & Wages,324000.0,323978.23,Closed
+2026-03-01,2026,Q1,D05,Benefits,71300.0,72318.25,Closed
+2026-03-01,2026,Q1,D05,Contractors,21600.0,22822.36,Closed
+2026-03-01,2026,Q1,D05,Software & Subscriptions,19400.0,19488.97,Closed
+2026-03-01,2026,Q1,D05,Travel & Entertainment,13000.0,12543.93,Closed
+2026-03-01,2026,Q1,D05,Facilities,19400.0,19325.5,Closed
+2026-03-01,2026,Q1,D05,Training & Development,7800.0,7790.28,Closed
+2026-03-01,2026,Q1,D05,Hardware & Equipment,4000.0,3808.94,Closed
+2026-03-01,2026,Q1,D06,Salaries & Wages,237600.0,235472.5,Closed
+2026-03-01,2026,Q1,D06,Benefits,52300.0,50941.42,Closed
+2026-03-01,2026,Q1,D06,Contractors,16200.0,16724.11,Closed
+2026-03-01,2026,Q1,D06,Software & Subscriptions,17300.0,17320.96,Closed
+2026-03-01,2026,Q1,D06,Travel & Entertainment,8600.0,8514.88,Closed
+2026-03-01,2026,Q1,D06,Facilities,14300.0,14246.86,Closed
+2026-03-01,2026,Q1,D06,Training & Development,5700.0,5744.51,Closed
+2026-03-01,2026,Q1,D06,Hardware & Equipment,3200.0,3269.08,Closed
+2026-03-01,2026,Q1,D07,Salaries & Wages,194400.0,187597.96,Closed
+2026-03-01,2026,Q1,D07,Benefits,42800.0,41239.7,Closed
+2026-03-01,2026,Q1,D07,Contractors,10800.0,11217.57,Closed
+2026-03-01,2026,Q1,D07,Software & Subscriptions,15100.0,14882.08,Closed
+2026-03-01,2026,Q1,D07,Travel & Entertainment,9700.0,9218.98,Closed
+2026-03-01,2026,Q1,D07,Facilities,11700.0,11881.74,Closed
+2026-03-01,2026,Q1,D07,Training & Development,4700.0,4776.22,Closed
+2026-03-01,2026,Q1,D07,Hardware & Equipment,3200.0,3028.56,Closed
+2026-03-01,2026,Q1,D08,Salaries & Wages,270000.0,272168.6,Closed
+2026-03-01,2026,Q1,D08,Benefits,59400.0,60929.28,Closed
+2026-03-01,2026,Q1,D08,Contractors,64800.0,65649.11,Closed
+2026-03-01,2026,Q1,D08,Software & Subscriptions,151200.0,254998.34,Closed
+2026-03-01,2026,Q1,D08,Travel & Entertainment,10800.0,10269.19,Closed
+2026-03-01,2026,Q1,D08,Facilities,16200.0,16387.7,Closed
+2026-03-01,2026,Q1,D08,Training & Development,6500.0,6431.15,Closed
+2026-03-01,2026,Q1,D08,Hardware & Equipment,56700.0,55741.9,Closed
+2026-04-01,2026,Q2,D01,Salaries & Wages,972000.0,941519.32,Closed
+2026-04-01,2026,Q2,D01,Benefits,213800.0,224869.41,Closed
+2026-04-01,2026,Q2,D01,Contractors,10800.0,11478.27,Closed
+2026-04-01,2026,Q2,D01,Software & Subscriptions,48600.0,50836.49,Closed
+2026-04-01,2026,Q2,D01,Travel & Entertainment,118800.0,118343.73,Closed
+2026-04-01,2026,Q2,D01,Facilities,58300.0,59019.73,Closed
+2026-04-01,2026,Q2,D01,Training & Development,8700.0,8933.5,Closed
+2026-04-01,2026,Q2,D01,Hardware & Equipment,6500.0,6527.57,Closed
+2026-04-01,2026,Q2,D01,Marketing Programs,40500.0,40685.36,Closed
+2026-04-01,2026,Q2,D02,Salaries & Wages,378000.0,388898.25,Closed
+2026-04-01,2026,Q2,D02,Benefits,83200.0,83027.37,Closed
+2026-04-01,2026,Q2,D02,Contractors,43200.0,42097.32,Closed
+2026-04-01,2026,Q2,D02,Software & Subscriptions,59400.0,58538.31,Closed
+2026-04-01,2026,Q2,D02,Travel & Entertainment,27000.0,27599.05,Closed
+2026-04-01,2026,Q2,D02,Facilities,22700.0,22702.38,Closed
+2026-04-01,2026,Q2,D02,Training & Development,3400.0,3440.48,Closed
+2026-04-01,2026,Q2,D02,Hardware & Equipment,4900.0,5014.92,Closed
+2026-04-01,2026,Q2,D02,Marketing Programs,567000.0,458840.24,Closed
+2026-04-01,2026,Q2,D03,Salaries & Wages,486000.0,498863.78,Closed
+2026-04-01,2026,Q2,D03,Benefits,106900.0,108317.44,Closed
+2026-04-01,2026,Q2,D03,Contractors,13000.0,12438.16,Closed
+2026-04-01,2026,Q2,D03,Software & Subscriptions,32400.0,34035.57,Closed
+2026-04-01,2026,Q2,D03,Travel & Entertainment,37800.0,37137.51,Closed
+2026-04-01,2026,Q2,D03,Facilities,29200.0,27508.49,Closed
+2026-04-01,2026,Q2,D03,Training & Development,4400.0,4239.06,Closed
+2026-04-01,2026,Q2,D03,Hardware & Equipment,5700.0,5496.3,Closed
+2026-04-01,2026,Q2,D04,Salaries & Wages,1566000.0,1513949.53,Closed
+2026-04-01,2026,Q2,D04,Benefits,344500.0,341198.05,Closed
+2026-04-01,2026,Q2,D04,Contractors,194400.0,265109.31,Closed
+2026-04-01,2026,Q2,D04,Software & Subscriptions,129600.0,132410.97,Closed
+2026-04-01,2026,Q2,D04,Travel & Entertainment,16200.0,16392.71,Closed
+2026-04-01,2026,Q2,D04,Facilities,94000.0,95039.8,Closed
+2026-04-01,2026,Q2,D04,Training & Development,14100.0,14302.25,Closed
+2026-04-01,2026,Q2,D04,Hardware & Equipment,32400.0,33098.7,Closed
+2026-04-01,2026,Q2,D05,Salaries & Wages,324000.0,300095.81,Closed
+2026-04-01,2026,Q2,D05,Benefits,71300.0,70390.54,Closed
+2026-04-01,2026,Q2,D05,Contractors,21600.0,19951.76,Closed
+2026-04-01,2026,Q2,D05,Software & Subscriptions,19400.0,19424.48,Closed
+2026-04-01,2026,Q2,D05,Travel & Entertainment,13000.0,12997.89,Closed
+2026-04-01,2026,Q2,D05,Facilities,19400.0,20109.92,Closed
+2026-04-01,2026,Q2,D05,Training & Development,2900.0,3020.54,Closed
+2026-04-01,2026,Q2,D05,Hardware & Equipment,4000.0,4028.39,Closed
+2026-04-01,2026,Q2,D06,Salaries & Wages,237600.0,233439.0,Closed
+2026-04-01,2026,Q2,D06,Benefits,52300.0,53188.09,Closed
+2026-04-01,2026,Q2,D06,Contractors,16200.0,15900.67,Closed
+2026-04-01,2026,Q2,D06,Software & Subscriptions,17300.0,17299.16,Closed
+2026-04-01,2026,Q2,D06,Travel & Entertainment,8600.0,8896.83,Closed
+2026-04-01,2026,Q2,D06,Facilities,14300.0,14020.84,Closed
+2026-04-01,2026,Q2,D06,Training & Development,2100.0,2159.22,Closed
+2026-04-01,2026,Q2,D06,Hardware & Equipment,3200.0,3275.87,Closed
+2026-04-01,2026,Q2,D07,Salaries & Wages,194400.0,187903.6,Closed
+2026-04-01,2026,Q2,D07,Benefits,42800.0,44258.89,Closed
+2026-04-01,2026,Q2,D07,Contractors,10800.0,11064.06,Closed
+2026-04-01,2026,Q2,D07,Software & Subscriptions,15100.0,15153.87,Closed
+2026-04-01,2026,Q2,D07,Travel & Entertainment,9700.0,9441.19,Closed
+2026-04-01,2026,Q2,D07,Facilities,11700.0,11348.16,Closed
+2026-04-01,2026,Q2,D07,Training & Development,1700.0,1668.01,Closed
+2026-04-01,2026,Q2,D07,Hardware & Equipment,3200.0,3260.77,Closed
+2026-04-01,2026,Q2,D08,Salaries & Wages,270000.0,260969.34,Closed
+2026-04-01,2026,Q2,D08,Benefits,59400.0,60309.59,Closed
+2026-04-01,2026,Q2,D08,Contractors,64800.0,61983.7,Closed
+2026-04-01,2026,Q2,D08,Software & Subscriptions,151200.0,171136.88,Closed
+2026-04-01,2026,Q2,D08,Travel & Entertainment,10800.0,10841.45,Closed
+2026-04-01,2026,Q2,D08,Facilities,16200.0,17586.39,Closed
+2026-04-01,2026,Q2,D08,Training & Development,2400.0,2284.31,Closed
+2026-04-01,2026,Q2,D08,Hardware & Equipment,56700.0,59621.21,Closed
+2026-05-01,2026,Q2,D01,Salaries & Wages,972000.0,918471.78,Closed
+2026-05-01,2026,Q2,D01,Benefits,213800.0,216876.8,Closed
+2026-05-01,2026,Q2,D01,Contractors,10800.0,10844.74,Closed
+2026-05-01,2026,Q2,D01,Software & Subscriptions,48600.0,49356.48,Closed
+2026-05-01,2026,Q2,D01,Travel & Entertainment,118800.0,118160.98,Closed
+2026-05-01,2026,Q2,D01,Facilities,58300.0,61266.99,Closed
+2026-05-01,2026,Q2,D01,Training & Development,8700.0,8561.0,Closed
+2026-05-01,2026,Q2,D01,Hardware & Equipment,6500.0,6757.58,Closed
+2026-05-01,2026,Q2,D01,Marketing Programs,40500.0,39586.61,Closed
+2026-05-01,2026,Q2,D02,Salaries & Wages,378000.0,377202.87,Closed
+2026-05-01,2026,Q2,D02,Benefits,83200.0,80078.45,Closed
+2026-05-01,2026,Q2,D02,Contractors,43200.0,43888.0,Closed
+2026-05-01,2026,Q2,D02,Software & Subscriptions,59400.0,62404.42,Closed
+2026-05-01,2026,Q2,D02,Travel & Entertainment,27000.0,26926.9,Closed
+2026-05-01,2026,Q2,D02,Facilities,22700.0,22543.57,Closed
+2026-05-01,2026,Q2,D02,Training & Development,3400.0,3267.36,Closed
+2026-05-01,2026,Q2,D02,Hardware & Equipment,4900.0,4860.68,Closed
+2026-05-01,2026,Q2,D02,Marketing Programs,567000.0,439020.62,Closed
+2026-05-01,2026,Q2,D03,Salaries & Wages,486000.0,470471.95,Closed
+2026-05-01,2026,Q2,D03,Benefits,106900.0,107748.52,Closed
+2026-05-01,2026,Q2,D03,Contractors,13000.0,13600.15,Closed
+2026-05-01,2026,Q2,D03,Software & Subscriptions,32400.0,35585.65,Closed
+2026-05-01,2026,Q2,D03,Travel & Entertainment,37800.0,37023.95,Closed
+2026-05-01,2026,Q2,D03,Facilities,29200.0,30666.88,Closed
+2026-05-01,2026,Q2,D03,Training & Development,4400.0,4437.54,Closed
+2026-05-01,2026,Q2,D03,Hardware & Equipment,5700.0,5669.83,Closed
+2026-05-01,2026,Q2,D04,Salaries & Wages,1566000.0,1534070.63,Closed
+2026-05-01,2026,Q2,D04,Benefits,344500.0,345246.56,Closed
+2026-05-01,2026,Q2,D04,Contractors,194400.0,269308.56,Closed
+2026-05-01,2026,Q2,D04,Software & Subscriptions,129600.0,127747.8,Closed
+2026-05-01,2026,Q2,D04,Travel & Entertainment,16200.0,15407.27,Closed
+2026-05-01,2026,Q2,D04,Facilities,94000.0,88921.47,Closed
+2026-05-01,2026,Q2,D04,Training & Development,14100.0,14422.38,Closed
+2026-05-01,2026,Q2,D04,Hardware & Equipment,32400.0,32086.22,Closed
+2026-05-01,2026,Q2,D05,Salaries & Wages,324000.0,317240.35,Closed
+2026-05-01,2026,Q2,D05,Benefits,71300.0,71321.23,Closed
+2026-05-01,2026,Q2,D05,Contractors,21600.0,22200.97,Closed
+2026-05-01,2026,Q2,D05,Software & Subscriptions,19400.0,19522.47,Closed
+2026-05-01,2026,Q2,D05,Travel & Entertainment,13000.0,12701.5,Closed
+2026-05-01,2026,Q2,D05,Facilities,19400.0,20232.65,Closed
+2026-05-01,2026,Q2,D05,Training & Development,2900.0,3060.29,Closed
+2026-05-01,2026,Q2,D05,Hardware & Equipment,4000.0,4069.24,Closed
+2026-05-01,2026,Q2,D06,Salaries & Wages,237600.0,245696.99,Closed
+2026-05-01,2026,Q2,D06,Benefits,52300.0,54573.41,Closed
+2026-05-01,2026,Q2,D06,Contractors,16200.0,16840.77,Closed
+2026-05-01,2026,Q2,D06,Software & Subscriptions,17300.0,17671.84,Closed
+2026-05-01,2026,Q2,D06,Travel & Entertainment,8600.0,8780.1,Closed
+2026-05-01,2026,Q2,D06,Facilities,14300.0,14560.09,Closed
+2026-05-01,2026,Q2,D06,Training & Development,2100.0,2019.35,Closed
+2026-05-01,2026,Q2,D06,Hardware & Equipment,3200.0,3278.48,Closed
+2026-05-01,2026,Q2,D07,Salaries & Wages,194400.0,185175.04,Closed
+2026-05-01,2026,Q2,D07,Benefits,42800.0,41609.69,Closed
+2026-05-01,2026,Q2,D07,Contractors,10800.0,11292.75,Closed
+2026-05-01,2026,Q2,D07,Software & Subscriptions,15100.0,15544.06,Closed
+2026-05-01,2026,Q2,D07,Travel & Entertainment,9700.0,10204.97,Closed
+2026-05-01,2026,Q2,D07,Facilities,11700.0,11588.75,Closed
+2026-05-01,2026,Q2,D07,Training & Development,1700.0,1631.44,Closed
+2026-05-01,2026,Q2,D07,Hardware & Equipment,3200.0,3173.07,Closed
+2026-05-01,2026,Q2,D08,Salaries & Wages,270000.0,270964.2,Closed
+2026-05-01,2026,Q2,D08,Benefits,59400.0,59564.22,Closed
+2026-05-01,2026,Q2,D08,Contractors,64800.0,67371.19,Closed
+2026-05-01,2026,Q2,D08,Software & Subscriptions,151200.0,170188.5,Closed
+2026-05-01,2026,Q2,D08,Travel & Entertainment,10800.0,10933.07,Closed
+2026-05-01,2026,Q2,D08,Facilities,16200.0,15639.45,Closed
+2026-05-01,2026,Q2,D08,Training & Development,2400.0,2437.83,Closed
+2026-05-01,2026,Q2,D08,Hardware & Equipment,56700.0,56706.17,Closed
+2026-06-01,2026,Q2,D01,Salaries & Wages,972000.0,889701.87,Closed
+2026-06-01,2026,Q2,D01,Benefits,213800.0,212035.29,Closed
+2026-06-01,2026,Q2,D01,Contractors,10800.0,10730.38,Closed
+2026-06-01,2026,Q2,D01,Software & Subscriptions,48600.0,48140.47,Closed
+2026-06-01,2026,Q2,D01,Travel & Entertainment,118800.0,126165.24,Closed
+2026-06-01,2026,Q2,D01,Facilities,58300.0,58099.12,Closed
+2026-06-01,2026,Q2,D01,Training & Development,8700.0,8625.73,Closed
+2026-06-01,2026,Q2,D01,Hardware & Equipment,6500.0,6022.83,Closed
+2026-06-01,2026,Q2,D01,Marketing Programs,40500.0,39232.46,Closed
+2026-06-01,2026,Q2,D02,Salaries & Wages,378000.0,374519.54,Closed
+2026-06-01,2026,Q2,D02,Benefits,83200.0,81202.8,Closed
+2026-06-01,2026,Q2,D02,Contractors,43200.0,45289.14,Closed
+2026-06-01,2026,Q2,D02,Software & Subscriptions,59400.0,59057.09,Closed
+2026-06-01,2026,Q2,D02,Travel & Entertainment,27000.0,28217.58,Closed
+2026-06-01,2026,Q2,D02,Facilities,22700.0,22749.02,Closed
+2026-06-01,2026,Q2,D02,Training & Development,3400.0,3404.43,Closed
+2026-06-01,2026,Q2,D02,Hardware & Equipment,4900.0,4884.77,Closed
+2026-06-01,2026,Q2,D02,Marketing Programs,567000.0,465001.78,Closed
+2026-06-01,2026,Q2,D03,Salaries & Wages,486000.0,515236.7,Closed
+2026-06-01,2026,Q2,D03,Benefits,106900.0,98221.18,Closed
+2026-06-01,2026,Q2,D03,Contractors,13000.0,12089.3,Closed
+2026-06-01,2026,Q2,D03,Software & Subscriptions,32400.0,31784.04,Closed
+2026-06-01,2026,Q2,D03,Travel & Entertainment,37800.0,37819.22,Closed
+2026-06-01,2026,Q2,D03,Facilities,29200.0,29905.29,Closed
+2026-06-01,2026,Q2,D03,Training & Development,4400.0,4472.86,Closed
+2026-06-01,2026,Q2,D03,Hardware & Equipment,5700.0,5623.34,Closed
+2026-06-01,2026,Q2,D04,Salaries & Wages,1566000.0,1565088.9,Closed
+2026-06-01,2026,Q2,D04,Benefits,344500.0,356921.58,Closed
+2026-06-01,2026,Q2,D04,Contractors,194400.0,270000.21,Closed
+2026-06-01,2026,Q2,D04,Software & Subscriptions,129600.0,133966.61,Closed
+2026-06-01,2026,Q2,D04,Travel & Entertainment,16200.0,16354.59,Closed
+2026-06-01,2026,Q2,D04,Facilities,94000.0,92152.72,Closed
+2026-06-01,2026,Q2,D04,Training & Development,14100.0,14444.37,Closed
+2026-06-01,2026,Q2,D04,Hardware & Equipment,32400.0,32525.44,Closed
+2026-06-01,2026,Q2,D05,Salaries & Wages,324000.0,324015.19,Closed
+2026-06-01,2026,Q2,D05,Benefits,71300.0,74975.76,Closed
+2026-06-01,2026,Q2,D05,Contractors,21600.0,19747.14,Closed
+2026-06-01,2026,Q2,D05,Software & Subscriptions,19400.0,18437.39,Closed
+2026-06-01,2026,Q2,D05,Travel & Entertainment,13000.0,12459.88,Closed
+2026-06-01,2026,Q2,D05,Facilities,19400.0,19153.35,Closed
+2026-06-01,2026,Q2,D05,Training & Development,2900.0,2874.16,Closed
+2026-06-01,2026,Q2,D05,Hardware & Equipment,4000.0,3788.97,Closed
+2026-06-01,2026,Q2,D06,Salaries & Wages,237600.0,229407.43,Closed
+2026-06-01,2026,Q2,D06,Benefits,52300.0,50724.23,Closed
+2026-06-01,2026,Q2,D06,Contractors,16200.0,17593.36,Closed
+2026-06-01,2026,Q2,D06,Software & Subscriptions,17300.0,18390.95,Closed
+2026-06-01,2026,Q2,D06,Travel & Entertainment,8600.0,8476.06,Closed
+2026-06-01,2026,Q2,D06,Facilities,14300.0,14118.03,Closed
+2026-06-01,2026,Q2,D06,Training & Development,2100.0,2015.53,Closed
+2026-06-01,2026,Q2,D06,Hardware & Equipment,3200.0,2986.29,Closed
+2026-06-01,2026,Q2,D07,Salaries & Wages,194400.0,193604.75,Closed
+2026-06-01,2026,Q2,D07,Benefits,42800.0,41305.22,Closed
+2026-06-01,2026,Q2,D07,Contractors,10800.0,10767.93,Closed
+2026-06-01,2026,Q2,D07,Software & Subscriptions,15100.0,14254.29,Closed
+2026-06-01,2026,Q2,D07,Travel & Entertainment,9700.0,9441.31,Closed
+2026-06-01,2026,Q2,D07,Facilities,11700.0,11760.86,Closed
+2026-06-01,2026,Q2,D07,Training & Development,1700.0,1721.79,Closed
+2026-06-01,2026,Q2,D07,Hardware & Equipment,3200.0,3246.76,Closed
+2026-06-01,2026,Q2,D08,Salaries & Wages,270000.0,257521.38,Closed
+2026-06-01,2026,Q2,D08,Benefits,59400.0,61176.89,Closed
+2026-06-01,2026,Q2,D08,Contractors,64800.0,62985.12,Closed
+2026-06-01,2026,Q2,D08,Software & Subscriptions,151200.0,176185.96,Closed
+2026-06-01,2026,Q2,D08,Travel & Entertainment,10800.0,10795.98,Closed
+2026-06-01,2026,Q2,D08,Facilities,16200.0,15419.59,Closed
+2026-06-01,2026,Q2,D08,Training & Development,2400.0,2373.44,Closed
+2026-06-01,2026,Q2,D08,Hardware & Equipment,56700.0,57425.06,Closed
+2026-07-01,2026,Q3,D01,Salaries & Wages,972000.0,933281.9,Closed
+2026-07-01,2026,Q3,D01,Benefits,213800.0,212744.99,Closed
+2026-07-01,2026,Q3,D01,Contractors,10800.0,11379.01,Closed
+2026-07-01,2026,Q3,D01,Software & Subscriptions,48600.0,50313.78,Closed
+2026-07-01,2026,Q3,D01,Travel & Entertainment,118800.0,117732.83,Closed
+2026-07-01,2026,Q3,D01,Facilities,58300.0,59830.62,Closed
+2026-07-01,2026,Q3,D01,Training & Development,23300.0,24877.01,Closed
+2026-07-01,2026,Q3,D01,Hardware & Equipment,6500.0,6946.01,Closed
+2026-07-01,2026,Q3,D01,Marketing Programs,25900.0,24786.82,Closed
+2026-07-01,2026,Q3,D02,Salaries & Wages,378000.0,365741.97,Closed
+2026-07-01,2026,Q3,D02,Benefits,83200.0,87524.08,Closed
+2026-07-01,2026,Q3,D02,Contractors,43200.0,41599.88,Closed
+2026-07-01,2026,Q3,D02,Software & Subscriptions,59400.0,56650.44,Closed
+2026-07-01,2026,Q3,D02,Travel & Entertainment,27000.0,26540.55,Closed
+2026-07-01,2026,Q3,D02,Facilities,22700.0,23033.87,Closed
+2026-07-01,2026,Q3,D02,Training & Development,9100.0,9067.39,Closed
+2026-07-01,2026,Q3,D02,Hardware & Equipment,4900.0,4788.43,Closed
+2026-07-01,2026,Q3,D02,Marketing Programs,362900.0,386226.77,Closed
+2026-07-01,2026,Q3,D03,Salaries & Wages,486000.0,473883.15,Closed
+2026-07-01,2026,Q3,D03,Benefits,106900.0,103609.31,Closed
+2026-07-01,2026,Q3,D03,Contractors,13000.0,14038.14,Closed
+2026-07-01,2026,Q3,D03,Software & Subscriptions,32400.0,32737.38,Closed
+2026-07-01,2026,Q3,D03,Travel & Entertainment,37800.0,38973.18,Closed
+2026-07-01,2026,Q3,D03,Facilities,29200.0,28700.16,Closed
+2026-07-01,2026,Q3,D03,Training & Development,11700.0,11623.85,Closed
+2026-07-01,2026,Q3,D03,Hardware & Equipment,5700.0,5557.65,Closed
+2026-07-01,2026,Q3,D04,Salaries & Wages,1566000.0,1370936.77,Closed
+2026-07-01,2026,Q3,D04,Benefits,344500.0,327884.65,Closed
+2026-07-01,2026,Q3,D04,Contractors,194400.0,251271.16,Closed
+2026-07-01,2026,Q3,D04,Software & Subscriptions,129600.0,119394.98,Closed
+2026-07-01,2026,Q3,D04,Travel & Entertainment,16200.0,15522.23,Closed
+2026-07-01,2026,Q3,D04,Facilities,94000.0,98359.1,Closed
+2026-07-01,2026,Q3,D04,Training & Development,37600.0,37541.52,Closed
+2026-07-01,2026,Q3,D04,Hardware & Equipment,32400.0,33863.5,Closed
+2026-07-01,2026,Q3,D05,Salaries & Wages,324000.0,328660.54,Closed
+2026-07-01,2026,Q3,D05,Benefits,71300.0,73252.88,Closed
+2026-07-01,2026,Q3,D05,Contractors,21600.0,20918.92,Closed
+2026-07-01,2026,Q3,D05,Software & Subscriptions,19400.0,19755.76,Closed
+2026-07-01,2026,Q3,D05,Travel & Entertainment,13000.0,13331.56,Closed
+2026-07-01,2026,Q3,D05,Facilities,19400.0,19008.46,Closed
+2026-07-01,2026,Q3,D05,Training & Development,7800.0,7952.75,Closed
+2026-07-01,2026,Q3,D05,Hardware & Equipment,4000.0,4079.27,Closed
+2026-07-01,2026,Q3,D06,Salaries & Wages,237600.0,233029.92,Closed
+2026-07-01,2026,Q3,D06,Benefits,52300.0,50244.77,Closed
+2026-07-01,2026,Q3,D06,Contractors,16200.0,15528.6,Closed
+2026-07-01,2026,Q3,D06,Software & Subscriptions,17300.0,17352.38,Closed
+2026-07-01,2026,Q3,D06,Travel & Entertainment,8600.0,8698.43,Closed
+2026-07-01,2026,Q3,D06,Facilities,14300.0,13903.34,Closed
+2026-07-01,2026,Q3,D06,Training & Development,5700.0,5705.3,Closed
+2026-07-01,2026,Q3,D06,Hardware & Equipment,3200.0,3263.9,Closed
+2026-07-01,2026,Q3,D07,Salaries & Wages,194400.0,198606.17,Closed
+2026-07-01,2026,Q3,D07,Benefits,42800.0,45124.72,Closed
+2026-07-01,2026,Q3,D07,Contractors,10800.0,11282.7,Closed
+2026-07-01,2026,Q3,D07,Software & Subscriptions,15100.0,14570.82,Closed
+2026-07-01,2026,Q3,D07,Travel & Entertainment,9700.0,10271.58,Closed
+2026-07-01,2026,Q3,D07,Facilities,11700.0,11482.57,Closed
+2026-07-01,2026,Q3,D07,Training & Development,4700.0,4871.88,Closed
+2026-07-01,2026,Q3,D07,Hardware & Equipment,3200.0,3207.61,Closed
+2026-07-01,2026,Q3,D08,Salaries & Wages,270000.0,266105.19,Closed
+2026-07-01,2026,Q3,D08,Benefits,59400.0,55641.8,Closed
+2026-07-01,2026,Q3,D08,Contractors,64800.0,64410.89,Closed
+2026-07-01,2026,Q3,D08,Software & Subscriptions,151200.0,162960.43,Closed
+2026-07-01,2026,Q3,D08,Travel & Entertainment,10800.0,11165.64,Closed
+2026-07-01,2026,Q3,D08,Facilities,16200.0,17060.02,Closed
+2026-07-01,2026,Q3,D08,Training & Development,6500.0,6318.7,Closed
+2026-07-01,2026,Q3,D08,Hardware & Equipment,56700.0,57299.26,Closed
+2026-08-01,2026,Q3,D01,Salaries & Wages,972000.0,890482.85,Closed
+2026-08-01,2026,Q3,D01,Benefits,213800.0,209097.05,Closed
+2026-08-01,2026,Q3,D01,Contractors,10800.0,11092.76,Closed
+2026-08-01,2026,Q3,D01,Software & Subscriptions,48600.0,48534.45,Closed
+2026-08-01,2026,Q3,D01,Travel & Entertainment,83200.0,88265.86,Closed
+2026-08-01,2026,Q3,D01,Facilities,58300.0,57316.0,Closed
+2026-08-01,2026,Q3,D01,Training & Development,23300.0,24114.96,Closed
+2026-08-01,2026,Q3,D01,Hardware & Equipment,6500.0,6522.16,Closed
+2026-08-01,2026,Q3,D01,Marketing Programs,25900.0,26621.37,Closed
+2026-08-01,2026,Q3,D02,Salaries & Wages,378000.0,372084.1,Closed
+2026-08-01,2026,Q3,D02,Benefits,83200.0,83055.68,Closed
+2026-08-01,2026,Q3,D02,Contractors,43200.0,43025.37,Closed
+2026-08-01,2026,Q3,D02,Software & Subscriptions,59400.0,57661.84,Closed
+2026-08-01,2026,Q3,D02,Travel & Entertainment,18900.0,19337.97,Closed
+2026-08-01,2026,Q3,D02,Facilities,22700.0,23216.62,Closed
+2026-08-01,2026,Q3,D02,Training & Development,9100.0,9289.05,Closed
+2026-08-01,2026,Q3,D02,Hardware & Equipment,4900.0,5163.59,Closed
+2026-08-01,2026,Q3,D02,Marketing Programs,362900.0,415626.65,Closed
+2026-08-01,2026,Q3,D03,Salaries & Wages,486000.0,479622.19,Closed
+2026-08-01,2026,Q3,D03,Benefits,106900.0,108295.78,Closed
+2026-08-01,2026,Q3,D03,Contractors,13000.0,12716.26,Closed
+2026-08-01,2026,Q3,D03,Software & Subscriptions,32400.0,32426.48,Closed
+2026-08-01,2026,Q3,D03,Travel & Entertainment,26500.0,25943.73,Closed
+2026-08-01,2026,Q3,D03,Facilities,29200.0,30855.71,Closed
+2026-08-01,2026,Q3,D03,Training & Development,11700.0,11848.93,Closed
+2026-08-01,2026,Q3,D03,Hardware & Equipment,5700.0,5656.5,Closed
+2026-08-01,2026,Q3,D04,Salaries & Wages,1566000.0,1574322.46,Closed
+2026-08-01,2026,Q3,D04,Benefits,344500.0,318327.8,Closed
+2026-08-01,2026,Q3,D04,Contractors,194400.0,249360.54,Closed
+2026-08-01,2026,Q3,D04,Software & Subscriptions,129600.0,133209.92,Closed
+2026-08-01,2026,Q3,D04,Travel & Entertainment,11300.0,11323.92,Closed
+2026-08-01,2026,Q3,D04,Facilities,94000.0,94823.97,Closed
+2026-08-01,2026,Q3,D04,Training & Development,37600.0,35854.46,Closed
+2026-08-01,2026,Q3,D04,Hardware & Equipment,32400.0,32373.65,Closed
+2026-08-01,2026,Q3,D05,Salaries & Wages,324000.0,346719.8,Closed
+2026-08-01,2026,Q3,D05,Benefits,71300.0,73356.79,Closed
+2026-08-01,2026,Q3,D05,Contractors,21600.0,21728.3,Closed
+2026-08-01,2026,Q3,D05,Software & Subscriptions,19400.0,19101.88,Closed
+2026-08-01,2026,Q3,D05,Travel & Entertainment,9100.0,8974.33,Closed
+2026-08-01,2026,Q3,D05,Facilities,19400.0,17954.27,Closed
+2026-08-01,2026,Q3,D05,Training & Development,7800.0,7870.34,Closed
+2026-08-01,2026,Q3,D05,Hardware & Equipment,4000.0,4118.37,Closed
+2026-08-01,2026,Q3,D06,Salaries & Wages,237600.0,224497.15,Closed
+2026-08-01,2026,Q3,D06,Benefits,52300.0,51089.28,Closed
+2026-08-01,2026,Q3,D06,Contractors,16200.0,15543.72,Closed
+2026-08-01,2026,Q3,D06,Software & Subscriptions,17300.0,16715.48,Closed
+2026-08-01,2026,Q3,D06,Travel & Entertainment,6000.0,6011.23,Closed
+2026-08-01,2026,Q3,D06,Facilities,14300.0,13256.76,Closed
+2026-08-01,2026,Q3,D06,Training & Development,5700.0,5822.55,Closed
+2026-08-01,2026,Q3,D06,Hardware & Equipment,3200.0,3284.43,Closed
+2026-08-01,2026,Q3,D07,Salaries & Wages,194400.0,192691.5,Closed
+2026-08-01,2026,Q3,D07,Benefits,42800.0,39083.9,Closed
+2026-08-01,2026,Q3,D07,Contractors,10800.0,10423.35,Closed
+2026-08-01,2026,Q3,D07,Software & Subscriptions,15100.0,15751.59,Closed
+2026-08-01,2026,Q3,D07,Travel & Entertainment,6800.0,6138.84,Closed
+2026-08-01,2026,Q3,D07,Facilities,11700.0,11557.69,Closed
+2026-08-01,2026,Q3,D07,Training & Development,4700.0,4505.89,Closed
+2026-08-01,2026,Q3,D07,Hardware & Equipment,3200.0,3290.11,Closed
+2026-08-01,2026,Q3,D08,Salaries & Wages,270000.0,263620.17,Closed
+2026-08-01,2026,Q3,D08,Benefits,59400.0,60239.82,Closed
+2026-08-01,2026,Q3,D08,Contractors,64800.0,66082.46,Closed
+2026-08-01,2026,Q3,D08,Software & Subscriptions,151200.0,183445.73,Closed
+2026-08-01,2026,Q3,D08,Travel & Entertainment,7600.0,7546.02,Closed
+2026-08-01,2026,Q3,D08,Facilities,16200.0,16413.22,Closed
+2026-08-01,2026,Q3,D08,Training & Development,6500.0,6162.15,Closed
+2026-08-01,2026,Q3,D08,Hardware & Equipment,56700.0,59062.38,Closed
+2026-09-01,2026,Q3,D01,Salaries & Wages,972000.0,889359.84,Closed
+2026-09-01,2026,Q3,D01,Benefits,213800.0,209603.88,Closed
+2026-09-01,2026,Q3,D01,Contractors,10800.0,10791.59,Closed
+2026-09-01,2026,Q3,D01,Software & Subscriptions,48600.0,45941.53,Closed
+2026-09-01,2026,Q3,D01,Travel & Entertainment,118800.0,119751.23,Closed
+2026-09-01,2026,Q3,D01,Facilities,58300.0,60274.11,Closed
+2026-09-01,2026,Q3,D01,Training & Development,23300.0,23538.89,Closed
+2026-09-01,2026,Q3,D01,Hardware & Equipment,6500.0,6138.53,Closed
+2026-09-01,2026,Q3,D01,Marketing Programs,25900.0,25787.77,Closed
+2026-09-01,2026,Q3,D02,Salaries & Wages,378000.0,387817.04,Closed
+2026-09-01,2026,Q3,D02,Benefits,83200.0,77731.3,Closed
+2026-09-01,2026,Q3,D02,Contractors,43200.0,41574.95,Closed
+2026-09-01,2026,Q3,D02,Software & Subscriptions,59400.0,61222.33,Closed
+2026-09-01,2026,Q3,D02,Travel & Entertainment,27000.0,27255.24,Closed
+2026-09-01,2026,Q3,D02,Facilities,22700.0,23027.31,Closed
+2026-09-01,2026,Q3,D02,Training & Development,9100.0,9692.25,Closed
+2026-09-01,2026,Q3,D02,Hardware & Equipment,4900.0,4980.36,Closed
+2026-09-01,2026,Q3,D02,Marketing Programs,362900.0,404669.22,Closed
+2026-09-01,2026,Q3,D03,Salaries & Wages,486000.0,532109.78,Closed
+2026-09-01,2026,Q3,D03,Benefits,106900.0,106100.05,Closed
+2026-09-01,2026,Q3,D03,Contractors,13000.0,12636.96,Closed
+2026-09-01,2026,Q3,D03,Software & Subscriptions,32400.0,32885.12,Closed
+2026-09-01,2026,Q3,D03,Travel & Entertainment,37800.0,38380.79,Closed
+2026-09-01,2026,Q3,D03,Facilities,29200.0,28661.7,Closed
+2026-09-01,2026,Q3,D03,Training & Development,11700.0,11277.23,Closed
+2026-09-01,2026,Q3,D03,Hardware & Equipment,5700.0,6160.81,Closed
+2026-09-01,2026,Q3,D04,Salaries & Wages,1566000.0,1528477.29,Closed
+2026-09-01,2026,Q3,D04,Benefits,344500.0,335670.47,Closed
+2026-09-01,2026,Q3,D04,Contractors,194400.0,276872.15,Closed
+2026-09-01,2026,Q3,D04,Software & Subscriptions,129600.0,129104.92,Closed
+2026-09-01,2026,Q3,D04,Travel & Entertainment,16200.0,16056.62,Closed
+2026-09-01,2026,Q3,D04,Facilities,94000.0,95849.88,Closed
+2026-09-01,2026,Q3,D04,Training & Development,37600.0,35899.88,Closed
+2026-09-01,2026,Q3,D04,Hardware & Equipment,32400.0,32799.88,Closed
+2026-09-01,2026,Q3,D05,Salaries & Wages,324000.0,345692.91,Closed
+2026-09-01,2026,Q3,D05,Benefits,71300.0,72463.35,Closed
+2026-09-01,2026,Q3,D05,Contractors,21600.0,21315.58,Closed
+2026-09-01,2026,Q3,D05,Software & Subscriptions,19400.0,19055.68,Closed
+2026-09-01,2026,Q3,D05,Travel & Entertainment,13000.0,12813.3,Closed
+2026-09-01,2026,Q3,D05,Facilities,19400.0,19227.56,Closed
+2026-09-01,2026,Q3,D05,Training & Development,7800.0,7696.86,Closed
+2026-09-01,2026,Q3,D05,Hardware & Equipment,4000.0,4128.28,Closed
+2026-09-01,2026,Q3,D06,Salaries & Wages,237600.0,223186.63,Closed
+2026-09-01,2026,Q3,D06,Benefits,52300.0,53877.89,Closed
+2026-09-01,2026,Q3,D06,Contractors,16200.0,15984.72,Closed
+2026-09-01,2026,Q3,D06,Software & Subscriptions,17300.0,17528.24,Closed
+2026-09-01,2026,Q3,D06,Travel & Entertainment,8600.0,8260.78,Closed
+2026-09-01,2026,Q3,D06,Facilities,14300.0,14964.98,Closed
+2026-09-01,2026,Q3,D06,Training & Development,5700.0,5948.5,Closed
+2026-09-01,2026,Q3,D06,Hardware & Equipment,3200.0,3307.47,Closed
+2026-09-01,2026,Q3,D07,Salaries & Wages,194400.0,184093.61,Closed
+2026-09-01,2026,Q3,D07,Benefits,42800.0,44042.02,Closed
+2026-09-01,2026,Q3,D07,Contractors,10800.0,10953.04,Closed
+2026-09-01,2026,Q3,D07,Software & Subscriptions,15100.0,14251.61,Closed
+2026-09-01,2026,Q3,D07,Travel & Entertainment,9700.0,9691.75,Closed
+2026-09-01,2026,Q3,D07,Facilities,11700.0,11849.28,Closed
+2026-09-01,2026,Q3,D07,Training & Development,4700.0,4791.47,Closed
+2026-09-01,2026,Q3,D07,Hardware & Equipment,3200.0,3219.85,Closed
+2026-09-01,2026,Q3,D08,Salaries & Wages,270000.0,272752.14,Closed
+2026-09-01,2026,Q3,D08,Benefits,59400.0,62463.64,Closed
+2026-09-01,2026,Q3,D08,Contractors,64800.0,67580.64,Closed
+2026-09-01,2026,Q3,D08,Software & Subscriptions,151200.0,155071.4,Closed
+2026-09-01,2026,Q3,D08,Travel & Entertainment,10800.0,10680.01,Closed
+2026-09-01,2026,Q3,D08,Facilities,16200.0,16106.64,Closed
+2026-09-01,2026,Q3,D08,Training & Development,6500.0,6101.4,Closed
+2026-09-01,2026,Q3,D08,Hardware & Equipment,56700.0,56886.91,Closed
+2026-10-01,2026,Q4,D01,Salaries & Wages,972000.0,,Open
+2026-10-01,2026,Q4,D01,Benefits,213800.0,,Open
+2026-10-01,2026,Q4,D01,Contractors,10800.0,,Open
+2026-10-01,2026,Q4,D01,Software & Subscriptions,48600.0,,Open
+2026-10-01,2026,Q4,D01,Travel & Entertainment,118800.0,,Open
+2026-10-01,2026,Q4,D01,Facilities,58300.0,,Open
+2026-10-01,2026,Q4,D01,Training & Development,8700.0,,Open
+2026-10-01,2026,Q4,D01,Hardware & Equipment,6500.0,,Open
+2026-10-01,2026,Q4,D01,Marketing Programs,40500.0,,Open
+2026-10-01,2026,Q4,D02,Salaries & Wages,378000.0,,Open
+2026-10-01,2026,Q4,D02,Benefits,83200.0,,Open
+2026-10-01,2026,Q4,D02,Contractors,43200.0,,Open
+2026-10-01,2026,Q4,D02,Software & Subscriptions,59400.0,,Open
+2026-10-01,2026,Q4,D02,Travel & Entertainment,27000.0,,Open
+2026-10-01,2026,Q4,D02,Facilities,22700.0,,Open
+2026-10-01,2026,Q4,D02,Training & Development,3400.0,,Open
+2026-10-01,2026,Q4,D02,Hardware & Equipment,4900.0,,Open
+2026-10-01,2026,Q4,D02,Marketing Programs,567000.0,,Open
+2026-10-01,2026,Q4,D03,Salaries & Wages,486000.0,,Open
+2026-10-01,2026,Q4,D03,Benefits,106900.0,,Open
+2026-10-01,2026,Q4,D03,Contractors,13000.0,,Open
+2026-10-01,2026,Q4,D03,Software & Subscriptions,32400.0,,Open
+2026-10-01,2026,Q4,D03,Travel & Entertainment,37800.0,,Open
+2026-10-01,2026,Q4,D03,Facilities,29200.0,,Open
+2026-10-01,2026,Q4,D03,Training & Development,4400.0,,Open
+2026-10-01,2026,Q4,D03,Hardware & Equipment,5700.0,,Open
+2026-10-01,2026,Q4,D04,Salaries & Wages,1566000.0,,Open
+2026-10-01,2026,Q4,D04,Benefits,344500.0,,Open
+2026-10-01,2026,Q4,D04,Contractors,194400.0,,Open
+2026-10-01,2026,Q4,D04,Software & Subscriptions,129600.0,,Open
+2026-10-01,2026,Q4,D04,Travel & Entertainment,16200.0,,Open
+2026-10-01,2026,Q4,D04,Facilities,94000.0,,Open
+2026-10-01,2026,Q4,D04,Training & Development,14100.0,,Open
+2026-10-01,2026,Q4,D04,Hardware & Equipment,32400.0,,Open
+2026-10-01,2026,Q4,D05,Salaries & Wages,324000.0,,Open
+2026-10-01,2026,Q4,D05,Benefits,71300.0,,Open
+2026-10-01,2026,Q4,D05,Contractors,21600.0,,Open
+2026-10-01,2026,Q4,D05,Software & Subscriptions,19400.0,,Open
+2026-10-01,2026,Q4,D05,Travel & Entertainment,13000.0,,Open
+2026-10-01,2026,Q4,D05,Facilities,19400.0,,Open
+2026-10-01,2026,Q4,D05,Training & Development,2900.0,,Open
+2026-10-01,2026,Q4,D05,Hardware & Equipment,4000.0,,Open
+2026-10-01,2026,Q4,D06,Salaries & Wages,237600.0,,Open
+2026-10-01,2026,Q4,D06,Benefits,52300.0,,Open
+2026-10-01,2026,Q4,D06,Contractors,16200.0,,Open
+2026-10-01,2026,Q4,D06,Software & Subscriptions,17300.0,,Open
+2026-10-01,2026,Q4,D06,Travel & Entertainment,8600.0,,Open
+2026-10-01,2026,Q4,D06,Facilities,14300.0,,Open
+2026-10-01,2026,Q4,D06,Training & Development,2100.0,,Open
+2026-10-01,2026,Q4,D06,Hardware & Equipment,3200.0,,Open
+2026-10-01,2026,Q4,D07,Salaries & Wages,194400.0,,Open
+2026-10-01,2026,Q4,D07,Benefits,42800.0,,Open
+2026-10-01,2026,Q4,D07,Contractors,10800.0,,Open
+2026-10-01,2026,Q4,D07,Software & Subscriptions,15100.0,,Open
+2026-10-01,2026,Q4,D07,Travel & Entertainment,9700.0,,Open
+2026-10-01,2026,Q4,D07,Facilities,11700.0,,Open
+2026-10-01,2026,Q4,D07,Training & Development,1700.0,,Open
+2026-10-01,2026,Q4,D07,Hardware & Equipment,3200.0,,Open
+2026-10-01,2026,Q4,D08,Salaries & Wages,270000.0,,Open
+2026-10-01,2026,Q4,D08,Benefits,59400.0,,Open
+2026-10-01,2026,Q4,D08,Contractors,64800.0,,Open
+2026-10-01,2026,Q4,D08,Software & Subscriptions,151200.0,,Open
+2026-10-01,2026,Q4,D08,Travel & Entertainment,10800.0,,Open
+2026-10-01,2026,Q4,D08,Facilities,16200.0,,Open
+2026-10-01,2026,Q4,D08,Training & Development,2400.0,,Open
+2026-10-01,2026,Q4,D08,Hardware & Equipment,56700.0,,Open
+2026-11-01,2026,Q4,D01,Salaries & Wages,972000.0,,Open
+2026-11-01,2026,Q4,D01,Benefits,213800.0,,Open
+2026-11-01,2026,Q4,D01,Contractors,10800.0,,Open
+2026-11-01,2026,Q4,D01,Software & Subscriptions,48600.0,,Open
+2026-11-01,2026,Q4,D01,Travel & Entertainment,118800.0,,Open
+2026-11-01,2026,Q4,D01,Facilities,58300.0,,Open
+2026-11-01,2026,Q4,D01,Training & Development,8700.0,,Open
+2026-11-01,2026,Q4,D01,Hardware & Equipment,6500.0,,Open
+2026-11-01,2026,Q4,D01,Marketing Programs,40500.0,,Open
+2026-11-01,2026,Q4,D02,Salaries & Wages,378000.0,,Open
+2026-11-01,2026,Q4,D02,Benefits,83200.0,,Open
+2026-11-01,2026,Q4,D02,Contractors,43200.0,,Open
+2026-11-01,2026,Q4,D02,Software & Subscriptions,59400.0,,Open
+2026-11-01,2026,Q4,D02,Travel & Entertainment,27000.0,,Open
+2026-11-01,2026,Q4,D02,Facilities,22700.0,,Open
+2026-11-01,2026,Q4,D02,Training & Development,3400.0,,Open
+2026-11-01,2026,Q4,D02,Hardware & Equipment,4900.0,,Open
+2026-11-01,2026,Q4,D02,Marketing Programs,567000.0,,Open
+2026-11-01,2026,Q4,D03,Salaries & Wages,486000.0,,Open
+2026-11-01,2026,Q4,D03,Benefits,106900.0,,Open
+2026-11-01,2026,Q4,D03,Contractors,13000.0,,Open
+2026-11-01,2026,Q4,D03,Software & Subscriptions,32400.0,,Open
+2026-11-01,2026,Q4,D03,Travel & Entertainment,37800.0,,Open
+2026-11-01,2026,Q4,D03,Facilities,29200.0,,Open
+2026-11-01,2026,Q4,D03,Training & Development,4400.0,,Open
+2026-11-01,2026,Q4,D03,Hardware & Equipment,5700.0,,Open
+2026-11-01,2026,Q4,D04,Salaries & Wages,1566000.0,,Open
+2026-11-01,2026,Q4,D04,Benefits,344500.0,,Open
+2026-11-01,2026,Q4,D04,Contractors,194400.0,,Open
+2026-11-01,2026,Q4,D04,Software & Subscriptions,129600.0,,Open
+2026-11-01,2026,Q4,D04,Travel & Entertainment,16200.0,,Open
+2026-11-01,2026,Q4,D04,Facilities,94000.0,,Open
+2026-11-01,2026,Q4,D04,Training & Development,14100.0,,Open
+2026-11-01,2026,Q4,D04,Hardware & Equipment,32400.0,,Open
+2026-11-01,2026,Q4,D05,Salaries & Wages,324000.0,,Open
+2026-11-01,2026,Q4,D05,Benefits,71300.0,,Open
+2026-11-01,2026,Q4,D05,Contractors,21600.0,,Open
+2026-11-01,2026,Q4,D05,Software & Subscriptions,19400.0,,Open
+2026-11-01,2026,Q4,D05,Travel & Entertainment,13000.0,,Open
+2026-11-01,2026,Q4,D05,Facilities,19400.0,,Open
+2026-11-01,2026,Q4,D05,Training & Development,2900.0,,Open
+2026-11-01,2026,Q4,D05,Hardware & Equipment,4000.0,,Open
+2026-11-01,2026,Q4,D06,Salaries & Wages,237600.0,,Open
+2026-11-01,2026,Q4,D06,Benefits,52300.0,,Open
+2026-11-01,2026,Q4,D06,Contractors,16200.0,,Open
+2026-11-01,2026,Q4,D06,Software & Subscriptions,17300.0,,Open
+2026-11-01,2026,Q4,D06,Travel & Entertainment,8600.0,,Open
+2026-11-01,2026,Q4,D06,Facilities,14300.0,,Open
+2026-11-01,2026,Q4,D06,Training & Development,2100.0,,Open
+2026-11-01,2026,Q4,D06,Hardware & Equipment,3200.0,,Open
+2026-11-01,2026,Q4,D07,Salaries & Wages,194400.0,,Open
+2026-11-01,2026,Q4,D07,Benefits,42800.0,,Open
+2026-11-01,2026,Q4,D07,Contractors,10800.0,,Open
+2026-11-01,2026,Q4,D07,Software & Subscriptions,15100.0,,Open
+2026-11-01,2026,Q4,D07,Travel & Entertainment,9700.0,,Open
+2026-11-01,2026,Q4,D07,Facilities,11700.0,,Open
+2026-11-01,2026,Q4,D07,Training & Development,1700.0,,Open
+2026-11-01,2026,Q4,D07,Hardware & Equipment,3200.0,,Open
+2026-11-01,2026,Q4,D08,Salaries & Wages,270000.0,,Open
+2026-11-01,2026,Q4,D08,Benefits,59400.0,,Open
+2026-11-01,2026,Q4,D08,Contractors,64800.0,,Open
+2026-11-01,2026,Q4,D08,Software & Subscriptions,151200.0,,Open
+2026-11-01,2026,Q4,D08,Travel & Entertainment,10800.0,,Open
+2026-11-01,2026,Q4,D08,Facilities,16200.0,,Open
+2026-11-01,2026,Q4,D08,Training & Development,2400.0,,Open
+2026-11-01,2026,Q4,D08,Hardware & Equipment,56700.0,,Open
+2026-12-01,2026,Q4,D01,Salaries & Wages,972000.0,,Open
+2026-12-01,2026,Q4,D01,Benefits,213800.0,,Open
+2026-12-01,2026,Q4,D01,Contractors,10800.0,,Open
+2026-12-01,2026,Q4,D01,Software & Subscriptions,48600.0,,Open
+2026-12-01,2026,Q4,D01,Travel & Entertainment,118800.0,,Open
+2026-12-01,2026,Q4,D01,Facilities,58300.0,,Open
+2026-12-01,2026,Q4,D01,Training & Development,8700.0,,Open
+2026-12-01,2026,Q4,D01,Hardware & Equipment,6500.0,,Open
+2026-12-01,2026,Q4,D01,Marketing Programs,40500.0,,Open
+2026-12-01,2026,Q4,D02,Salaries & Wages,378000.0,,Open
+2026-12-01,2026,Q4,D02,Benefits,83200.0,,Open
+2026-12-01,2026,Q4,D02,Contractors,43200.0,,Open
+2026-12-01,2026,Q4,D02,Software & Subscriptions,59400.0,,Open
+2026-12-01,2026,Q4,D02,Travel & Entertainment,27000.0,,Open
+2026-12-01,2026,Q4,D02,Facilities,22700.0,,Open
+2026-12-01,2026,Q4,D02,Training & Development,3400.0,,Open
+2026-12-01,2026,Q4,D02,Hardware & Equipment,4900.0,,Open
+2026-12-01,2026,Q4,D02,Marketing Programs,567000.0,,Open
+2026-12-01,2026,Q4,D03,Salaries & Wages,486000.0,,Open
+2026-12-01,2026,Q4,D03,Benefits,106900.0,,Open
+2026-12-01,2026,Q4,D03,Contractors,13000.0,,Open
+2026-12-01,2026,Q4,D03,Software & Subscriptions,32400.0,,Open
+2026-12-01,2026,Q4,D03,Travel & Entertainment,37800.0,,Open
+2026-12-01,2026,Q4,D03,Facilities,29200.0,,Open
+2026-12-01,2026,Q4,D03,Training & Development,4400.0,,Open
+2026-12-01,2026,Q4,D03,Hardware & Equipment,5700.0,,Open
+2026-12-01,2026,Q4,D04,Salaries & Wages,1566000.0,,Open
+2026-12-01,2026,Q4,D04,Benefits,344500.0,,Open
+2026-12-01,2026,Q4,D04,Contractors,194400.0,,Open
+2026-12-01,2026,Q4,D04,Software & Subscriptions,129600.0,,Open
+2026-12-01,2026,Q4,D04,Travel & Entertainment,16200.0,,Open
+2026-12-01,2026,Q4,D04,Facilities,94000.0,,Open
+2026-12-01,2026,Q4,D04,Training & Development,14100.0,,Open
+2026-12-01,2026,Q4,D04,Hardware & Equipment,32400.0,,Open
+2026-12-01,2026,Q4,D05,Salaries & Wages,324000.0,,Open
+2026-12-01,2026,Q4,D05,Benefits,71300.0,,Open
+2026-12-01,2026,Q4,D05,Contractors,21600.0,,Open
+2026-12-01,2026,Q4,D05,Software & Subscriptions,19400.0,,Open
+2026-12-01,2026,Q4,D05,Travel & Entertainment,13000.0,,Open
+2026-12-01,2026,Q4,D05,Facilities,19400.0,,Open
+2026-12-01,2026,Q4,D05,Training & Development,2900.0,,Open
+2026-12-01,2026,Q4,D05,Hardware & Equipment,4000.0,,Open
+2026-12-01,2026,Q4,D06,Salaries & Wages,237600.0,,Open
+2026-12-01,2026,Q4,D06,Benefits,52300.0,,Open
+2026-12-01,2026,Q4,D06,Contractors,16200.0,,Open
+2026-12-01,2026,Q4,D06,Software & Subscriptions,17300.0,,Open
+2026-12-01,2026,Q4,D06,Travel & Entertainment,8600.0,,Open
+2026-12-01,2026,Q4,D06,Facilities,14300.0,,Open
+2026-12-01,2026,Q4,D06,Training & Development,2100.0,,Open
+2026-12-01,2026,Q4,D06,Hardware & Equipment,3200.0,,Open
+2026-12-01,2026,Q4,D07,Salaries & Wages,194400.0,,Open
+2026-12-01,2026,Q4,D07,Benefits,42800.0,,Open
+2026-12-01,2026,Q4,D07,Contractors,10800.0,,Open
+2026-12-01,2026,Q4,D07,Software & Subscriptions,15100.0,,Open
+2026-12-01,2026,Q4,D07,Travel & Entertainment,9700.0,,Open
+2026-12-01,2026,Q4,D07,Facilities,11700.0,,Open
+2026-12-01,2026,Q4,D07,Training & Development,1700.0,,Open
+2026-12-01,2026,Q4,D07,Hardware & Equipment,3200.0,,Open
+2026-12-01,2026,Q4,D08,Salaries & Wages,270000.0,,Open
+2026-12-01,2026,Q4,D08,Benefits,59400.0,,Open
+2026-12-01,2026,Q4,D08,Contractors,64800.0,,Open
+2026-12-01,2026,Q4,D08,Software & Subscriptions,151200.0,,Open
+2026-12-01,2026,Q4,D08,Travel & Entertainment,10800.0,,Open
+2026-12-01,2026,Q4,D08,Facilities,16200.0,,Open
+2026-12-01,2026,Q4,D08,Training & Development,2400.0,,Open
+2026-12-01,2026,Q4,D08,Hardware & Equipment,56700.0,,Open

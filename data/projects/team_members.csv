@@ -1,0 +1,40 @@
+member_id,full_name,role,home_department,hourly_rate_usd,weekly_capacity_hours
+TM01,Dina Andersen,Project Manager,IT & Operations,91.0,32
+TM02,Omar Wilson,Project Manager,IT & Operations,90.0,40
+TM03,Alejandro Saleh,Project Manager,IT & Operations,103.0,40
+TM04,Luis Petrov,Project Manager,IT & Operations,106.0,40
+TM05,Naomi Olsen,Project Manager,IT & Operations,104.0,40
+TM06,Alejandro Yamamoto,Project Manager,IT & Operations,102.0,32
+TM07,Laila Usman,Project Manager,IT & Operations,89.0,32
+TM08,Ivan Walsh,Project Manager,IT & Operations,106.0,40
+TM09,Mia Olsen,Business Analyst,IT & Operations,75.0,40
+TM10,Hamza Yamamoto,Business Analyst,IT & Operations,87.0,40
+TM11,Olga Ghosh,Business Analyst,IT & Operations,81.0,32
+TM12,Adebayo Vargas,Business Analyst,IT & Operations,75.0,40
+TM13,Carlos Kowalczyk,Business Analyst,IT & Operations,78.0,40
+TM14,Aarav Kim,Business Analyst,IT & Operations,86.0,40
+TM15,Aisha Schmidt,Solution Architect,IT & Operations,115.0,40
+TM16,Emma Torres,Solution Architect,IT & Operations,118.0,40
+TM17,Noah Suzuki,Solution Architect,IT & Operations,123.0,40
+TM18,Adebayo Fischer,Solution Architect,IT & Operations,114.0,40
+TM19,Grace Martin,Developer,IT & Operations,84.0,40
+TM20,Mohammed Saleh,Developer,IT & Operations,85.0,32
+TM21,Daniel Das,Developer,IT & Operations,90.0,40
+TM22,Elena Mehta,Developer,IT & Operations,94.0,40
+TM23,Lina Kowalczyk,Developer,IT & Operations,89.0,40
+TM24,Yara Fischer,Developer,IT & Operations,95.0,40
+TM25,Felix Lee,Developer,IT & Operations,93.0,32
+TM26,Omar Olsen,Developer,IT & Operations,91.0,40
+TM27,Valentina Ibrahim,Developer,IT & Operations,89.0,40
+TM28,Chen Vargas,Data Engineer,IT & Operations,103.0,40
+TM29,Jack Kumar,Data Engineer,IT & Operations,95.0,40
+TM30,Jana Singh,Data Engineer,IT & Operations,96.0,40
+TM31,Aaliyah Hughes,Data Engineer,IT & Operations,112.0,40
+TM32,Sami Murphy,QA Engineer,IT & Operations,71.0,40
+TM33,Tom Banerjee,QA Engineer,IT & Operations,75.0,40
+TM34,Ravi Rossi,QA Engineer,IT & Operations,70.0,40
+TM35,Oscar Vargas,QA Engineer,IT & Operations,66.0,32
+TM36,Mei Adeyemi,UX Designer,IT & Operations,92.0,32
+TM37,Ibrahim Martin,UX Designer,IT & Operations,81.0,40
+TM38,Ethan Tanaka,Change Manager,People & HR,93.0,40
+TM39,Yara Varga,Change Manager,People & HR,98.0,40

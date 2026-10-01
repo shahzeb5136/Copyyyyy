@@ -1,0 +1,580 @@
+employee_id,first_name,last_name,department_id,job_title,job_level,is_people_manager,employment_type,work_location,hire_date,termination_date,termination_type,termination_reason,employment_status,base_salary_usd,performance_rating,last_promotion_date,manager_id
+E1001,Imani,Reyes,D01,"VP, Sales",L7,True,Full-time,New York,2019-05-26,,,,Active,309800.0,3,,
+E1002,Aisha,Ibrahim,D01,"Director, Sales",L6,True,Full-time,Dubai,2021-02-20,,,,Active,195700.0,4,,E1001
+E1003,Eli,Murphy,D01,"Manager, Sales",L5,True,Full-time,London,2025-02-01,,,,Active,167000.0,4,,E1001
+E1004,Ava,Khan,D01,"Manager, Sales",L5,True,Full-time,Dubai,2026-08-12,,,,Active,160200.0,,,E1002
+E1005,Naomi,Mehta,D01,"Manager, Sales",L5,True,Full-time,Dubai,2022-01-22,2023-08-03,Involuntary,Restructuring,Terminated,155800.0,3,,E1002
+E1006,Ravi,Zhang,D01,"Manager, Sales",L5,True,Full-time,Dubai,2021-04-01,,,,Active,158700.0,4,2024-10-31,E1002
+E1007,Noah,Bakr,D01,"Manager, Sales",L5,True,Full-time,Singapore,2026-04-03,,,,Active,158700.0,,,E1001
+E1008,Chloe,Johnson,D01,"Manager, Sales",L5,True,Full-time,New York,2025-12-28,,,,Active,165400.0,3,,E1001
+E1009,Laila,Singh,D01,"Manager, Sales",L5,True,Full-time,Singapore,2020-10-05,2022-04-21,Voluntary,Compensation,Terminated,152200.0,4,2022-02-28,E1002
+E1010,Jana,Brooks,D01,"Manager, Sales",L5,True,Full-time,New York,2023-07-29,2025-04-11,Voluntary,Compensation,Terminated,167700.0,4,,E1001
+E1011,Emma,Saleh,D01,Account Executive,L2,False,Full-time,Singapore,2022-06-21,2025-05-25,Voluntary,Better opportunity,Terminated,74400.0,3,,E1008
+E1012,Bianca,Costa,D01,Associate Account Executive,L1,False,Full-time,London,2026-07-02,,,,Active,58900.0,,,E1008
+E1013,Aarav,Larsen,D01,Senior Account Executive,L3,False,Full-time,Remote,2018-12-10,2022-02-27,Involuntary,Restructuring,Terminated,92400.0,4,2020-09-20,E1005
+E1014,Yara,Eriksen,D01,Lead Account Executive,L4,False,Full-time,Remote,2024-03-03,,,,Active,102200.0,3,,E1003
+E1015,Rosa,Silva,D01,Senior Account Executive,L3,False,Full-time,London,2018-06-03,2023-03-01,Voluntary,Career change,Terminated,95600.0,2,2021-05-10,E1010
+E1016,James,Fischer,D01,Account Executive,L2,False,Full-time,Dubai,2018-11-22,2023-08-27,Voluntary,Compensation,Terminated,78200.0,3,2022-07-20,E1009
+E1017,Zoe,Ahmed,D01,Associate Account Executive,L1,False,Full-time,Singapore,2025-07-14,2025-12-12,Voluntary,Compensation,Terminated,50800.0,3,,E1010
+E1018,Rosa,Martin,D01,Lead Account Executive,L4,False,Part-time,Dubai,2025-07-13,,,,Active,72800.0,4,,E1005
+E1019,Alex,Banerjee,D01,Lead Account Executive,L4,False,Part-time,New York,2024-09-11,2024-12-27,Involuntary,Performance,Terminated,90700.0,2,,E1005
+E1020,Amelia,Fischer,D01,Account Executive,L2,False,Full-time,Remote,2021-04-20,2025-09-14,Voluntary,Compensation,Terminated,66700.0,2,2024-12-23,E1005
+E1021,Nikhil,Moreau,D01,Senior Account Executive,L3,False,Full-time,Dubai,2024-02-07,,,,Active,97000.0,5,2025-12-26,E1003
+E1022,Mariam,Santos,D01,Account Executive,L2,False,Contractor,New York,2019-11-01,2023-08-07,Voluntary,Relocation,Terminated,92200.0,5,,E1004
+E1023,Noah,Adeyemi,D01,Account Executive,L2,False,Full-time,New York,2019-10-08,2023-11-11,Voluntary,Better opportunity,Terminated,74600.0,4,,E1005
+E1024,Ivan,Petrov,D01,Associate Account Executive,L1,False,Full-time,Dubai,2018-01-17,2020-06-11,Involuntary,Performance,Terminated,52400.0,2,,E1010
+E1025,Zara,Mehta,D01,Associate Account Executive,L1,False,Full-time,New York,2026-09-22,,,,Active,58400.0,,,E1004
+E1026,Yara,Patel,D01,Account Executive,L2,False,Full-time,London,2023-09-26,,,,Active,79000.0,3,2025-12-18,E1007
+E1027,Lina,Bakr,D01,Senior Account Executive,L3,False,Full-time,London,2025-01-17,2025-10-30,Voluntary,Better opportunity,Terminated,110900.0,3,2026-01-17,E1007
+E1028,James,Perez,D01,Associate Account Executive,L1,False,Full-time,Singapore,2023-10-07,,,,Active,52700.0,3,,E1005
+E1029,Rosa,Khan,D01,Account Executive,L2,False,Full-time,London,2025-01-03,2025-12-08,Voluntary,Better opportunity,Terminated,78900.0,3,,E1010
+E1030,Freya,Mensah,D01,Account Executive,L2,False,Full-time,London,2018-10-01,2023-10-24,Voluntary,Compensation,Terminated,70000.0,1,2020-07-15,E1003
+E1031,Wei,Dubois,D01,Account Executive,L2,False,Full-time,Dubai,2024-02-04,2025-07-10,Voluntary,Better opportunity,Terminated,65300.0,5,,E1009
+E1032,Maria,Kowalczyk,D01,Associate Account Executive,L1,False,Full-time,Remote,2024-02-23,2026-06-08,Voluntary,Compensation,Terminated,51200.0,2,,E1008
+E1033,Ibrahim,Wang,D01,Senior Account Executive,L3,False,Full-time,Dubai,2026-09-11,,,,Active,102300.0,,,E1005
+E1034,Sara,Ahmed,D01,Account Executive,L2,False,Full-time,London,2025-11-14,2026-03-18,Voluntary,Career change,Terminated,80800.0,4,,E1009
+E1035,Aaliyah,Fernandes,D01,Senior Account Executive,L3,False,Full-time,Dubai,2026-05-31,,,,Active,90900.0,,,E1006
+E1036,Sebastian,Saleh,D01,Lead Account Executive,L4,False,Full-time,New York,2022-09-06,2025-09-01,Voluntary,Compensation,Terminated,148200.0,2,2024-04-26,E1010
+E1037,Karim,Singh,D01,Associate Account Executive,L1,False,Full-time,Dubai,2018-02-26,2026-08-20,Voluntary,Better opportunity,Terminated,49400.0,5,,E1003
+E1038,Ava,Dubois,D01,Lead Account Executive,L4,False,Full-time,Singapore,2026-09-10,,,,Active,123500.0,,,E1003
+E1039,Tariq,Becker,D01,Lead Account Executive,L4,False,Part-time,Dubai,2018-05-03,,,,Active,71400.0,3,2026-03-16,E1007
+E1040,Mei,Weber,D01,Senior Account Executive,L3,False,Full-time,Dubai,2022-07-17,2023-07-30,Voluntary,Work-life balance,Terminated,101900.0,4,,E1010
+E1041,Nora,Becker,D01,Senior Account Executive,L3,False,Full-time,New York,2025-07-04,,,,Active,96400.0,3,,E1003
+E1042,Arjun,Hansen,D01,Senior Account Executive,L3,False,Full-time,Dubai,2019-09-29,2021-08-14,Involuntary,Restructuring,Terminated,97300.0,3,,E1009
+E1043,Mei,Olsen,D01,Senior Account Executive,L3,False,Contractor,Dubai,2023-10-28,,,,Active,102800.0,3,,E1010
+E1044,Olga,Lopez,D01,Senior Account Executive,L3,False,Full-time,Singapore,2019-08-05,2025-01-27,Voluntary,Work-life balance,Terminated,107600.0,4,2024-01-03,E1006
+E1045,Wei,Nguyen,D01,Associate Account Executive,L1,False,Full-time,Dubai,2025-10-08,,,,Active,51100.0,3,,E1009
+E1046,Hana,Jensen,D01,Lead Account Executive,L4,False,Full-time,Dubai,2022-06-22,2025-04-19,Involuntary,Performance,Terminated,138500.0,1,,E1009
+E1047,Maria,Farouk,D01,Senior Account Executive,L3,False,Full-time,Dubai,2025-09-19,,,,Active,95700.0,4,,E1004
+E1048,Mohammed,Wang,D01,Senior Account Executive,L3,False,Contractor,New York,2023-12-03,,,,Active,106100.0,3,,E1009
+E1049,Diego,Nguyen,D01,Account Executive,L2,False,Full-time,Singapore,2020-10-28,2024-10-01,Voluntary,Better opportunity,Terminated,71500.0,3,2022-04-21,E1008
+E1050,Alejandro,Kowalczyk,D01,Associate Account Executive,L1,False,Full-time,London,2022-11-18,,,,Active,51100.0,1,,E1003
+E1051,Rania,Abbott,D01,Account Executive,L2,False,Full-time,New York,2026-01-19,,,,Active,82200.0,3,,E1007
+E1052,Ravi,Schmidt,D01,Account Executive,L2,False,Full-time,Dubai,2022-08-11,,,,Active,70500.0,3,2025-01-24,E1008
+E1053,Hiro,Yilmaz,D01,Account Executive,L2,False,Full-time,Remote,2024-06-14,,,,Active,64800.0,3,2025-10-17,E1009
+E1054,Yara,Andersen,D01,Account Executive,L2,False,Full-time,Dubai,2023-01-31,2023-07-07,Voluntary,Relocation,Terminated,75200.0,3,,E1009
+E1055,Lucas,Perez,D01,Account Executive,L2,False,Full-time,Remote,2021-09-04,,,,Active,66600.0,3,,E1006
+E1056,Alejandro,Dimitrov,D01,Account Executive,L2,False,Full-time,Dubai,2021-10-05,2025-03-13,Voluntary,Compensation,Terminated,74100.0,3,,E1005
+E1057,Jin,Schmidt,D01,Account Executive,L2,False,Full-time,Remote,2020-08-15,2024-12-01,Voluntary,Relocation,Terminated,65100.0,4,2021-11-08,E1004
+E1058,Ravi,Bakr,D01,Lead Account Executive,L4,False,Full-time,Dubai,2022-10-10,2024-01-12,Voluntary,Relocation,Terminated,139500.0,4,2023-12-15,E1003
+E1059,Oscar,Wang,D01,Account Executive,L2,False,Full-time,Dubai,2018-03-02,2023-05-26,Voluntary,Better opportunity,Terminated,70000.0,3,,E1008
+E1060,Arjun,Bakr,D01,Account Executive,L2,False,Full-time,New York,2026-09-14,,,,Active,80200.0,,,E1010
+E1061,Jana,Petrov,D01,Account Executive,L2,False,Full-time,Remote,2024-03-09,,,,Active,75000.0,2,,E1003
+E1062,Zoe,Banerjee,D01,Account Executive,L2,False,Contractor,London,2022-09-12,2022-12-17,Voluntary,Better opportunity,Terminated,76900.0,4,,E1008
+E1063,Elena,Murphy,D01,Account Executive,L2,False,Full-time,Dubai,2020-07-29,2022-07-12,Voluntary,Compensation,Terminated,68400.0,2,2022-02-11,E1007
+E1064,Ryan,Khan,D01,Senior Account Executive,L3,False,Part-time,Remote,2025-12-06,,,,Active,54800.0,1,,E1004
+E1065,Ryan,Santos,D01,Lead Account Executive,L4,False,Full-time,Dubai,2019-03-18,2020-04-02,Voluntary,Better opportunity,Terminated,131900.0,3,2020-03-30,E1004
+E1066,Carlos,Carter,D01,Account Executive,L2,False,Full-time,Dubai,2022-04-13,,,,Active,71500.0,4,,E1005
+E1067,Aarav,Carter,D01,Senior Account Executive,L3,False,Full-time,London,2021-04-18,2024-11-30,Voluntary,Better opportunity,Terminated,118100.0,5,2022-12-06,E1008
+E1068,Ana,Garcia,D01,Associate Account Executive,L1,False,Full-time,Remote,2022-05-10,2023-02-23,Voluntary,Better opportunity,Terminated,46600.0,4,,E1005
+E1069,Adebayo,Sokolov,D01,Account Executive,L2,False,Full-time,Remote,2023-10-19,2025-11-12,Involuntary,Performance,Terminated,67700.0,1,2024-10-19,E1009
+E1070,Carlos,Hassan,D01,Account Executive,L2,False,Full-time,Dubai,2025-01-29,2026-01-13,Voluntary,Work-life balance,Terminated,66100.0,5,,E1005
+E1071,Imani,Mensah,D01,Associate Account Executive,L1,False,Full-time,New York,2024-02-21,,,,Active,58200.0,3,,E1003
+E1072,Arjun,Khan,D01,Senior Account Executive,L3,False,Full-time,Dubai,2020-08-19,2024-10-11,Voluntary,Relocation,Terminated,101900.0,2,2023-02-02,E1003
+E1073,Hamza,Santos,D01,Senior Account Executive,L3,False,Full-time,London,2025-05-09,,,,Active,107900.0,3,,E1006
+E1074,Adam,Banerjee,D01,Senior Account Executive,L3,False,Full-time,Remote,2023-02-18,,,,Active,88900.0,2,2026-01-04,E1006
+E1075,Javier,Andersen,D01,Account Executive,L2,False,Contractor,Dubai,2018-06-21,2023-07-13,Voluntary,Better opportunity,Terminated,69900.0,4,2019-11-11,E1008
+E1076,Kate,Novak,D01,Senior Account Executive,L3,False,Full-time,Dubai,2022-02-01,,,,Active,97900.0,4,2023-06-04,E1006
+E1077,Dina,Hughes,D01,Account Executive,L2,False,Contractor,Dubai,2023-11-05,2024-04-20,Voluntary,Better opportunity,Terminated,70400.0,4,2024-11-04,E1004
+E1078,Jin,Carter,D01,Associate Account Executive,L1,False,Full-time,Dubai,2024-07-10,2026-02-24,Voluntary,Career change,Terminated,53200.0,4,,E1004
+E1079,Jin,Weber,D01,Associate Account Executive,L1,False,Full-time,Dubai,2023-08-03,2024-05-31,Voluntary,Compensation,Terminated,48500.0,4,,E1007
+E1080,Andrei,Hansen,D01,Senior Account Executive,L3,False,Full-time,Dubai,2024-06-24,,,,Active,101800.0,3,,E1005
+E1081,Arjun,Abbott,D01,Lead Account Executive,L4,False,Part-time,London,2024-05-25,,,,Active,76100.0,3,2025-08-13,E1008
+E1082,Tariq,Lee,D01,Associate Account Executive,L1,False,Contractor,London,2018-08-28,,,,Active,58300.0,3,,E1010
+E1083,Eli,Farouk,D01,Senior Account Executive,L3,False,Full-time,New York,2021-12-02,2022-10-26,Voluntary,Relocation,Terminated,108000.0,1,,E1005
+E1084,Ryan,Bakr,D01,Senior Account Executive,L3,False,Full-time,Dubai,2026-09-22,,,,Active,94200.0,,,E1007
+E1085,Paula,Perez,D01,Senior Account Executive,L3,False,Full-time,Remote,2024-06-30,2026-07-24,Voluntary,Better opportunity,Terminated,87900.0,2,,E1009
+E1086,Jin,Hughes,D01,Account Executive,L2,False,Full-time,Dubai,2019-06-22,2021-10-27,Involuntary,Restructuring,Terminated,70500.0,4,2020-12-08,E1004
+E1087,Noah,Murphy,D01,Senior Account Executive,L3,False,Full-time,Dubai,2024-02-26,,,,Active,98400.0,3,,E1007
+E1088,Omar,Dimitrov,D01,Senior Account Executive,L3,False,Full-time,London,2021-09-30,2022-05-09,Voluntary,Better opportunity,Terminated,102800.0,2,2022-09-30,E1005
+E1089,Freya,Ahmed,D01,Lead Account Executive,L4,False,Full-time,New York,2026-02-10,,,,Active,141600.0,3,,E1008
+E1090,Chen,Walsh,D01,Associate Account Executive,L1,False,Contractor,Dubai,2018-09-09,,,,Active,51100.0,1,,E1008
+E1091,Jack,Becker,D01,Lead Account Executive,L4,False,Full-time,Singapore,2025-04-04,,,,Active,129700.0,3,2026-08-23,E1004
+E1092,Rahul,Suzuki,D01,Associate Account Executive,L1,False,Full-time,London,2022-10-16,2026-08-15,Voluntary,Compensation,Terminated,57100.0,4,,E1004
+E1093,Laila,Moreau,D01,Senior Account Executive,L3,False,Full-time,London,2026-03-21,,,,Active,92500.0,4,,E1003
+E1094,Kai,Novak,D01,Associate Account Executive,L1,False,Full-time,New York,2024-09-12,,,,Active,60200.0,2,,E1003
+E1095,Nikhil,Yilmaz,D01,Account Executive,L2,False,Full-time,Singapore,2025-03-26,,,,Active,77600.0,1,,E1003
+E1096,James,Garcia,D01,Associate Account Executive,L1,False,Full-time,London,2025-07-27,,,,Active,56400.0,5,,E1008
+E1097,Zara,Torres,D01,Account Executive,L2,False,Part-time,Remote,2025-02-15,,,,Active,40400.0,3,,E1010
+E1098,Zoe,Kim,D01,Account Executive,L2,False,Full-time,Singapore,2024-03-03,,,,Active,73600.0,2,2025-10-06,E1006
+E1099,Naomi,Reyes,D01,Associate Account Executive,L1,False,Full-time,Dubai,2023-11-01,2025-10-02,Involuntary,Performance,Terminated,47100.0,2,,E1010
+E1100,Yusuf,Zhang,D01,Account Executive,L2,False,Part-time,London,2022-05-05,2026-04-14,Voluntary,Compensation,Terminated,41900.0,2,,E1008
+E1101,Kate,Wilson,D01,Account Executive,L2,False,Full-time,Dubai,2026-06-25,,,,Active,76700.0,,,E1009
+E1102,Sebastian,Dimitrov,D01,Senior Account Executive,L3,False,Full-time,London,2024-06-30,,,,Active,101900.0,5,,E1008
+E1103,Emma,Hassan,D01,Lead Account Executive,L4,False,Full-time,Singapore,2026-01-05,2026-06-29,Voluntary,Compensation,Terminated,127200.0,3,,E1004
+E1104,Elena,Okoye,D01,Senior Account Executive,L3,False,Full-time,New York,2025-06-03,,,,Active,109800.0,4,,E1007
+E1105,Hiro,Ghosh,D01,Associate Account Executive,L1,False,Full-time,Singapore,2026-04-20,,,,Active,58300.0,,,E1007
+E1106,Rahul,Saleh,D01,Account Executive,L2,False,Full-time,Dubai,2022-03-25,,,,Active,76600.0,5,2026-05-02,E1008
+E1107,Luis,Dubois,D01,Lead Account Executive,L4,False,Full-time,London,2022-04-07,2023-01-23,Voluntary,Better opportunity,Terminated,125700.0,3,,E1009
+E1108,Emma,Yilmaz,D01,Associate Account Executive,L1,False,Full-time,Remote,2022-07-08,2025-03-18,Voluntary,Better opportunity,Terminated,47800.0,3,,E1003
+E1109,Jack,Edwards,D01,Account Executive,L2,False,Full-time,Singapore,2022-09-23,,,,Active,75000.0,3,2025-10-03,E1008
+E1110,Elena,Singh,D01,Lead Account Executive,L4,False,Full-time,New York,2020-10-02,2026-07-18,Involuntary,Performance,Terminated,137400.0,2,2023-01-29,E1009
+E1111,Bianca,Garcia,D01,Lead Account Executive,L4,False,Full-time,Dubai,2025-08-28,,,,Active,114700.0,4,,E1003
+E1112,Emma,Gupta,D02,"VP, Marketing",L7,True,Full-time,London,2018-05-11,,,,Active,256200.0,3,2024-11-12,
+E1113,Zara,Quinn,D02,"Director, Marketing",L6,True,Full-time,Dubai,2021-11-07,,,,Active,189800.0,3,2023-10-15,E1112
+E1114,Yara,Zhang,D02,"Manager, Marketing",L5,True,Full-time,New York,2023-09-01,,,,Active,175700.0,4,,E1112
+E1115,Noah,Costa,D02,"Manager, Marketing",L5,True,Full-time,Singapore,2025-05-19,,,,Active,155700.0,3,,E1113
+E1116,Ryan,Yilmaz,D02,"Manager, Marketing",L5,True,Full-time,London,2025-08-21,,,,Active,163200.0,3,,E1112
+E1117,Olga,Walsh,D02,Marketing Specialist,L2,False,Part-time,Remote,2025-02-06,,,,Active,34800.0,5,2026-03-17,E1114
+E1118,Rahul,Singh,D02,Marketing Specialist,L2,False,Full-time,London,2025-12-16,,,,Active,75200.0,2,,E1116
+E1119,Sami,Banerjee,D02,Marketing Specialist,L2,False,Full-time,Dubai,2025-07-05,,,,Active,70100.0,3,,E1114
+E1120,Ava,Zhang,D02,Marketing Specialist,L2,False,Full-time,London,2023-02-27,2025-11-30,Involuntary,Performance,Terminated,73100.0,1,2024-04-23,E1116
+E1121,Ibrahim,Quinn,D02,Marketing Specialist,L2,False,Full-time,London,2019-06-04,2025-04-05,Involuntary,Restructuring,Terminated,74900.0,4,,E1116
+E1122,Imani,Eriksen,D02,Associate Marketing Specialist,L1,False,Full-time,Dubai,2023-07-01,2025-11-09,Involuntary,Restructuring,Terminated,43700.0,3,,E1115
+E1123,Yara,Quinn,D02,Associate Marketing Specialist,L1,False,Full-time,Dubai,2026-02-23,,,,Active,47200.0,1,,E1115
+E1124,Mateo,Khan,D02,Marketing Specialist,L2,False,Full-time,London,2021-04-29,,,,Active,71300.0,3,2023-07-14,E1115
+E1125,Paula,Olsen,D02,Lead Marketing Specialist,L4,False,Full-time,Dubai,2022-03-17,,,,Active,121000.0,5,,E1115
+E1126,Arjun,Zhang,D02,Associate Marketing Specialist,L1,False,Full-time,London,2024-11-02,,,,Active,54400.0,3,,E1115
+E1127,Laila,Ahmed,D02,Marketing Specialist,L2,False,Full-time,Singapore,2025-06-05,,,,Active,70100.0,4,,E1115
+E1128,Eli,Khan,D02,Lead Marketing Specialist,L4,False,Contractor,Dubai,2024-04-14,,,,Active,105700.0,3,,E1116
+E1129,Ivan,Ghosh,D02,Lead Marketing Specialist,L4,False,Full-time,London,2022-08-15,,,,Active,122800.0,4,,E1116
+E1130,Luis,Mehta,D02,Senior Marketing Specialist,L3,False,Full-time,Remote,2024-01-26,,,,Active,78300.0,3,2025-06-18,E1116
+E1131,Hamza,Chen,D02,Marketing Specialist,L2,False,Full-time,London,2022-12-08,,,,Active,76500.0,4,2025-03-01,E1114
+E1132,Ben,Okoye,D02,Marketing Specialist,L2,False,Full-time,New York,2023-10-22,2024-02-16,Voluntary,Better opportunity,Terminated,74900.0,3,2024-10-21,E1114
+E1133,Rania,Khan,D02,Marketing Specialist,L2,False,Contractor,Dubai,2021-03-01,2022-01-02,Involuntary,Contract ended,Terminated,67000.0,4,,E1116
+E1134,James,Suzuki,D02,Associate Marketing Specialist,L1,False,Full-time,Remote,2025-11-16,,,,Active,41400.0,3,,E1115
+E1135,Wei,Okoye,D02,Marketing Specialist,L2,False,Full-time,New York,2020-12-05,,,,Active,80800.0,3,2026-02-16,E1115
+E1136,Hana,Kumar,D02,Senior Marketing Specialist,L3,False,Full-time,Dubai,2021-02-18,2021-12-10,Voluntary,Career change,Terminated,88300.0,3,,E1114
+E1137,Bianca,Gupta,D02,Marketing Specialist,L2,False,Full-time,London,2023-11-17,,,,Active,72200.0,3,,E1114
+E1138,Isabel,Bakr,D02,Senior Marketing Specialist,L3,False,Full-time,Dubai,2024-10-09,,,,Active,102900.0,3,,E1114
+E1139,Diego,Martin,D02,Marketing Specialist,L2,False,Part-time,Dubai,2025-03-17,,,,Active,40600.0,1,,E1115
+E1140,Felix,Novak,D02,Marketing Specialist,L2,False,Full-time,New York,2022-06-13,2024-01-31,Voluntary,Better opportunity,Terminated,83500.0,3,,E1115
+E1141,Amara,Olsen,D02,Senior Marketing Specialist,L3,False,Full-time,Remote,2021-09-28,,,,Active,86800.0,4,2026-07-10,E1115
+E1142,Zoe,Garcia,D02,Lead Marketing Specialist,L4,False,Full-time,Remote,2024-03-14,2026-09-20,Voluntary,Relocation,Terminated,111600.0,3,2025-11-03,E1114
+E1143,Kai,Okoye,D02,Marketing Specialist,L2,False,Full-time,London,2021-07-01,2026-09-13,Voluntary,Better opportunity,Terminated,66800.0,2,2023-05-07,E1114
+E1144,Ivan,Eriksen,D02,Senior Marketing Specialist,L3,False,Full-time,Dubai,2023-12-19,2025-11-11,Voluntary,Better opportunity,Terminated,84500.0,3,,E1116
+E1145,Zara,Farouk,D02,Marketing Specialist,L2,False,Full-time,London,2026-08-28,,,,Active,75400.0,,,E1115
+E1146,Ryan,Nakamura,D02,Associate Marketing Specialist,L1,False,Full-time,Dubai,2023-01-06,2026-07-22,Voluntary,Compensation,Terminated,46300.0,3,,E1114
+E1147,Valentina,Fernandes,D02,Senior Marketing Specialist,L3,False,Full-time,Dubai,2021-03-09,2022-06-09,Voluntary,Compensation,Terminated,92400.0,3,,E1115
+E1148,Sofia,Kim,D02,Marketing Specialist,L2,False,Full-time,New York,2019-07-19,2022-09-28,Involuntary,Restructuring,Terminated,75700.0,4,,E1115
+E1149,Rania,Brooks,D02,Marketing Specialist,L2,False,Full-time,London,2026-06-27,,,,Active,73000.0,,,E1115
+E1150,Ryan,Rahman,D02,Marketing Specialist,L2,False,Full-time,Dubai,2022-10-26,,,,Active,60300.0,5,,E1114
+E1151,Ivan,Yamamoto,D02,Marketing Specialist,L2,False,Full-time,Dubai,2022-02-19,,,,Active,72500.0,4,,E1116
+E1152,Ravi,Kim,D02,Associate Marketing Specialist,L1,False,Full-time,Singapore,2023-08-27,,,,Active,49000.0,5,,E1114
+E1153,Mei,Garcia,D02,Marketing Specialist,L2,False,Full-time,Dubai,2025-10-19,,,,Active,62000.0,4,,E1116
+E1154,Carlos,Becker,D02,Lead Marketing Specialist,L4,False,Full-time,London,2026-08-28,,,,Active,130400.0,,,E1115
+E1155,Freya,Garcia,D02,Senior Marketing Specialist,L3,False,Full-time,London,2024-01-11,,,,Active,93100.0,4,2025-10-30,E1115
+E1156,Jana,Becker,D02,Marketing Specialist,L2,False,Full-time,London,2026-05-27,,,,Active,75100.0,,,E1115
+E1157,Carlos,Hughes,D02,Associate Marketing Specialist,L1,False,Full-time,Dubai,2025-06-08,,,,Active,50200.0,4,,E1115
+E1158,Mohammed,Becker,D02,Senior Marketing Specialist,L3,False,Full-time,New York,2022-09-07,,,,Active,113200.0,4,,E1115
+E1159,Kai,Hughes,D02,Associate Marketing Specialist,L1,False,Full-time,Dubai,2026-05-14,,,,Active,48400.0,,,E1115
+E1160,Valentina,Brooks,D03,"VP, Customer Success",L7,True,Full-time,Dubai,2021-03-21,,,,Active,231500.0,3,2025-04-22,
+E1161,Amara,Novak,D03,"Director, Customer Success",L6,True,Full-time,Singapore,2018-02-16,,,,Active,152400.0,4,2024-04-24,E1160
+E1162,Jack,Banerjee,D03,"Manager, Customer Success",L5,True,Full-time,Dubai,2023-01-23,2023-07-14,Voluntary,Compensation,Terminated,131300.0,4,2024-01-23,E1160
+E1163,Freya,Nakamura,D03,"Manager, Customer Success",L5,True,Full-time,New York,2026-02-20,2026-08-27,Voluntary,Better opportunity,Terminated,167300.0,3,,E1161
+E1164,Nadia,Ahmed,D03,"Manager, Customer Success",L5,True,Full-time,London,2021-11-14,,,,Active,145700.0,4,,E1160
+E1165,Arjun,Lee,D03,"Manager, Customer Success",L5,True,Full-time,London,2019-07-23,2020-12-29,Involuntary,Restructuring,Terminated,176600.0,3,,E1160
+E1166,Ryan,Garcia,D03,"Manager, Customer Success",L5,True,Full-time,Dubai,2022-06-16,,,,Active,150000.0,2,2024-07-28,E1161
+E1167,Lina,Yamamoto,D03,"Manager, Customer Success",L5,True,Full-time,Dubai,2024-01-06,2026-05-13,Involuntary,Performance,Terminated,141800.0,1,,E1160
+E1168,Adam,Schmidt,D03,Senior Customer Success Manager,L3,False,Full-time,London,2025-04-14,,,,Active,99600.0,5,,E1165
+E1169,Lina,Rahman,D03,Lead Customer Success Manager,L4,False,Full-time,Singapore,2023-02-16,2026-02-04,Involuntary,Performance,Terminated,119200.0,2,,E1163
+E1170,Zoe,Fischer,D03,Customer Success Manager,L2,False,Full-time,Remote,2020-05-09,2024-02-27,Voluntary,Better opportunity,Terminated,60200.0,2,,E1164
+E1171,Ethan,Quinn,D03,Customer Success Manager,L2,False,Full-time,London,2025-01-24,,,,Active,61600.0,3,,E1164
+E1172,Grace,Sharma,D03,Lead Customer Success Manager,L4,False,Full-time,Dubai,2026-03-28,,,,Active,120200.0,3,,E1162
+E1173,Ivan,Weber,D03,Senior Customer Success Manager,L3,False,Full-time,Singapore,2024-12-09,,,,Active,89400.0,4,,E1167
+E1174,Aarav,Saleh,D03,Lead Customer Success Manager,L4,False,Full-time,London,2023-08-03,2026-03-26,Voluntary,Better opportunity,Terminated,112300.0,4,,E1163
+E1175,Rahul,Martin,D03,Customer Success Manager,L2,False,Full-time,Dubai,2020-08-24,2026-05-24,Voluntary,Better opportunity,Terminated,71100.0,4,2021-09-23,E1165
+E1176,Jack,Varga,D03,Lead Customer Success Manager,L4,False,Full-time,Dubai,2024-02-15,,,,Active,108900.0,3,,E1165
+E1177,Naomi,Lee,D03,Associate Customer Success Manager,L1,False,Full-time,New York,2021-12-30,2022-07-20,Involuntary,Performance,Terminated,57100.0,2,,E1164
+E1178,Lina,Ahmed,D03,Customer Success Manager,L2,False,Contractor,New York,2024-03-29,2026-04-01,Voluntary,Compensation,Terminated,74700.0,2,,E1165
+E1179,Sofia,Sharma,D03,Customer Success Manager,L2,False,Full-time,New York,2021-04-14,2025-04-25,Voluntary,Compensation,Terminated,85300.0,3,,E1165
+E1180,Ava,Nasser,D03,Senior Customer Success Manager,L3,False,Full-time,Remote,2025-04-27,,,,Active,80100.0,3,,E1162
+E1181,Ryan,Sharma,D03,Lead Customer Success Manager,L4,False,Full-time,New York,2025-04-07,2026-02-25,Voluntary,Better opportunity,Terminated,125500.0,4,,E1166
+E1182,Javier,Ivanova,D03,Senior Customer Success Manager,L3,False,Full-time,London,2018-08-06,2020-12-31,Involuntary,Performance,Terminated,90300.0,2,2020-08-20,E1162
+E1183,Julia,Novak,D03,Senior Customer Success Manager,L3,False,Full-time,London,2022-12-09,2025-12-11,Voluntary,Better opportunity,Terminated,93500.0,3,,E1164
+E1184,Amelia,Jensen,D03,Customer Success Manager,L2,False,Full-time,Dubai,2022-07-17,2023-07-12,Involuntary,Restructuring,Terminated,64500.0,3,,E1164
+E1185,Diego,Chen,D03,Customer Success Manager,L2,False,Full-time,Dubai,2025-05-20,,,,Active,66800.0,5,,E1164
+E1186,Aarav,Novak,D03,Customer Success Manager,L2,False,Full-time,London,2020-11-16,2025-04-01,Involuntary,Restructuring,Terminated,68200.0,4,,E1162
+E1187,Noah,Khan,D03,Associate Customer Success Manager,L1,False,Full-time,Dubai,2022-08-26,,,,Active,44900.0,3,,E1166
+E1188,Amara,Walsh,D03,Customer Success Manager,L2,False,Full-time,Dubai,2022-03-18,2026-08-12,Involuntary,Performance,Terminated,64800.0,1,2025-05-31,E1164
+E1189,Mei,Kowalczyk,D03,Lead Customer Success Manager,L4,False,Full-time,London,2023-02-10,,,,Active,127300.0,3,,E1162
+E1190,Emma,Usman,D03,Senior Customer Success Manager,L3,False,Full-time,Singapore,2021-06-17,2025-07-24,Voluntary,Compensation,Terminated,92700.0,5,2025-02-04,E1162
+E1191,Grace,Kowalczyk,D03,Senior Customer Success Manager,L3,False,Full-time,London,2022-01-06,,,,Active,87100.0,3,,E1165
+E1192,Olga,Sharma,D03,Customer Success Manager,L2,False,Full-time,Dubai,2023-01-07,2024-08-08,Voluntary,Compensation,Terminated,63500.0,4,2024-04-26,E1165
+E1193,Yara,Sharma,D03,Customer Success Manager,L2,False,Full-time,London,2020-03-24,2022-05-11,Voluntary,Compensation,Terminated,69500.0,4,,E1165
+E1194,Noah,Olsen,D03,Associate Customer Success Manager,L1,False,Full-time,New York,2024-01-18,,,,Active,57900.0,4,,E1166
+E1195,Naomi,Chen,D03,Customer Success Manager,L2,False,Full-time,London,2023-04-26,,,,Active,72400.0,3,2024-10-08,E1166
+E1196,Chloe,Fernandes,D03,Customer Success Manager,L2,False,Full-time,London,2026-01-09,,,,Active,71600.0,4,,E1167
+E1197,Kai,Rossi,D03,Customer Success Manager,L2,False,Full-time,New York,2022-03-21,2022-10-07,Voluntary,Career change,Terminated,83300.0,1,,E1167
+E1198,Dina,Young,D03,Associate Customer Success Manager,L1,False,Full-time,Dubai,2026-09-29,,,,Active,48400.0,,,E1167
+E1199,Hamza,Gupta,D03,Senior Customer Success Manager,L3,False,Full-time,London,2024-10-02,2026-03-25,Involuntary,Performance,Terminated,93600.0,2,,E1166
+E1200,Isabel,Wang,D03,Customer Success Manager,L2,False,Full-time,Singapore,2019-09-05,2024-07-19,Voluntary,Compensation,Terminated,70600.0,3,,E1164
+E1201,Jin,Usman,D03,Customer Success Manager,L2,False,Full-time,New York,2021-11-14,,,,Active,75400.0,3,2024-07-21,E1165
+E1202,Maria,Santos,D03,Customer Success Manager,L2,False,Contractor,Remote,2023-06-15,,,,Active,62500.0,4,2025-03-10,E1165
+E1203,Lina,Carter,D03,Customer Success Manager,L2,False,Full-time,Singapore,2020-02-08,2026-07-29,Voluntary,Better opportunity,Terminated,63500.0,3,2024-08-15,E1163
+E1204,Maria,Lee,D03,Customer Success Manager,L2,False,Full-time,Remote,2021-07-06,2024-12-02,Involuntary,Performance,Terminated,60500.0,1,2022-11-16,E1166
+E1205,Nadia,Moreau,D03,Customer Success Manager,L2,False,Full-time,Dubai,2022-06-12,2022-12-16,Voluntary,Better opportunity,Terminated,63400.0,1,,E1165
+E1206,Fatima,Moreau,D03,Senior Customer Success Manager,L3,False,Contractor,Dubai,2018-03-15,2024-09-04,Voluntary,Career change,Terminated,92000.0,2,2023-08-06,E1165
+E1207,Ibrahim,Kumar,D03,Associate Customer Success Manager,L1,False,Full-time,Remote,2023-10-16,2026-05-24,Voluntary,Work-life balance,Terminated,47100.0,2,,E1167
+E1208,Adebayo,Perez,D03,Lead Customer Success Manager,L4,False,Full-time,Singapore,2024-02-08,2025-04-30,Voluntary,Better opportunity,Terminated,120900.0,2,2025-03-12,E1166
+E1209,Nora,Adeyemi,D03,Associate Customer Success Manager,L1,False,Contractor,Remote,2019-02-18,2021-11-17,Involuntary,Contract ended,Terminated,45700.0,3,,E1167
+E1210,Paula,Torres,D03,Customer Success Manager,L2,False,Full-time,New York,2025-04-14,,,,Active,65600.0,3,,E1167
+E1211,Ibrahim,Young,D03,Customer Success Manager,L2,False,Full-time,London,2024-06-02,,,,Active,72200.0,3,2026-01-03,E1166
+E1212,Elena,Novak,D03,Customer Success Manager,L2,False,Full-time,Dubai,2020-11-03,2022-10-07,Involuntary,Performance,Terminated,65100.0,1,2022-05-13,E1163
+E1213,Oscar,Bakr,D03,Customer Success Manager,L2,False,Full-time,London,2022-06-03,2025-01-27,Voluntary,Relocation,Terminated,72600.0,3,,E1163
+E1214,Hana,Santos,D03,Lead Customer Success Manager,L4,False,Full-time,London,2022-01-22,2024-12-28,Voluntary,Work-life balance,Terminated,116900.0,4,2023-09-24,E1163
+E1215,Alejandro,Nasser,D03,Customer Success Manager,L2,False,Full-time,Dubai,2024-02-17,2025-09-06,Voluntary,Compensation,Terminated,67800.0,4,2025-06-20,E1166
+E1216,Ibrahim,Bakr,D03,Senior Customer Success Manager,L3,False,Full-time,Dubai,2021-04-01,2024-04-11,Voluntary,Work-life balance,Terminated,82800.0,5,,E1167
+E1217,Tom,Banerjee,D03,Customer Success Manager,L2,False,Full-time,London,2023-06-25,,,,Active,70900.0,3,,E1167
+E1218,Alex,Santos,D03,Associate Customer Success Manager,L1,False,Full-time,London,2024-07-26,2026-05-03,Voluntary,Better opportunity,Terminated,48100.0,4,,E1166
+E1219,Wei,Usman,D03,Customer Success Manager,L2,False,Part-time,Remote,2022-04-11,,,,Active,39900.0,3,,E1166
+E1220,Mohammed,Martin,D03,Customer Success Manager,L2,False,Full-time,London,2020-02-19,,,,Active,71400.0,3,2022-11-27,E1167
+E1221,Yusuf,Rossi,D03,Customer Success Manager,L2,False,Full-time,Singapore,2023-09-05,2026-04-20,Voluntary,Career change,Terminated,65000.0,3,,E1166
+E1222,Lina,Perez,D03,Lead Customer Success Manager,L4,False,Full-time,London,2023-05-28,,,,Active,120000.0,1,2025-05-28,E1162
+E1223,Karim,Jensen,D03,Senior Customer Success Manager,L3,False,Full-time,London,2023-12-30,,,,Active,95100.0,3,2026-03-24,E1165
+E1224,Bianca,Hassan,D03,Lead Customer Success Manager,L4,False,Part-time,Singapore,2021-12-21,2024-02-03,Voluntary,Career change,Terminated,74500.0,4,2023-06-03,E1164
+E1225,Isabel,Nguyen,D03,Customer Success Manager,L2,False,Full-time,Dubai,2020-01-04,2024-09-26,Voluntary,Better opportunity,Terminated,64800.0,4,2021-07-09,E1165
+E1226,Nadia,Olsen,D03,Senior Customer Success Manager,L3,False,Full-time,New York,2025-01-13,2025-07-29,Involuntary,Restructuring,Terminated,102400.0,1,2026-01-13,E1165
+E1227,Chloe,Kowalczyk,D03,Senior Customer Success Manager,L3,False,Full-time,Dubai,2023-02-15,2026-05-12,Voluntary,Better opportunity,Terminated,92300.0,3,2025-04-22,E1163
+E1228,Mohammed,Nguyen,D03,Senior Customer Success Manager,L3,False,Full-time,New York,2025-03-31,2026-03-19,Voluntary,Compensation,Terminated,107700.0,3,,E1163
+E1229,Hiro,Zhang,D03,Lead Customer Success Manager,L4,False,Full-time,Singapore,2022-02-24,2026-01-23,Involuntary,Performance,Terminated,105900.0,1,2025-02-15,E1162
+E1230,Nikhil,Lopez,D03,Senior Customer Success Manager,L3,False,Full-time,Dubai,2023-09-09,,,,Active,88500.0,3,2026-07-04,E1163
+E1231,Rahul,Brooks,D03,Lead Customer Success Manager,L4,False,Full-time,London,2025-11-16,,,,Active,135300.0,3,,E1166
+E1232,Wei,Becker,D03,Senior Customer Success Manager,L3,False,Full-time,Dubai,2023-11-28,,,,Active,92800.0,3,2025-08-28,E1165
+E1233,Kai,Schmidt,D03,Associate Customer Success Manager,L1,False,Full-time,London,2022-07-28,2026-04-10,Voluntary,Better opportunity,Terminated,46700.0,3,,E1167
+E1234,Mariam,Mensah,D03,Senior Customer Success Manager,L3,False,Full-time,New York,2025-04-09,,,,Active,88000.0,4,,E1167
+E1235,Nadia,Nasser,D03,Customer Success Manager,L2,False,Contractor,New York,2019-03-10,2019-10-15,Involuntary,Contract ended,Terminated,74100.0,4,2020-03-09,E1167
+E1236,Alex,Ivanova,D03,Lead Customer Success Manager,L4,False,Full-time,Dubai,2026-03-03,,,,Active,109100.0,4,,E1163
+E1237,Maria,Okoye,D03,Senior Customer Success Manager,L3,False,Full-time,London,2021-09-13,2022-09-16,Voluntary,Better opportunity,Terminated,87200.0,3,2022-09-13,E1164
+E1238,Omar,Sokolov,D03,Associate Customer Success Manager,L1,False,Full-time,New York,2026-03-28,,,,Active,59500.0,5,,E1162
+E1239,Daniel,Novak,D03,Associate Customer Success Manager,L1,False,Full-time,Dubai,2026-07-28,,,,Active,49300.0,,,E1162
+E1240,Javier,Ibrahim,D03,Associate Customer Success Manager,L1,False,Full-time,Dubai,2026-06-22,,,,Active,44400.0,,,E1163
+E1241,Mateo,Costa,D03,Customer Success Manager,L2,False,Full-time,London,2021-11-30,2022-12-07,Voluntary,Career change,Terminated,72400.0,2,2022-12-04,E1163
+E1242,Alex,Dubois,D03,Associate Customer Success Manager,L1,False,Full-time,New York,2024-10-09,,,,Active,59400.0,4,,E1162
+E1243,Karim,Varga,D03,Senior Customer Success Manager,L3,False,Full-time,London,2021-01-24,2022-11-23,Involuntary,Restructuring,Terminated,100700.0,3,,E1167
+E1244,Oscar,Mehta,D03,Senior Customer Success Manager,L3,False,Full-time,Dubai,2024-10-14,2025-10-11,Involuntary,Performance,Terminated,85600.0,1,,E1165
+E1245,Felix,Chen,D03,Senior Customer Success Manager,L3,False,Full-time,Remote,2021-03-14,2022-05-17,Voluntary,Better opportunity,Terminated,86900.0,3,,E1165
+E1246,Hiro,Bianchi,D04,"VP, Engineering",L7,True,Full-time,New York,2022-06-27,,,,Active,359500.0,4,2026-08-28,
+E1247,Zara,Kumar,D04,"Director, Engineering",L6,True,Full-time,Dubai,2018-08-12,,,,Active,222700.0,4,2023-07-15,E1246
+E1248,Mei,Andersen,D04,"Director, Engineering",L6,True,Full-time,Singapore,2017-07-26,,,,Active,243300.0,4,,E1246
+E1249,Lucas,Zhang,D04,"Manager, Engineering",L5,True,Full-time,London,2026-09-29,,,,Active,180900.0,,,E1247
+E1250,Freya,Carter,D04,"Manager, Engineering",L5,True,Full-time,Remote,2021-08-25,2025-06-11,Involuntary,Restructuring,Terminated,134000.0,5,,E1248
+E1251,Tom,Nasser,D04,"Manager, Engineering",L5,True,Full-time,Singapore,2025-06-28,,,,Active,176600.0,4,,E1246
+E1252,Noah,Dimitrov,D04,"Manager, Engineering",L5,True,Full-time,Remote,2021-07-26,,,,Active,155800.0,3,2024-02-23,E1247
+E1253,Laila,Olsen,D04,"Manager, Engineering",L5,True,Full-time,Dubai,2025-08-10,,,,Active,154300.0,4,,E1246
+E1254,Mateo,Farouk,D04,"Manager, Engineering",L5,True,Full-time,Singapore,2024-06-12,,,,Active,172900.0,3,2026-05-29,E1247
+E1255,Mariam,Yilmaz,D04,"Manager, Engineering",L5,True,Full-time,New York,2024-07-21,2025-07-01,Involuntary,Performance,Terminated,193700.0,1,2025-07-21,E1247
+E1256,Gabriel,Moreau,D04,"Manager, Engineering",L5,True,Full-time,New York,2022-12-21,,,,Active,189200.0,5,2024-01-30,E1248
+E1257,Tom,Nguyen,D04,"Manager, Engineering",L5,True,Full-time,New York,2022-06-30,2023-02-01,Voluntary,Better opportunity,Terminated,187600.0,5,2023-06-30,E1247
+E1258,Freya,Rahman,D04,"Manager, Engineering",L5,True,Full-time,New York,2022-08-01,2025-10-29,Voluntary,Career change,Terminated,189700.0,4,,E1246
+E1259,Gabriel,Torres,D04,"Manager, Engineering",L5,True,Full-time,Dubai,2022-11-15,,,,Active,186500.0,2,,E1247
+E1260,Imani,Santos,D04,"Manager, Engineering",L5,True,Full-time,New York,2025-04-19,,,,Active,214100.0,4,,E1248
+E1261,Tariq,Patel,D04,"Manager, Engineering",L5,True,Full-time,Remote,2024-10-11,,,,Active,146400.0,4,,E1247
+E1262,Isabel,Yamamoto,D04,"Manager, Engineering",L5,True,Full-time,Dubai,2019-05-13,,,,Active,166300.0,3,,E1247
+E1263,Felix,Bakr,D04,Associate Software Engineer,L1,False,Contractor,Dubai,2025-01-09,,,,Active,59500.0,4,,E1251
+E1264,Nadia,Garcia,D04,Lead Software Engineer,L4,False,Full-time,New York,2022-08-25,2026-01-02,Involuntary,Performance,Terminated,181700.0,1,2024-02-11,E1249
+E1265,Aaliyah,Larsen,D04,Software Engineer,L2,False,Full-time,Remote,2023-03-11,,,,Active,77200.0,3,2024-12-23,E1251
+E1266,Hana,Johnson,D04,Software Engineer,L2,False,Full-time,New York,2022-04-24,2025-03-04,Voluntary,Compensation,Terminated,93000.0,3,2024-08-31,E1249
+E1267,Andrei,Yamamoto,D04,Senior Software Engineer,L3,False,Full-time,Dubai,2021-07-02,2025-11-01,Voluntary,Compensation,Terminated,105000.0,2,2025-10-11,E1255
+E1268,Tom,Yamamoto,D04,Associate Software Engineer,L1,False,Full-time,Singapore,2023-05-21,,,,Active,63800.0,4,,E1261
+E1269,Lucas,Ivanova,D04,Senior Software Engineer,L3,False,Full-time,Dubai,2026-02-09,,,,Active,112300.0,2,,E1255
+E1270,Hana,Sokolov,D04,Software Engineer,L2,False,Contractor,Dubai,2025-09-24,,,,Active,82600.0,4,,E1258
+E1271,Yara,Perez,D04,Software Engineer,L2,False,Full-time,Dubai,2025-04-13,,,,Active,75900.0,1,,E1260
+E1272,Bianca,Das,D04,Software Engineer,L2,False,Full-time,New York,2024-06-11,,,,Active,99900.0,3,2025-08-13,E1259
+E1273,Rania,Weber,D04,Senior Software Engineer,L3,False,Full-time,Dubai,2025-01-24,2025-10-08,Involuntary,Performance,Terminated,117300.0,2,,E1258
+E1274,Mei,Zhang,D04,Associate Software Engineer,L1,False,Full-time,Dubai,2019-08-08,2026-05-13,Voluntary,Compensation,Terminated,60200.0,1,,E1259
+E1275,Grace,Sokolov,D04,Associate Software Engineer,L1,False,Part-time,Dubai,2018-05-24,,,,Active,35300.0,3,,E1252
+E1276,James,Usman,D04,Associate Software Engineer,L1,False,Full-time,Dubai,2025-02-22,,,,Active,67500.0,3,,E1254
+E1277,Fatima,Novak,D04,Software Engineer,L2,False,Full-time,Dubai,2026-03-26,,,,Active,80400.0,3,,E1254
+E1278,Ben,Nguyen,D04,Associate Software Engineer,L1,False,Full-time,Dubai,2026-01-31,,,,Active,59400.0,2,,E1260
+E1279,Maria,Nakamura,D04,Lead Software Engineer,L4,False,Full-time,Dubai,2024-02-01,2025-06-17,Voluntary,Better opportunity,Terminated,133000.0,3,2025-03-01,E1254
+E1280,Yara,Lee,D04,Software Engineer,L2,False,Part-time,Dubai,2024-06-05,2024-12-11,Involuntary,Performance,Terminated,51400.0,2,2025-06-05,E1262
+E1281,Aarav,Nguyen,D04,Senior Software Engineer,L3,False,Full-time,Dubai,2025-05-18,2026-06-20,Involuntary,Restructuring,Terminated,100800.0,3,,E1251
+E1282,Ethan,Vargas,D04,Software Engineer,L2,False,Full-time,Remote,2024-07-29,,,,Active,80500.0,2,2025-11-29,E1251
+E1283,Mei,Ghosh,D04,Software Engineer,L2,False,Full-time,Remote,2021-03-25,,,,Active,74800.0,5,2022-11-26,E1259
+E1284,Alejandro,Chen,D04,Software Engineer,L2,False,Full-time,Remote,2020-04-07,2021-08-07,Voluntary,Career change,Terminated,73300.0,1,,E1259
+E1285,Freya,Rossi,D04,Software Engineer,L2,False,Contractor,Dubai,2026-08-19,,,,Active,80000.0,,,E1258
+E1286,Chloe,Nakamura,D04,Software Engineer,L2,False,Full-time,Dubai,2023-10-01,,,,Active,92300.0,3,,E1253
+E1287,Isabel,Farouk,D04,Software Engineer,L2,False,Full-time,Singapore,2024-05-30,,,,Active,84400.0,5,2026-04-04,E1249
+E1288,Jana,Mensah,D04,Software Engineer,L2,False,Full-time,London,2024-07-02,,,,Active,87000.0,3,2026-03-08,E1253
+E1289,Isabel,Weber,D04,Lead Software Engineer,L4,False,Full-time,New York,2024-07-20,,,,Active,157000.0,3,2026-04-30,E1255
+E1290,Tom,Abbott,D04,Software Engineer,L2,False,Full-time,New York,2023-01-31,2026-03-08,Voluntary,Relocation,Terminated,91200.0,3,,E1254
+E1291,Aisha,Chen,D04,Software Engineer,L2,False,Full-time,Dubai,2025-01-30,,,,Active,79700.0,2,,E1261
+E1292,Rahul,Fischer,D04,Associate Software Engineer,L1,False,Full-time,New York,2022-01-26,2022-11-13,Involuntary,Performance,Terminated,64800.0,2,,E1261
+E1293,Alex,Saleh,D04,Software Engineer,L2,False,Full-time,London,2024-10-27,,,,Active,88900.0,3,2026-05-14,E1259
+E1294,Andrei,Carter,D04,Senior Software Engineer,L3,False,Full-time,Singapore,2021-09-15,2026-04-28,Voluntary,Compensation,Terminated,104000.0,3,,E1249
+E1295,Sofia,Quinn,D04,Software Engineer,L2,False,Full-time,New York,2022-08-06,,,,Active,91700.0,3,,E1250
+E1296,Rosa,Usman,D04,Senior Software Engineer,L3,False,Full-time,Dubai,2026-04-09,,,,Active,110900.0,,,E1255
+E1297,Dina,Moreau,D04,Software Engineer,L2,False,Full-time,London,2021-09-29,2024-10-07,Voluntary,Work-life balance,Terminated,91500.0,2,,E1257
+E1298,Olga,Nguyen,D04,Associate Software Engineer,L1,False,Full-time,Dubai,2025-03-02,,,,Active,61900.0,4,,E1258
+E1299,Tariq,Okoye,D04,Lead Software Engineer,L4,False,Full-time,Dubai,2020-01-20,2025-07-04,Involuntary,Performance,Terminated,145500.0,2,,E1253
+E1300,Mohammed,Carter,D04,Software Engineer,L2,False,Full-time,Dubai,2026-09-20,,,,Active,86000.0,,,E1250
+E1301,Oscar,Varga,D04,Senior Software Engineer,L3,False,Full-time,Dubai,2025-02-05,,,,Active,110100.0,4,2026-05-13,E1253
+E1302,Olga,Costa,D04,Software Engineer,L2,False,Part-time,Dubai,2022-11-26,,,,Active,48000.0,5,,E1260
+E1303,Tariq,Gupta,D04,Lead Software Engineer,L4,False,Full-time,London,2024-01-24,,,,Active,150500.0,4,2026-07-28,E1262
+E1304,Chen,Banerjee,D04,Software Engineer,L2,False,Contractor,Remote,2021-12-07,2026-07-15,Voluntary,Career change,Terminated,75900.0,3,2025-08-18,E1262
+E1305,Gabriel,Weber,D04,Software Engineer,L2,False,Full-time,Dubai,2021-06-29,,,,Active,85500.0,3,2026-07-05,E1257
+E1306,Rosa,Farouk,D04,Senior Software Engineer,L3,False,Full-time,Dubai,2024-05-10,,,,Active,117600.0,3,2025-11-11,E1250
+E1307,Sami,Zhang,D04,Software Engineer,L2,False,Full-time,London,2025-01-14,,,,Active,92200.0,3,,E1262
+E1308,Gabriel,Carter,D04,Software Engineer,L2,False,Full-time,Remote,2021-02-02,2025-04-29,Involuntary,Restructuring,Terminated,71000.0,2,,E1251
+E1309,Kai,Singh,D04,Lead Software Engineer,L4,False,Full-time,Remote,2024-08-29,,,,Active,131600.0,4,,E1252
+E1310,Olga,Patel,D04,Senior Software Engineer,L3,False,Full-time,New York,2023-08-09,2024-10-29,Voluntary,Better opportunity,Terminated,124900.0,4,,E1262
+E1311,Jin,Rahman,D04,Senior Software Engineer,L3,False,Full-time,Dubai,2025-09-05,,,,Active,124000.0,4,,E1256
+E1312,Bianca,Hughes,D04,Senior Software Engineer,L3,False,Full-time,Dubai,2025-02-11,,,,Active,105400.0,4,,E1251
+E1313,Sara,Bakr,D04,Senior Software Engineer,L3,False,Full-time,Dubai,2022-07-11,2026-05-20,Voluntary,Compensation,Terminated,108700.0,3,2024-02-03,E1256
+E1314,Mohammed,Zhang,D04,Lead Software Engineer,L4,False,Part-time,London,2022-08-23,2025-01-28,Voluntary,Career change,Terminated,87100.0,4,2025-01-07,E1250
+E1315,Dina,Ghosh,D04,Senior Software Engineer,L3,False,Full-time,Singapore,2019-04-02,2026-04-13,Voluntary,Better opportunity,Terminated,114600.0,4,,E1253
+E1316,Mariam,Larsen,D04,Software Engineer,L2,False,Full-time,Singapore,2022-08-24,2025-03-25,Voluntary,Better opportunity,Terminated,85400.0,2,,E1262
+E1317,Chloe,Eriksen,D04,Associate Software Engineer,L1,False,Full-time,Dubai,2024-02-26,,,,Active,62400.0,4,,E1253
+E1318,Javier,Yamamoto,D04,Senior Software Engineer,L3,False,Full-time,Dubai,2026-04-08,,,,Active,114000.0,,,E1261
+E1319,Ethan,Brooks,D04,Senior Software Engineer,L3,False,Full-time,London,2024-01-31,,,,Active,116700.0,4,,E1256
+E1320,Arjun,Okoye,D04,Software Engineer,L2,False,Full-time,Dubai,2019-03-16,2025-07-12,Involuntary,Restructuring,Terminated,81100.0,3,2024-01-13,E1258
+E1321,Mateo,Singh,D04,Associate Software Engineer,L1,False,Full-time,London,2020-12-16,,,,Active,64600.0,4,,E1258
+E1322,Ethan,Hansen,D04,Software Engineer,L2,False,Full-time,London,2026-03-07,,,,Active,97900.0,2,,E1256
+E1323,Mateo,Fernandes,D04,Software Engineer,L2,False,Full-time,Singapore,2025-07-24,,,,Active,82900.0,3,,E1249
+E1324,Eli,Yilmaz,D04,Senior Software Engineer,L3,False,Full-time,London,2021-02-04,,,,Active,120900.0,4,,E1261
+E1325,Mia,Walsh,D04,Software Engineer,L2,False,Full-time,Singapore,2020-11-01,2024-02-17,Voluntary,Relocation,Terminated,84400.0,3,,E1255
+E1326,Mia,Banerjee,D04,Senior Software Engineer,L3,False,Full-time,London,2019-05-07,2022-08-10,Voluntary,Better opportunity,Terminated,121100.0,3,2020-09-11,E1258
+E1327,Diego,Gupta,D04,Senior Software Engineer,L3,False,Full-time,Singapore,2025-03-23,,,,Active,106000.0,2,,E1256
+E1328,Rosa,Costa,D04,Lead Software Engineer,L4,False,Full-time,Remote,2026-04-15,,,,Active,133500.0,,,E1258
+E1329,Karim,Nakamura,D04,Associate Software Engineer,L1,False,Full-time,Singapore,2023-02-19,,,,Active,65100.0,3,,E1253
+E1330,James,Walsh,D04,Lead Software Engineer,L4,False,Full-time,London,2026-01-12,,,,Active,139200.0,3,,E1260
+E1331,Ana,Nguyen,D04,Senior Software Engineer,L3,False,Full-time,Singapore,2022-10-06,,,,Active,121800.0,2,2025-06-17,E1252
+E1332,Mei,Yilmaz,D04,Senior Software Engineer,L3,False,Full-time,Singapore,2023-08-13,,,,Active,127300.0,1,,E1258
+E1333,Naomi,Yamamoto,D04,Associate Software Engineer,L1,False,Full-time,Dubai,2020-09-13,,,,Active,58000.0,5,,E1257
+E1334,Arjun,Rossi,D04,Software Engineer,L2,False,Full-time,Remote,2026-07-19,,,,Active,84900.0,,,E1256
+E1335,Hamza,Varga,D04,Senior Software Engineer,L3,False,Full-time,Dubai,2021-02-12,,,,Active,124700.0,5,2025-07-17,E1249
+E1336,Oscar,Mensah,D04,Software Engineer,L2,False,Full-time,London,2023-03-22,,,,Active,86800.0,3,2025-08-31,E1254
+E1337,Omar,Eriksen,D04,Software Engineer,L2,False,Full-time,London,2022-02-04,,,,Active,92300.0,1,2026-07-07,E1249
+E1338,Emma,Costa,D04,Senior Software Engineer,L3,False,Part-time,Singapore,2024-02-18,,,,Active,68700.0,3,2026-09-03,E1256
+E1339,Alex,Alvarez,D04,Senior Software Engineer,L3,False,Full-time,Dubai,2023-11-13,,,,Active,110700.0,1,2025-01-21,E1258
+E1340,Bianca,Ahmed,D04,Associate Software Engineer,L1,False,Full-time,New York,2024-10-22,,,,Active,65100.0,3,,E1256
+E1341,Aisha,Brooks,D04,Software Engineer,L2,False,Full-time,Singapore,2019-12-10,2020-10-24,Voluntary,Better opportunity,Terminated,91400.0,3,,E1259
+E1342,Hana,Mensah,D04,Software Engineer,L2,False,Full-time,Dubai,2026-07-17,,,,Active,82500.0,,,E1254
+E1343,Aaliyah,Carter,D04,Lead Software Engineer,L4,False,Full-time,Singapore,2025-07-21,,,,Active,134400.0,3,,E1253
+E1344,Amara,Bakr,D04,Lead Software Engineer,L4,False,Full-time,London,2024-08-13,,,,Active,166400.0,3,2026-06-23,E1255
+E1345,Aaliyah,Zhang,D04,Software Engineer,L2,False,Full-time,Dubai,2026-05-07,,,,Active,80700.0,,,E1252
+E1346,Mateo,Garcia,D04,Software Engineer,L2,False,Full-time,Dubai,2021-01-25,2023-02-14,Voluntary,Better opportunity,Terminated,71100.0,3,,E1260
+E1347,Amara,Quinn,D04,Software Engineer,L2,False,Full-time,Dubai,2021-04-30,2025-08-13,Voluntary,Relocation,Terminated,76200.0,4,2024-06-18,E1260
+E1348,Noah,Tanaka,D04,Software Engineer,L2,False,Full-time,Singapore,2026-08-11,,,,Active,77900.0,,,E1254
+E1349,Aaliyah,Murphy,D04,Lead Software Engineer,L4,False,Full-time,Dubai,2023-06-03,,,,Active,136400.0,3,,E1260
+E1350,Mei,Perez,D04,Software Engineer,L2,False,Full-time,New York,2026-08-19,,,,Active,89300.0,,,E1249
+E1351,Yusuf,Ivanova,D04,Associate Software Engineer,L1,False,Full-time,London,2023-12-24,,,,Active,55500.0,3,,E1251
+E1352,Kai,Adeyemi,D04,Associate Software Engineer,L1,False,Full-time,Singapore,2018-12-21,,,,Active,58500.0,3,,E1252
+E1353,Javier,Larsen,D04,Software Engineer,L2,False,Full-time,New York,2024-09-19,2025-12-01,Voluntary,Compensation,Terminated,96500.0,2,,E1254
+E1354,Emma,Chen,D04,Senior Software Engineer,L3,False,Full-time,London,2026-08-03,,,,Active,122400.0,,,E1252
+E1355,Ethan,Hughes,D04,Senior Software Engineer,L3,False,Full-time,Dubai,2023-01-29,,,,Active,112400.0,3,2025-02-04,E1256
+E1356,Adebayo,Chen,D04,Senior Software Engineer,L3,False,Full-time,New York,2021-08-31,2024-06-27,Voluntary,Compensation,Terminated,121700.0,3,2024-03-21,E1260
+E1357,Yara,Sokolov,D04,Software Engineer,L2,False,Full-time,London,2022-06-26,,,,Active,84200.0,3,2023-10-18,E1255
+E1358,Aarav,Das,D04,Lead Software Engineer,L4,False,Full-time,New York,2023-01-28,,,,Active,160000.0,1,,E1255
+E1359,James,Kim,D04,Software Engineer,L2,False,Contractor,Remote,2021-07-03,2022-03-16,Involuntary,Contract ended,Terminated,82300.0,3,,E1249
+E1360,Mei,Kumar,D04,Senior Software Engineer,L3,False,Full-time,Dubai,2026-09-26,,,,Active,106500.0,,,E1252
+E1361,Jana,Ahmed,D04,Lead Software Engineer,L4,False,Full-time,London,2025-02-20,,,,Active,140500.0,1,,E1260
+E1362,Isabel,Andersen,D04,Software Engineer,L2,False,Full-time,Dubai,2021-08-13,2024-10-05,Voluntary,Career change,Terminated,76200.0,4,2024-03-28,E1260
+E1363,Eli,Hughes,D04,Lead Software Engineer,L4,False,Full-time,Singapore,2019-05-22,,,,Active,146500.0,4,,E1250
+E1364,Tariq,Weber,D04,Software Engineer,L2,False,Full-time,Remote,2026-08-21,,,,Active,82100.0,,,E1249
+E1365,Gabriel,Rossi,D04,Senior Software Engineer,L3,False,Full-time,Dubai,2026-06-25,,,,Active,109400.0,,,E1260
+E1366,Ryan,Alvarez,D04,Associate Software Engineer,L1,False,Full-time,Dubai,2025-06-12,,,,Active,59000.0,2,,E1251
+E1367,Mateo,Nguyen,D04,Software Engineer,L2,False,Full-time,London,2025-12-13,,,,Active,97100.0,3,,E1257
+E1368,Sami,Santos,D04,Software Engineer,L2,False,Full-time,Dubai,2022-09-26,,,,Active,81900.0,3,2025-06-23,E1260
+E1369,Yara,Fischer,D04,Associate Software Engineer,L1,False,Full-time,London,2023-01-30,,,,Active,59800.0,3,,E1260
+E1370,Freya,Kumar,D04,Associate Software Engineer,L1,False,Full-time,New York,2021-06-05,,,,Active,70900.0,3,,E1256
+E1371,Yara,Okoye,D04,Software Engineer,L2,False,Full-time,New York,2024-12-18,,,,Active,100000.0,4,2026-09-06,E1254
+E1372,Jin,Nakamura,D04,Senior Software Engineer,L3,False,Contractor,Dubai,2022-11-18,,,,Active,112300.0,3,,E1259
+E1373,Kate,Garcia,D04,Software Engineer,L2,False,Full-time,Singapore,2020-05-07,2022-12-15,Voluntary,Work-life balance,Terminated,81200.0,5,,E1258
+E1374,James,Ivanova,D04,Software Engineer,L2,False,Full-time,Dubai,2022-01-19,2025-12-13,Voluntary,Career change,Terminated,83500.0,4,2024-12-16,E1260
+E1375,Eli,Moreau,D04,Lead Software Engineer,L4,False,Contractor,Dubai,2026-05-22,,,,Active,138100.0,,,E1256
+E1376,Laila,Hansen,D04,Lead Software Engineer,L4,False,Full-time,New York,2020-08-16,2020-12-30,Involuntary,Performance,Terminated,164500.0,1,,E1262
+E1377,Kai,Kim,D04,Associate Software Engineer,L1,False,Full-time,Remote,2021-02-12,2025-04-05,Voluntary,Career change,Terminated,54400.0,5,,E1259
+E1378,Ben,Brooks,D04,Software Engineer,L2,False,Full-time,London,2024-12-05,,,,Active,88600.0,3,,E1249
+E1379,Andrei,Larsen,D04,Senior Software Engineer,L3,False,Full-time,Dubai,2025-05-05,,,,Active,103700.0,2,,E1253
+E1380,Ivan,Brooks,D04,Senior Software Engineer,L3,False,Part-time,Dubai,2023-08-04,,,,Active,79300.0,3,,E1260
+E1381,Ryan,Eriksen,D04,Software Engineer,L2,False,Part-time,London,2024-07-04,,,,Active,61300.0,2,,E1250
+E1382,Mohammed,Kowalczyk,D04,Senior Software Engineer,L3,False,Full-time,Singapore,2023-01-04,,,,Active,109900.0,4,,E1258
+E1383,Nora,Alvarez,D04,Associate Software Engineer,L1,False,Full-time,New York,2023-04-10,2024-01-12,Voluntary,Better opportunity,Terminated,74100.0,4,,E1253
+E1384,Luis,Nakamura,D04,Software Engineer,L2,False,Contractor,New York,2021-07-22,2022-02-09,Involuntary,Contract ended,Terminated,86600.0,2,,E1251
+E1385,Zoe,Usman,D04,Senior Software Engineer,L3,False,Full-time,Dubai,2023-02-11,,,,Active,110900.0,4,,E1256
+E1386,Elena,Perez,D04,Senior Software Engineer,L3,False,Full-time,New York,2026-09-05,,,,Active,149100.0,,,E1262
+E1387,Carlos,Jensen,D04,Senior Software Engineer,L3,False,Full-time,Singapore,2021-08-30,,,,Active,111900.0,3,,E1261
+E1388,Lina,Fernandes,D04,Associate Software Engineer,L1,False,Full-time,Remote,2022-04-07,,,,Active,53300.0,3,,E1254
+E1389,Chen,Chen,D04,Software Engineer,L2,False,Full-time,Singapore,2024-01-18,,,,Active,88500.0,3,,E1249
+E1390,Carlos,Gupta,D04,Associate Software Engineer,L1,False,Contractor,Dubai,2024-10-03,2025-05-15,Voluntary,Better opportunity,Terminated,63000.0,1,,E1261
+E1391,James,Brooks,D04,Software Engineer,L2,False,Contractor,Dubai,2023-03-26,2023-10-01,Voluntary,Better opportunity,Terminated,78500.0,3,,E1261
+E1392,Sofia,Bakr,D04,Associate Software Engineer,L1,False,Part-time,Dubai,2025-04-10,,,,Active,36900.0,1,,E1257
+E1393,Alex,Tanaka,D04,Software Engineer,L2,False,Full-time,New York,2024-11-04,,,,Active,108900.0,2,2025-12-19,E1257
+E1394,Jana,Ibrahim,D04,Software Engineer,L2,False,Full-time,Dubai,2025-05-19,,,,Active,93100.0,2,,E1256
+E1395,Ivan,Santos,D04,Senior Software Engineer,L3,False,Full-time,New York,2026-06-12,,,,Active,129400.0,,,E1249
+E1396,Chen,Kowalczyk,D04,Software Engineer,L2,False,Full-time,New York,2024-11-23,,,,Active,93100.0,4,,E1251
+E1397,Ravi,Saleh,D04,Associate Software Engineer,L1,False,Full-time,New York,2026-04-06,,,,Active,69400.0,,,E1251
+E1398,Ibrahim,Kim,D04,Senior Software Engineer,L3,False,Full-time,Singapore,2026-03-11,,,,Active,113300.0,4,,E1261
+E1399,Aarav,Torres,D04,Associate Software Engineer,L1,False,Full-time,Dubai,2026-07-29,,,,Active,57000.0,,,E1249
+E1400,Ana,Khan,D04,Lead Software Engineer,L4,False,Full-time,New York,2021-02-11,2024-04-18,Voluntary,Relocation,Terminated,174700.0,3,2022-09-03,E1256
+E1401,Andrei,Nasser,D04,Associate Software Engineer,L1,False,Full-time,London,2026-07-16,,,,Active,67000.0,,,E1254
+E1402,Kai,Nasser,D04,Software Engineer,L2,False,Full-time,London,2018-10-22,,,,Active,89900.0,3,,E1249
+E1403,Alejandro,Lopez,D04,Lead Software Engineer,L4,False,Full-time,Remote,2024-08-10,,,,Active,139200.0,4,,E1261
+E1404,Mariam,Gupta,D04,Senior Software Engineer,L3,False,Full-time,Dubai,2023-02-14,2025-11-08,Voluntary,Better opportunity,Terminated,99700.0,5,2024-03-01,E1249
+E1405,Zoe,Carter,D04,Senior Software Engineer,L3,False,Full-time,New York,2024-07-31,,,,Active,128600.0,5,,E1260
+E1406,Nikhil,Reyes,D04,Senior Software Engineer,L3,False,Part-time,Dubai,2023-08-07,,,,Active,67300.0,4,,E1259
+E1407,Ryan,Patel,D04,Associate Software Engineer,L1,False,Full-time,Dubai,2021-11-19,,,,Active,60900.0,2,,E1260
+E1408,Arjun,Vargas,D04,Senior Software Engineer,L3,False,Full-time,Remote,2023-09-06,,,,Active,99300.0,3,,E1251
+E1409,Grace,Nasser,D04,Lead Software Engineer,L4,False,Part-time,Remote,2021-04-27,,,,Active,85400.0,2,,E1261
+E1410,Nikhil,Gupta,D04,Lead Software Engineer,L4,False,Full-time,London,2025-06-14,2026-03-21,Voluntary,Better opportunity,Terminated,164100.0,5,,E1257
+E1411,Lina,Novak,D04,Software Engineer,L2,False,Full-time,London,2020-08-15,,,,Active,87300.0,2,2024-10-15,E1254
+E1412,Ibrahim,Tanaka,D04,Software Engineer,L2,False,Full-time,New York,2022-11-08,,,,Active,106700.0,3,2026-04-14,E1258
+E1413,Adam,Bakr,D04,Senior Software Engineer,L3,False,Full-time,London,2022-05-24,2023-12-15,Voluntary,Career change,Terminated,122500.0,4,,E1253
+E1414,Lucas,Ghosh,D04,Software Engineer,L2,False,Full-time,Singapore,2025-07-30,2026-09-01,Involuntary,Performance,Terminated,80000.0,2,,E1252
+E1415,Carlos,Adeyemi,D04,Software Engineer,L2,False,Full-time,Dubai,2019-10-05,2020-01-23,Voluntary,Relocation,Terminated,75500.0,3,,E1253
+E1416,Ivan,Vargas,D04,Software Engineer,L2,False,Full-time,Dubai,2026-05-11,,,,Active,83700.0,,,E1256
+E1417,Aarav,Suzuki,D04,Software Engineer,L2,False,Full-time,Remote,2024-03-29,,,,Active,76600.0,3,,E1257
+E1418,Gabriel,Mensah,D04,Software Engineer,L2,False,Full-time,New York,2023-01-15,,,,Active,89100.0,3,,E1252
+E1419,Ethan,Andersen,D04,Software Engineer,L2,False,Full-time,New York,2022-05-21,,,,Active,97300.0,4,,E1252
+E1420,Nikhil,Perez,D04,Associate Software Engineer,L1,False,Full-time,Singapore,2023-08-22,,,,Active,66800.0,3,,E1262
+E1421,Hana,Adeyemi,D04,Associate Software Engineer,L1,False,Full-time,Singapore,2024-07-31,2025-10-05,Voluntary,Compensation,Terminated,59100.0,4,,E1256
+E1422,Emma,Rossi,D04,Lead Software Engineer,L4,False,Full-time,Remote,2024-11-19,2026-02-25,Voluntary,Better opportunity,Terminated,138200.0,3,,E1261
+E1423,Felix,Lopez,D04,Associate Software Engineer,L1,False,Contractor,Dubai,2021-07-02,,,,Active,58600.0,1,,E1253
+E1424,Laila,Santos,D04,Associate Software Engineer,L1,False,Full-time,Dubai,2024-05-15,,,,Active,53800.0,3,,E1253
+E1425,Mariam,Rossi,D04,Software Engineer,L2,False,Full-time,Remote,2022-06-29,2023-09-05,Involuntary,Restructuring,Terminated,75700.0,5,,E1252
+E1426,Lina,Dubois,D04,Software Engineer,L2,False,Full-time,New York,2022-09-13,,,,Active,111000.0,5,,E1256
+E1427,Daniel,Bianchi,D04,Lead Software Engineer,L4,False,Full-time,London,2022-07-29,2025-08-09,Voluntary,Better opportunity,Terminated,136700.0,3,,E1259
+E1428,Kai,Quinn,D04,Lead Software Engineer,L4,False,Full-time,London,2019-02-01,2021-09-27,Voluntary,Compensation,Terminated,149800.0,3,2020-04-15,E1256
+E1429,Yusuf,Bianchi,D04,Software Engineer,L2,False,Full-time,London,2021-05-08,,,,Active,86700.0,2,,E1253
+E1430,Emma,Okoye,D04,Software Engineer,L2,False,Contractor,Remote,2023-02-04,2026-01-26,Voluntary,Relocation,Terminated,75600.0,3,2025-08-04,E1262
+E1431,Kai,Wilson,D04,Software Engineer,L2,False,Part-time,Dubai,2021-03-18,,,,Active,49500.0,3,,E1257
+E1432,Felix,Sokolov,D04,Associate Software Engineer,L1,False,Full-time,London,2025-11-02,,,,Active,70800.0,3,,E1254
+E1433,Rania,Vargas,D04,Software Engineer,L2,False,Full-time,New York,2025-12-26,,,,Active,105500.0,3,,E1249
+E1434,Emma,Larsen,D04,Associate Software Engineer,L1,False,Full-time,New York,2024-02-02,,,,Active,68400.0,3,,E1256
+E1435,Naomi,Farouk,D04,Associate Software Engineer,L1,False,Part-time,Dubai,2021-07-05,,,,Active,35200.0,4,,E1257
+E1436,Nadia,Patel,D04,Senior Software Engineer,L3,False,Full-time,New York,2024-04-08,,,,Active,126400.0,3,,E1262
+E1437,Ryan,Rossi,D04,Associate Software Engineer,L1,False,Full-time,London,2023-01-25,,,,Active,64100.0,4,,E1252
+E1438,Sebastian,Kim,D04,Associate Software Engineer,L1,False,Contractor,New York,2025-11-01,,,,Active,74800.0,3,,E1251
+E1439,Bianca,Petrov,D04,Software Engineer,L2,False,Full-time,London,2022-09-18,2024-03-23,Voluntary,Compensation,Terminated,85100.0,3,,E1262
+E1440,Dina,Suzuki,D04,Software Engineer,L2,False,Full-time,New York,2021-02-04,2025-02-22,Involuntary,Restructuring,Terminated,99100.0,4,2022-03-06,E1256
+E1441,Naomi,Zhang,D04,Associate Software Engineer,L1,False,Contractor,Remote,2025-01-02,,,,Active,54800.0,3,,E1249
+E1442,Elena,Sharma,D04,Associate Software Engineer,L1,False,Full-time,Dubai,2024-04-25,2024-09-19,Involuntary,Restructuring,Terminated,58400.0,4,,E1250
+E1443,Julia,Nguyen,D04,Software Engineer,L2,False,Full-time,London,2025-10-18,,,,Active,78000.0,3,,E1255
+E1444,Jack,Mensah,D04,Software Engineer,L2,False,Full-time,Singapore,2026-07-23,,,,Active,85300.0,,,E1257
+E1445,Adam,Martin,D04,Senior Software Engineer,L3,False,Full-time,New York,2018-01-27,2022-10-02,Voluntary,Compensation,Terminated,134900.0,5,2022-09-14,E1252
+E1446,Amelia,Young,D04,Lead Software Engineer,L4,False,Full-time,London,2023-08-05,,,,Active,152300.0,1,2026-07-13,E1254
+E1447,Andrei,Fischer,D04,Software Engineer,L2,False,Full-time,Dubai,2021-06-15,,,,Active,77000.0,5,,E1259
+E1448,Ava,Jensen,D04,Software Engineer,L2,False,Full-time,Dubai,2021-11-19,,,,Active,76300.0,3,,E1262
+E1449,Sebastian,Carter,D04,Senior Software Engineer,L3,False,Full-time,Dubai,2022-12-23,2026-09-03,Voluntary,Career change,Terminated,108100.0,3,2025-03-01,E1255
+E1450,Emma,Hughes,D05,"VP, Product",L7,True,Full-time,New York,2017-12-09,,,,Active,324700.0,3,2025-03-31,
+E1451,Rahul,Garcia,D05,"Director, Product",L6,True,Full-time,London,2018-05-29,,,,Active,207300.0,4,,E1450
+E1452,Ava,Andersen,D05,"Manager, Product",L5,True,Full-time,Remote,2022-06-10,,,,Active,169700.0,4,,E1450
+E1453,Omar,Kaur,D05,"Manager, Product",L5,True,Full-time,New York,2023-07-13,,,,Active,171200.0,1,,E1450
+E1454,Ethan,Kim,D05,Associate Product Manager,L1,False,Full-time,Remote,2026-03-01,,,,Active,59700.0,3,,E1452
+E1455,Leo,Carter,D05,Product Manager,L2,False,Full-time,Dubai,2024-04-21,,,,Active,83600.0,3,,E1452
+E1456,Isabel,Murphy,D05,Associate Product Manager,L1,False,Full-time,New York,2021-08-08,,,,Active,73400.0,3,,E1453
+E1457,Adam,Zhang,D05,Product Manager,L2,False,Full-time,New York,2025-09-21,,,,Active,91900.0,3,,E1452
+E1458,Nora,Zhang,D05,Senior Product Manager,L3,False,Contractor,Singapore,2025-02-21,,,,Active,106000.0,3,,E1453
+E1459,Javier,Mensah,D05,Senior Product Manager,L3,False,Full-time,Remote,2025-08-02,,,,Active,92700.0,1,,E1452
+E1460,Zara,Wang,D05,Lead Product Manager,L4,False,Full-time,New York,2023-04-05,2025-04-09,Voluntary,Work-life balance,Terminated,151000.0,3,2025-02-08,E1453
+E1461,Mateo,Hassan,D05,Product Manager,L2,False,Full-time,Dubai,2025-06-08,,,,Active,79000.0,2,,E1453
+E1462,Kai,Gupta,D05,Senior Product Manager,L3,False,Full-time,Dubai,2024-05-07,,,,Active,117100.0,2,,E1453
+E1463,Zara,Novak,D05,Senior Product Manager,L3,False,Full-time,New York,2025-12-14,2026-06-29,Voluntary,Compensation,Terminated,113500.0,2,,E1453
+E1464,Zara,Nguyen,D05,Product Manager,L2,False,Full-time,New York,2021-07-17,,,,Active,91300.0,4,2026-05-15,E1452
+E1465,Ben,Mehta,D05,Product Manager,L2,False,Full-time,Dubai,2025-09-09,,,,Active,70200.0,2,,E1453
+E1466,Amelia,Yamamoto,D05,Product Manager,L2,False,Full-time,Dubai,2024-09-14,,,,Active,83200.0,3,2026-01-07,E1453
+E1467,Luis,Jensen,D05,Senior Product Manager,L3,False,Full-time,Singapore,2022-10-07,,,,Active,109800.0,3,2026-04-15,E1452
+E1468,Ravi,Torres,D05,Product Manager,L2,False,Contractor,London,2025-09-01,,,,Active,85000.0,3,,E1452
+E1469,Luis,Alvarez,D05,Product Manager,L2,False,Full-time,London,2024-10-14,,,,Active,73800.0,3,,E1453
+E1470,Yusuf,Hansen,D05,Lead Product Manager,L4,False,Full-time,Remote,2025-05-09,2025-08-28,Voluntary,Better opportunity,Terminated,135900.0,3,,E1452
+E1471,Grace,Tanaka,D05,Associate Product Manager,L1,False,Part-time,Singapore,2026-07-05,,,,Active,36300.0,,,E1453
+E1472,Aisha,Banerjee,D05,Lead Product Manager,L4,False,Full-time,New York,2023-09-16,,,,Active,148300.0,2,2025-01-02,E1453
+E1473,Carlos,Ivanova,D05,Senior Product Manager,L3,False,Full-time,Singapore,2026-09-11,,,,Active,103200.0,,,E1452
+E1474,Chloe,Kumar,D05,Senior Product Manager,L3,False,Contractor,New York,2025-10-18,2026-02-22,Involuntary,Contract ended,Terminated,122000.0,4,,E1453
+E1475,Jana,Sharma,D05,Senior Product Manager,L3,False,Full-time,London,2026-09-10,,,,Active,108700.0,,,E1453
+E1476,Bianca,Adeyemi,D05,Product Manager,L2,False,Full-time,Dubai,2023-02-16,2025-05-05,Involuntary,Restructuring,Terminated,92800.0,3,2024-09-06,E1452
+E1477,Hiro,Johnson,D05,Senior Product Manager,L3,False,Full-time,Remote,2018-06-26,,,,Active,103400.0,3,2022-08-06,E1453
+E1478,Sebastian,Dubois,D05,Senior Product Manager,L3,False,Full-time,Dubai,2021-01-30,,,,Active,108900.0,3,2025-01-28,E1452
+E1479,Kate,Rossi,D05,Senior Product Manager,L3,False,Full-time,Dubai,2026-02-04,,,,Active,112500.0,3,,E1452
+E1480,Yara,Vargas,D05,Product Manager,L2,False,Full-time,Dubai,2023-07-15,2025-06-25,Voluntary,Compensation,Terminated,79000.0,4,2024-11-23,E1453
+E1481,Mei,Khan,D05,Product Manager,L2,False,Full-time,London,2022-05-02,,,,Active,86500.0,2,2023-12-17,E1453
+E1482,Tariq,Bakr,D05,Product Manager,L2,False,Full-time,Remote,2025-06-09,,,,Active,70600.0,3,,E1452
+E1483,Grace,Edwards,D05,Product Manager,L2,False,Contractor,Dubai,2020-10-27,2024-02-26,Voluntary,Work-life balance,Terminated,84700.0,2,,E1452
+E1484,Chen,Adeyemi,D05,Senior Product Manager,L3,False,Full-time,Dubai,2024-01-23,,,,Active,100200.0,3,,E1452
+E1485,Sofia,Das,D05,Senior Product Manager,L3,False,Full-time,London,2025-12-15,,,,Active,118400.0,3,,E1452
+E1486,Kai,Edwards,D05,Senior Product Manager,L3,False,Contractor,Dubai,2024-04-27,,,,Active,111000.0,4,,E1452
+E1487,Grace,Johnson,D06,"VP, Finance",L7,True,Full-time,Dubai,2019-08-13,,,,Active,239100.0,4,2026-01-04,
+E1488,Aisha,Ivanova,D06,"Director, Finance",L6,True,Full-time,New York,2020-12-09,,,,Active,213300.0,4,2023-09-18,E1487
+E1489,Imani,Martin,D06,"Manager, Finance",L5,True,Full-time,New York,2022-04-08,,,,Active,158700.0,4,2025-10-23,E1488
+E1490,Javier,Nakamura,D06,"Manager, Finance",L5,True,Full-time,London,2024-07-17,,,,Active,150000.0,1,2026-09-09,E1487
+E1491,Oscar,Sokolov,D06,Associate Financial Analyst,L1,False,Full-time,New York,2021-12-06,,,,Active,64100.0,3,,E1489
+E1492,Kai,Martin,D06,Senior Financial Analyst,L3,False,Full-time,London,2024-06-17,,,,Active,100400.0,5,,E1489
+E1493,Aarav,Dimitrov,D06,Senior Financial Analyst,L3,False,Full-time,Singapore,2025-05-18,,,,Active,97700.0,5,,E1490
+E1494,Nikhil,Martin,D06,Senior Financial Analyst,L3,False,Part-time,Dubai,2025-12-11,,,,Active,54600.0,4,,E1490
+E1495,Jin,Olsen,D06,Financial Analyst,L2,False,Full-time,New York,2018-01-28,,,,Active,78800.0,5,,E1490
+E1496,Nadia,Alvarez,D06,Lead Financial Analyst,L4,False,Full-time,New York,2024-09-25,2026-03-01,Voluntary,Compensation,Terminated,149600.0,4,2026-02-08,E1489
+E1497,Nadia,Sharma,D06,Financial Analyst,L2,False,Full-time,Dubai,2018-11-19,2019-07-31,Voluntary,Career change,Terminated,69900.0,3,2019-11-19,E1490
+E1498,Julia,Hughes,D06,Associate Financial Analyst,L1,False,Full-time,London,2020-10-06,,,,Active,57200.0,2,,E1490
+E1499,Jana,Moreau,D06,Associate Financial Analyst,L1,False,Full-time,Remote,2022-10-27,,,,Active,47300.0,3,,E1490
+E1500,Aisha,Petrov,D06,Financial Analyst,L2,False,Full-time,Dubai,2024-04-08,,,,Active,72300.0,3,,E1490
+E1501,Sebastian,Wang,D06,Financial Analyst,L2,False,Full-time,Dubai,2026-03-23,,,,Active,68200.0,3,,E1490
+E1502,Ivan,Carter,D06,Financial Analyst,L2,False,Part-time,Dubai,2020-01-20,,,,Active,41100.0,5,,E1490
+E1503,Karim,Walsh,D06,Senior Financial Analyst,L3,False,Full-time,Dubai,2026-09-04,,,,Active,95500.0,,,E1490
+E1504,Hamza,Kaur,D06,Financial Analyst,L2,False,Full-time,Dubai,2018-10-25,,,,Active,74500.0,3,2023-08-28,E1490
+E1505,Maria,Adeyemi,D06,Lead Financial Analyst,L4,False,Full-time,London,2026-07-21,,,,Active,129300.0,,,E1490
+E1506,Imani,Nakamura,D06,Associate Financial Analyst,L1,False,Full-time,Dubai,2026-08-09,,,,Active,50500.0,,,E1490
+E1507,Oscar,Andersen,D06,Senior Financial Analyst,L3,False,Full-time,Dubai,2026-07-07,,,,Active,97200.0,,,E1489
+E1508,Carlos,Rossi,D06,Lead Financial Analyst,L4,False,Full-time,London,2023-09-28,,,,Active,125800.0,4,2025-05-22,E1490
+E1509,Yara,Alvarez,D06,Senior Financial Analyst,L3,False,Full-time,Dubai,2020-09-27,,,,Active,102800.0,4,,E1489
+E1510,Sebastian,Silva,D06,Senior Financial Analyst,L3,False,Full-time,London,2025-12-08,,,,Active,101800.0,3,,E1490
+E1511,Nora,Rahman,D06,Senior Financial Analyst,L3,False,Part-time,Dubai,2022-12-12,,,,Active,62700.0,3,2024-11-27,E1489
+E1512,Zara,Alvarez,D06,Associate Financial Analyst,L1,False,Full-time,New York,2022-05-21,,,,Active,54600.0,3,,E1490
+E1513,Paula,Das,D06,Associate Financial Analyst,L1,False,Full-time,Singapore,2025-03-15,,,,Active,51000.0,4,,E1490
+E1514,Isabel,Olsen,D06,Financial Analyst,L2,False,Full-time,Dubai,2026-09-27,,,,Active,69500.0,,,E1490
+E1515,Yara,Edwards,D06,Associate Financial Analyst,L1,False,Full-time,Remote,2026-03-11,,,,Active,51200.0,5,,E1489
+E1516,Zoe,Murphy,D07,"VP, People",L7,True,Full-time,Dubai,2022-01-03,,,,Active,242000.0,4,,
+E1517,Mia,Abbott,D07,"Director, People",L6,True,Full-time,London,2018-01-26,,,,Active,159300.0,4,2022-05-29,E1516
+E1518,Adebayo,Kumar,D07,"Manager, People",L5,True,Full-time,London,2022-10-04,,,,Active,164900.0,3,,E1517
+E1519,Eli,Silva,D07,Lead People Partner,L4,False,Full-time,London,2019-06-09,2022-04-25,Voluntary,Better opportunity,Terminated,126000.0,3,2021-08-31,E1518
+E1520,Oscar,Kumar,D07,Senior People Partner,L3,False,Full-time,London,2021-01-26,2025-10-14,Voluntary,Compensation,Terminated,98400.0,4,,E1518
+E1521,Lina,Kowalczyk,D07,People Partner,L2,False,Full-time,London,2025-09-11,,,,Active,73500.0,3,,E1518
+E1522,Kai,Ahmed,D07,Lead People Partner,L4,False,Full-time,Singapore,2026-08-22,,,,Active,120800.0,,,E1518
+E1523,Grace,Ghosh,D07,Associate People Partner,L1,False,Full-time,Remote,2024-11-02,,,,Active,44900.0,4,,E1518
+E1524,Amara,Varga,D07,Senior People Partner,L3,False,Full-time,Remote,2022-01-02,2025-10-19,Involuntary,Restructuring,Terminated,87300.0,3,,E1518
+E1525,Tom,Eriksen,D07,People Partner,L2,False,Full-time,New York,2021-06-05,,,,Active,76500.0,3,,E1518
+E1526,Ryan,Torres,D07,Senior People Partner,L3,False,Full-time,London,2025-11-30,,,,Active,100500.0,3,,E1518
+E1527,Amara,Garcia,D07,People Partner,L2,False,Full-time,New York,2024-03-05,,,,Active,78400.0,3,,E1518
+E1528,Javier,Ghosh,D07,People Partner,L2,False,Full-time,Dubai,2022-09-11,,,,Active,66600.0,1,2026-07-30,E1518
+E1529,Naomi,Hughes,D07,Associate People Partner,L1,False,Full-time,Dubai,2024-09-08,,,,Active,43900.0,5,,E1518
+E1530,Leo,Zhang,D07,People Partner,L2,False,Full-time,New York,2023-08-28,,,,Active,83000.0,3,,E1518
+E1531,Ivan,Hughes,D07,People Partner,L2,False,Contractor,Dubai,2020-05-26,2025-07-21,Voluntary,Relocation,Terminated,64300.0,3,,E1518
+E1532,Freya,Petrov,D07,People Partner,L2,False,Full-time,Remote,2025-04-24,,,,Active,65300.0,3,,E1518
+E1533,Mohammed,Tanaka,D07,People Partner,L2,False,Full-time,Dubai,2023-02-08,,,,Active,71300.0,3,,E1518
+E1534,Paula,Santos,D07,Senior People Partner,L3,False,Full-time,Dubai,2022-10-17,,,,Active,91400.0,1,2025-08-08,E1518
+E1535,Nora,Quinn,D07,People Partner,L2,False,Full-time,London,2023-02-03,,,,Active,69000.0,1,2025-12-07,E1518
+E1536,Alex,Ahmed,D07,Senior People Partner,L3,False,Full-time,London,2022-11-04,,,,Active,97100.0,5,2026-08-29,E1518
+E1537,Jana,Perez,D07,Associate People Partner,L1,False,Full-time,New York,2018-02-07,2021-02-11,Voluntary,Relocation,Terminated,59900.0,3,,E1518
+E1538,Amelia,Dimitrov,D07,Senior People Partner,L3,False,Full-time,Dubai,2026-04-26,,,,Active,88000.0,,,E1518
+E1539,Oscar,Eriksen,D08,"VP, IT",L7,True,Full-time,Dubai,2017-05-29,,,,Active,276100.0,4,2024-06-26,
+E1540,Arjun,Fernandes,D08,"Director, IT",L6,True,Full-time,New York,2018-12-29,,,,Active,229500.0,4,2023-01-06,E1539
+E1541,Rosa,Kim,D08,"Manager, IT",L5,True,Full-time,New York,2024-11-26,2026-02-09,Voluntary,Better opportunity,Terminated,180700.0,2,,E1540
+E1542,Javier,Costa,D08,"Manager, IT",L5,True,Full-time,Dubai,2020-04-03,,,,Active,165900.0,4,,E1539
+E1543,Amara,Lopez,D08,"Manager, IT",L5,True,Full-time,Dubai,2025-10-24,,,,Active,153900.0,1,,E1539
+E1544,Hiro,Kowalczyk,D08,Systems Engineer,L2,False,Full-time,Remote,2025-07-11,,,,Active,77900.0,3,,E1543
+E1545,Tom,Perez,D08,Systems Engineer,L2,False,Full-time,Remote,2026-05-04,,,,Active,67300.0,,,E1543
+E1546,Kai,Andersen,D08,Senior Systems Engineer,L3,False,Contractor,London,2025-12-11,,,,Active,113900.0,3,,E1543
+E1547,Jana,Yamamoto,D08,Lead Systems Engineer,L4,False,Contractor,Dubai,2020-06-29,,,,Active,118100.0,1,,E1542
+E1548,Fatima,Yilmaz,D08,Senior Systems Engineer,L3,False,Full-time,London,2025-04-12,,,,Active,100900.0,4,,E1541
+E1549,Grace,Gupta,D08,Lead Systems Engineer,L4,False,Full-time,Dubai,2024-02-06,,,,Active,128900.0,3,2025-08-23,E1543
+E1550,Sami,Nguyen,D08,Systems Engineer,L2,False,Full-time,London,2022-04-11,2026-07-10,Voluntary,Work-life balance,Terminated,88600.0,3,2023-09-28,E1543
+E1551,Wei,Banerjee,D08,Senior Systems Engineer,L3,False,Full-time,Dubai,2022-07-25,,,,Active,97700.0,4,2023-08-22,E1543
+E1552,Diego,Young,D08,Senior Systems Engineer,L3,False,Contractor,London,2025-05-30,,,,Active,112600.0,3,,E1541
+E1553,Hiro,Abbott,D08,Systems Engineer,L2,False,Part-time,Singapore,2025-11-25,,,,Active,48200.0,3,,E1542
+E1554,Kate,Jensen,D08,Systems Engineer,L2,False,Part-time,New York,2022-08-03,2023-07-23,Voluntary,Work-life balance,Terminated,51100.0,2,2023-08-03,E1541
+E1555,Jack,Santos,D08,Lead Systems Engineer,L4,False,Full-time,Remote,2020-02-27,2022-10-02,Involuntary,Restructuring,Terminated,122500.0,3,,E1543
+E1556,Oscar,Brooks,D08,Associate Systems Engineer,L1,False,Full-time,Dubai,2026-01-03,,,,Active,49100.0,4,,E1543
+E1557,Ivan,Alvarez,D08,Systems Engineer,L2,False,Full-time,London,2026-02-27,2026-06-18,Voluntary,Work-life balance,Terminated,72400.0,4,,E1541
+E1558,Daniel,Rahman,D08,Lead Systems Engineer,L4,False,Contractor,London,2019-10-31,2023-08-09,Voluntary,Relocation,Terminated,140100.0,1,2023-06-21,E1541
+E1559,Ben,Rossi,D08,Lead Systems Engineer,L4,False,Full-time,New York,2024-11-02,,,,Active,149200.0,2,,E1542
+E1560,Freya,Weber,D08,Lead Systems Engineer,L4,False,Full-time,London,2024-10-18,,,,Active,135500.0,3,,E1542
+E1561,Valentina,Patel,D08,Lead Systems Engineer,L4,False,Full-time,London,2022-09-16,,,,Active,144200.0,4,,E1542
+E1562,Elena,Hansen,D08,Associate Systems Engineer,L1,False,Full-time,London,2025-10-22,,,,Active,57500.0,3,,E1542
+E1563,Tom,Fernandes,D08,Lead Systems Engineer,L4,False,Full-time,Dubai,2022-04-28,,,,Active,116800.0,3,,E1543
+E1564,Julia,Hansen,D08,Systems Engineer,L2,False,Full-time,London,2020-08-06,,,,Active,77700.0,4,2026-08-11,E1543
+E1565,Paula,Quinn,D08,Senior Systems Engineer,L3,False,Full-time,London,2021-04-06,2023-04-25,Voluntary,Relocation,Terminated,99700.0,5,2022-06-06,E1543
+E1566,Yusuf,Vargas,D08,Systems Engineer,L2,False,Full-time,New York,2026-04-17,,,,Active,88600.0,,,E1542
+E1567,Karim,Eriksen,D08,Senior Systems Engineer,L3,False,Full-time,London,2024-09-30,,,,Active,104400.0,3,,E1543
+E1568,Adebayo,Bianchi,D08,Senior Systems Engineer,L3,False,Full-time,London,2022-01-13,,,,Active,101100.0,5,,E1543
+E1569,Naomi,Nguyen,D08,Senior Systems Engineer,L3,False,Full-time,Dubai,2023-09-22,2025-09-14,Involuntary,Performance,Terminated,96200.0,2,2025-01-31,E1541
+E1570,Mariam,Suzuki,D08,Systems Engineer,L2,False,Full-time,Remote,2022-11-03,,,,Active,73700.0,3,2025-08-08,E1543
+E1571,Leo,Hughes,D08,Systems Engineer,L2,False,Full-time,London,2025-03-01,,,,Active,74200.0,5,2026-05-09,E1542
+E1572,Tom,Vargas,D08,Systems Engineer,L2,False,Contractor,Dubai,2020-10-21,2025-01-10,Voluntary,Work-life balance,Terminated,75100.0,2,,E1542
+E1573,Mia,Ghosh,D08,Associate Systems Engineer,L1,False,Full-time,Dubai,2024-07-28,,,,Active,54700.0,5,,E1543
+E1574,Hiro,Novak,D08,Senior Systems Engineer,L3,False,Full-time,Dubai,2021-05-13,2024-04-10,Voluntary,Relocation,Terminated,100200.0,4,2023-12-15,E1543
+E1575,Lina,Yilmaz,D08,Systems Engineer,L2,False,Full-time,Singapore,2025-08-08,2026-01-26,Involuntary,Restructuring,Terminated,81400.0,5,,E1543
+E1576,Noah,Reyes,D08,Senior Systems Engineer,L3,False,Full-time,Dubai,2021-08-29,,,,Active,100100.0,3,2025-08-17,E1543
+E1577,Olga,Kowalczyk,D08,Associate Systems Engineer,L1,False,Full-time,Remote,2023-11-08,,,,Active,53500.0,3,,E1542
+E1578,Dina,Bianchi,D08,Systems Engineer,L2,False,Full-time,Dubai,2020-05-23,2025-02-14,Voluntary,Work-life balance,Terminated,72400.0,1,,E1542
+E1579,Zoe,Rahman,D08,Senior Systems Engineer,L3,False,Full-time,New York,2023-06-17,,,,Active,114600.0,3,2025-10-10,E1542
