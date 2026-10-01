@@ -9,6 +9,7 @@ consistent.
 
 from __future__ import annotations
 
+import textwrap
 from dataclasses import dataclass, field, fields
 
 import pandas as pd
@@ -36,6 +37,7 @@ INK_MUTED = "#6b7280"
 GRID = "#eceef2"
 AXIS = "#d6d9de"
 MAX_CATEGORIES = 30
+ACRONYMS = {"ytd", "mtd", "qtd", "fy", "id", "kpi", "sla", "roi", "csat", "nps"}
 MAX_SERIES = 8
 
 CURRENCY_PREFIX = {"USD": "$", "EUR": "€", "GBP": "£", "AED": "AED ", "SAR": "SAR ", "INR": "₹", "JPY": "¥"}
@@ -114,6 +116,7 @@ def pretty(name: str) -> str:
     elif words and words[-1].lower() in {"pct", "percent", "percentage"}:
         words.pop()
         unit = " (%)"
+    words = [w.upper() if w.lower() in ACRONYMS else w for w in words]
     text = " ".join(words) or str(name)
     return text[:1].upper() + text[1:] + unit
 
@@ -164,6 +167,8 @@ def _axis_format(values: pd.Series, value_format: str, currency: str) -> dict:
             return {"tickformat": ".0%", "hoverformat": ".1%"}
         return {"ticksuffix": "%", "tickformat": ",.0f" if big else ",.3~f", "hoverformat": ",.1f"}
     prefix = CURRENCY_PREFIX.get(currency.upper(), f"{currency} ") if value_format == "currency" and currency else ""
+    if prefix == "$":  # d3's currency symbol goes after the minus sign: -$1.2M rather than $-1.2M
+        return {"tickformat": "$~s" if big else "$,.4~f", "hoverformat": "$,.0f" if big else "$,.2f"}
     return {"tickprefix": prefix, "tickformat": "~s" if big else ",.4~f",
             "hoverformat": ",.0f" if big else ",.2f"}
 
@@ -202,6 +207,28 @@ def _tint(hex_color: str, amount: float) -> str:
     r, g, b = (int(h[i:i + 2], 16) for i in (0, 2, 4))
     r, g, b = (round(c + (255 - c) * amount) for c in (r, g, b))
     return f"#{r:02x}{g:02x}{b:02x}"
+
+
+def _wrap(text, width: int, max_lines: int = 2) -> str:
+    """Break a long category label onto several lines (Plotly uses <br>) so it never collides or gets clipped."""
+    text = str(text)
+    if len(text) <= width:
+        return text
+    lines = textwrap.wrap(text, width, break_long_words=False) or [text]
+    if len(lines) > max_lines:
+        lines = lines[:max_lines]
+        lines[-1] = lines[-1][: width - 1].rstrip() + "…"
+    return "<br>".join(lines)
+
+
+def _wrap_ticks(fig: go.Figure, axis: str, categories, width: int, max_lines: int = 2) -> bool:
+    """Wrap long category tick labels on `axis` ("x" or "y") without touching the data. Returns True if any wrapped."""
+    cats = [c for c in pd.unique(pd.Series(list(categories)).dropna())]
+    if not cats or all(len(str(c)) <= width for c in cats):
+        return False
+    update = fig.update_xaxes if axis == "x" else fig.update_yaxes
+    update(tickmode="array", tickvals=cats, ticktext=[_wrap(c, width, max_lines) for c in cats])
+    return True
 
 
 def color_map_for(values) -> dict[str, str]:
@@ -246,10 +273,11 @@ def _style(fig: go.Figure, height: int = 420, legend: bool = True) -> go.Figure:
         title=None,
     )
     fig.update_xaxes(showgrid=False, linecolor=AXIS, ticks="", tickfont=dict(color=INK_MUTED),
-                     title_font=dict(size=12, color=INK_MUTED), zeroline=False, automargin=True)
+                     title_font=dict(size=12, color=INK_MUTED), title_standoff=12, zeroline=False,
+                     automargin=True, ticklabelstandoff=4)
     fig.update_yaxes(gridcolor=GRID, gridwidth=1, linecolor=AXIS, showline=False, ticks="",
-                     tickfont=dict(color=INK_MUTED), title_font=dict(size=12, color=INK_MUTED),
-                     zeroline=True, zerolinecolor=AXIS, zerolinewidth=1, automargin=True)
+                     tickfont=dict(color=INK_MUTED), title_font=dict(size=12, color=INK_MUTED), title_standoff=12,
+                     zeroline=True, zerolinecolor=AXIS, zerolinewidth=1, automargin=True, ticklabelstandoff=8)
     fig.update_traces(selector=dict(type="bar"), marker_line_width=0)
     return fig
 
@@ -323,7 +351,9 @@ def build_chart(spec: ChartSpec, df: pd.DataFrame, currency: str = "USD",
             order = list(cats.sort_values(ascending=spec.sort == "asc").index)
         # Plotly Express lists categories top-to-bottom on a horizontal bar chart, so the
         # largest bar ends up on top without reversing.
-        horizontal = spec.orientation == "h" or (len(order) > 10 and not is_datetime(plot_df[x]))
+        longest = max((len(str(o)) for o in order), default=0)
+        horizontal = spec.orientation == "h" or (
+            not is_datetime(plot_df[x]) and (len(order) > 10 or (len(order) > 6 and longest > 16)))
         cmap = color_map_for(plot_df[color]) if color else None
         orders = {x: order} if not is_datetime(plot_df[x]) else {}
         if horizontal and color and spec.barmode == "group":
@@ -336,10 +366,14 @@ def build_chart(spec: ChartSpec, df: pd.DataFrame, currency: str = "USD",
             fig = px.bar(plot_df, y=x, x=value_col, orientation="h", **common)
             fig.update_xaxes(**_axis_format(plot_df[value_col], fmt, currency), showgrid=True, gridcolor=GRID)
             fig.update_yaxes(showgrid=False, title_text="" if len(order) > 3 else pretty(x))
-            height = max(320, min(900, 34 * len(order) * (1 if spec.barmode == "stack" or not color else 1.4) + 90))
+            wrapped = _wrap_ticks(fig, "y", order, 30)
+            row = 34 * (1 if spec.barmode == "stack" or not color else 1.4) * (1.2 if wrapped else 1)
+            height = max(320, min(900, row * len(order) + 90))
         else:
             fig = px.bar(plot_df, x=x, y=value_col, **common)
             fig.update_yaxes(**_axis_format(plot_df[value_col], fmt, currency))
+            if not is_datetime(plot_df[x]):
+                _wrap_ticks(fig, "x", order, 14, 3)
             height = 420
         if not color:
             fig.update_traces(marker_color=PALETTE[0])
@@ -409,6 +443,7 @@ def build_chart(spec: ChartSpec, df: pd.DataFrame, currency: str = "USD",
         fig = px.funnel(df, x=value_col, y=x, labels=labels)
         fig.update_traces(marker_color=PALETTE[0], textinfo="value+percent initial",
                           connector=dict(fillcolor="#eef3fb"))
+        _wrap_ticks(fig, "y", df[x], 24)
         return RenderedChart("plotly", title, spec, _style(fig, max(320, 60 * len(df) + 80), legend=False))
 
     # ---- waterfall ------------------------------------------------------------ #
@@ -427,6 +462,7 @@ def build_chart(spec: ChartSpec, df: pd.DataFrame, currency: str = "USD",
             connector=dict(line=dict(color=AXIS, width=1)),
         ))
         fig.update_yaxes(**_axis_format(steps[value_col], fmt, currency))
+        _wrap_ticks(fig, "x", xs, 10, 3)
         return RenderedChart("plotly", title, spec, _style(fig, 420, legend=False))
 
     # ---- scatter ----------------------------------------------------------- #
@@ -476,6 +512,8 @@ def build_chart(spec: ChartSpec, df: pd.DataFrame, currency: str = "USD",
         fig = px.box(df, x=x or None, y=ycol, labels=labels, points="outliers")
         fig.update_traces(marker_color=PALETTE[0], line_color=PALETTE[0], fillcolor="rgba(42,120,214,0.15)")
         fig.update_yaxes(**_axis_format(df[ycol], fmt, currency))
+        if x and not is_numeric(df[x]):
+            _wrap_ticks(fig, "x", df[x], 14, 3)
         return RenderedChart("plotly", title, spec, _style(fig, 420, legend=False))
 
     # ---- heatmap ---------------------------------------------------------------- #
@@ -502,6 +540,7 @@ def build_chart(spec: ChartSpec, df: pd.DataFrame, currency: str = "USD",
             fig.update_traces(text=text.values, texttemplate="%{text}", textfont=dict(size=11))
         fig.update_xaxes(side="bottom", showgrid=False)
         fig.update_yaxes(showgrid=False, zeroline=False)
+        _wrap_ticks(fig, "y", grid.index, 26)
         fig.update_layout(coloraxis_colorbar=dict(thickness=12, title=dict(text="")))
         return RenderedChart("plotly", title, spec, _style(fig, max(320, 30 * grid.shape[0] + 140), legend=False))
 
@@ -521,7 +560,10 @@ def build_chart(spec: ChartSpec, df: pd.DataFrame, currency: str = "USD",
         fig.update_traces(marker=dict(line=dict(color="white", width=2)), root_color="#f3f4f6",
                           texttemplate="%{label}<br>%{percentRoot:.1%}", textfont=dict(color=INK),
                           hovertemplate="%{label}<br>%{value:,.0f}<extra></extra>")
-        return RenderedChart("plotly", title, spec, _style(fig, 460, legend=False))
+        fig = _style(fig, 460, legend=False)
+        # Tiles too small for readable text stay blank (the label is still in the hover).
+        fig.update_layout(uniformtext=dict(minsize=10, mode="hide"), margin=dict(l=4, r=4, t=4, b=4))
+        return RenderedChart("plotly", title, spec, fig)
 
     raise ChartError(f"Unsupported chart type '{t}'.")
 
@@ -560,16 +602,21 @@ def _gantt(spec: ChartSpec, df: pd.DataFrame, r, title: str, reference_date: str
         fig.update_traces(marker_color=PALETTE[0])
     fig.update_yaxes(autorange="reversed", title_text="", showgrid=False)
     fig.update_xaxes(showgrid=True, gridcolor=GRID, tickformat="%b %Y")
+    fig.update_traces(marker_line_width=0)
+    show_legend = bool(color)
     if reference_date:
         ref = pd.Timestamp(reference_date)
         lo, hi = plot_df[start].min(), plot_df[end].max()
         if lo <= ref <= hi:
             fig.add_vline(x=ref, line_width=1.5, line_dash="dot", line_color=INK_MUTED)
-            fig.add_annotation(x=ref, y=1.0, yref="paper", text="As of " + ref.strftime("%d %b %Y"),
-                               showarrow=False, yanchor="bottom", font=dict(size=11, color=INK_MUTED))
-    height = max(300, min(1400, 30 * plot_df[label].nunique() + 120))
-    fig.update_traces(marker_line_width=0)
-    return RenderedChart("plotly", title, spec, _style(fig, height, legend=bool(color)))
+            # A legend entry (rather than a floating annotation) can never collide with the legend or the bars.
+            fig.add_trace(go.Scatter(x=[None], y=[None], mode="lines", hoverinfo="skip",
+                                     name="As of " + ref.strftime("%d %b %Y"),
+                                     line=dict(color=INK_MUTED, width=1.5, dash="dot")))
+            show_legend = True
+    wrapped = _wrap_ticks(fig, "y", plot_df[label], 32)
+    height = max(300, min(1400, (36 if wrapped else 30) * plot_df[label].nunique() + 120))
+    return RenderedChart("plotly", title, spec, _style(fig, height, legend=show_legend))
 
 
 # --------------------------------------------------------------------------- #

@@ -100,7 +100,13 @@ def render_details_tabs(msg: dict, key_prefix: str) -> None:
         trace = msg.get("trace") or []
         if trace:
             st.dataframe(pd.DataFrame([t.as_row() for t in trace]), hide_index=True, width="stretch",
-                         column_config={"Detail": st.column_config.TextColumn(width="large")})
+                         column_config={"Step": st.column_config.TextColumn(width=130),
+                                        "What happened": st.column_config.TextColumn(width=180),
+                                        "Status": st.column_config.TextColumn(width=60),
+                                        "Time (s)": st.column_config.NumberColumn(width=70),
+                                        "Tokens in": st.column_config.TextColumn(width=80),
+                                        "Tokens out": st.column_config.TextColumn(width=80),
+                                        "Detail": st.column_config.TextColumn(width="large")})
         if msg.get("chart_reasoning"):
             st.caption(f"**Visualization agent:** {md_escape(msg['chart_reasoning'])}")
         if msg.get("chart_problems"):

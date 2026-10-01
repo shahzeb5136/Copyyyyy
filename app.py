@@ -26,7 +26,7 @@ st.set_page_config(
     page_title=cfg.app_title,
     page_icon="📊",
     layout="wide",
-    initial_sidebar_state="expanded",
+    initial_sidebar_state="auto",
     menu_items={"About": f"**{cfg.app_title}** - {cfg.app_tagline}"},
 )
 inject_css()

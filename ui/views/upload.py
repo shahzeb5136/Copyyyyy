@@ -151,24 +151,24 @@ def _draft_editor(key: str, draft: dict, llm, llm_problem: str) -> None:
             num_rows="fixed",
             column_order=["original", "name", "type", "description", "sample"],
             column_config={
-                "original": st.column_config.TextColumn("CSV header", disabled=True, width="small"),
-                "name": st.column_config.TextColumn("Column name (SQL)", required=True, width="medium",
+                "original": st.column_config.TextColumn("CSV header", disabled=True, width=140),
+                "name": st.column_config.TextColumn("Column name (SQL)", required=True, width=160,
                                                     help="snake_case: lowercase letters, digits and underscores"),
-                "type": st.column_config.SelectboxColumn("Type", options=COLUMN_TYPES, required=True,
-                                                         width="small"),
+                "type": st.column_config.SelectboxColumn("Type", options=COLUMN_TYPES, required=True, width=96),
                 "description": st.column_config.TextColumn(
-                    "Definition (what does this column mean?)", width="large",
+                    "Definition (what does this column mean?)", width=340,
                     help="Business meaning, units/currency, allowed values, how it relates to other columns."),
-                "sample": st.column_config.TextColumn("Sample values", disabled=True, width="medium"),
+                "sample": st.column_config.TextColumn("Sample values", disabled=True, width=200),
             },
         )
         draft["live_columns"] = edited
         missing = int((edited["description"].fillna("").str.strip() == "").sum())
 
-        b1, b2 = st.columns([2, 3], vertical_alignment="center")
-        draft_clicked = b1.button("Draft definitions with AI", key=f"ai-{key}", icon=":material/auto_awesome:",
-                                  disabled=llm is None, help=llm_problem or "Fills in empty definitions for you to review.")
-        b2.caption(f"{missing} column definition(s) still empty." if missing else "All columns have definitions ✓")
+        with st.container(horizontal=True, vertical_alignment="center", gap="medium"):
+            draft_clicked = st.button("Draft definitions with AI", key=f"ai-{key}", icon=":material/auto_awesome:",
+                                      disabled=llm is None,
+                                      help=llm_problem or "Fills in empty definitions for you to review.")
+            st.caption(f"{missing} column definition(s) still empty." if missing else "All columns have definitions ✓")
         with st.expander("Preview rows"):
             st.dataframe(raw.head(20), hide_index=True, width="stretch")
 

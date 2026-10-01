@@ -43,9 +43,12 @@ def render() -> None:
                 for c in table.columns
             ])
             label("Column definitions")
-            st.table(dictionary, hide_index=True, border="horizontal")
+            with st.container(key=f"dictionary-{table.name}"):
+                st.table(dictionary, hide_index=True, border="horizontal")
             label("Preview")
-            st.dataframe(to_display_frame(table.df.head(200)), hide_index=True, width="stretch", height=300)
+            preview = table.df.head(200)
+            st.dataframe(to_display_frame(preview), hide_index=True, width="stretch",
+                         height=min(390, 38 + 35 * len(preview)))
             st.download_button(f"Download {table.name}.csv", table.df.to_csv(index=False).encode(),
                                file_name=f"{table.name}.csv", mime="text/csv", key=f"dl-{ds.id}-{table.name}",
                                icon=":material/download:")

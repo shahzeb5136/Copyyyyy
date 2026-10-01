@@ -8,28 +8,30 @@ from .. import state
 from ..styles import PIPELINE_STEPS, hero, label, steps
 
 FLOW = """
-digraph G {
-  rankdir=LR; bgcolor="transparent"; pad=0.1; nodesep=0.25; ranksep=0.35;
-  node [shape=box, style="rounded,filled", fontname="Helvetica", fontsize=17, color="#d6d9de",
-        fillcolor="#ffffff", fontcolor="#1f2937", margin="0.14,0.08", penwidth=1.4];
-  edge [color="#9aa3af", arrowsize=0.8, fontname="Helvetica", fontsize=13, fontcolor="#6b7280", penwidth=1.3];
-
-  q    [label="Question\\n(plain English)", fillcolor="#eaf1fd", color="#2a6fdb"];
-  dict [label="Data dictionary\\n(schema + definitions)", fillcolor="#f6f8fb"];
-  sql  [label="SQL agent\\n(LLM)", fillcolor="#eaf1fd", color="#2a6fdb"];
-  db   [label="Sandboxed SQL engine\\n(DuckDB over CSV)", fillcolor="#f6f8fb"];
-  ans  [label="Analyst agent\\n(LLM)", fillcolor="#eaf1fd", color="#2a6fdb"];
-  viz  [label="Visualization agent\\n(LLM)", fillcolor="#eaf1fd", color="#2a6fdb"];
-  plot [label="Chart renderer\\n(Python + Plotly)", fillcolor="#f6f8fb"];
-  out  [label="Answer + chart\\n+ SQL + data", fillcolor="#e7f6ec", color="#0f7b38"];
-
-  q -> sql; dict -> sql [style=dashed];
-  sql -> db [label="SELECT …"];
-  db -> sql [label="error → retry", style=dashed, constraint=false];
-  db -> ans [label="rows"]; db -> viz [label="result profile"];
-  viz -> plot [label="chart spec (JSON)"];
-  ans -> out; plot -> out;
-}
+<div class="ad-flow-wrap"><div class="ad-flow">
+  <div class="col">
+    <div class="node">Question<small>plain English</small></div>
+    <div class="node input">Data dictionary<small>schema + definitions</small></div>
+  </div>
+  <div class="arrow">→</div>
+  <div class="col">
+    <div class="node llm">SQL agent<small>LLM · writes one SELECT</small></div>
+    <div class="loop">↻ repairs its SQL if the database rejects it</div>
+  </div>
+  <div class="arrow">→</div>
+  <div class="col"><div class="node">Sandboxed SQL engine<small>DuckDB over CSV</small></div></div>
+  <div class="arrow">→</div>
+  <div class="col">
+    <div class="node llm">Analyst agent<small>LLM · reads the rows, writes the answer</small></div>
+    <div class="lane">
+      <div class="node llm">Visualization agent<small>LLM · chart spec (JSON)</small></div>
+      <div class="arrow">→</div>
+      <div class="node">Chart renderer<small>Python + Plotly</small></div>
+    </div>
+  </div>
+  <div class="arrow">→</div>
+  <div class="col"><div class="node out">Answer + chart<small>+ SQL + data</small></div></div>
+</div></div>
 """
 
 
@@ -40,7 +42,7 @@ def render() -> None:
          "run it, explain the result and design a chart for it.")
     steps(PIPELINE_STEPS)
 
-    st.graphviz_chart(FLOW, width="stretch")
+    st.markdown("".join(line.strip() for line in FLOW.splitlines()), unsafe_allow_html=True)
 
     c1, c2 = st.columns(2, gap="large")
     with c1:
