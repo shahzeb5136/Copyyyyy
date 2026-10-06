@@ -78,3 +78,18 @@ def test_password_gate(monkeypatch):
     at.text_input[1].input("s3cret")
     at.button[0].click().run()
     assert any(b.key and str(b.key).startswith("example-") for b in at.button)
+
+
+def test_report_can_be_created_from_the_chat():
+    at = _app()
+    assert not any(b.key and str(b.key).startswith("report-make-") for b in at.button)  # nothing to report yet
+    next(b for b in at.button if b.key and b.key.startswith("example-")).click().run()
+    make = next(b for b in at.button if b.key and str(b.key).startswith("report-make-"))
+    assert make.label == "Create report"
+    make.click().run()
+    assert not at.exception, [e.value for e in at.exception]
+    assert at.get("download_button"), "download button should appear once the report is ready"
+    assert not any(b.key and str(b.key).startswith("report-make-") for b in at.button)
+    # a new question makes the report stale and offers an update
+    at.chat_input[0].set_value(at.session_state["chats"]["finance"][0]["content"]).run()
+    assert any(b.label == "Update report" for b in at.button)

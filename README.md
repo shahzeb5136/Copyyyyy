@@ -43,6 +43,7 @@ flowchart LR
 
 - **Bring your own data** — upload CSVs (one table each). The app sniffs delimiters and encodings, infers types, suggests snake_case column names, and asks you to **define every column**. A "Draft definitions with AI" button fills in a first draft for you to review. A sample CSV is included for visitors who don't have one handy.
 - **Conversation memory** — follow-ups like "now split that by quarter" work.
+- **Session reports** — after any number of questions, **Create report** (just above the chat box) compiles the conversation so far into a downloadable, self-contained HTML report: an AI-written title, executive summary, key findings and per-question commentary, plus every answer, chart, result table and SQL query in the order they were asked. Works for the demo datasets and uploaded CSVs; print it to PDF from the browser.
 - **Anthropic Claude or OpenAI** — switchable in the sidebar; both use structured outputs (JSON schema) so every agent response is machine-checkable.
 - **Login** — none, simple username/password, or Google/Microsoft/Okta single sign-on via Streamlit's native `st.login`.
 - **Public-demo guardrails** — per-session question limit, query timeout, row cap, and a locked-down SQL sandbox (see [Security](#security--guardrails)).
@@ -143,6 +144,7 @@ core/                      # framework-agnostic logic (no Streamlit UI code)
   llm.py                   # Anthropic / OpenAI adapters (structured outputs + streaming)
   prompts.py               # agent prompts and JSON schemas
   pipeline.py              # SQL agent (+ self-repair), analyst agent, visualization agent
+  report.py                # session -> downloadable HTML report (report agent + renderer)
   charts.py                # chart spec → Plotly figures, colour-blind-safe palette
   offline_llm.py           # replay "LLM" for offline mode and tests
   config.py                # settings from secrets / env

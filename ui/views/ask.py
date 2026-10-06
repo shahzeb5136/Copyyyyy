@@ -9,7 +9,7 @@ from concurrent.futures import ThreadPoolExecutor
 
 import streamlit as st
 
-from core import pipeline
+from core import pipeline, report
 from core.catalog import Dataset
 from core.config import ANTHROPIC_MODELS, OPENAI_MODELS
 from core.llm import BaseLLM, LLMError
@@ -96,10 +96,9 @@ def render() -> None:
             with st.chat_message("assistant", avatar=ASSISTANT_AVATAR):
                 components.render_assistant_message(msg, ds)
 
-    if question:
-        if llm is None or limit_reached:
-            st.toast("Can't ask right now - see the message above.", icon="⚠️")
-            return
+    if question and (llm is None or limit_reached):
+        st.toast("Can't ask right now - see the message above.", icon="⚠️")
+    elif question:
         with st.chat_message("user", avatar=USER_AVATAR):
             st.markdown(md_escape(question))
         with st.chat_message("assistant", avatar=ASSISTANT_AVATAR):
@@ -108,6 +107,52 @@ def render() -> None:
         messages.append(msg)
         if msg.get("kind") != "error":  # failed calls (bad key, outage) don't use up the quota
             state.increment_questions()
+
+    report_bar(ds, messages, llm)
+
+
+def report_bar(ds: Dataset, messages: list[dict], llm: BaseLLM | None) -> None:
+    """Sits just above the chat input: turn the conversation so far into a downloadable report."""
+    items = report.collect_items(messages)
+    answered = sum(it.answered for it in items)
+    if not answered:
+        return
+    current = report.fingerprint(items, ds)
+    cached = state.reports().get(ds.id)
+    plural = "s" if answered != 1 else ""
+
+    with st.container(key="report-bar", border=True):
+        text_col, action_col = st.columns([3, 1.2], vertical_alignment="center")
+        if cached is not None and cached.fingerprint == current:
+            text_col.markdown(f"**:material/description: {md_escape(cached.title)}**")
+            covers = "your answered question" if answered == 1 else f"all {answered} answered questions"
+            text_col.caption(f"Report covers {covers} · HTML file - opens in any browser; use the browser's "
+                             "Print to save it as PDF.")
+            action_col.download_button("Download report", data=cached.html.encode("utf-8"),
+                                       file_name=cached.filename, mime="text/html", type="primary",
+                                       icon=":material/download:", width="stretch", key=f"report-dl-{ds.id}")
+            return
+
+        if cached is None:
+            text_col.markdown("**:material/description: Turn this conversation into a report**")
+            text_col.caption(f"Compiles your {answered} answered question{plural} - answers, charts, data and SQL - "
+                             "into one downloadable report with an executive summary and key findings.")
+            button_label = "Create report"
+        else:
+            text_col.markdown("**:material/update: Your report is out of date**")
+            text_col.caption(f"It covers {cached.answered_count} answered question(s); you now have {answered}. "
+                             "Update it to include the latest answers.")
+            button_label = "Update report"
+        if action_col.button(button_label, type="primary", icon=":material/summarize:", width="stretch",
+                             key=f"report-make-{ds.id}"):
+            with text_col, st.spinner("📝 Report agent is compiling your report…"):
+                try:
+                    state.reports()[ds.id] = report.build_report(messages, ds, llm, _model_label())
+                except Exception as exc:  # noqa: BLE001 - never crash the page
+                    log.exception("Report generation failed")
+                    st.error(f"Couldn't create the report: {exc}", icon="⚠️")
+                    return
+            st.rerun()
 
 
 def answer_question(question: str, ds: Dataset, llm: BaseLLM) -> dict:

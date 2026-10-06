@@ -10,6 +10,7 @@ from core import catalog
 from core.config import ANTHROPIC_MODELS, DEFAULT_MODEL, OPENAI_MODELS, Settings, load_settings
 from core.database import QueryEngine
 from core.llm import BaseLLM, LLMError, make_llm
+from core.report import Report
 
 log = logging.getLogger("askdata")
 
@@ -91,12 +92,14 @@ def add_uploaded_dataset(ds: catalog.Dataset) -> None:
     uploaded_datasets()[ds.id] = ds
     chats().pop(ds.id, None)
     histories().pop(ds.id, None)
+    reports().pop(ds.id, None)
 
 
 def remove_uploaded_dataset(dataset_id: str) -> None:
     uploaded_datasets().pop(dataset_id, None)
     chats().pop(dataset_id, None)
     histories().pop(dataset_id, None)
+    reports().pop(dataset_id, None)
     engines = st.session_state.get("_upload_engines", {})
     for key in [k for k in engines if k[0] == dataset_id]:
         engines.pop(key).close()
@@ -126,6 +129,12 @@ def history_for(dataset_id: str) -> list[dict]:
 def clear_chat(dataset_id: str) -> None:
     chats()[dataset_id] = []
     histories()[dataset_id] = []
+    reports().pop(dataset_id, None)
+
+
+def reports() -> dict[str, Report]:
+    """The latest generated report per dataset (reused until the conversation changes)."""
+    return st.session_state.setdefault("reports", {})
 
 
 def questions_used() -> int:
