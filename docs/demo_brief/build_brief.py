@@ -179,7 +179,12 @@ def build_html() -> str:
     <p class="lead">One click. The AI writes the SQL, our database runs it, then the AI explains the result in plain
     English and picks a chart. The <b>SQL query</b> tab under the chart shows exactly what ran, so finance can check
     the logic. The result rows can also be downloaded as a CSV.</p>
-    {ans_block}"""
+    {ans_block}
+    <p class="note"><b>Note on this screenshot:</b> it was captured in the app's replay mode, because the AI service
+    could not be reached from where this brief was produced. The SQL is the stored query for this sample question, but
+    it ran live against the database, and the chart and figures are drawn from the real result. With the AI connected,
+    the SQL is written on the fly and the analyst agent writes a short plain-English summary at the top, where the
+    “offline demo mode” notice is now.</p>"""
 
     p4 = f"""
     <h2>4 · Architecture: how the demo works</h2>
@@ -309,7 +314,7 @@ figure { margin: 0; }
             font-weight: 600; margin: 1mm 0 3.5mm; }
 .question span { display: block; font-size: 7.5pt; letter-spacing: .08em; text-transform: uppercase;
                  color: #9db8ec; font-weight: 600; margin-bottom: .5mm; }
-.shot.answer img { max-height: 205mm; object-fit: contain; object-position: top; }
+.shot.answer img { max-height: 190mm; object-fit: contain; object-position: top; }
 .placeholder { border: 2px dashed #d6336c; border-radius: 8px; height: 150mm; display: flex; align-items: center;
                justify-content: center; text-align: center; padding: 0 20mm; color: #9f1239; background: #fff5f7; }
 .flow { display: flex; align-items: stretch; gap: 1.5mm; margin: 2mm 0 1mm; }
