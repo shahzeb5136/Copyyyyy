@@ -1,0 +1,32 @@
+{
+ "nav_catalog": {
+  "x": 417.75,
+  "y": 21,
+  "width": 83.296875,
+  "height": 17
+ },
+ "nav_upload": {
+  "x": 546.8125,
+  "y": 21,
+  "width": 132.984375,
+  "height": 17
+ },
+ "dataset_select": {
+  "x": 30,
+  "y": 179.625,
+  "width": 240,
+  "height": 40
+ },
+ "examples": {
+  "x": 380,
+  "y": 422.265625,
+  "width": 980,
+  "height": 180.78125
+ },
+ "chat_input": {
+  "x": 380,
+  "y": 786,
+  "width": 980,
+  "height": 58
+ }
+}
