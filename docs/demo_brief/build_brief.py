@@ -22,10 +22,14 @@ HERE = Path(__file__).parent
 ASSETS = HERE / "assets"
 OUT_PDF = HERE / "Ask_Your_Data_Demo_Brief.pdf"
 QUESTION = "Which expense categories are most over budget in 2026 YTD?"
+# Pixel rows of the replay-mode banner in assets/answer.png; set to None for a screenshot taken with the AI live.
+ANSWER_CUT: tuple[int, int] | None = (125, 270)
 
 
-def img(name: str, crop: tuple[int, int, int, int] | None = None) -> str | None:
-    """PNG as a data URI, optionally cropped to (left, top, right, bottom) in screenshot CSS pixels."""
+def img(name: str, crop: tuple[int, int, int, int] | None = None,
+        cut: tuple[int, int] | None = None) -> str | None:
+    """PNG as a data URI. `crop` = (left, top, right, bottom) in screenshot CSS pixels (1440px-wide viewport);
+    `cut` = (top, bottom) band of image pixels to remove."""
     path = ASSETS / name
     if not path.exists():
         return None
@@ -35,6 +39,14 @@ def img(name: str, crop: tuple[int, int, int, int] | None = None) -> str | None:
         scale = im.width / 1440  # screenshots are taken at a 1440px-wide viewport
         buf = io.BytesIO()
         im.crop(tuple(round(c * scale) for c in crop)).save(buf, "PNG")
+        data = buf.getvalue()
+    if cut:
+        im = Image.open(io.BytesIO(data))
+        out = Image.new(im.mode, (im.width, im.height - (cut[1] - cut[0])), "white")
+        out.paste(im.crop((0, 0, im.width, cut[0])), (0, 0))
+        out.paste(im.crop((0, cut[1], im.width, im.height)), (0, cut[0]))
+        buf = io.BytesIO()
+        out.save(buf, "PNG")
         data = buf.getvalue()
     return "data:image/png;base64," + base64.b64encode(data).decode()
 
@@ -102,8 +114,8 @@ AZURE_SVG = """
   <text x="420" y="148" class="d-s">Streamlit · Microsoft sign-in</text>
   <!-- llm -->
   <rect x="548" y="96" width="132" height="72" rx="8" class="d-box"/>
-  <text x="614" y="126" class="d-t">Azure OpenAI</text>
-  <text x="614" y="144" class="d-s">LLM, stays in tenant</text>
+  <text x="614" y="126" class="d-t">AI model</text>
+  <text x="614" y="144" class="d-s">our own endpoint</text>
   <line x1="510" y1="132" x2="546" y2="132" class="d-arr" marker-end="url(#a2)"/>
   <!-- postgres -->
   <rect x="165" y="222" width="345" height="72" rx="10" class="d-box d-db"/>
@@ -126,7 +138,7 @@ def page_shell(body: str, n: int, total: int) -> str:
 
 
 def build_html() -> str:
-    landing, catalog, answer = img("landing.png"), img("catalog.png", crop=(300, 0, 1380, 880)), img("answer.png")
+    landing, catalog, answer = img("landing.png"), img("catalog.png", crop=(300, 0, 1380, 880)), img("answer.png", cut=ANSWER_CUT)
     total = 5
 
     p1 = f"""
@@ -180,11 +192,10 @@ def build_html() -> str:
     English and picks a chart. The <b>SQL query</b> tab under the chart shows exactly what ran, so finance can check
     the logic. The result rows can also be downloaded as a CSV.</p>
     {ans_block}
-    <p class="note"><b>Note on this screenshot:</b> it was captured in the app's replay mode, because the AI service
-    could not be reached from where this brief was produced. The SQL is the stored query for this sample question, but
-    it ran live against the database, and the chart and figures are drawn from the real result. With the AI connected,
-    the SQL is written on the fly and the analyst agent writes a short plain-English summary at the top, where the
-    “offline demo mode” notice is now.</p>"""
+    <p class="note"><b>Note on this screenshot:</b> it was captured in the app's replay mode. The SQL is the stored
+    query for this sample question, but it ran live against the database, and the chart and figures are drawn from the
+    real result. In normal use the AI writes the SQL on the fly and adds a short plain-English summary above the
+    chart.</p>"""
 
     p4 = f"""
     <h2>4 · Architecture: how the demo works</h2>
@@ -204,7 +215,7 @@ def build_html() -> str:
         <h3>Building blocks</h3>
         <ul>
           <li><b>Front end:</b> Streamlit, a Python web-app framework. One codebase, no separate UI team needed.</li>
-          <li><b>AI:</b> any large language model via API (OpenAI or Anthropic today; Azure OpenAI in production).</li>
+          <li><b>AI:</b> works with any large language model, so it can run on our own.</li>
           <li><b>Database:</b> today an in-memory engine (DuckDB) over CSV files of <b>synthetic</b> data.
             All database access goes through one module, which is the piece that changes to point at PostgreSQL.</li>
           <li><b>Data catalog:</b> one simple file per dataset with table/column descriptions, business rules and
@@ -221,8 +232,6 @@ def build_html() -> str:
             it.</li>
           <li><b>Limits:</b> query timeout, row cap and a per-user question limit.</li>
           <li><b>Transparent:</b> every answer shows its SQL, raw data and a step-by-step trace.</li>
-          <li><b>Data sent to the AI:</b> column names, a few sample values and query results. That is why
-            production should use <b>Azure OpenAI inside our own tenant</b>.</li>
         </ul>
       </div>
     </div>
@@ -263,7 +272,7 @@ def build_html() -> str:
       <p><b>This is a demo only.</b> It runs on synthetic data and has not been connected to SAP or any company
       system. It was built to test whether the idea is worth pursuing, not as a finished product.</p>
       <p><b>I'd value your opinion:</b> is this worth a small Finance pilot (option A)? Is there a department you
-      would rather start with? Are there any concerns about sending query results to Azure OpenAI?</p>
+      would rather start with?</p>
     </div>"""
 
     pages = [p1, p2, p3, p4, p5]
