@@ -69,6 +69,13 @@ open http://localhost:8000.
 
 ---
 
+### Branding
+
+Name, logo, colours, fonts and the texts on the home page are all in one file, `frontend/src/branding.ts`;
+`frontend/BRANDING.md` explains what to change and how to verify. Nothing else needs editing for a re-brand.
+
+---
+
 ## 3. Configure the LLM (you, 10 min)
 
 The app talks to the model through one module (`backend/app/llm_client.py`); the choice is pure configuration.

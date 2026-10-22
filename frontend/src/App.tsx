@@ -1,6 +1,7 @@
 import { useCallback, useEffect, useState } from "react";
 import { api, runJob, type AskResult, type DashboardPayload, type InferResult } from "./api/client";
 import type { AskHistoryItem, ChatTurn, CompatibilityReport, DashboardResult, DashboardSpec, DatasetInfo, SemanticModel } from "./api/types";
+import { branding } from "./branding";
 import { Banner, Progress } from "./components/Banner";
 import Stepper from "./components/Stepper";
 import { downloadSpec } from "./download";
@@ -127,7 +128,8 @@ export default function App() {
     <div className="app">
       <header className="topbar">
         <button className="brand" onClick={reset} aria-label="Home">
-          <span className="brand-mark" aria-hidden />Dashboard Builder
+          {branding.logo ? <img src={branding.logo} alt="" style={{ height: branding.logoHeight }} /> : <span className="brand-mark" aria-hidden />}
+          {branding.appName}
         </button>
         <Stepper current={STAGE_INDEX[stage]} />
         <div className="topbar-right muted small">
@@ -151,7 +153,13 @@ export default function App() {
             onReset={reset} askItems={askItems} onAsk={handleAsk} onAddToDashboard={handleAddToDashboard} disabled={!!busy} llmConfigured={llmConfigured} />
         )}
       </main>
-      <footer className="footer muted small">Only column summaries and sample values are sent to the AI model. Keep your downloaded dashboard file - it is the only copy.</footer>
+      <footer className="footer muted small">
+        {branding.organization && (
+          <span>{branding.organizationUrl ? <a href={branding.organizationUrl} target="_blank" rel="noreferrer">{branding.organization}</a> : branding.organization} · </span>
+        )}
+        {branding.footerNote}
+        {branding.supportUrl && <span> · <a href={branding.supportUrl}>{branding.supportLabel}</a></span>}
+      </footer>
     </div>
   );
 }

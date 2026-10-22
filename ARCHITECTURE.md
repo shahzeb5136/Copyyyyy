@@ -171,6 +171,7 @@ frontend/src/
   api/          # client.ts (typed fetch + job polling), openapi.json + types.gen.ts (generated), types.ts
   pages/        # HomePage (create | rebuild), DataPage, ModelPage (review table + chat), DashboardPage, AskPanel
   components/   # FileDrop, Stepper, ChatPanel, WidgetCard, PlotlyChart (lazy-loaded), DataTable, Markdown, Banner
+  branding.ts   # the ONE file for look-and-feel: name, logo, colours, font, texts, chart palette (see frontend/BRANDING.md)
   App.tsx       # the one-page state machine: home → data → model → dashboard
 ```
 

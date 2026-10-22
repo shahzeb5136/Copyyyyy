@@ -67,6 +67,7 @@ docker run --rm -p 8000:8000 -e LLM_PROVIDER=foundry -e LLM_API_KEY=... \
 | [docs/DEPLOYMENT_GUIDE.md](docs/DEPLOYMENT_GUIDE.md) | Step-by-step: Azure DevOps repo, pipeline, Azure resources, Entra ID, LLM key, operations - with a checklist for the DevOps engineer |
 | [docs/USER_GUIDE.md](docs/USER_GUIDE.md) | The app screen by screen, what the AI sees, tips |
 | [docs/SPEC_FORMAT.md](docs/SPEC_FORMAT.md) | The dashboard file format and the transformation language |
+| [frontend/BRANDING.md](frontend/BRANDING.md) | Re-branding (name, logo, colours, texts): the one file to edit and how to verify |
 | [infra/README.md](infra/README.md) | What the Bicep template creates |
 
 ## Repository layout

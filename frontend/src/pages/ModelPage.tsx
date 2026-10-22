@@ -1,5 +1,6 @@
 import type { ChatTurn, ColumnSemantics, DatasetInfo, SemanticModel } from "../api/types";
 import { AGGREGATIONS, DATA_TYPES, ROLES } from "../api/types";
+import { branding } from "../branding";
 import ChatPanel from "../components/ChatPanel";
 
 type Props = {
@@ -138,7 +139,7 @@ export default function ModelPage({ dataset, model, setModel, intro, chat, onSen
             onSend={onSend}
             disabled={disabled}
             placeholder={llmConfigured ? "e.g. 'Budget is in thousands of AED', 'Only closed periods count', 'cost_center is the department'…" : "AI is not configured; notes are saved as business rules."}
-            suggestions={llmConfigured ? ["Amounts are in thousands", "Ignore the ID columns in charts", "The main date column is the invoice date"] : []}
+            suggestions={llmConfigured ? branding.modelChatSuggestions : []}
           />
         </aside>
       </div>
