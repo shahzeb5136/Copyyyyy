@@ -1,9 +1,0 @@
-department_id,department_name,division,department_head,cost_center
-D01,Sales,Go-to-Market,Maya Okafor,CC-1100
-D02,Marketing,Go-to-Market,Lucas Brennan,CC-1200
-D03,Customer Success,Go-to-Market,Priya Raman,CC-1300
-D04,Engineering,Product & Engineering,Daniel Kowalski,CC-2100
-D05,Product Management,Product & Engineering,Sofia Marquez,CC-2200
-D06,Finance,General & Administrative,Omar Haddad,CC-3100
-D07,People & HR,General & Administrative,Hannah Lindqvist,CC-3200
-D08,IT & Operations,General & Administrative,Kenji Watanabe,CC-3300

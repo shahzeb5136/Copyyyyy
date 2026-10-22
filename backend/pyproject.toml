@@ -1,0 +1,19 @@
+[project]
+name = "dashboard-builder-backend"
+version = "1.0.0"
+description = "LLM-assisted Excel/CSV dashboard builder - FastAPI back end"
+requires-python = ">=3.11"
+
+[tool.ruff]
+line-length = 120
+target-version = "py311"
+extend-exclude = ["static"]
+
+[tool.ruff.lint]
+select = ["E", "F", "W", "I", "B", "UP"]
+ignore = ["E501", "B008", "B905"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+filterwarnings = ["ignore::DeprecationWarning", "ignore::FutureWarning"]
+addopts = "-q"

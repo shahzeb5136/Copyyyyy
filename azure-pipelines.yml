@@ -1,0 +1,130 @@
+# Azure Pipelines: test -> build image -> push to ACR -> deploy to Azure Container Apps.
+#
+# One-time setup (see docs/DEPLOYMENT_GUIDE.md, section 6):
+#   * Variable group "dashboard-builder" with:
+#       AZURE_SERVICE_CONNECTION   name of the Azure Resource Manager service connection
+#       ACR_SERVICE_CONNECTION     name of the Docker Registry service connection to ACR
+#       ACR_LOGIN_SERVER           e.g. myregistry.azurecr.io
+#       RESOURCE_GROUP             e.g. rg-dashboard-builder-prod
+#       CONTAINER_APP_NAME         e.g. ca-dashboard-builder
+#   * An environment called "production" (optionally with an approval check).
+
+trigger:
+  branches:
+    include: [main]
+
+pr:
+  branches:
+    include: [main]
+
+variables:
+  - group: dashboard-builder
+  - name: imageName
+    value: dashboard-builder
+  - name: imageTag
+    value: $(Build.BuildId)-$(Build.SourceVersion)
+  - name: isMain
+    value: $[eq(variables['Build.SourceBranch'], 'refs/heads/main')]
+
+stages:
+  - stage: Test
+    displayName: Build & test
+    jobs:
+      - job: Backend
+        displayName: Back end (ruff + pytest)
+        pool: { vmImage: ubuntu-latest }
+        steps:
+          - task: UsePythonVersion@0
+            inputs: { versionSpec: "3.12" }
+          - script: |
+              python -m pip install --upgrade pip
+              pip install -r requirements.txt -r requirements-dev.txt
+            workingDirectory: backend
+            displayName: Install
+          - script: ruff check .
+            workingDirectory: backend
+            displayName: Lint
+          - script: python -m pytest -q --junitxml=$(Build.ArtifactStagingDirectory)/pytest.xml
+            workingDirectory: backend
+            displayName: Tests (includes spec replay / determinism tests)
+            env: { LLM_PROVIDER: mock }
+          - task: PublishTestResults@2
+            condition: always()
+            inputs: { testResultsFiles: "$(Build.ArtifactStagingDirectory)/pytest.xml", testRunTitle: Backend }
+
+      - job: Frontend
+        displayName: Front end (types + lint + build)
+        pool: { vmImage: ubuntu-latest }
+        steps:
+          - task: NodeTool@0
+            inputs: { versionSpec: "22.x" }
+          - task: UsePythonVersion@0
+            inputs: { versionSpec: "3.12" }
+          - script: npm ci --no-audit --no-fund
+            workingDirectory: frontend
+            displayName: npm ci
+          - script: |
+              pip install -r requirements.txt
+              python scripts/export_openapi.py ../frontend/src/api/openapi.json
+            workingDirectory: backend
+            displayName: Export OpenAPI from the back end
+          - script: |
+              npm run gen:types
+              git diff --exit-code -- src/api/openapi.json src/api/types.gen.ts || (echo "##vso[task.logissue type=error]Generated API types are out of date. Run: cd backend && python scripts/export_openapi.py ../frontend/src/api/openapi.json && cd ../frontend && npm run gen:types" && exit 1)
+            workingDirectory: frontend
+            displayName: Check generated types are committed
+          - script: npm run lint
+            workingDirectory: frontend
+            displayName: Lint
+          - script: npm run build
+            workingDirectory: frontend
+            displayName: Type-check + build
+
+  - stage: Image
+    displayName: Build & push image
+    dependsOn: Test
+    condition: and(succeeded(), ne(variables['Build.Reason'], 'PullRequest'))
+    jobs:
+      - job: Docker
+        pool: { vmImage: ubuntu-latest }
+        steps:
+          - task: Docker@2
+            displayName: Build and push to ACR
+            inputs:
+              command: buildAndPush
+              containerRegistry: $(ACR_SERVICE_CONNECTION)
+              repository: $(imageName)
+              dockerfile: Dockerfile
+              buildContext: .
+              tags: |
+                $(imageTag)
+                latest
+
+  - stage: Deploy
+    displayName: Deploy to Container Apps
+    dependsOn: Image
+    condition: and(succeeded(), eq(variables.isMain, 'true'))
+    jobs:
+      - deployment: Production
+        environment: production
+        pool: { vmImage: ubuntu-latest }
+        strategy:
+          runOnce:
+            deploy:
+              steps:
+                - task: AzureCLI@2
+                  displayName: Update the Container App revision
+                  inputs:
+                    azureSubscription: $(AZURE_SERVICE_CONNECTION)
+                    scriptType: bash
+                    scriptLocation: inlineScript
+                    inlineScript: |
+                      set -euo pipefail
+                      az containerapp update \
+                        --name "$(CONTAINER_APP_NAME)" \
+                        --resource-group "$(RESOURCE_GROUP)" \
+                        --image "$(ACR_LOGIN_SERVER)/$(imageName):$(imageTag)" \
+                        --set-env-vars APP_VERSION="$(Build.BuildNumber)"
+                      echo "Deployed $(ACR_LOGIN_SERVER)/$(imageName):$(imageTag)"
+                      az containerapp show --name "$(CONTAINER_APP_NAME)" --resource-group "$(RESOURCE_GROUP)" \
+                        --query "properties.configuration.ingress.fqdn" -o tsv

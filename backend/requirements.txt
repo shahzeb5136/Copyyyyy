@@ -1,0 +1,20 @@
+# Web framework
+fastapi>=0.115,<1
+uvicorn[standard]>=0.30,<1
+python-multipart>=0.0.9
+pydantic>=2.7,<3
+pydantic-settings>=2.3,<3
+
+# Data processing
+pandas>=2.2,<4
+numpy>=1.26
+openpyxl>=3.1
+plotly>=5.22
+
+# LLM providers (only the configured one is used at runtime)
+anthropic>=1.0
+openai>=1.40
+
+# Azure (optional - only used when STORAGE_MODE=blob)
+azure-storage-blob>=12.20
+azure-identity>=1.17
